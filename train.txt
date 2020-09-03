@@ -1,0 +1,3632 @@
+__label__medical còn thường_xuyên vẫn trẻ đau_lưng mặc_dù
+__label__electricity thợ điện sửa
+__label__electronic Phát nhạc amply lủng
+__label__electronic tự_động tivi tắt
+__label__electricity thợ sửa hư tìm điện
+__label__medical hay thời_tiết thay_đổi đau_đầu mỗi
+__label__electricity đèn nhà tôi chập chờn, thiết tự ngắt, khắc phục
+__label__medical ghẻ phỏng sao để chữa khỏi vậy
+__label__electricity điện nhà tôi hỏng sửa
+__label__water lắp_đặt, thay van vòi_nước, bộ xịt nhà_vệ_sinh, vòi_nước nóng lạnh, dây cấp thoát thiết vệ sinh,…
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__medical vẫn còn trẻ mặc_dù thường_xuyên đau lưng
+__label__electricity thợ sửa điện hư tìm
+__label__medical mặc_dù vẫn còn trẻ đau_lưng thường_xuyên
+__label__electricity sửa mạch chập điện
+__label__water sửa_chữa ống ngộp hơi, mất nước, đường ống nghẹt cát, rong rêu gây mất nước, yếu.
+__label__water chúng_tôi ống trong tìm thợ sửa
+__label__electricity cầu chì nhà tôi tự động ngắt sự cố điện, cung cấp giải pháp
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__medical khỏe tôi về y_tế tôi cảm thấy trợ giúp
+__label__electricity pha tủ tìm sửa điện
+__label__electricity sửa điện hỏng nhà tôi
+__label__medical y_tế tôi về đang vấn_đề sức_khỏe
+__label__electronic trong máy_vi_tính hư sửa
+__label__electronic khởi_động máy_vi_tính
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity Điện nhà tôi bỗng dung tắt biết lý do, tìm hiểu và khắc_phục
+__label__electricity chập sửa mạch điện
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity hư thợ_điện tìm sửa
+__label__water trợ_giúp thông cấp đường ống cấp
+__label__electricity sửa tủ điện pha tìm
+__label__electricity sửa mạch điện hỏng
+__label__medical bác_sĩ tôi ốm
+__label__water đường_ống chảy rò_rỉ chậm
+__label__electricity đèn nhà tôi hoạt động ổn định
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__electricity sửa điện hư tìm thợ
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa tôi điện tôi hư
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electronic tủ_lạnh đèn
+__label__electronic Âm_thanh máy_giặt còn như bình thường
+__label__water sửa_chữa vòi_sen tắm
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, khả năng khắc phục
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity công tơ cháy điện
+__label__electricity sửa mạch điện hỏng
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__water thông cấp đường ống cấp trong buổi tối
+__label__medical thường_xuyên trẻ đau_lưng mặc_dù vẫn còn
+__label__water vấn_đề tìm thợ sửa ống_nước trình độ đường_ống gặp
+__label__water thợ sửa ống trong chúng_tôi tìm
+__label__electronic Máy_giặt hoạt_động như mọi
+__label__water sửa chữa đường ống hỏng van
+__label__electronic máy_vi_tính khởi_động
+__label__medical ốm bác_sĩ tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic Điều_hòa còn lạnh nữa
+__label__electricity điện tôi hư tôi sửa
+__label__electricity tìm pha sửa tủ điện
+__label__medical còn trẻ vẫn thường_xuyên đau_lưng mặc_dù
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__electricity mạch điện chập sửa
+__label__water lắp_đặt thiết vệ sinh: bồn cầu, chậu rửa, lavabo, bồn tiểu….
+__label__water đường_ống rò_rỉ chậm chảy
+__label__electricity công_điện cháy tơ
+__label__water thi_công, cải_tạo hệ_thống cấp thoát hộ gia đình, cơ quan, công_ty
+__label__electronic khởi_động máy_vi_tính
+__label__electronic bật nút lên nồi cơm_điện hư
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electricity sửa mạch chập điện
+__label__water rò_rỉ đường_ống chảy chậm
+__label__electricity tìm sửa tủ điện pha
+__label__electronic phát quạt chạy ra tiếng rất to
+__label__water chảy đường_ống chậm rò_rỉ
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity Đồng hồ điện nhà tôi hư, lắp đặt bộ thiết_bị mới
+__label__electricity sửa tìm thợ_điện hư
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical nhà tôi bác_sĩ tại
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electricity sửa điện nhà tôi hỏng
+__label__water tìm thợ sửa ống_nước trong chúng_tôi
+__label__electricity sửa điện tôi nhà hỏng
+__label__electronic Máy hút bụi kêu tiếng_ồn hơn mọi
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity cháy công tơ điện
+__label__medical nôn_mửa kiểm soát, tôi nghĩ mình ngộ_độc_thực_phẩm
+__label__electricity hỏng sửa điện nhà tôi
+__label__water sửa chữa đường ống hư van
+__label__water sửa_chữa vòi_sen tắm
+__label__electricity tôi điện nhà hỏng sửa
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic ra tiếng to phát rất quạt chạy
+__label__water tìm khả năng sửa ống
+__label__electronic đèn tủ_lạnh
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity điện tôi sửa tôi hư
+__label__medical vẫn còn trẻ thường_xuyên mặc_dù đau lưng
+__label__medical bác_sĩ tôi ốm
+__label__electronic hoạt_động sinh_tố máy_xay
+__label__medical bác_sĩ tôi bệnh tôi
+__label__medical đầu tôi ong ong liên_tục
+__label__water vấn_đề gặp đường_ống ống sửa tìm thợ
+__label__medical tôi ho và sốt liên_tục thể ra ngoài, bác_sĩ tư nhà khám
+__label__electronic Chế_độ hấp lò_vi_sóng lỗi
+__label__water đội ngũ thợ chuyên sửa_chữa linh kiện máy bơm uy tín, chất lượng.
+__label__medical bác_sĩ tôi ốm
+__label__electronic lên nồi cơm_điện nút hư bật
+__label__electronic nút nồi bật lên cơm_điện hư
+__label__electricity công_điện cháy tơ
+__label__medical tôi đau nửa đầu biết tại_sao
+__label__electronic tiếng rất to quạt ra chạy phát
+__label__electronic hư nút lên nồi cơm_điện bật
+__label__medical thay_đổi hay thời_tiết đau_đầu mỗi
+__label__electronic Máy_giặt đóng cửa
+__label__water ống_nước trong sửa chúng_tôi tìm thợ
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical cơ_thể đang mạnh khỏe tự nhiên lạnh ngắt, mồ hôi đầm đìa, sao dừng đc
+__label__water sửa ống_nước chúng_tôi thợ trong tìm
+__label__electricity Công_tắc điện nhà tôi sử dụng lâu, thay_thế
+__label__medical tôi bác_sĩ bệnh tôi
+__label__electricity điện sửa nhà tôi hỏng
+__label__water chậm chảy rò_rỉ đường_ống_nước
+__label__electricity ổ_cắm hỏng điện
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__electronic hư sửa trong máy_vi_tính
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__water lắp_đặt thiết vệ sinh: bồn cầu, chậu rửa, lavabo, bồn tiểu….
+__label__electronic hư sửa trong máy_vi_tính
+__label__medical khỏe tôi trợ giúp về y_tế cảm thấy tôi
+__label__electricity tôi sửa tôi hư điện
+__label__medical nhà tôi bác_sĩ tại
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electricity mạch sửa điện chập
+__label__medical sức_khỏe hỗ_trợ y_tế
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity Công tắc điện nhà tôi sử dụng lâu, thay thế
+__label__water sửa_chữa bình nóng lạnh, sửa thay thế bộ dây cấp nước cũ hỏng thành mới, lắp đặt bình nóng lạnh vào vị trí mới chưa có hệ thống cấp nước
+__label__electricity hỏng sửa điện người_nhà tôi
+__label__electricity hỏng sửa điện mạch
+__label__electricity hỏng sửa điện tôi nhà
+__label__electricity điện hư thợ sửa tìm
+__label__electronic Lò_vi_sóng lỗi, còn ánh đèn hồng ngoại
+__label__electricity pha tìm sửa tủ điện
+__label__electronic máy_vi_tính sửa trong hư
+__label__medical tôi bác_sĩ tôi bệnh
+__label__medical vẫn trẻ thường_xuyên mặc_dù còn đau lưng
+__label__medical vấn_đề sức_khỏe y_tế tôi về đang
+__label__water cống tắc thể sửa_chữa điện hỗ_trợ ngay lập tức
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity sửa mạch chập điện
+__label__water hàn ống chịu nhiệt gấp, sửa ngay
+__label__electronic máy vi tính hư sửa trong
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical trợ giúp y_tế tôi về cảm thấy khỏe tôi
+__label__electricity điện tôi sửa hư tôi
+__label__medical trợ giúp về y_tế tôi cảm thấy tôi khỏe
+__label__electronic trong sửa máy_vi_tính hư
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__electricity Tôi lắp ổ_cắm điện nổi
+__label__medical bác_sĩ tôi ốm
+__label__electricity sửa mạch hỏng điện
+__label__water chảy chậm rò_rỉ đường_ống
+__label__electricity hỏng ổ_cắm điện
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__water thợ sửa_chữa vòi_sen tắm càng nhanh càng tốt
+__label__medical về y_tế tôi cảm thấy trợ giúp khỏe tôi
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity sửa mạch điện chập
+__label__electronic Lò_vi_sóng lỗi, còn ánh đèn hồng ngoại
+__label__medical mắt đau nhức, thể nhìn rõ, bác_sĩ chuyên môn về mắt hỗ trợ
+__label__electronic đèn tủ_lạnh
+__label__water sửa_chữa, thay_thế các thiết ngành nước: gãy vòi, hỏng van, xi phông, vòi_sen, vòi chậu, lavabo……
+__label__electricity bóng_đèn
+__label__electricity cháy công_điện tơ
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical sức_khỏe y_tế tôi vấn_đề về đang
+__label__water đường_ống_nước rò_rỉ chậm chảy
+__label__medical tôi tôi cảm thấy khỏe trợ giúp về y_tế
+__label__electricity pha tìm sửa tủ điện
+__label__electricity sửa tủ điện pha tìm
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electricity điện tôi sửa tôi hư
+__label__electricity sửa_mạch điện chập
+__label__water lắp_đặt, thay vòi xịt nhà_vệ_sinh, vòi_sen tắm, van nước.
+__label__electricity Cần giúp sức khắc phục thiết điện trong nhà hư hỏng
+__label__electricity hỏng điện ổ_cắm
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity Điện nhà tôi rò_rỉ mấy hôm, sửa ngay trong hôm nay
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__electricity sửa điện tôi hỏng nhà
+__label__medical ốm tôi bác_sĩ
+__label__electronic bình lọc dây_nóng hoạt_động
+__label__electricity sửa điện hư thợ tìm
+__label__electricity Cần thiết kế, lắp mạch_điện âm tường
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__electricity tôi hư điện tôi sửa
+__label__water nhận lắp đặt đồng hồ nước cấp cho phòng trọ, hộ gia đình.
+__label__water sửa_chữa hư hỏng, chập cháy tủ điện dân dụng, công nghiệp
+__label__electricity mạch điện chập sửa
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity sửa điện tôi người_nhà hỏng
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic chạy phát ra tiếng to quạt rất
+__label__water linh kiện bên trong máy bơm chảy mùi khét khó chịu.
+__label__electronic lên nồi hư cơm_điện bật nút
+__label__electronic to quạt rất chạy phát ra tiếng
+__label__electricity Cách bắt bóng đèn này như thế nào vậy, tôi hỗ trợ
+__label__water sửa ống_nước trong chúng_tôi tìm thợ
+__label__electronic tivi tắt tự_động
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__electricity pha tìm sửa tủ điện
+__label__electricity điện pha tìm sửa tủ
+__label__electricity cháy công_điện tơ
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__water sự giúp đỡ thay_thế vòi các loại
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__medical sức_khỏe y_tế tôi vấn_đề về đang
+__label__electricity sửa tôi hư điện tôi
+__label__electricity điện hư tìm thợ sửa
+__label__medical hay đau_đầu mỗi thời_tiết thay_đổi
+__label__electronic quạt chạy phát ra tiếng rất to
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__medical còn trẻ thường_xuyên mặc_dù vẫn đau lưng
+__label__electricity hỏng sửa điện tôi nhà
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electronic máy_vi_tính khởi_động
+__label__electricity điện sửa nhà tôi hỏng
+__label__electricity hỏng sửa điện nhà tôi
+__label__water đường_ống chậm rò_rỉ chảy
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity sửa mạch điện chập
+__label__electricity sửa tôi tôi hư điện
+__label__electronic Xà_phòng vào máy_giặt
+__label__medical khỏe tôi trợ giúp về tôi y_tế cảm thấy
+__label__electronic máy_vi_tính hư sửa trong
+__label__electronic ra rất to phát tiếng quạt chạy
+__label__electronic khởi_động máy_vi_tính
+__label__electronic phát ra tiếng rất to chạy quạt
+__label__medical đau lưng mặc_dù vẫn còn thường_xuyên trẻ
+__label__electricity chập sửa mạch điện
+__label__electronic Điều_hòa phả ra hơi nóng
+__label__water tư vấn sửa chữa khắc phục hệ thống cấp nước gia đình bị yếu đủ áp lực
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic máy_vi_tính khởi_động
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity tôi sửa hư điện tôi
+__label__electronic to ra rất quạt chạy phát tiếng
+__label__electronic ấm đun siêu_tốc đứt dây nóng
+__label__electronic máy_vi_tính hư sửa trong
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__water trong chúng_tôi tìm ống thợ sửa
+__label__electronic bình lọc dây lạnh hoạt_động
+__label__electronic ra tiếng rất to phát quạt chạy
+__label__water sửa_chữa, lắp_đặt thiết nhà_vệ_sinh, đường thải, sinh hoạt.
+__label__electricity Nhà tôi sét đánh, điện trong nhà bỗng cháy khét, tôi ngắt cầu_dao, tôi xem ngay
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__electricity thợ tìm sửa điện hư
+__label__electricity điện cháy công tơ
+__label__electricity sửa mạch điện hỏng
+__label__electricity mạch điện chập sửa
+__label__medical tôi bác_sĩ tại nhà
+__label__electronic tivi tắt tự_động
+__label__electronic Lò_vi_sóng quay
+__label__water sửa chữa thiết vệ sinh
+__label__medical thường_xuyên đau_lưng trẻ mặc_dù vẫn còn
+__label__electricity điện sửa nhà tôi hỏng
+__label__water chảy rò_rỉ đường_ống chậm
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical nôn_mửa liên_tục ngừng, tụi tôi tin rằng mình ngộ_độc thức ăn
+__label__electricity sửa điện nhà tôi hỏng
+__label__water trong chúng_tôi thợ tìm sửa ống
+__label__electricity pha tìm điện sửa tủ
+__label__water tìm thợ sửa ống_nước chúng_tôi trong
+__label__electricity tôi sửa tôi điện hư
+__label__water thợ chúng_tôi tìm sửa ống_nước trong
+__label__water nhận lắp đặt hệ thống bể nước, téc nước mới thay thế bồn nước téc nước cũ, nhận di chuyển bồn nước, téc nước sang vị trí khác
+__label__medical mặc_dù thường_xuyên đau_lưng vẫn còn trẻ
+__label__water tìm thợ sửa ống trong chúng_tôi
+__label__electronic nguồn máy_vi_tính sập
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electricity điện công tơ cháy
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__water ống_nước sửa hư
+__label__medical hỗ_trợ y_tế sức_khỏe
+__label__electricity mạch điện chập sửa
+__label__electricity chập sửa điện mạch
+__label__electricity tủ điện pha sửa tìm
+__label__electricity thợ hư tìm sửa điện
+__label__medical thường_xuyên vẫn trẻ đau lưng mặc_dù còn
+__label__medical thường_xuyên trẻ đau_lưng mặc_dù vẫn còn
+__label__electricity mạch điện chập sửa
+__label__electronic Loa paramax lỗi, âm_thanh lẫn tạp_âm
+__label__electricity cháy công tơ điện
+__label__electronic Máy hút bụi hút bụi
+__label__electricity sửa tôi tôi hư điện
+__label__water sửa chữa các thiết vệ sinh càng nhanh càng tốt
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__water thông cầu nghẹt, thông cống nghẹt
+__label__water máy bơm hỏng công tắc, máy bơm vẫn hoạt_động nước,..
+__label__medical khỏi uống thuốc tôi lâu mặc_dù cảm
+__label__water hút bể phốt, hố ga, cống_rãnh.
+__label__medical bác_sĩ tôi ốm
+__label__water ống_nước sửa
+__label__medical y_tế tôi cảm thấy về khỏe tôi trợ giúp
+__label__medical bác_sĩ tại nhà tôi
+__label__electronic to tiếng rất quạt chạy phát ra
+__label__electricity bóng_đèn
+__label__electricity mạch điện chập sửa
+__label__electricity Điện nhà tôi chập liên hồi, tôi kiểm tra
+__label__water tôi muốn hàn ống PPR biết cách, giúp tôi với
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity bóng_đèn
+__label__water tìm thợ sửa ống_nước trong
+__label__water trợ giúp thay_thế vòi trong toilet
+__label__electronic tắt tự_động tivi
+__label__electricity thợ sửa điện
+__label__electricity sửa mạch chập điện
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity Điện nhà tôi bỗng dung tắt biết lý do, tìm hiểu và khắc phục
+__label__electronic Máy_giặt bỏ xà_phòng vào
+__label__water dò_tìm rò_rỉ âm tường, dưới nền nhà
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electronic Điều_hòa còn lạnh nữa
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__electricity sửa tôi điện tôi hư
+__label__electronic Quạt trần gần như rớt xuống sợ quá
+__label__electricity điện sửa nhà tôi hỏng
+__label__water vòi_sen rỉ một sửa_chữa
+__label__electricity điện pha tủ tìm sửa
+__label__electricity hư điện tôi sửa tôi
+__label__electricity tôi hỏng sửa điện nhà
+__label__electricity điện nhà sửa tôi hỏng
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electronic sập nguồn máy_vi_tính
+__label__electricity sửa mạch điện chập
+__label__electronic Quạt đứng thẳng
+__label__medical nôn_mửa ngừng, chúng tôi tin rằng mình ngộ_độc_thực_phẩm
+__label__electronic chạy to quạt phát ra tiếng rất
+__label__electronic Cánh quạt điều_hòa điều khiển
+__label__electricity sửa hỏng điện nhà tôi
+__label__water máy_bơm hoạt_động bình_thường
+__label__medical tại nhà tôi bác_sĩ
+__label__water máy_bơm lỗi, bơm lên
+__label__electronic máy_vi_tính trong hư sửa
+__label__water vòi chảy rỉ liên tục, dừng lại
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic sửa máy_vi_tính trong hư
+__label__electricity tơ công_điện cháy
+__label__medical tôi ốm bác_sĩ
+__label__electronic Ngăn đông tủ_lạnh đá
+__label__electricity sửa tôi hư điện tôi
+__label__electricity cháy công_điện tơ
+__label__electronic tủ_lạnh đèn
+__label__electronic máy_vi_tính khởi_động
+__label__medical khỏe tôi trợ giúp về tôi y_tế cảm thấy
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__electricity mạch sửa điện chập
+__label__water đường_ống chậm rò_rỉ chảy
+__label__electricity điện sửa tôi hư tôi
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electricity sửa điện tôi nhà hỏng
+__label__electricity bóng_đèn
+__label__electricity Tôi lắp bộ báo cháy trong gia_đình
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electronic chạy phát ra tiếng to quạt rất
+__label__medical y_tế tôi vấn_đề đang về sức_khỏe
+__label__electricity sửa mạch điện chập
+__label__water vấn_đề tìm thợ sửa ống_nước trình độ cao đường_ống gặp
+__label__electronic tủ_lạnh đèn
+__label__electricity dây điện nhà tôi những con chuột phá hoạt cắn đứt
+__label__water ống trong chúng_tôi sửa tìm thợ
+__label__electronic bình lọc dây lạnh hoạt_động
+__label__electronic nguồn máy_vi_tính sập
+__label__electricity sửa tủ điện pha tìm
+__label__water máy_bơm phát ra âm_thanh to lớn
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__electronic tiếng rất ra to quạt chạy phát
+__label__water trong chúng_tôi thợ tìm sửa ống
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__electricity cháy công tơ điện
+__label__electricity sửa tôi hư điện tôi
+__label__medical sức_khỏe y_tế hỗ_trợ
+__label__electricity chập sửa mạch điện
+__label__electronic Cánh quạt điều_hòa điều khiển
+__label__medical còn thường_xuyên đau_lưng mặc_dù vẫn trẻ
+__label__water sửa chữa thiết vệ sinh
+__label__electricity sửa mạch chập điện
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity điện pha tủ tìm sửa
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic trong máy_vi_tính hư sửa
+__label__water lủng lổ ống biết lý_do
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity sửa mạch điện chập
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic ra tiếng rất to quạt phát chạy
+__label__water thông nghẹt đường ống nước, thông ống thoát thải, thông lavabo, thông chậu rửa chén, thông bồn cầu, thông cống nghẹt
+__label__electronic tiếng to quạt chạy phát ra rất
+__label__medical y_tế tôi khỏe về cảm thấy tôi trợ giúp
+__label__electricity hỗ trợ thay thế cầu chì, thiết điện trong nhà
+__label__electricity mạch chập điện sửa
+__label__water sửa chữa các thiết vệ sinh ngay lập tức
+__label__medical còn trẻ thường_xuyên đau_lưng vẫn mặc_dù
+__label__electronic hư bật nút lên cơm_điện nồi
+__label__medical thay_đổi hay thời_tiết đau_đầu mỗi
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__medical khỏe trợ giúp về y_tế tôi cảm thấy tôi
+__label__medical đầu liên_tục đau nhức từ tối ngừng
+__label__medical lâu tôi cảm khỏi mặc_dù uống thuốc
+__label__water sự hỗ trợ thay_thế ống trong nhà
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__electronic phát to quạt chạy ra tiếng rất
+__label__electricity Công tắc điện nhà tôi sử dụng lâu, thay thế
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity điện sửa nhà tôi hỏng
+__label__electricity Nhà tôi ngập lụt, hỏng hết hệ_thống điện, kiểm tra ngay trong mai
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__water hỗ trợ sửa chữa phễu thu sàn
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__electronic tắt tự_động tivi
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity mạch sửa điện hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic đèn tủ_lạnh
+__label__electricity pha tìm sửa tủ điện
+__label__electricity hỏng sửa tôi điện nhà
+__label__electricity điện tôi sửa nhà hỏng
+__label__medical thuốc tôi cảm lâu khỏi mặc_dù uống
+__label__medical trẻ thường_xuyên đau_lưng mặc_dù vẫn còn
+__label__medical đang tôi vấn_đề về sức_khỏe y_tế
+__label__medical tại nhà tôi bác_sĩ
+__label__electronic máy_vi_tính khởi_động
+__label__electricity tôi hỏng sửa điện nhà
+__label__electricity sửa điện pha tủ tìm
+__label__water đường ốm âm nền bục vỡ chảy cả
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electronic Quạt trần gần như rớt xuống sợ quá
+__label__water chậm chảy rò_rỉ đường_ống_nước
+__label__electronic đèn tủ_lạnh
+__label__electricity hỗ trợ thay_thế cầu chì, thiết_bị điện trong nhà
+__label__water chậm chảy rò_rỉ đường_ống
+__label__electricity tôi tôi hư điện sửa
+__label__medical bác_sĩ tôi ốm
+__label__water phần động cơ máy bơm nóng, gây tốn điện năng.
+__label__electricity Tôi thợ điện lắp hệ_thống đèn âm tường, trang trí
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electricity chập sửa mạch điện
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity sửa_mạch điện chập
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__electricity sửa tôi tôi hư điện
+__label__water chúng_tôi trong tìm thợ sửa ống
+__label__electronic đèn tủ_lạnh
+__label__electronic Điều_hòa phả ra hơi nóng
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__medical cảm thấy tôi khỏe tôi trợ giúp về y_tế
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__electricity điện nhà sửa tôi hỏng
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__medical bệnh bác_sĩ tôi tôi
+__label__water thiết trục trặc gây thất thoát
+__label__medical vấn_đề tôi đang về sức_khỏe y_tế
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__water trong chúng_tôi sửa tìm thợ ống
+__label__water mục ống biết đâu mà ra
+__label__medical sức_khỏe hỗ_trợ y_tế
+__label__electricity pha điện tìm sửa tủ
+__label__electricity sửa tủ điện pha tìm
+__label__electronic trong máy_vi_tính hư sửa
+__label__water tôi muốn hàn ống PPR biết cách, giúp tôi với
+__label__medical hỗ_trợ y_tế sức_khỏe
+__label__electricity tôi sửa tôi điện hư
+__label__electronic phát ra tiếng rất to quạt chạy
+__label__electronic nút lên nồi bật cơm_điện hư
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electronic tiếng rất to phát ra quạt chạy
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity chập sửa điện mạch
+__label__water sửa ống nóng máy năng lượng mặt trời, hàn ống nóng ppr
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity hỏng sửa tôi điện nhà
+__label__medical y_tế tôi vấn_đề đang về sức_khỏe
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__water máy bơm rò_rỉ nước, rò_rỉ điện lên vỏ ngoài vô cùng nguy hiểm.
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__medical lưng và gối tôi đau chịu tôi tin rằng tôi đang thoái hóa khớp
+__label__electricity tôi hỏng điện nhà sửa
+__label__medical đau lưng thường_xuyên mặc_dù vẫn còn trẻ
+__label__water đường_ống hư tìm tôi sửa thợ ống_nước
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic Loa paramax lỗi, âm_thanh lẫn tạp_âm
+__label__medical tôi tôi bệnh bác_sĩ
+__label__electricity tôi hỏng sửa điện nhà
+__label__water tìm thợ sửa ống_nước chúng_tôi trong
+__label__electronic phát ra tiếng rất to chạy quạt
+__label__water thông cấp đường ống cấp ngay bây giờ
+__label__water thi_công, cải_tạo hệ_thống cấp thoát hộ gia đình, cơ quan, công_ty
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical bác_sĩ tôi tôi bệnh
+__label__water tìm biết sửa ống_nước
+__label__medical thường_xuyên trẻ đau_lưng mặc_dù vẫn còn
+__label__water cống nghẹt sử_dụng
+__label__water nhận sửa_chữa đường ống rò_rỉ.
+__label__electricity tôi sửa tôi điện hư
+__label__medical về tôi đang vấn_đề sức_khỏe y_tế
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__water sửa ống_nước tìm
+__label__water ống PPR lủng, hàn giúp
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic tiếng rất ra to quạt chạy phát
+__label__medical tôi thường xuyên nôn_mửa, tôi nghĩ mình ngộ_độc_thực_phẩm, hỗ trợ về mặt y_tế
+__label__medical tôi vừa xuất_viện hôm nay thấy khỏe, tôi bác_sĩ
+__label__electronic máy_vi_tính trong hư sửa
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity công cháy tơ điện
+__label__medical bác_sĩ nhà tôi tại
+__label__water sửa_chữa bình nóng lạnh, sửa thay thế bộ dây cấp nước cũ hỏng thành mới, lắp đặt bình nóng lạnh vào vị trí mới chưa có hệ thống cấp nước
+__label__electricity tôi sửa hư điện tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical y_tế tôi vấn_đề sức_khỏe đang về
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity mạch hỏng sửa điện
+__label__electricity Cần lắp mạch điện cho gia đình, giá cả thương lượng
+__label__electricity tôi hư sửa điện tôi
+__label__electricity bóng_đèn
+__label__medical mặc_dù vẫn còn trẻ thường_xuyên đau_lưng
+__label__electricity tôi sửa tôi hư điện
+__label__electronic máy_vi_tính trong hư sửa
+__label__medical ốm tôi bác_sĩ
+__label__medical lâu tôi cảm khỏi mặc_dù uống thuốc
+__label__electricity trợ giúp thay thế cầu giao, cầu chị thay thế thiết điện trong gia đình
+__label__water lắp_đặt, sửa đường ống nóng lạnh tại nhà, hệ_thống cấp thoát gia đình, căn hộ,…
+__label__electronic Quạt đứng thẳng
+__label__water vấn_đề tìm thợ sửa ống_nước tay nghề đường_ống gặp
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__electronic sập nguồn máy_vi_tính
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__water đường ốm âm nền bục vỡ chảy ngừng nghỉ
+__label__electricity điện tôi sửa tôi hư
+__label__electricity mạch điện chập sửa
+__label__electricity điện tủ pha tìm sửa
+__label__medical tôi trợ giúp về tôi y_tế cảm thấy khỏe
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electricity hỏng sửa điện nhà tôi
+__label__electricity sửa_mạch điện hỏng
+__label__electricity cháy công tơ điện
+__label__medical tôi đang vấn_đề về sức_khỏe y_tế
+__label__electricity sửa điện tôi nhà hỏng
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic tắt tivi tự_động
+__label__water sửa chữa đường ống gãy vòi
+__label__electricity sửa mạch điện chập
+__label__electricity thợ tìm sửa điện hư
+__label__electricity sửa mạch điện chập
+__label__electricity chập mạch điện sửa
+__label__electronic lên nồi bật nút cơm_điện hư
+__label__electronic Chế_độ swing điều_hòa hỏng
+__label__electronic rất to_tiếng quạt chạy phát ra
+__label__electricity hư tìm điện thợ sửa
+__label__electronic sập nguồn máy_vi_tính
+__label__electricity sửa mạch hỏng điện
+__label__electronic sửa máy_vi_tính hư trong
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic rất to quạt tiếng chạy phát ra
+__label__water thợ sửa ống_nước chúng_tôi tìm trong
+__label__medical tôi ho và sốt liên_tục sự trợ_giúp từ bác_sĩ
+__label__medical vẫn còn trẻ thường_xuyên mặc_dù đau lưng
+__label__electricity sửa tủ điện pha tìm
+__label__water khắc phục máy_bơm hoạt_động
+__label__electricity Tôi chuyên_môn cao lắp đặt điện 3 pha cho gia_đình
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__medical bệnh bác_sĩ tôi tôi
+__label__water ống PPR lủng, hàn giúp
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__electricity điện mạch chập sửa
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__water trong chúng_tôi tìm thợ sửa ống_nước
+__label__water rò_rỉ chảy đường_ống_nước chậm
+__label__medical lâu mặc_dù uống thuốc tôi cảm khỏi
+__label__electronic Loa paramax lỗi, âm_thanh lẫn tạp_âm
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__water sửa ống trong chúng_tôi thợ tìm
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electricity sửa mạch điện chập
+__label__water vấn_đề gặp đường_ống ống sửa thợ tìm
+__label__electricity ổ_cắm điện hỏng
+__label__medical còn thường_xuyên vẫn trẻ đau_lưng mặc_dù
+__label__electronic tivi tắt tự_động
+__label__water chậm chảy rò_rỉ đường_ống_nước
+__label__electricity sửa tôi hư điện tôi
+__label__electricity chập sửa mạch điện
+__label__electricity Cần lắp mạch_điện cho gia_đình, giá cả thương_lượng
+__label__water chúng_tôi tìm trong thợ sửa ống_nước
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__electricity tủ điện pha sửa tìm
+__label__medical tôi ốm bác_sĩ
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic to tiếng rất quạt chạy phát ra
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__water sửa chúng_tôi tìm thợ ống_nước trong
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electricity tôi sửa điện tôi hư
+__label__electricity hỏng sửa mạch điện
+__label__electricity tôi điện sửa hư tôi
+__label__electricity Cần giúp sức khắc phục thiết điện trong nhà hư hỏng
+__label__water thợ xử_lý mùi hôi cống
+__label__medical thuốc tôi cảm lâu khỏi mặc_dù uống
+__label__medical tôi ho và sốt liên_tục thể ra ngoài, bác_sĩ tư nhà khám
+__label__water đường_ống hư rồi tôi tìm thợ sửa ống_nước
+__label__medical ốm bác_sĩ tôi
+__label__medical hay thời_tiết thay_đổi đau_đầu mỗi
+__label__electricity mạch sửa điện chập
+__label__electronic Lỗ đóng mở xà_phòng lỗi
+__label__electricity chập sửa mạch điện
+__label__water chúng_tôi thợ trong tìm sửa ống_nước
+__label__medical Da tôi phát ban đỏ hình tròn, trên bề mặt nổi mụn và vảy tiết, bác_sĩ kiểm_tra
+__label__medical tôi bác_sĩ ốm
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electricity bóng_đèn
+__label__medical y_tế tôi vấn_đề đang về sức_khỏe
+__label__medical tôi về y_tế tôi khỏe trợ giúp cảm thấy
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electricity điện cháy công tơ
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__electricity pha tìm sửa tủ điện
+__label__electricity Điện nhà tôi rò_rỉ mấy hôm, sửa ngay trong hôm nay
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic rất to_tiếng quạt chạy phát ra
+__label__medical tôi cảm thấy khỏe tôi trợ giúp về y_tế
+__label__water sửa trong chúng_tôi thợ ống tìm
+__label__electronic trong máy_vi_tính sửa hư
+__label__medical tôi đau nửa đầu biết lý_do
+__label__electronic bình lọc lọc gì được, thải ra luôn
+__label__medical tôi tôi y_tế cảm thấy khỏe trợ giúp về
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__electricity mạch hỏng sửa điện
+__label__medical tôi ốm bác_sĩ
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__electricity chập sửa mạch điện
+__label__electricity Nhà tôi lắp hệ_thống đèn chiếu sáng, giá cả thương_lượng
+__label__electricity thợ sửa điện
+__label__water ống_nước hư sửa
+__label__medical tôi cảm thấy khỏe tôi trợ giúp về y_tế
+__label__electronic sửa trong máy_vi_tính
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic nồi cơm_điện lên hư bật nút
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic sửa trong hư máy_vi_tính
+__label__electricity Cần thiết kế, lắp mạch_điện âm tường
+__label__electronic tắt tivi tự_động
+__label__medical lồng_ngực tôi đau nhói liên_hồi, bác_sĩ kiểm_tra
+__label__electronic tủ_lạnh đèn
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity chập mạch sửa điện
+__label__electricity điện pha tủ tìm sửa
+__label__electricity mạch điện chập sửa
+__label__electricity chập mạch sửa điện
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic ra tiếng rất phát to quạt chạy
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electronic lên nồi cơm_điện nút hư bật
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__electricity pha tủ điện tìm sửa
+__label__electronic đèn tủ_lạnh
+__label__water đường ốm âm nền bục vỡ chảy cả
+__label__electricity hỏng sửa điện nhà tôi
+__label__water đường ống rò, vấn đề này khó khắc phục hơn những vấn đề trên vì bạn phải xác định rò_rỉ ở đâu.
+__label__medical đầu liên_tục đau nhức từ tối ngừng
+__label__electronic nút lên nồi bật cơm_điện hư
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity Tôi lắp ngay ổ_cắm điện âm
+__label__electricity tủ điện pha sửa tìm
+__label__medical vẫn còn trẻ thường_xuyên mặc_dù đau lưng
+__label__medical trợ giúp y_tế tôi tôi về cảm thấy khỏe
+__label__water chúng_tôi tìm trong thợ sửa ống_nước
+__label__electricity sửa mạch hỏng điện
+__label__medical còn trẻ thường_xuyên vẫn đau_lưng mặc_dù
+__label__electricity thợ điện sửa
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical tôi bác_sĩ bệnh tôi
+__label__electronic Loa paramax hoạt_động
+__label__water trong chúng_tôi sửa ống tìm thợ
+__label__water thông cống nghẹt xí nghiệp, bệnh_viện, chung cư, công_ty
+__label__medical thay_đổi hay thời_tiết đau_đầu mỗi
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical tôi bác_sĩ ốm
+__label__medical khỏi mặc_dù thuốc tôi uống cảm lâu
+__label__medical về sức_khỏe tôi vấn_đề y_tế đang
+__label__medical bác_sĩ tại nhà tôi
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__water chúng tôi nhận thông đường ống tắt_nghẽn. lưu thông, hay xuống yếu.
+__label__water chúng_tôi ống tìm thợ sửa trong
+__label__electricity sửa tôi tôi hư điện
+__label__electronic lên nồi hư nút cơm_điện bật
+__label__medical đầu tôi ong ong liên_tục
+__label__water trong chúng_tôi ống_nước tìm thợ sửa
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity tôi sửa hư điện tôi
+__label__electronic máy_vi_tính hư sửa trong
+__label__water khắc phục máy_bơm hư
+__label__electronic Quần áo giặt bằng máy_giặt khô
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic đèn tủ_lạnh
+__label__water vấn_đề gặp đường_ống ống sửa thợ tìm
+__label__medical tôi mới xuất_viện vẫn cảm thấy khỏe, y_tá
+__label__water hư đường_ống_nước tôi tìm thợ
+__label__electricity sửa mạch điện chập
+__label__medical lưng và đầu gối đau mỗi hoạt động ở cường_độ cao
+__label__water trong chúng_tôi sửa tìm thợ ống
+__label__medical bác_sĩ tôi ốm
+__label__water đội ngũ thợ chuyên sửa_chữa linh kiện máy bơm uy tín, chất lượng.
+__label__water chúng_tôi ống tìm thợ sửa trong
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity điện pha tìm tủ sửa
+__label__electricity Tôi lắp bộ báo cháy điện
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__medical Tôi hắt_xì, mũi nghẹt, chảy mũi thời_tiết chuyển đổi, bác_sĩ chữa trị
+__label__electricity mạch điện sửa chập
+__label__water chúng_tôi ống trong tìm thợ sửa
+__label__electronic ấm đun siêu_tốc đứt dây tốc
+__label__electricity sửa mạch chập điện
+__label__electricity hư sửa điện tìm thợ
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electricity tôi điện nhà hỏng sửa
+__label__electricity Cần khắc phục thiết điện mất nguồn
+__label__electronic rất tiếng to quạt chạy phát ra
+__label__electronic máy_vi_tính trong hư sửa
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity sửa mạch điện hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical tôi sức_khỏe y_tế đang vấn_đề về
+__label__water chảy rò_rỉ đường_ống chậm
+__label__water máy_bơm lỗi, bơm
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical mặc_dù thường_xuyên đau_lưng vẫn còn trẻ
+__label__electricity sửa tủ điện tìm pha
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity tôi sửa tôi hư điện
+__label__medical tôi trợ giúp về tôi y_tế cảm thấy khỏe
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__electricity công cháy tơ điện
+__label__water linh kiện bên trong máy bơm chảy mùi khét khó chịu.
+__label__medical bệnh tôi bác_sĩ tôi
+__label__medical mỗi hay đau_đầu thời_tiết thay_đổi
+__label__water dò tìm rò_rỉ đường ống ngầm thất thoát, tiết kiệm chi phí tăng hàng tháng.
+__label__water sửa ống_nước hư
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic máy_vi_tính khởi_động
+__label__electricity đèn nhà tôi lúc tắt lúc bật
+__label__medical ốm bác_sĩ tôi
+__label__electricity tủ điện pha sửa tìm
+__label__electricity chập mạch điện sửa
+__label__water lắp_đặt bồn chứa nước, lắp phao chống tràn, rơ le điện, vệ sinh bồn nước, bể gia đình.
+__label__medical lâu khỏi mặc_dù uống tôi cảm thuốc
+__label__medical trẻ thường_xuyên đau lưng còn mặc_dù vẫn
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__electricity điện sửa hư tìm thợ
+__label__water lắp_đặt, sửa máy bơm tăng áp, bơm đẩy cao, lắp máy giặt, máy nóng lạnh.
+__label__electricity tôi sửa hư điện tôi
+__label__electricity sửa tôi tôi hư điện
+__label__water tìm biết sửa ống_nước
+__label__electricity mạch điện chập sửa
+__label__water vòi_sen hoạt_động khắc phục ngay
+__label__medical tôi ho sốt liên_tục ngừng sự trợ_giúp từ bác_sĩ
+__label__electricity sửa tủ pha điện tìm
+__label__electricity mạch điện sửa hỏng
+__label__electricity cháy điện công tơ
+__label__electricity sửa điện tôi nhà hỏng
+__label__medical vẫn còn trẻ thường_xuyên đau lưng mặc_dù
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__electronic to chạy rất quạt phát ra tiếng
+__label__water sửa máy bơm dân dụng, thi_công sửa_chữa máy bơm công nghiệp hiệu quả.
+__label__medical tôi bác_sĩ ốm
+__label__medical trợ giúp về y_tế tôi khỏe tôi cảm thấy
+__label__water ống_nước trong chúng_tôi tìm sửa thợ
+__label__electricity tủ pha sửa điện tìm
+__label__water thợ xử_lý mùi hôi cống
+__label__medical khỏe tôi trợ giúp y_tế tôi về cảm thấy
+__label__electricity sửa mạch chập điện
+__label__medical tôi tại nhà bác_sĩ
+__label__water mai, tôi chuyên_môn sửa ống gấp, nhận tiền trong
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__water trong chúng_tôi tìm ống thợ sửa
+__label__electricity ổ_cắm hỏng điện
+__label__water lắp_đặt, thay vòi xịt nhà_vệ_sinh, vòi_sen tắm, van nước.
+__label__electricity cháy công_điện tơ
+__label__electricity hư điện tôi tôi sửa
+__label__electronic máy_vi_tính khởi_động
+__label__electricity Cần sửa chữa mạch_điện âm tường
+__label__medical tôi sức_khỏe y_tế đang vấn_đề về
+__label__medical trợ giúp về y_tế tôi khỏe cảm thấy tôi
+__label__electricity sửa tôi tôi hư điện
+__label__electronic lên nút nồi cơm_điện hư bật
+__label__electricity tìm sửa tủ điện pha
+__label__electricity chập sửa mạch điện
+__label__electronic tivi tự_động tắt
+__label__electricity mạch điện sửa hỏng
+__label__electronic Đầu karaoke chạy mặc_dù bật lần
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electronic chạy to quạt phát ra tiếng rất
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electronic máy vi tính hư sửa trong
+__label__electricity mạch sửa điện hỏng
+__label__electronic Cửa lò_vi_sóng bật
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical hay đau_đầu mỗi thời_tiết thay_đổi
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__water sửa ống_nước
+__label__electronic máy_vi_tính trong hư sửa
+__label__water thợ sửa_chữa khắc phục ống PPR
+__label__electricity Bóng đèn nhà tôi gì mà hoạt động bình thường
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electricity sửa tủ điện pha tìm
+__label__electronic nồi cơm_điện lên hư bật nút
+__label__water trong chúng_tôi sửa ống tìm thợ
+__label__electricity thợ sửa điện hư tìm
+__label__electricity sửa mạch điện chập
+__label__electricity mạch điện sửa chập
+__label__water thợ sửa trong chúng_tôi tìm ống
+__label__electricity chập_mạch điện sửa
+__label__electricity sửa tủ pha tìm điện
+__label__medical bác_sĩ tôi ốm
+__label__electricity hư tìm thợ sửa điện
+__label__electricity tôi hư điện tôi sửa
+__label__electricity pha tìm sửa tủ điện
+__label__electricity sửa mạch điện hỏng
+__label__medical tôi thuốc cảm lâu khỏi mặc_dù uống
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic Chế_độ hấp lò_vi_sóng hoạt_động
+__label__electricity mạch điện hỏng sửa
+__label__medical tại tôi bác_sĩ nhà
+__label__water nhận sửa_chữa công tắc, cầu dao khởi_động máy bơm nước.
+__label__medical thay_đổi thời_tiết hay đau_đầu mỗi
+__label__water sửa_chữa nhanh các sự cố tràn bồn chứa nước, mấy nước, yếu hay cặn bẩn.
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity Bóng đèn nhà tôi gì mà hoạt động bình thường
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electricity Cần tìm hiểu aptomat nhà tôi thường nhảy lý
+__label__medical khỏi mặc_dù thuốc tôi uống cảm lâu
+__label__medical về tôi trợ giúp y_tế cảm thấy khỏe tôi
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__medical trẻ thường_xuyên mặc_dù còn đau_lưng vẫn
+__label__electricity ổ_cắm hỏng điện
+__label__electricity điện sửa nhà tôi hỏng
+__label__electronic tủ_lạnh đèn
+__label__water phao bồn cầu hư hỏng nặng, biết cách nào để thay_thế
+__label__medical tại nhà bác_sĩ tôi
+__label__water đường_ống chậm chảy rò_rỉ
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__water rò_rỉ đường_ống chảy chậm
+__label__electricity sửa mạch chập điện
+__label__medical mặc_dù vẫn còn trẻ thường_xuyên đau_lưng
+__label__medical thường_xuyên mặc_dù trẻ đau_lưng vẫn còn
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic Tiếng kêu quạt ồn ngủ
+__label__electronic rất tiếng to quạt chạy phát ra
+__label__electricity những con chuột cắn đứt những dây điện nhà tôi
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity tôi sửa tôi hư điện
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electricity điện tôi nhà hỏng sửa
+__label__water đường_ống chảy rò_rỉ chậm
+__label__electronic Chế_độ nướng lò_vi_sóng hoạt_động
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__water trong chúng_tôi tìm ống thợ sửa
+__label__electricity tủ điện pha sửa tìm
+__label__medical tôi trợ giúp y_tế tôi về cảm thấy khỏe
+__label__electronic Loa paramax phát tiềng ồn
+__label__medical đầu tôi đau nửa đầu
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity chập sửa mạch điện
+__label__water ống_nước trong chúng_tôi thợ sửa tìm
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electronic trong máy_vi_tính sửa hư
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity sửa mạch điện hỏng
+__label__water tìm thợ ống_nước trong chúng_tôi sửa
+__label__water thông cấp đường ống cấp trong buổi
+__label__electricity tủ điện pha sửa tìm
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__water sửa ống_nước hư
+__label__electricity điện tôi sửa tôi hư
+__label__medical khỏi mặc_dù thuốc tôi uống cảm lâu
+__label__medical y_tế về tôi cảm thấy khỏe tôi trợ giúp
+__label__water sửa chữa những thiết vệ sinh càng nhanh càng tốt
+__label__water đường ống âm nền bục vỡ khiến chảy lênh láng
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical trợ giúp tôi cảm thấy khỏe tôi về y_tế
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical trợ giúp về y_tế tôi khỏe tôi cảm thấy
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__electronic Máy hút bụi kêu tiếng_ồn hơn mọi
+__label__electronic bật nút lên nồi cơm_điện hư
+__label__electricity công tơ điện cháy
+__label__electricity sửa tôi điện hư tôi
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, tôi chuyên_môn khắc_phục
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__electricity mạch điện hỏng sửa
+__label__water sửa máy_bơm
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity sửa điện hỏng nhà tôi
+__label__water thợ trợ_giúp xử_lý mùi hôi cống
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity điện công tơ cháy
+__label__medical tôi bác_sĩ tôi bệnh
+__label__water ống bể, mục
+__label__water cống tắc chuyên_môn hỗ_trợ thông ngay lập tức
+__label__medical mỗi thay_đổi hay đau_đầu thời_tiết
+__label__electricity sửa mạch điện chập
+__label__medical bác_sĩ tại nhà tôi
+__label__electricity Công tắc điện nhà tôi sử dụng lâu, thay thế
+__label__electricity sửa tủ điện pha tìm
+__label__electricity tơ công_điện cháy
+__label__electronic rất to tiếng quạt chạy phát ra
+__label__electricity chập sửa mạch điện
+__label__water lắp_đặt đường ống cấp nước, lắp_đặt đường ống thoát
+__label__medical thời_tiết hay thay_đổi đau_đầu mỗi
+__label__electricity tìm sửa tủ điện pha
+__label__electricity giúp sức sửa chữa đồ điện, trời mưa nên điện vấn đề
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity tôi sửa hư điện tôi
+__label__water trong chúng_tôi tìm thợ sửa ống_nước
+__label__medical Tôi bệnh tôi bác_sĩ
+__label__water ống_nước hư sửa
+__label__electricity sửa tôi hư điện tôi
+__label__electricity tôi sửa hư điện tôi
+__label__electricity tôi sửa điện tôi hư
+__label__electricity điện nhà tôi hỏng sửa
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity mạch sửa điện chập
+__label__medical cảm khỏi mặc_dù uống thuốc tôi lâu
+__label__electricity Cần khắc phục thiết điện mất nguồn
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electricity chập mạch sửa điện
+__label__medical mỗi thời_tiết thay_đổi hay đau_đầu
+__label__medical lồng_ngực tôi nhức kinh khủng, biết phải tôi sắp chết
+__label__water sửa chúng_tôi tìm thợ ống_nước trong
+__label__electricity tìm thợ sửa điện hư
+__label__electricity giúp sức sửa chữa đồ điện, trời mưa nên điện vấn đề
+__label__electricity điện pha tìm tủ sửa
+__label__electricity hỏng sửa mạch điện
+__label__medical tôi tôi bác_sĩ bệnh
+__label__medical tôi cảm thấy khỏe tôi trợ giúp về y_tế
+__label__electronic bình lọc lọc gì được, thải ra luôn
+__label__medical bác_sĩ tại nhà tôi
+__label__electricity sửa tôi hư điện tôi
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity pha tìm sửa tủ điện
+__label__electricity sửa mạch điện hỏng
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__medical vấn_đề về sức_khỏe tôi y_tế đang
+__label__electricity chập sửa mạch điện
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electricity điện mạch hỏng sửa
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic Ngăn mát tủ_lạnh mát
+__label__medical đau lưng mặc_dù vẫn trẻ thường_xuyên còn
+__label__electricity thợ tìm sửa điện hư
+__label__electricity điện sửa nhà tôi hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity hỏng sửa điện nhà tôi
+__label__medical bác_sĩ ốm tôi
+__label__electricity sửa điện tôi hỏng nhà
+__label__electricity hỏng sửa mạch điện
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__medical y_tế tôi khỏe về cảm thấy tôi trợ giúp
+__label__electricity sửa điện sét đánh cháy ổ điện nhà tôi
+__label__electricity tôi sửa hư điện tôi
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__water trong chúng_tôi ống_nước tìm thợ sửa
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic máy_vi_tính nguồn sập
+__label__electronic máy_vi_tính sập nguồn
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electronic rất to quạt tiếng chạy phát ra
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__electricity thợ điện sửa
+__label__electricity mạch hỏng sửa điện
+__label__water chậm chảy rò_rỉ đường_ống_nước
+__label__electricity hỏng sửa điện nhà tôi
+__label__medical trợ giúp về tôi y_tế cảm thấy khỏe tôi
+__label__electronic đèn tủ_lạnh
+__label__electricity Điện nhà tôi bỗng dung ngắt, liên lạc với sửa điện họ biết, khắc phục
+__label__water thông cống nghẹt toilet, bể phốt, chậu rửa, thoát sàn, các loại đường cống ngầm.
+__label__electronic Chế_độ nướng lò_vi_sóng dùng
+__label__electricity sửa tôi hư điện tôi
+__label__electronic hư bật lên nồi cơm_điện nút
+__label__electricity mạch hỏng sửa điện
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical đầu tôi bỗng dung đau nhức liên_hồi, bác_sĩ nhà kiểm_tra
+__label__electricity cháy công_điện tơ
+__label__water ống_nước sửa hư
+__label__electricity hỏng sửa mạch điện
+__label__electricity sửa tôi hư điện tôi
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical nhà tại tôi bác_sĩ
+__label__electricity tôi sửa tôi điện hư
+__label__electronic bật lên nồi hư nút cơm_điện
+__label__electronic Máy_giặt kêu tiếng_ồn
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electricity sửa tôi hư điện tôi
+__label__water sửa trong chúng_tôi thợ ống tìm
+__label__electricity cháy công tơ điện
+__label__water ống_nước trong sửa chúng_tôi tìm thợ
+__label__medical Cơ_thể bỗng mệt mỏi, di chuyển nổi, bác_sĩ trợ_giúp
+__label__electronic trong máy_vi_tính hư sửa
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__water đường_ống chậm chảy rò_rỉ
+__label__medical thường_xuyên đau_lưng trẻ mặc_dù vẫn còn
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity sửa mạch điện chập
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__medical đau lưng mặc_dù vẫn còn trẻ thường_xuyên
+__label__medical đau lưng mặc_dù vẫn còn trẻ thường_xuyên
+__label__electricity sửa điện người_nhà tôi hỏng
+__label__medical bác_sĩ tôi ốm
+__label__electronic rất quạt chạy phát ra tiếng to
+__label__electricity công tơ điện cháy
+__label__electricity sửa mạch điện chập
+__label__water tìm chúng_tôi thợ sửa ống_nước trong
+__label__electricity điện sửa nhà tôi hỏng
+__label__water trong chúng_tôi tìm thợ sửa ống_nước
+__label__electronic hư bật lên nồi nút cơm_điện
+__label__electricity bóng_đèn
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__electronic nút lên nồi cơm_điện bật hư
+__label__electricity sửa tủ điện pha tìm
+__label__medical bệnh tôi bác_sĩ tôi
+__label__water đường ốm âm nền bục vỡ chảy liên tục
+__label__electronic phát ra tiếng rất to chạy quạt
+__label__electricity Tôi thợ điện lắp hệ_thống đèn âm tường, trang trí
+__label__electricity pha điện tìm sửa tủ
+__label__electricity sửa điện hư thợ tìm
+__label__medical bác_sĩ tại nhà tôi
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electronic to quạt rất chạy phát ra tiếng
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__water sửa ống_nước trong thợ chúng_tôi tìm
+__label__electricity pha tìm sửa tủ điện
+__label__electronic nút nồi bật lên cơm_điện hư
+__label__medical tôi ốm bác_sĩ
+__label__electricity Điện nhà tôi chập liên hồi, tôi kiểm tra
+__label__electricity Bóng đèn nhà tôi chập chờn, tìm thay mới
+__label__electronic nồi nút lên cơm_điện hư bật
+__label__medical tôi bác_sĩ ốm
+__label__water chậm chảy rò_rỉ đường_ống
+__label__electricity tìm sửa tủ điện pha
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__water đường ống âm nền bục vỡ khiến chảy lênh láng
+__label__water tìm thợ ống_nước trong chúng_tôi sửa
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__medical cảm lâu khỏi mặc_dù uống tôi thuốc
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical tôi về y_tế cảm thấy khỏe tôi trợ giúp
+__label__electronic quạt chạy phát ra tiếng rất to
+__label__electronic nồi bật lên cơm_điện hư nút
+__label__water máy_bơm tịt, bơm
+__label__electricity điện cháy công tơ
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic bật nút lên hư nồi cơm_điện
+__label__water chúng_tôi tìm thợ sửa ống trong
+__label__electricity sửa tủ điện pha tìm
+__label__electronic ấm đun siêu_tốc nóng
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic nồi cơm_điện lên hư bật nút
+__label__water sửa ống_nước hư
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__electricity mạch điện chập sửa
+__label__electricity mạch điện hỏng sửa
+__label__electricity sửa điện người_nhà tôi hỏng
+__label__electricity thợ sửa hư tìm điện
+__label__electronic sinh_tố máy_xay hoạt_động
+__label__electronic chạy ra tiếng rất to quạt phát
+__label__electronic bình lọc hoạt_động
+__label__medical trẻ thường_xuyên mặc_dù còn đau_lưng vẫn
+__label__electricity điện pha sửa tủ tìm
+__label__electricity sửa tôi hư điện tôi
+__label__medical cơ_thể bỗng dung lạnh, xanh xao, bác_sĩ hỗ trợ điều_trị
+__label__electricity tôi hỏng sửa điện nhà
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity tôi hỏng sửa nhà điện
+__label__electronic Chế_độ hấp lò_vi_sóng lỗi
+__label__water tư vấn sửa chữa khắc phục hệ thống cấp nước gia đình bị yếu đủ áp lực
+__label__water vòi chảy rỉ liên tục, dừng lại
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electronic tủ_lạnh đèn
+__label__electricity tôi sửa tôi hư điện
+__label__electricity pha sửa tìm tủ điện
+__label__electricity Tôi lắp bộ báo cháy trong gia_đình
+__label__electronic tắt tivi tự_động
+__label__electronic lên nồi hư nút cơm_điện bật
+__label__water thông cấp đường ống cấp trong
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity mạch sửa điện hỏng
+__label__electricity sửa mạch điện hỏng
+__label__electricity sửa điện hư tìm thợ
+__label__electricity hư điện tìm thợ sửa
+__label__water ống_nước sửa hư
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__water sửa_chữa hư hỏng, chập cháy tủ điện dân dụng, công nghiệp
+__label__electricity điện mạch chập sửa
+__label__electricity sửa điện nhà tôi hỏng
+__label__water sửa ống_nước trong thợ chúng_tôi tìm
+__label__water sửa ống_nước hư
+__label__water vấn_đề gặp tìm thợ sửa ống_nước đường_ống
+__label__electricity Cần sửa chữa mạch_điện âm tường
+__label__electronic cơm_điện nồi hư bật nút lên
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity sửa hư tìm thợ điện
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__medical phải là ngộ_độc thức ăn nôn_mửa liên_tục
+__label__electricity thợ hư tìm sửa điện
+__label__water nhận lắp đặt hệ thống bể nước, téc nước mới thay thế bồn nước téc nước cũ, nhận di chuyển bồn nước, téc nước sang vị trí khác
+__label__medical đùi tôi hâm nặng biết phải tôi ngồi quá lâu hay
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity tôi sửa tôi hư điện
+__label__medical ốm tôi bác_sĩ
+__label__water sửa ống_nước hư
+__label__electricity sửa mạch điện chập
+__label__electricity sửa điện hư thợ tìm
+__label__electricity điện tôi nhà hỏng sửa
+__label__water phần động cơ máy bơm nóng, gây tốn điện năng.
+__label__electricity sửa tôi hư điện tôi
+__label__medical vấn_đề về y_tế tôi sức_khỏe đang
+__label__electricity điện tôi sửa nhà hỏng
+__label__electronic sinh_tố máy_xay hoạt_động
+__label__medical trẻ thường_xuyên còn đau_lưng mặc_dù vẫn
+__label__electronic máy_vi_tính sập nguồn
+__label__electricity tìm hư thợ sửa điện
+__label__water tìm khả năng sửa ống
+__label__water vấn_đề gặp đường_ống ống sửa tìm thợ
+__label__water vấn_đề gặp đường_ống ống sửa thợ tìm
+__label__electricity dây điện nhà tôi những con chuột cắn đứt
+__label__electricity sửa điện tôi nhà hỏng
+__label__electricity Cách bắt bóng đèn này như thế nào vậy, tôi hỗ trợ
+__label__electricity sửa mạch chập điện
+__label__electricity hỏng điện sửa nhà tôi
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electronic Máy_giặt kêu tiếng_ồn
+__label__water sửa_chữa ống ngộp hơi, mất nước, đường ống nghẹt cát, rong rêu gây mất nước, yếu.
+__label__electricity tủ pha sửa điện tìm
+__label__water lắp_đặt bồn chứa nước, lắp phao chống tràn, rơ le điện, vệ sinh bồn nước, bể gia đình.
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__water thợ sửa_chữa khắc phục ống PPR
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical khỏe trợ giúp về y_tế tôi tôi cảm thấy
+__label__electricity sửa mạch điện chập
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity thiết điện nhà tôi tự động ngắt, tôi biết nguyên nhân
+__label__medical đang tôi vấn_đề về sức_khỏe y_tế
+__label__electricity hỏng ổ_cắm điện
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__medical tôi trợ giúp y_tế tôi về cảm thấy khỏe
+__label__medical bác_sĩ tôi ốm
+__label__electricity pha điện tìm sửa tủ
+__label__water sửa ống_nước hư
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical sức_khỏe y_tế hỗ_trợ
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electronic ấm đun siêu_tốc đứt dây nóng
+__label__electricity sửa điện nhà tôi hỏng
+__label__water vòi điện lỗi hư hỏng nặng, trợ giúp
+__label__electronic hư sửa trong máy_vi_tính
+__label__water thông cống nghẹt xí nghiệp, bệnh_viện, chung cư, công_ty
+__label__electricity điện nhà tôi hỏng sửa
+__label__water trong chúng_tôi tìm thợ sửa ống_nước
+__label__electricity điện sửa hư tìm thợ
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__water sửa chữa thiết vệ sinh
+__label__electricity Cần lắp mạch_điện cho gia_đình, giá cả thương_lượng
+__label__water khoan, cắt, đục âm tường hệ_thống dây điện, dây cáp, ống nước,… mới, cũ.
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__electricity mạch điện hỏng sửa
+__label__electricity sửa mạch hỏng điện
+__label__water chúng_tôi thợ trong tìm sửa ống_nước
+__label__water sửa máy bơm dân dụng, thi_công sửa_chữa máy bơm công nghiệp hiệu quả.
+__label__medical khỏe tôi về y_tế tôi cảm thấy trợ giúp
+__label__electricity hỏng ổ_cắm điện
+__label__electricity sửa mạch điện chập
+__label__electricity sửa mạch điện chập
+__label__electricity sửa hỏng mạch điện
+__label__medical bệnh tôi tôi bác_sĩ
+__label__electricity hỏng sửa mạch điện
+__label__medical tại tôi bác_sĩ nhà
+__label__water ống PPR lủng hàn giúp ống cho tôi
+__label__water đường ốm âm nền bục vỡ chảy ngừng nghỉ
+__label__medical vấn_đề về sức_khỏe y_tế đang tôi
+__label__water sửa chữa thiết vệ sinh
+__label__electricity Cần lắp bộ bóng đèn + công_tắc trong gia_đình, giá cả thương_lượng
+__label__electricity tôi hư điện tôi sửa
+__label__electronic ra tiếng rất to phát quạt chạy
+__label__electricity điện tôi tôi hư sửa
+__label__medical thời_tiết thay_đổi hay mỗi đau_đầu
+__label__medical về sức_khỏe y_tế tôi đang vấn_đề
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__electronic hư bật nút nồi lên cơm_điện
+__label__electricity hỏng ổ_cắm điện
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electricity điện pha tủ tìm sửa
+__label__electricity mạch sửa điện chập
+__label__electronic tiếng to ra rất quạt chạy phát
+__label__electronic hư bật nút nồi cơm_điện lên
+__label__water sửa chữa đường ống hư hỏng vòi
+__label__electricity điện thợ sửa
+__label__water đường_ống rò_rỉ chậm chảy
+__label__water sửa ống_nước hư
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical sức_khỏe hỗ_trợ y_tế
+__label__medical bệnh tôi bác_sĩ tôi
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical thường_xuyên đau_lưng mặc_dù vẫn còn trẻ
+__label__electricity chập sửa mạch điện
+__label__electricity sửa tôi điện hư tôi
+__label__water thợ sửa ống_nước trong tìm chúng_tôi
+__label__electronic rất to ra tiếng quạt chạy phát
+__label__electricity mạch điện hỏng sửa
+__label__water vô tình khoan lủng ống, hỗ trợ thay_thế
+__label__electricity điện sửa tôi hư tôi
+__label__electricity đồ dùng điện nhà tôi hư hỏng nặng, sử dụng
+__label__electronic Lò_vi_sóng lỗi, còn ánh đèn hồng ngoại
+__label__water chảy rò_rỉ đường_ống_nước chậm
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__medical sức_khỏe hỗ_trợ y_tế
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__electricity hư điện tôi sửa tôi
+__label__electricity pha sửa điện tìm tủ
+__label__water sửa ống_nước hư
+__label__medical vẫn còn trẻ thường_xuyên mặc_dù đau lưng
+__label__electricity sửa tủ pha tìm điện
+__label__water thợ sửa_chữa hàn giúp ống PPR
+__label__water trợ giúp thay_thế vòi các loại
+__label__medical tôi bệnh tôi bác_sĩ
+__label__electricity điện tôi sửa tôi hư
+__label__water vấn_đề tìm thợ sửa ống_nước đường_ống gặp
+__label__electronic nút lên nồi bật cơm_điện hư
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__electricity hỏng mạch điện sửa
+__label__electronic ấm đun siêu_tốc nóng
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__medical cảm lâu khỏi mặc_dù thuốc tôi uống
+__label__water sửa chữa đường ống đứt vòi
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__medical bác_sĩ tôi tôi bệnh
+__label__medical hay thay_đổi đau_đầu mỗi thời_tiết
+__label__electronic máy_vi_tính khởi_động
+__label__electricity hỏng sửa điện tôi nhà
+__label__medical tôi trợ giúp về tôi khỏe y_tế cảm thấy
+__label__electricity sửa tôi tôi hư điện
+__label__electronic sửa trong máy_vi_tính hư
+__label__water sửa ống_nước hư
+__label__medical tôi bác_sĩ bệnh tôi
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__electricity tôi hư điện tôi sửa
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__water đường ống nghẹt, lưu thông được, dùng cho sinh hoạt.
+__label__electricity tôi sửa hư điện tôi
+__label__electricity tôi hỏng sửa điện nhà
+__label__medical khỏe tôi trợ giúp về tôi cảm thấy y_tế
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity sửa chập_mạch điện
+__label__electronic Máy_giặt phát ra tạp_âm nghe
+__label__medical đầu tự nhiên đau nhức liên_hồi, bác_sĩ nhà kiểm_tra
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electricity mạch sửa điện chập
+__label__water chúng_tôi thợ tìm sửa ống_nước trong
+__label__water chúng_tôi sửa tìm thợ ống_nước trong
+__label__water đường ốm âm nền bục vỡ chảy từ tối
+__label__electricity điện tôi sửa tôi hư
+__label__electricity công_điện cháy tơ
+__label__electricity Nhà tôi ngập lụt, hỏng hết hệ_thống điện, kiểm tra ngay trong mai
+__label__medical Tai tôi chảy mủ, đôi chảy máu ngoáy, bác_sĩ tư vấn điều_trị tại nhà
+__label__electricity sửa mạch điện chập
+__label__electronic hư sửa trong máy_vi_tính
+__label__electronic lên nút nồi cơm_điện hư bật
+__label__electricity tôi sửa hư điện tôi
+__label__water chúng_tôi thợ tìm sửa ống_nước trong
+__label__electricity tôi hư điện tôi sửa
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__electronic ra tiếng rất to quạt phát chạy
+__label__electricity sửa mạch điện chập
+__label__water ống_nước sửa hư
+__label__electricity hư điện tôi sửa tôi
+__label__electricity điện hỏng sửa nhà tôi
+__label__medical đau_đầu hay mỗi thời_tiết thay_đổi
+__label__medical bác_sĩ tôi ốm
+__label__medical Da tôi phát ban đỏ hình tròn, trên bề mặt nổi mụn và vảy tiết, bác_sĩ kiểm_tra
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electronic phát ra tiếng rất to chạy quạt
+__label__electricity sửa điện pha tìm tủ
+__label__medical khỏi uống thuốc tôi mặc_dù cảm lâu
+__label__medical đau lưng thường_xuyên mặc_dù vẫn còn trẻ
+__label__electricity sửa mạch chập điện
+__label__electricity tôi hỏng sửa điện nhà
+__label__medical bác_sĩ tôi bệnh tôi
+__label__medical sức_khỏe tôi đang vấn_đề về y_tế
+__label__electricity đèn nhà tôi hoạt động bình thường
+__label__electronic tiếng rất to quạt ra chạy phát
+__label__water thợ sửa ống trong chúng_tôi tìm
+__label__water sửa_chữa và lắp_đặt ống pvc, hdpe
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electricity sửa mạch chập điện
+__label__electricity tìm sửa tủ điện pha
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electronic sập máy_vi_tính nguồn
+__label__electricity hư sửa điện tìm thợ
+__label__electricity tôi hư điện tôi sửa
+__label__electricity sửa tôi hư điện tôi
+__label__electronic rất to tiếng quạt chạy phát ra
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__medical mặc_dù vẫn còn trẻ thường_xuyên đau_lưng
+__label__electronic nguồn sập máy_vi_tính
+__label__electronic nồi nút lên cơm_điện hư bật
+__label__electricity mạch điện chập sửa
+__label__water tìm chúng_tôi thợ sửa ống_nước trong
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity ổ_cắm điện hỏng
+__label__water đường ống rò, vấn đề này khó khắc phục hơn những vấn đề trên vì bạn phải xác định rò_rỉ ở đâu.
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity cháy điện công tơ
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__water sửa ống_nước
+__label__electricity hư điện tôi sửa tôi
+__label__medical cảm tôi lâu khỏi mặc_dù uống thuốc
+__label__electricity tủ tìm sửa điện pha
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__medical tôi bác_sĩ tôi bệnh
+__label__medical vấn_đề sức_khỏe y_tế tôi đang về
+__label__electricity tôi sửa tôi hư điện
+__label__electricity tôi hỏng điện nhà sửa
+__label__electricity pha tìm sửa tủ điện
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical tại nhà tôi bác_sĩ
+__label__medical y_tế tôi trợ giúp về cảm thấy khỏe tôi
+__label__electricity điện tôi sửa tôi hư
+__label__water sửa_chữa ống ngộp hơi, mất nước, đường ống nghẹt cát, rong rêu gây mất nước, yếu.
+__label__electricity điện tôi sửa tôi hư
+__label__medical bác_sĩ tôi ốm
+__label__medical nhà tôi tại bác_sĩ
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__water lắp_đặt đường ống cấp nước, lắp_đặt đường ống thoát
+__label__electricity Điện nhà tôi chập liên hồi, tôi kiểm tra
+__label__water thông cấp đường ống cấp trong buổi tối
+__label__medical bác_sĩ nhà tôi tại
+__label__electricity hỏng điện ổ_cắm
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity tôi sửa hư điện tôi
+__label__electronic phát ra tiếng to chạy rất quạt
+__label__electricity điện cháy công tơ
+__label__water máy_bơm hoạt_động yên_tĩnh
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__electronic tủ_lạnh đèn
+__label__electronic ấm đun siêu_tốc đèn phải đợi nóng rồi mình tự đi tắt
+__label__electricity mạch điện chập sửa
+__label__electronic đèn tủ_lạnh
+__label__electricity sửa mạch hỏng điện
+__label__water tư vấn sửa chữa khắc phục hệ thống cấp nước gia đình bị yếu đủ áp lực
+__label__medical bác_sĩ tôi ốm
+__label__medical tôi đau nửa đầu rõ nguyên_nhân
+__label__electronic nồi nút lên cơm_điện hư bật
+__label__electricity hư tôi sửa tôi điện
+__label__electricity sửa chập_mạch điện
+__label__medical vẫn còn trẻ thường_xuyên đau lưng mặc_dù
+__label__electricity ổ_cắm hỏng điện
+__label__water sửa chữa đường ống hỏng van
+__label__electronic to ra rất quạt chạy phát tiếng
+__label__medical tôi bác_sĩ ốm
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__water máy bơm cắm bật công tắc khởi_động
+__label__electronic ấm đun siêu_tốc đứt dây nóng
+__label__medical Tôi bỗng dung hen suyễn thời thiết thay đổi, ho ngừng, bác_sĩ điều_trị
+__label__electronic tiếng quạt chạy phát ra rất to
+__label__water vòi chảy rỉ liên tục, dừng lại
+__label__electricity đèn nhà tôi hoạt động bình thường
+__label__electronic sập máy_vi_tính nguồn
+__label__electronic Phát nhạc amply lủng
+__label__electricity tôi tôi sửa hư điện
+__label__electronic phát ra tiếng rất to chạy quạt
+__label__electronic hư bật lên nồi nút cơm_điện
+__label__electricity Cần giúp đỡ khắc phục thiết điện hư hỏng lý
+__label__electricity điện sửa thợ
+__label__electronic máy_vi_tính nguồn sập
+__label__electronic ấm đun siêu_tốc đứt dây tốc
+__label__medical khỏi mặc_dù thuốc tôi lâu uống cảm
+__label__electronic tivi tắt tự_động
+__label__electricity chập sửa mạch điện
+__label__medical thời_tiết hay mỗi thay_đổi đau_đầu
+__label__medical về y_tế tôi tôi trợ giúp cảm thấy khỏe
+__label__water rò_rỉ âm tường, thợ dò_tìm
+__label__electronic rất to chạy tiếng quạt phát ra
+__label__electricity tủ pha tìm sửa điện
+__label__water sửa_chữa và lắp_đặt ống pvc, hdpe
+__label__electronic Máy_giặt bình thường
+__label__electricity mạch sửa điện chập
+__label__electricity sửa tôi tôi hư điện
+__label__water thông cấp đường ống cấp trong
+__label__water hút bể phốt, hố ga, cống_rãnh.
+__label__electronic hư nút lên nồi cơm_điện bật
+__label__water đường_ống hư tìm tôi sửa thợ ống_nước
+__label__electronic hư nút lên nồi bật cơm_điện
+__label__medical bác_sĩ tôi ốm
+__label__electricity hỏng ổ_cắm điện
+__label__electronic ra tiếng rất to chạy phát quạt
+__label__electricity điện hỏng sửa nhà tôi
+__label__electricity cháy công tơ điện
+__label__water lắp_đặt thiết vệ sinh: bồn cầu, chậu rửa, lavabo, bồn tiểu….
+__label__medical ốm bác_sĩ tôi
+__label__electricity tôi sửa tôi điện hư
+__label__water chúng_tôi trong tìm thợ sửa ống
+__label__electronic quạt chạy phát ra tiếng rất to
+__label__water máy_bơm tịt, bơm
+__label__electricity cháy công tơ điện
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__medical trợ giúp y_tế tôi tôi về cảm thấy khỏe
+__label__medical cơ_thể đang khỏe bỗng dung mệt biết lý_do
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical tôi bác_sĩ tôi bệnh
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__medical y_tế sức_khỏe hỗ_trợ
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electricity hỏng sửa điện mạch
+__label__electronic nút lên nồi bật cơm_điện hư
+__label__electronic Âm_thanh máy_giặt còn như bình thường
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__electricity tôi sửa tôi điện hư
+__label__electronic tiếng rất to phát ra quạt chạy
+__label__electronic chạy phát ra tiếng rất quạt to
+__label__electricity mạch sửa điện hỏng
+__label__water một số nơi như nhà_vệ_sinh, hay chỗ rửa chén, các vòi_nước rò. khiến chảy ra khách nhà bạn.
+__label__electricity sửa mạch điện chập
+__label__electricity đèn nhà tôi chập chờn, thiết tự ngắt, khắc phục
+__label__electricity pha sửa điện tìm tủ
+__label__electricity dây điện nhà tôi chuột cắn đứt, sửa
+__label__electricity nhà điện tôi hỏng sửa
+__label__electricity Chập điện nổi hỏng, sửa chữa ngay
+__label__electronic trong máy_vi_tính hư sửa
+__label__water sửa_chữa máy bơm dân dụng các loại, sửa máy bơm tăng áp, máy bơm đẩy cao dành cho gia đình, cơ quan….
+__label__medical tôi cảm thấy khỏe tôi trợ giúp về y_tế
+__label__medical lâu khỏi mặc_dù thuốc tôi cảm uống
+__label__electronic máy_vi_tính sập nguồn
+__label__electronic rất to quạt tiếng chạy phát ra
+__label__electricity tôi tôi điện sửa hư
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity chập sửa mạch điện
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__medical tôi bác_sĩ bệnh tôi
+__label__medical cơ_thể đang khỏe_mạnh bỗng dung lạnh toát, mồ hôi chảy nhễ nhại, xanh xao
+__label__electricity công tơ điện cháy
+__label__electronic Cánh quạt quay mặc_dù motor hoạt_động
+__label__electronic máy_vi_tính khởi_động
+__label__electronic tắt tivi tự_động
+__label__water đường_ống hư tìm tôi sửa thợ ống_nước
+__label__water sửa ống_nước hư
+__label__water thiết trục trặc gây thất thoát
+__label__water hư đường_ống sửa ống_nước tôi tìm
+__label__water vòi_sen hoạt_động khắc phục ngay
+__label__electricity mạch điện chập sửa
+__label__water sửa chữa những thiết vệ sinh ngay lập tức
+__label__medical tôi cảm thấy y_tế khỏe tôi trợ giúp về
+__label__medical cảm lâu khỏi uống thuốc tôi mặc_dù
+__label__medical nôn_mửa ngừng, chúng tôi tin rằng mình ngộ_độc_thực_phẩm
+__label__medical tại nhà tôi bác_sĩ
+__label__electricity tôi sửa điện nhà hỏng
+__label__water hỗ trợ sửa chữa phễu thu sàn
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic nguồn máy_vi_tính sập
+__label__water sửa ống_nước trong thợ chúng_tôi tìm
+__label__electricity sửa mạch điện chập
+__label__electricity chập sửa mạch điện
+__label__electricity mạch điện chập sửa
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__water tìm thợ sửa ống_nước trong chúng_tôi
+__label__medical trợ giúp về tôi y_tế cảm thấy khỏe tôi
+__label__electricity đèn nhà tôi chập_chờn, thiết_bị tự ngắt, khắc_phục
+__label__water nhận lắp đặt đồng hồ nước cấp cho phòng trọ, hộ gia đình.
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity điện tôi hư tôi sửa
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__electricity sửa mạch điện chập
+__label__electricity sửa tôi điện tôi hư
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity hỏng ổ_cắm điện
+__label__electricity mạch điện hỏng sửa
+__label__medical ốm bác_sĩ tôi
+__label__electricity sửa thợ điện
+__label__electricity điện tôi sửa tôi hư
+__label__water đường_ống hư rồi tôi tìm thợ sửa ống_nước
+__label__electronic rất to_tiếng quạt chạy phát ra
+__label__electronic đèn tủ_lạnh
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity tủ điện pha sửa tìm
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity mạch sửa điện hỏng
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống_nước
+__label__medical bác_sĩ tôi ốm
+__label__electronic khởi_động máy_vi_tính
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__water trong chúng_tôi tìm thợ sửa ống_nước
+__label__electronic máy_vi_tính sập nguồn
+__label__electricity hỏng điện tôi sửa nhà
+__label__water vòi_sen mất nóng lạnh khắc phục ngay lập tức
+__label__electronic máy_vi_tính sửa trong hư
+__label__electronic sửa máy_vi_tính hư trong
+__label__water chảy đường_ống_nước chậm rò_rỉ
+__label__electricity mạch điện chập sửa
+__label__medical mặc_dù vẫn còn thường_xuyên đau_lưng trẻ
+__label__water nhận sửa_chữa công tắc, cầu dao khởi_động máy bơm nước.
+__label__electricity sửa tủ điện pha tìm
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical ghẻ phỏng biết sao để chữa hết bệnh
+__label__electricity hư tìm thợ sửa điện
+__label__electronic máy_vi_tính khởi_động
+__label__electricity sửa mạch điện chập
+__label__electronic to phát rất quạt chạy ra tiếng
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic hư sửa máy_vi_tính trong
+__label__electricity điện ổ_cắm hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity điện cháy công tơ
+__label__medical khỏi mặc_dù uống tôi thuốc cảm lâu
+__label__water chúng tôi nhận thông đường ống tắt_nghẽn. lưu thông, hay xuống yếu.
+__label__electricity mạch chập điện sửa
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity mạch sửa điện hỏng
+__label__medical y_tế tôi vấn_đề sức_khỏe đang về
+__label__electricity hỏng sửa điện tôi nhà
+__label__medical về y_tế tôi tôi trợ giúp cảm thấy khỏe
+__label__electricity ổ_cắm hỏng điện
+__label__electronic tắt tivi tự_động
+__label__electricity trợ giúp thay thế cầu giao, thiết điện trong tổ ấm
+__label__electronic Máy_giặt bỏ xà_phòng vào
+__label__water tư vấn, lắp_đặt máy lạnh điều hòa các hãng daikin, lg, panasonic,.. đi âm tường đường ống đồng cung cấp khí ga bảo đảm thẩm mỹ và an toàn.
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__medical cảm thấy tôi khỏe tôi trợ giúp về y_tế
+__label__electronic nồi nút lên cơm_điện hư bật
+__label__medical về sức_khỏe y_tế tôi đang vấn_đề
+__label__electronic máy_vi_tính khởi_động
+__label__water sự giúp đỡ thay_thế vòi các loại
+__label__electronic khởi_động máy_vi_tính
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__electricity sửa điện sét đánh cháy ổ điện nhà tôi
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__medical y_tế tôi tôi về cảm thấy khỏe trợ giúp
+__label__electronic máy_vi_tính khởi_động
+__label__water sửa máy_bơm
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa mạch điện chập
+__label__electricity điện sửa nhà tôi hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical y_tế tôi về đang vấn_đề sức_khỏe
+__label__electricity tôi tôi sửa hư điện
+__label__medical tại tôi bác_sĩ nhà
+__label__electronic Cửa lò_vi_sóng bật
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__medical tôi đang vấn_đề về sức_khỏe y_tế
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity hỏng sửa điện tôi nhà
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__water đường_ống_nước chậm chảy rò_rỉ
+__label__medical Mắt tôi sau ngủ dậy bỗng đỏ, đau rát, sau thời gian vẫn hết
+__label__electronic Tủ_lạnh 2 ngăn ngăn đông hoạt_động
+__label__electronic máy_vi_tính khởi_động
+__label__electricity thợ sửa điện tìm hư
+__label__electricity chập sửa mạch điện
+__label__electricity sửa tìm tủ điện pha
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electronic nút lên nồi bật cơm_điện hư
+__label__electricity sửa_mạch điện hỏng
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__electricity chập sửa mạch điện
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity Điện nhà tôi bỗng dung tắt biết lý do, tìm hiểu và khắc_phục
+__label__medical tôi ốm bác_sĩ
+__label__electricity tôi sửa hư điện tôi
+__label__electricity sửa mạch điện chập
+__label__water đường ốm âm nền bục vỡ chảy lênh láng
+__label__electricity sửa mạch hỏng điện
+__label__electronic lên nồi bật nút cơm_điện hư
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__electricity sửa điện thợ hư tìm
+__label__electronic đèn tủ_lạnh
+__label__electronic bình lọc hoạt_động
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity đồ dùng điện nhà tôi hư hỏng nặng, sử dụng
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity tìm sửa tủ điện pha
+__label__electricity tôi hư sửa điện tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity ổ_cắm hỏng điện
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__electricity dây điện nhà tôi những con chuột phá hoạt cắn đứt
+__label__medical tôi xuất tinh sớm, cách nào trị bệnh này
+__label__electronic máy_vi_tính khởi_động
+__label__electricity sửa tủ điện pha tìm
+__label__electricity Điện nhà tôi bỗng dung ngắt, liên lạc với sửa điện họ biết, khắc phục
+__label__medical trẻ thường_xuyên còn đau_lưng mặc_dù vẫn
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electronic ra tiếng rất phát to quạt chạy
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity bóng_đèn
+__label__water ống trong chúng_tôi sửa tìm thợ
+__label__water trợ_giúp thông cấp đường ống cấp
+__label__electricity thợ sửa điện tìm hư
+__label__water tìm thợ sửa ống_nước chúng_tôi trong
+__label__water ống_nước hư sửa
+__label__electronic tiếng to ra rất quạt chạy phát
+__label__electronic chạy phát tiếng rất to quạt ra
+__label__electricity điện pha tủ tìm sửa
+__label__medical về y_tế tôi tôi trợ giúp cảm thấy khỏe
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__electricity sửa tôi hư điện tôi
+__label__medical tôi sức_khỏe y_tế đang vấn_đề về
+__label__electricity mạch điện sửa hỏng
+__label__water ống chúng_tôi tìm thợ sửa trong
+__label__electricity tôi sửa tôi điện hư
+__label__electricity hỏng ổ_cắm điện
+__label__medical thay_đổi hay thời_tiết đau_đầu mỗi
+__label__water rò_rỉ đường_ống_nước chảy chậm
+__label__electricity hỏng mạch điện sửa
+__label__medical tôi tôi bác_sĩ bệnh
+__label__water máy bơm hỏng công tắc, máy bơm vẫn hoạt_động nước,..
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__medical y_tế tôi trợ giúp về cảm thấy khỏe tôi
+__label__electricity sửa mạch hỏng điện
+__label__electricity thợ điện sửa
+__label__water dò tìm rò_rỉ đường ống ngầm thất thoát, tiết kiệm chi phí tăng hàng tháng.
+__label__medical tôi ốm bác_sĩ
+__label__electricity mạch điện chập sửa
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity sửa mạch điện hỏng
+__label__medical tôi bác_sĩ bệnh tôi
+__label__electricity điện mạch hỏng sửa
+__label__electricity tôi sửa tôi hư điện
+__label__electricity sửa tủ điện pha tìm
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity sửa tủ điện pha tìm
+__label__water cống tắc thông
+__label__electronic máy_vi_tính hư sửa trong
+__label__water đường_ống_nước chậm chảy rò_rỉ
+__label__electricity tôi sửa tôi hư điện
+__label__electricity sửa tôi tôi hư điện
+__label__electricity đồ dùng điện nhà tôi hư hỏng nặng, sử dụng
+__label__electronic tiếng rất to chạy ra quạt phát
+__label__electronic rất to tiếng quạt chạy phát ra
+__label__electricity sửa điện hư thợ tìm
+__label__electronic Đầu karaoke hỏng_hóc, bật
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity Cần tìm hiểu aptomat nhà tôi thường nhảy lý
+__label__water tìm thợ sửa ống_nước trong chúng_tôi
+__label__electronic cơm_điện nồi hư bật nút lên
+__label__electricity hư điện tôi sửa tôi
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity sửa tủ điện pha tìm
+__label__electricity hư điện tôi tôi sửa
+__label__electricity hỏng sửa tôi điện nhà
+__label__water sửa chữa đường ống hỏng van
+__label__electricity sửa điện pha tìm tủ
+__label__medical mặc_dù uống thuốc tôi cảm khỏi lâu
+__label__electricity cháy công tơ điện
+__label__water sửa ống_nước hư
+__label__electronic nút lên nồi cơm_điện bật hư
+__label__electricity sửa mạch điện chập
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__water lắp_đặt đường ống cấp nước, lắp_đặt đường ống thoát
+__label__electronic Tủ_lạnh lạnh mặc_dù cắm điện đầy đủ
+__label__medical y_tế tôi về đang vấn_đề sức_khỏe
+__label__electricity tôi sửa tôi hư điện
+__label__water thiết trục trặc gây thất thoát
+__label__medical tôi mới xuất_viện thấy cơ_thể chưa ổn, y_tá chăm sóc
+__label__water tìm thợ sửa ống_nước đường_ống gặp vấn_đề
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__medical Mặt mày bỗng xanh xao, đứng dậy đầu óc quay cuồng, thấy đường sau 5-10 giây mới ổn định, bác_sĩ nhà chẩn đoán và cho thuốc
+__label__water máy_bơm lỗi, bơm
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electricity sửa điện hư thợ tìm
+__label__medical tôi ốm bác_sĩ
+__label__water mai, tôi chuyên_môn sửa ống gấp, nhận tiền trong
+__label__electricity thợ sửa điện hư tìm
+__label__water khoan, cắt, đục âm tường hệ_thống dây điện, dây cáp, ống nước,… mới, cũ.
+__label__electricity hỗ trợ thay thế cầu chì, thiết điện trong nhà
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__medical còn trẻ thường_xuyên vẫn đau_lưng mặc_dù
+__label__water phao bồn cầu hư hỏng nặng, biết cách nào để thay_thế
+__label__electricity tôi sửa tôi điện hư
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity mạch sửa điện chập
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__water sửa_chữa vòi_sen tắm ngay lắm tức
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__water rò_rỉ đường_ống chậm chảy
+__label__water chậm chảy rò_rỉ đường_ống_nước
+__label__medical tôi bác_sĩ tôi bệnh
+__label__water sửa chữa thiết vệ sinh ngay lập tức
+__label__electricity sửa hư tìm thợ điện
+__label__medical nôn_mửa kiểm soát, tôi nghĩ mình ngộ_độc_thực_phẩm
+__label__water chậm chảy đường_ống_nước rò_rỉ
+__label__electricity hư điện tôi sửa tôi
+__label__water ống_nước sửa hư
+__label__medical tôi trợ giúp về tôi khỏe y_tế cảm thấy
+__label__electricity sửa mạch điện chập
+__label__medical tôi thuốc cảm lâu khỏi mặc_dù uống
+__label__medical bác_sĩ tôi ốm
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity điện hư sửa tìm thợ
+__label__electronic Âm_thanh máy_giặt còn như bình thường
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electricity sửa tìm thợ_điện hư
+__label__water chúng_tôi sửa trong tìm thợ ống_nước
+__label__electronic rất tiếng to quạt chạy phát ra
+__label__electricity sửa điện hỏng nhà tôi
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic bình lọc dây_nóng hoạt_động
+__label__water trợ_giúp thông cống càng nhanh càng tốt
+__label__medical lâu khỏi mặc_dù uống thuốc cảm tôi
+__label__water sửa_chữa vòi_sen tắm
+__label__medical về y_tế tôi khỏe trợ giúp cảm thấy tôi
+__label__medical sức_khỏe y_tế tôi đang về vấn_đề
+__label__electronic sửa trong máy_vi_tính hư
+__label__water trợ giúp thay_thế vòi các loại
+__label__electricity hỏng sửa điện tôi nhà
+__label__water sửa chữa thiết vệ sinh ngay lập tức
+__label__water sự_cố mục ống, biết nguyên_nhân
+__label__electricity sửa mạch hỏng điện
+__label__electricity sửa điện hỏng nhà tôi
+__label__medical tôi xuất tinh sớm, cách nào trị bệnh này
+__label__electricity sửa điện hỏng nhà tôi
+__label__medical bác_sĩ kiểm_tra sao da tôi bỗng dung tím lại tại vùng.
+__label__electricity sửa mạch điện hỏng
+__label__electricity sửa tôi hư điện tôi
+__label__electricity tôi tôi hư điện sửa
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__electricity sửa điện tôi hỏng nhà
+__label__water tôi tìm thợ sửa ống_nước đướng ống hư
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical lưng và đầu gối đau mỗi việc nặng
+__label__electricity tôi hư điện tôi sửa
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__electricity chập_mạch điện sửa
+__label__electronic tiếng rất to chạy ra quạt phát
+__label__electricity tôi tôi hư điện sửa
+__label__water thợ ống_nước trong chúng_tôi tìm sửa
+__label__electronic sập nguồn máy_vi_tính
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__electricity hư điện tìm thợ sửa
+__label__electronic ấm đun siêu_tốc đèn phải đợi nóng rồi mình tự đi tắt
+__label__electricity sửa điện hỏng nhà tôi
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống_nước
+__label__water sửa hư ống_nước
+__label__medical khỏe tôi về y_tế tôi trợ giúp cảm thấy
+__label__electricity điện hư thợ sửa tìm
+__label__electricity pha điện tìm sửa tủ
+__label__medical tôi về y_tế tôi trợ giúp cảm thấy khỏe
+__label__electricity Bóng đèn nhà tôi chập_chờn, tìm thay mới
+__label__electricity sửa tôi tôi hư điện
+__label__electronic Máy hút bụi hỏng_hóc hiểu lý
+__label__medical lâu mặc_dù uống thuốc tôi cảm khỏi
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity điện tôi hư tôi sửa
+__label__medical tôi ho sốt liên_tục ngừng sự trợ_giúp từ bác_sĩ
+__label__electronic máy_vi_tính nguồn sập
+__label__electricity hỏng ổ_cắm điện
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__water lắp_đặt, sửa máy bơm tăng áp, bơm đẩy cao, lắp máy giặt, máy nóng lạnh.
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__water đường ốm âm nền bục vỡ chảy xuyên suốt
+__label__water sửa ống trong chúng_tôi thợ tìm
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__medical Tôi bỗng dung hen suyễn thời thiết thay đổi, ho ngừng, bác_sĩ điều_trị
+__label__electricity dây điện nhà tôi chuột cắn đứt, sửa
+__label__electricity pha tìm sửa tủ điện
+__label__electricity sửa mạch điện chập
+__label__medical khỏi uống thuốc tôi lâu mặc_dù cảm
+__label__medical mặc_dù vẫn trẻ thường_xuyên đau lưng còn
+__label__electricity sửa mạch điện chập
+__label__electronic ra quạt chạy phát tiếng rất to
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic hư máy_vi_tính sửa trong
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electricity sửa điện nhà tôi hỏng
+__label__water vấn_đề tìm thợ sửa ống_nước trình độ cao đường_ống gặp
+__label__water máy bơm hay khởi_động lâu, hoạt_động phát sinh tiếng ồn, khói bóc lên
+__label__electronic Cánh quạt điều_hòa quay
+__label__electricity tôi sửa tôi hư điện
+__label__electricity sửa tôi hư điện tôi
+__label__medical y_tế hỗ_trợ sức_khỏe
+__label__water sửa_chữa, thay_thế các thiết ngành nước: gãy vòi, hỏng van, xi phông, vòi_sen, vòi chậu, lavabo……
+__label__medical bác_sĩ tôi ốm
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical tôi nhà bác_sĩ tại
+__label__electronic khởi_động máy_vi_tính
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__water sửa ống_nước trong chúng_tôi tìm thợ
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống
+__label__medical tôi trợ giúp y_tế cảm thấy khỏe tôi về
+__label__electricity mạch sửa điện chập
+__label__electricity sửa tôi hư điện tôi
+__label__electronic phát to quạt chạy ra tiếng rất
+__label__electricity tôi hư điện tôi sửa
+__label__medical khỏi mặc_dù uống tôi thuốc cảm lâu
+__label__medical về y_tế tôi tôi trợ giúp cảm thấy khỏe
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic phát ra tiếng to chạy rất quạt
+__label__water chảy chậm rò_rỉ đường_ống
+__label__water đường_ống_nước chậm chảy
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electricity cháy điện công tơ
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity tôi hỏng sửa điện nhà
+__label__electronic Loa paramax phát tiềng ồn
+__label__electronic bật nút lên hư nồi cơm_điện
+__label__medical tôi đang vấn_đề về sức_khỏe y_tế
+__label__medical Tôi bệnh tôi bác_sĩ
+__label__water xử lí máy bơm rò_rỉ điện, rỉ hiệu quả, triệt để.
+__label__medical lưng và đầu gối đau mỗi hoạt động ở cường_độ cao
+__label__electricity thiết điện nhà tôi tự động ngắt, tôi biết lý
+__label__water vòi_sen rỉ một sửa_chữa
+__label__medical thường_xuyên trẻ đau_lưng mặc_dù vẫn còn
+__label__electronic Chế_độ hẹn giờ điều_hòa chán nản, gì cả
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic khởi_động máy_vi_tính
+__label__medical về y_tế tôi khỏe trợ giúp cảm thấy tôi
+__label__electronic rất to tiếng quạt chạy phát ra
+__label__medical cảm lâu khỏi mặc_dù thuốc tôi uống
+__label__water sửa trong chúng_tôi thợ ống tìm
+__label__electricity pha tìm sửa tủ điện
+__label__medical tại tôi bác_sĩ nhà
+__label__medical tôi nhà bác_sĩ tại
+__label__water vấn_đề tìm thợ sửa ống_nước đường_ống gặp
+__label__water giúp đỡ về thay_thế sửa_chữa phao cơ phao điện
+__label__electronic tiếng rất to chạy ra quạt phát
+__label__electricity hỏng sửa điện tôi nhà
+__label__medical vấn_đề về sức_khỏe tôi y_tế đang
+__label__electricity bóng_đèn
+__label__electricity tôi tôi sửa hư điện
+__label__water tìm thợ sửa trong chúng_tôi ống
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__electricity bóng_đèn
+__label__electricity sửa mạch điện chập
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical mặc_dù còn trẻ thường_xuyên đau_lưng vẫn
+__label__medical tôi bác_sĩ tại nhà
+__label__water sửa chữa các thiết vệ sinh ngay lập tức
+__label__electricity thợ điện hư tìm sửa
+__label__water sửa máy bơm dân dụng, thi_công sửa_chữa máy bơm công nghiệp hiệu quả.
+__label__water sửa chữa đường ống đứt vòi
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, tôi chuyên môn khắc phục
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__water trợ_giúp thông cấp đường ống cấp
+__label__electricity sửa điện nhà tôi hỏng
+__label__water ống_nước trong chúng_tôi thợ sửa tìm
+__label__medical mặc_dù tôi cảm lâu khỏi uống thuốc
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity dây điện nhà tôi chuột cắn đứt, sửa
+__label__electricity sửa điện tôi người_nhà hỏng
+__label__electricity sửa mạch điện hỏng
+__label__electronic máy_vi_tính hư sửa trong
+__label__water hư đường_ống sửa ống_nước
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__electronic Ngăn mát tủ_lạnh mát
+__label__water ống_nước trong chúng_tôi thợ sửa tìm
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity dây điện máy đun siêu tốc sau cắm khoảng 5-10p thì nóng, mùi khét, bên trong dây điện mùi khét, sửa trong mai.
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electricity chập_mạch điện sửa
+__label__water trong chúng_tôi thợ ống tìm sửa
+__label__electronic to chạy rất quạt phát ra tiếng
+__label__electronic máy_vi_tính sập nguồn
+__label__electricity thiết điện nhà tôi tự động ngắt, tôi biết lý
+__label__medical cảm tôi lâu khỏi mặc_dù uống thuốc
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__electricity hỏng ổ_cắm điện
+__label__electricity điện ổ_cắm hỏng
+__label__electronic sập máy_vi_tính nguồn
+__label__electronic sập nguồn máy_vi_tính
+__label__water sửa_chữa nhanh các sự cố tràn bồn chứa nước, mấy nước, yếu hay cặn bẩn.
+__label__electricity sửa mạch chập điện
+__label__water sự_cố mục ống, biết lý_do
+__label__electricity Cần khắc phục thiết điện mất nguồn
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__electricity sửa tủ điện pha tìm
+__label__medical mỗi thay_đổi hay đau_đầu thời_tiết
+__label__electricity sửa tôi hư tôi điện
+__label__electronic nguồn máy_vi_tính sập
+__label__electronic Lỗ đóng mở xà_phòng lỗi
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electricity điện công tơ cháy
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__electronic Xà_phòng vào máy_giặt
+__label__electricity hỏng ổ_cắm điện
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__electricity mạch sửa điện chập
+__label__electricity sửa tôi tôi hư điện
+__label__medical thường_xuyên mặc_dù trẻ đau_lưng vẫn còn
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__medical tôi bác_sĩ bệnh tôi
+__label__water tôi muốn hàn ống PPR biết cách, giúp tôi với
+__label__electricity sửa tủ điện pha tìm
+__label__electronic lên nồi bật nút cơm_điện hư
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__medical mặc_dù uống thuốc tôi lâu khỏi cảm
+__label__medical vấn_đề về y_tế tôi sức_khỏe đang
+__label__medical tôi bác_sĩ tôi bệnh
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__electricity sửa mạch điện chập
+__label__electronic Đầu karaoke chạy mặc_dù bật lần
+__label__electronic nút nồi cơm_điện hư bật lên
+__label__electricity Bóng đèn nhà tôi chập_chờn, tìm thay mới
+__label__electricity sửa mạch điện chập
+__label__electricity điện hư tìm thợ sửa
+__label__electronic khởi_động máy_vi_tính
+__label__electricity đèn nhà tôi hoạt động bình thường
+__label__electricity Nhà tôi sét đánh, điện trong nhà bỗng cháy khét, tôi ngắt cầu_dao, tôi xem ngay
+__label__electricity mạch điện sửa chập
+__label__electricity tôi sửa tôi hư điện
+__label__electricity mạch điện chập sửa
+__label__electricity sửa tủ điện pha tìm
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity sửa tôi hư điện tôi
+__label__electricity mạch hỏng sửa điện
+__label__medical tôi tôi bác_sĩ bệnh
+__label__electricity Công_tắc điện nhà tôi sử dụng lâu, thay_thế
+__label__electronic Máy_giặt hoạt_động như mọi
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electronic nguồn máy_vi_tính sập
+__label__medical đùi tôi hâm nặng biết phải tôi ngồi quá lâu hay
+__label__electricity sửa mạch hỏng điện
+__label__electricity mạch sửa điện chập
+__label__electricity bóng_đèn
+__label__electricity sửa điện nhà hỏng tôi
+__label__medical tôi khỏe y_tế cảm thấy tôi trợ giúp về
+__label__electronic tắt tivi tự_động
+__label__electricity hư điện tôi sửa tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__water đường_ống chậm chảy rò_rỉ
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__water đường ống rò, vấn đề này khó khắc phục hơn những vấn đề trên vì bạn phải xác định rò_rỉ ở đâu.
+__label__water hư ống_nước sửa
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, khả năng khắc phục
+__label__electronic Quần áo giặt bằng máy_giặt khô
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity Cần tìm hiểu aptomat nhà tôi thường nhảy lý
+__label__water nhận lắp_đặt đường ống nước, đi ống lạnh, nóng.
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity đèn nhà tôi chập chờn, thiết tự ngắt, khắc phục
+__label__electronic phát quạt chạy ra tiếng rất to
+__label__electronic Cánh quạt điều_hòa điều khiển
+__label__water lắp_đặt, thay vòi xịt nhà_vệ_sinh, vòi_sen tắm, van nước.
+__label__electronic tắt tivi tự_động
+__label__electricity điện tôi sửa tôi hư
+__label__water ống_nước hư sửa
+__label__electronic máy_vi_tính khởi_động
+__label__medical cảm lâu mặc_dù uống thuốc tôi khỏi
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__electricity hỏng điện tôi sửa nhà
+__label__electricity sửa_mạch điện hỏng
+__label__electricity điện tìm thợ sửa hư
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic trong máy_vi_tính hư sửa
+__label__electronic nồi bật lên cơm_điện hư nút
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electricity pha tìm sửa tủ điện
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__water tôi tìm thợ ống_nước
+__label__water sửa ống_nước hư
+__label__water mai, tôi chuyên_môn sửa ống gấp, nhận tiền trong
+__label__electricity sửa mạch điện chập
+__label__electricity Tôi chuyên_môn cao lắp đặt điện 3 pha cho gia_đình
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity tôi hư điện tôi sửa
+__label__electricity ổ_cắm hỏng điện
+__label__electronic hư bật nút nồi cơm_điện lên
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__electronic Quạt đứng thẳng
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electronic Máy_giặt lỗi về giặt xả
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity điện pha tủ tìm sửa
+__label__water lắp đặt hệ thống máy bơm nước gia đình mới, sửa máy bơm nước chạy, lên nước.. thay thế hệ thống ống nước máy bơm cũ lâu năm thành hệ thống ống nước mới.
+__label__electronic tiếng rất to quạt ra chạy phát
+__label__electronic Máy hút bụi hỏng_hóc hiểu lý
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electricity điện pha tìm sửa tủ
+__label__electricity hỏng sửa điện tôi nhà
+__label__electricity trợ giúp thay thế cầu giao, thiết điện trong tổ ấm
+__label__electricity sửa mạch điện chập
+__label__water vấn_đề gặp đường_ống ống tìm thợ sửa
+__label__medical hỗ_trợ y_tế sức_khỏe
+__label__electronic lên nồi bật cơm_điện hư nút
+__label__water ống_nước trong chúng_tôi tìm sửa thợ
+__label__electricity điện sửa nhà tôi hỏng
+__label__electronic máy_vi_tính hư sửa trong
+__label__electronic hư bật lên nồi cơm_điện nút
+__label__water ống_nước sửa hư
+__label__electricity Chập điện nổi hỏng, sửa chữa ngay
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic tiếng to quạt chạy phát ra rất
+__label__medical khỏe tôi cảm thấy tôi trợ giúp về y_tế
+__label__electronic sửa trong hư máy_vi_tính
+__label__electronic phát tiếng rất to chạy ra quạt
+__label__water rò_rỉ đường_ống chảy chậm
+__label__medical thay_đổi thời_tiết hay đau_đầu mỗi
+__label__electricity Tôi lắp ổ_cắm điện nổi
+__label__electricity Bóng đèn nhà tôi hỏng, thay ngay lập tức
+__label__medical tôi về y_tế tôi trợ giúp cảm thấy khỏe
+__label__medical trợ_giúp, lưng tôi đau liên_tục ngừng
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity dây điện máy đun siêu tốc sau cắm khoảng 5-10p thì nóng, mùi khét, bên trong dây điện mùi khét, sửa trong mai.
+__label__water sửa chữa đường ống hư hỏng vòi
+__label__electricity sửa tôi hư điện tôi
+__label__medical trẻ còn thường_xuyên đau_lưng mặc_dù vẫn
+__label__electricity điện công tơ cháy
+__label__water sửa chữa đường ống vòi gãy
+__label__water sự hỗ trợ vòi
+__label__water thợ sửa ống_nước trong tìm chúng_tôi
+__label__medical còn trẻ thường_xuyên mặc_dù vẫn đau lưng
+__label__water lủng lổ ống biết lý_do
+__label__electricity sửa mạch chập điện
+__label__electricity pha tìm sửa tủ điện
+__label__medical thay_đổi hay thời_tiết đau_đầu mỗi
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity điện pha tủ tìm sửa
+__label__electricity Tôi chuyên_môn cao lắp đặt điện 3 pha cho gia_đình
+__label__medical tôi thuốc cảm lâu khỏi mặc_dù uống
+__label__water một số nơi như nhà_vệ_sinh, hay chỗ rửa chén, các vòi_nước rò. khiến chảy ra khách nhà bạn.
+__label__electricity tủ tìm sửa điện pha
+__label__electricity chập sửa mạch điện
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__electricity sửa mạch điện chập
+__label__medical thay_đổi hay đau_đầu thời_tiết mỗi
+__label__electronic phát to quạt chạy ra tiếng rất
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__water đường ốm âm nền bục vỡ chảy ngừng nghỉ
+__label__water chảy liên tục, dừng lại
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__water sửa_chữa vòi_sen tắm ngay lắm tức
+__label__water tôi tìm thợ ống_nước
+__label__electricity pha tìm sửa tủ điện
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity tôi tôi sửa hư điện
+__label__water chảy rò_rỉ đường_ống_nước chậm
+__label__electronic Tiếng kêu quạt ồn ngủ
+__label__medical bác_sĩ tại nhà tôi
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic ra tiếng rất to phát quạt chạy
+__label__medical nhà tôi tại bác_sĩ
+__label__water chúng_tôi trong tìm thợ sửa ống
+__label__electricity hư tôi điện tôi sửa
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__water sửa vòi xịt toilet hoạt_động
+__label__water máy_bơm lỗi, bơm lên
+__label__electricity sửa_mạch điện chập
+__label__electronic chạy phát ra tiếng rất quạt to
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__medical thời_tiết thay_đổi hay mỗi đau_đầu
+__label__water khắc phục vòi_sen tắm càng nhanh càng tốt
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity điện ổ_cắm hỏng
+__label__medical tôi khỏe y_tế cảm thấy tôi trợ giúp về
+__label__electricity pha tìm sửa tủ điện
+__label__medical bệnh tôi bác_sĩ tôi
+__label__water thông cống nghẹt toilet, bể phốt, chậu rửa, thoát sàn, các loại đường cống ngầm.
+__label__electricity Tôi biết cách bắt bóng điện này như thế nào cả, ai thể giúp tôi
+__label__water thợ tôi tìm sửa ống_nước
+__label__electricity ổ_cắm hỏng điện
+__label__electricity tôi sửa hư điện tôi
+__label__electronic Máy_giặt kêu tiếng_ồn
+__label__electricity thợ sửa điện
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic phát ra tiếng to chạy rất quạt
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity mạch sửa điện hỏng
+__label__medical ghẻ phỏng sao để chữa khỏi vậy
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__medical tôi đang vấn_đề về sức_khỏe y_tế
+__label__water máy_bơm lỗi, bơm lên
+__label__electronic phát ra tiếng rất chạy to quạt
+__label__water sửa chữa đường ống vọi hư hỏng
+__label__electricity hỏng ổ_cắm điện
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity sửa mạch điện chập
+__label__electricity hư tìm thợ sửa điện
+__label__electricity tôi tôi sửa hư điện
+__label__medical Môi tôi rát, lở loét vài chỗ, bác_sĩ kiểm_tra
+__label__water thợ sửa_chữa khắc phục ống PPR
+__label__water vấn_đề gặp đường_ống ống sửa thợ tìm
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__medical sức_khỏe y_tế hỗ_trợ
+__label__medical từ tối tôi nôn_mửa liên_tục, biết phải ngộ_độc ko
+__label__water rò_rỉ âm tường, thợ dò_tìm
+__label__water vòi_sen rỉ một sửa_chữa
+__label__water cống tắc thể sửa_chữa điện hỗ_trợ ngay lập tức
+__label__water khoan, cắt, đục âm tường hệ_thống dây điện, dây cáp, ống nước,… mới, cũ.
+__label__medical thường_xuyên trẻ đau_lưng mặc_dù vẫn còn
+__label__electricity hỏng mạch điện sửa
+__label__electronic chạy phát ra rất to quạt tiếng
+__label__water sửa chữa đường ống vòi gãy
+__label__water hỗ trợ sửa chữa phễu thu sàn
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electricity hỏng điện sửa nhà tôi
+__label__water thông nghẹt đường ống nước, thông ống thoát thải, thông lavabo, thông chậu rửa chén, thông bồn cầu, thông cống nghẹt
+__label__electronic Chế_độ swing điều_hòa hỏng
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__medical thường_xuyên trẻ đau_lưng mặc_dù vẫn còn
+__label__electronic ra tiếng to phát rất quạt chạy
+__label__electricity ổ_cắm điện hỏng
+__label__electronic Máy hút bụi hỏng_hóc hiểu lý
+__label__electricity thợ sửa điện hư tìm
+__label__electricity bóng_đèn
+__label__electricity sửa mạch điện chập
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic nút lên nồi hư bật cơm_điện
+__label__electricity dây điện máy đun siêu tốc sau cắm khoảng 5-10p thì nóng, mùi khét, bên trong dây điện mùi khét, sửa trong mai.
+__label__electronic ra rất to phát tiếng quạt chạy
+__label__water bạn sử_dụng nước, chỗ ống nghẹt chạy ra cống thải được. hậu quả là cho nhà bạn ngập hoặc dám sử_dụng vì sợ tràn vào nhà.
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống
+__label__electronic máy_vi_tính nguồn sập
+__label__water đường ốm âm nền bục vỡ chảy lênh láng
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity Aptomat nhà tôi tự_động nhảy rất lần, thợ điện chuyên_môn sửa trong nay mai
+__label__electricity cháy công tơ điện
+__label__electricity đèn nhà tôi hoạt động
+__label__electricity Điện nhà tôi bỗng dung tắt biết lý do, tìm hiểu và khắc_phục
+__label__electricity Bóng đèn nhà tôi chập chờn, tìm thay mới
+__label__electricity điện hư sửa tìm thợ
+__label__electricity tủ điện sửa pha tìm
+__label__electricity mạch sửa điện chập
+__label__water sửa chữa phễu thu sàn
+__label__medical đầu đột ngột đau nhức liên tù tì, bác_sĩ nhà thăm khám và chữa trị
+__label__water sửa ống_nước hư
+__label__water sửa chữa các thiết vệ sinh ngay lập tức
+__label__medical tôi cảm thấy y_tế khỏe tôi trợ giúp về
+__label__medical thời_tiết thay_đổi hay mỗi đau_đầu
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__medical khỏi mặc_dù uống tôi lâu thuốc cảm
+__label__electricity sửa mạch hỏng điện
+__label__electricity mạch sửa điện chập
+__label__medical mỗi thời_tiết thay_đổi hay đau_đầu
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__medical hay mỗi thay_đổi đau_đầu thời_tiết
+__label__medical bác_sĩ tôi ốm
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__medical y_tế tôi cảm thấy về khỏe tôi trợ giúp
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity sửa tôi hư điện tôi
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__water ống_nước sửa hư
+__label__electricity sửa điện nhà tôi hỏng
+__label__water ống_nước sửa
+__label__medical trợ giúp về y_tế tôi cảm thấy tôi khỏe
+__label__medical y_tế tôi vấn_đề đang về sức_khỏe
+__label__electricity mạch sửa điện chập
+__label__electronic phát quạt chạy ra tiếng rất to
+__label__water sự_cố mục ống, biết nguyên_nhân
+__label__electronic rất to tiếng quạt chạy phát ra
+__label__medical tôi bệnh bác_sĩ tôi
+__label__electricity sửa mạch chập điện
+__label__water sửa chữa phễu thu sàn
+__label__water hư ống_nước sửa
+__label__electricity hư tôi sửa tôi điện
+__label__electricity mạch hỏng sửa điện
+__label__medical còn trẻ thường_xuyên vẫn đau_lưng mặc_dù
+__label__water sửa chữa đường ống vọi hư hỏng
+__label__electronic hư sửa máy_vi_tính trong
+__label__medical tôi bệnh tôi bác_sĩ
+__label__electricity hỏng sửa điện người_nhà tôi
+__label__electricity điện thợ sửa
+__label__water đường_ống_nước chậm chảy rò_rỉ
+__label__electricity hỏng sửa điện tôi nhà
+__label__medical tôi yếu sinh lý, cách nào khắc phục tình trạng này
+__label__electricity tủ điện pha sửa tìm
+__label__medical tôi trợ giúp y_tế cảm thấy khỏe tôi về
+__label__water ống_nước hư sửa
+__label__water cống tắc thông
+__label__electricity mạch sửa điện chập
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__water tư vấn, thiết_kế hệ_thống mới công trình điện nhà ở, chung cư, văn phòng,… trước bắt đầu khởi công xây dựng.
+__label__electricity thiết điện nhà tôi tự động ngắt, tôi biết nguyên nhân
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electronic đèn tủ_lạnh
+__label__medical y_tế hỗ_trợ sức_khỏe
+__label__medical đầu đột ngột đau nhức liên_tục ngừng nghỉ, bác_sĩ
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__medical y_tế sức_khỏe hỗ_trợ
+__label__water sửa chữa đường ống gãy vòi
+__label__electricity ổ_cắm điện hỏng
+__label__electricity chập sửa mạch điện
+__label__electronic khởi_động máy_vi_tính
+__label__electricity sửa mạch chập điện
+__label__water ống_nước hư sửa
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, tôi chuyên môn khắc phục
+__label__electricity pha điện tìm sửa tủ
+__label__medical bệnh tôi tôi bác_sĩ
+__label__electricity hư điện tìm thợ sửa
+__label__water tôi tìm thợ sửa ống_nước đướng ống hư
+__label__water sửa ống_nước hư
+__label__water giúp hàn ống PPR
+__label__medical khỏe tôi trợ giúp y_tế tôi cảm thấy về
+__label__electricity sửa tủ điện tìm pha
+__label__electricity hư sửa điện tìm thợ
+__label__electronic máy_vi_tính trong hư sửa
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__electronic nút lên bật nồi cơm_điện hư
+__label__electricity tìm sửa tủ điện pha
+__label__electronic máy_vi_tính khởi_động
+__label__electricity tủ điện pha sửa tìm
+__label__medical bác_sĩ tôi ốm
+__label__electricity tôi hư điện tôi sửa
+__label__medical lưng và đầu gối đau mỗi việc nặng
+__label__electronic nồi hư lên cơm_điện bật nút
+__label__electricity Bóng đèn nhà tôi chập_chờn, tìm thay mới
+__label__electricity sửa mạch điện hỏng
+__label__medical vấn_đề về sức_khỏe y_tế đang tôi
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity tôi sửa tôi điện hư
+__label__electricity mạch điện hỏng sửa
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__water dò_tìm rỉ
+__label__electricity sửa điện hư thợ tìm
+__label__electricity điện pha tìm tủ sửa
+__label__electricity sửa pha tìm tủ điện
+__label__electronic trong máy_vi_tính sửa hư
+__label__electronic to ra rất quạt chạy phát tiếng
+__label__electronic sửa trong máy_vi_tính hư
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity dây điện máy đun siêu tốc sau cắm khoảng 5-10p thì nóng, mùi khét, bên trong dây điện mùi khét, sửa trong mai.
+__label__water vấn_đề gặp đường_ống ống tìm thợ sửa
+__label__electricity tủ điện pha sửa tìm
+__label__electricity mạch sửa điện hỏng
+__label__electricity sửa điện nhà tôi hỏng
+__label__water sự hỗ trợ vòi
+__label__medical về sức_khỏe y_tế tôi vấn_đề đang
+__label__electricity Tôi lắp hệ_thống đèn led trong gia_đình
+__label__electricity mạch sửa điện hỏng
+__label__electricity sửa điện nhà tôi hỏng
+__label__water thợ sửa trong chúng_tôi tìm ống
+__label__electronic sửa máy_vi_tính trong hư
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__medical sức_khỏe tôi về y_tế đang vấn_đề
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical sức_khỏe tôi về y_tế đang vấn_đề
+__label__electricity tôi điện sửa hư tôi
+__label__medical tôi ho và sốt liên_tục sự trợ_giúp từ bác_sĩ
+__label__water tìm sửa ống_nước trong chúng_tôi thợ
+__label__medical tôi ốm bác_sĩ
+__label__electronic máy_vi_tính hư trong sửa
+__label__medical bác_sĩ tôi bệnh tôi
+__label__medical hay thay_đổi đau_đầu mỗi thời_tiết
+__label__electricity hư tìm thợ sửa điện
+__label__medical sức_khỏe y_tế về tôi đang vấn_đề
+__label__medical trợ giúp về y_tế tôi khỏe tôi cảm thấy
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__medical Da tôi nổi ban đỏ, ngứa ngáy liên_hồi
+__label__water sửa chữa đường ống vòi đứt đoạn
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity pha điện tìm sửa tủ
+__label__water dò_tìm rỉ
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__medical đau lưng vẫn còn trẻ thường_xuyên mặc_dù
+__label__electricity đèn nhà tôi hoạt động ổn định
+__label__electricity hỏng sửa điện nhà tôi
+__label__water chậm chảy rò_rỉ đường_ống_nước
+__label__water thợ xử lí máy bơm hoạt_động, hay hoạt_động bơm lên nước.
+__label__medical da bỗng_dưng nổi vết đỏ, tôi nghĩ tôi dị ứng, bác_sĩ điểm kiểm_tra
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical tôi về y_tế tôi khỏe trợ giúp cảm thấy
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical lâu khỏi mặc_dù uống tôi cảm thuốc
+__label__medical vẫn còn thường_xuyên mặc_dù trẻ đau lưng
+__label__electricity hư điện sửa tôi tôi
+__label__water sửa ống_nước hư
+__label__water thông cấp đường ống cấp ngay bây giờ
+__label__electricity tủ pha sửa điện tìm
+__label__electricity hỏng ổ_cắm điện
+__label__electronic trong máy_vi_tính hư sửa
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống_nước
+__label__medical Da tôi nổi ban đỏ, ngứa ngáy liên_hồi
+__label__water tìm thợ sửa ống_nước trong chúng_tôi
+__label__electricity hỏng ổ_cắm điện
+__label__water hư đường_ống_nước tôi tìm thợ
+__label__water sửa ống_nước hư
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__water tìm sửa ống_nước đường_ống hư
+__label__electricity pha tìm sửa tủ điện
+__label__electricity Bóng đèn nhà tôi gì mà hoạt động bình thường
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic trong máy_vi_tính sửa hư
+__label__medical vẫn trẻ thường_xuyên mặc_dù còn đau lưng
+__label__electronic ra rất to phát tiếng quạt chạy
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical bác_sĩ tôi tôi bệnh
+__label__medical sức_khỏe y_tế hỗ_trợ
+__label__medical bác_sĩ tôi bệnh tôi
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electricity Cần sửa chữa mạch_điện âm tường
+__label__water thông cấp đường ống cấp trong buổi
+__label__electronic rất to ra tiếng quạt chạy phát
+__label__electricity cháy công tơ điện
+__label__electricity hỏng ổ_cắm điện
+__label__electricity hỏng ổ_cắm điện
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__medical y_tế sức_khỏe tôi đang vấn_đề về
+__label__water máy_bơm lỗi bơm
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity điện pha tủ tìm sửa
+__label__electronic Máy_giặt hoạt_động như mọi
+__label__medical trẻ thường_xuyên còn đau_lưng mặc_dù vẫn
+__label__electricity hỏng sửa điện nhà tôi
+__label__electricity tôi sửa tôi hư điện
+__label__electricity hỏng điện nhà tôi sửa
+__label__medical còn trẻ thường_xuyên đau_lưng vẫn mặc_dù
+__label__electronic tắt tivi tự_động
+__label__water ống_nước hư sửa
+__label__water đường_ống rò_rỉ chậm chảy
+__label__water nhận lắp đặt hệ thống bể nước, téc nước mới thay thế bồn nước téc nước cũ, nhận di chuyển bồn nước, téc nước sang vị trí khác
+__label__electricity chập sửa điện mạch
+__label__electronic ấm đun siêu_tốc đèn phải đợi nóng rồi mình tự đi tắt
+__label__medical tôi đang vấn_đề về sức_khỏe y_tế
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electronic máy_vi_tính khởi_động
+__label__electricity sửa điện hỏng nhà tôi
+__label__electricity sửa mạch điện hỏng
+__label__electronic tự_động tivi tắt
+__label__electronic hư trong máy_vi_tính sửa
+__label__medical lồng_ngực tôi lúc nào cũng kêu biết phải tôi corona
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electricity tủ pha tìm sửa điện
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__electricity sửa tôi điện hư tôi
+__label__water sửa ống_nước hư
+__label__medical về y_tế tôi vấn_đề sức_khỏe đang
+__label__electricity tủ điện pha tìm sửa
+__label__electricity tôi sửa tôi điện hư
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__medical đầu tự nhiên đau nhức liên_hồi, bác_sĩ nhà kiểm_tra
+__label__water trợ giúp thay_thế vòi trong toilet
+__label__electricity thợ điện hư tìm sửa
+__label__electricity hư điện tôi sửa tôi
+__label__electricity đèn nhà tôi chập_chờn, thiết_bị tự ngắt, khắc_phục
+__label__water máy_bơm phát ra âm_thanh to lớn
+__label__electronic trong sửa máy_vi_tính hư
+__label__medical lâu khỏi mặc_dù uống thuốc cảm tôi
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic hư sửa máy_vi_tính trong
+__label__electricity tôi tôi điện sửa hư
+__label__electronic quạt chạy phát ra tiếng rất to
+__label__electricity Cần lắp mạch điện cho gia đình, giá cả thương lượng
+__label__water thông cấp đường ống cấp trong
+__label__electricity Tôi lắp bộ báo cháy trong gia_đình
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__electronic nồi bật lên cơm_điện hư nút
+__label__electronic rất to quạt chạy phát ra tiếng
+__label__medical tôi tôi bệnh bác_sĩ
+__label__water nhận lắp_đặt đường ống nước, đi ống lạnh, nóng.
+__label__water tìm sửa ống_nước đường_ống hư
+__label__medical thay_đổi hay đau_đầu mỗi thời_tiết
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__water chúng_tôi tìm thợ sửa ống trong
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electronic tủ_lạnh đèn
+__label__electricity hư điện tôi sửa tôi
+__label__medical tôi ốm bác_sĩ
+__label__water lắp đặt hệ thống máy bơm nước gia đình mới, sửa máy bơm nước chạy, lên nước.. thay thế hệ thống ống nước máy bơm cũ lâu năm thành hệ thống ống nước mới.
+__label__electronic nguồn máy_vi_tính sập
+__label__medical hay thay_đổi đau_đầu mỗi thời_tiết
+__label__water sửa ống_nước trong chúng_tôi thợ tìm
+__label__medical thay_đổi hay thời_tiết đau_đầu mỗi
+__label__medical cảm lâu mặc_dù uống thuốc tôi khỏi
+__label__electronic Đầu karaoke hỏng_hóc, bật
+__label__medical trẻ thường_xuyên còn đau_lưng mặc_dù vẫn
+__label__electronic Xà_phòng vào máy_giặt
+__label__electricity bóng_đèn
+__label__water thông cấp đường ống cấp trong buổi tối
+__label__medical trẻ thường_xuyên còn đau_lưng mặc_dù vẫn
+__label__electricity Cách bắt bóng đèn này như thế nào vậy, tôi hỗ trợ
+__label__medical bác_sĩ tôi bệnh tôi
+__label__medical uống tôi cảm lâu khỏi mặc_dù thuốc
+__label__water trong chúng_tôi thợ ống tìm sửa
+__label__medical sức_khỏe hỗ_trợ y_tế
+__label__electronic máy_vi_tính sửa trong hư
+__label__electricity sửa hỏng mạch điện
+__label__electricity mạch điện chập sửa
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__medical Mắt tôi sau ngủ dậy bỗng đỏ, đau rát, sau thời gian vẫn hết
+__label__electricity mạch sửa điện chập
+__label__water thợ xử lí máy bơm hoạt_động, hay hoạt_động bơm lên nước.
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__medical tôi đang vấn_đề về sức_khỏe y_tế
+__label__electricity hỏng sửa điện tôi nhà
+__label__medical bệnh tôi tôi bác_sĩ
+__label__electronic máy_vi_tính trong hư sửa
+__label__medical ốm bác_sĩ tôi
+__label__electricity dây điện nhà tôi những con chuột phá hoạt cắn đứt
+__label__water chảy đường_ống chậm rò_rỉ
+__label__electricity hỏng mạch điện sửa
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity điện cháy tơ công
+__label__electricity điện tôi sửa hư tôi
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electronic máy_vi_tính hư trong sửa
+__label__electricity sửa mạch điện chập
+__label__water trong ống chúng_tôi tìm thợ sửa
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity trợ giúp thay thế cầu giao, cầu chị thay thế thiết điện trong gia đình
+__label__electricity ổ_cắm điện hỏng
+__label__medical tôi tôi cảm thấy khỏe trợ giúp về y_tế
+__label__electricity sửa tôi hư điện tôi
+__label__electronic trong máy_vi_tính sửa hư
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electricity đèn nhà tôi lúc tắt lúc bật
+__label__electronic tiếng rất ra to quạt chạy phát
+__label__electronic rất to quạt chạy phát ra tiếng
+__label__electricity thợ hư tìm sửa điện
+__label__electricity sửa thợ điện
+__label__electricity thợ sửa điện
+__label__electricity tủ điện pha tìm sửa
+__label__medical còn trẻ thường_xuyên vẫn đau_lưng mặc_dù
+__label__electronic máy_vi_tính khởi_động
+__label__electronic hư nút lên nồi bật cơm_điện
+__label__medical y_tế hỗ_trợ sức_khỏe
+__label__electricity sửa pha tìm tủ điện
+__label__medical khỏi mặc_dù uống thuốc lâu tôi cảm
+__label__water sự hỗ trợ thay_thế ống trong nhà
+__label__medical vẫn còn trẻ thường_xuyên mặc_dù đau lưng
+__label__electricity sửa mạch điện chập
+__label__electricity sửa mạch hỏng điện
+__label__electronic nguồn máy_vi_tính sập
+__label__electricity pha tìm sửa tủ điện
+__label__water thi_công lắp_đặt, sửa_chữa mới và cũ đường cấp và thoát nước.
+__label__medical tôi đang y_tế vấn_đề về sức_khỏe
+__label__electricity điện nhà tôi hỏng sửa
+__label__water vấn_đề gặp đường_ống ống sửa thợ tìm
+__label__electronic trong sửa máy_vi_tính hư
+__label__electricity ổ_cắm điện hỏng
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical cơ_thể đang khỏe_mạnh bỗng dung lạnh toát, mồ hôi chảy nhễ nhại, xanh xao
+__label__electricity điện tôi sửa tôi hư
+__label__medical tôi bác_sĩ ốm
+__label__electricity chập sửa mạch điện
+__label__water thông cầu nghẹt, thông cống nghẹt
+__label__electricity đèn nhà tôi hoạt động
+__label__water sửa_chữa và lắp_đặt ống pvc, hdpe
+__label__medical mỗi thời_tiết thay_đổi đau_đầu hay
+__label__medical đau lưng vẫn còn trẻ thường_xuyên mặc_dù
+__label__water sửa chữa thiết vệ sinh
+__label__electricity sửa mạch điện hỏng
+__label__medical tôi bệnh tôi bác_sĩ
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__medical cơ_thể đang khỏe bỗng dung mệt mỏi rõ nguyên_nhân
+__label__electricity tôi sửa điện nhà hỏng
+__label__water đường ốm âm nền bục vỡ chảy tràn lan
+__label__medical tôi bác_sĩ bệnh tôi
+__label__electricity tôi sửa hư điện tôi
+__label__medical sức_khỏe y_tế hỗ_trợ
+__label__electronic tủ_lạnh đèn
+__label__water đường_ống_nước chậm chảy rò_rỉ
+__label__electricity thợ sửa hư tìm điện
+__label__medical tôi đau nửa đầu biết tại_sao
+__label__electricity hỏng sửa điện tôi nhà
+__label__electricity sửa mạch điện hỏng
+__label__water sửa chữa đường ống hư hỏng vòi
+__label__water giúp đỡ về thay_thế sửa_chữa phao cơ phao điện
+__label__electricity Aptomat nhà tôi thường nhảy số rõ nguyên nhân
+__label__electricity Cần giúp sức khắc phục thiết điện trong nhà hư hỏng
+__label__medical vấn_đề sức_khỏe y_tế tôi về đang
+__label__electricity sửa chập_mạch điện
+__label__electricity tôi hỏng sửa điện nhà
+__label__electricity hư điện sửa tôi tôi
+__label__medical thời_tiết thay_đổi hay đau_đầu mỗi
+__label__electricity tơ công_điện cháy
+__label__electricity sửa điện hỏng nhà tôi
+__label__electronic Chế_độ nướng lò_vi_sóng hoạt_động
+__label__medical bác_sĩ tôi ốm
+__label__medical tôi bệnh bác_sĩ tôi
+__label__electricity hư điện tôi sửa tôi
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__medical tôi trợ giúp về y_tế khỏe tôi cảm thấy
+__label__electricity sửa mạch điện chập
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic sửa trong máy_vi_tính hư
+__label__water vấn_đề gặp tìm thợ sửa ống_nước đường_ống
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity sửa tôi tôi hư điện
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity thợ sửa điện hư tìm
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity chập sửa mạch điện
+__label__medical mặc_dù vẫn trẻ thường_xuyên đau lưng còn
+__label__electricity điện pha tìm sửa tủ
+__label__electronic phát ra rất to chạy tiếng quạt
+__label__electricity dây điện nhà tôi chuột cắn đứt, sửa
+__label__electricity điện nhà tôi hỏng, sửa
+__label__water máy_bơm hoạt_động yên_tĩnh
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical sức_khỏe tôi đang vấn_đề về y_tế
+__label__water tìm biết sửa ống_nước
+__label__electricity pha sửa tìm tủ điện
+__label__medical ốm tôi bác_sĩ
+__label__electronic nguồn máy_vi_tính sập
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__medical tôi về y_tế đang vấn_đề sức_khỏe
+__label__electronic chạy ra tiếng rất to quạt phát
+__label__electricity Cần khắc_phục thiết_bị điện mất nguồn
+__label__electronic Máy_giặt bình thường
+__label__electricity sửa mạch chập điện
+__label__electricity sửa tôi hư điện tôi
+__label__electronic sửa trong hư máy_vi_tính
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__electricity công cháy tơ điện
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, tôi chuyên_môn khắc_phục
+__label__electricity sửa mạch điện hỏng
+__label__water vấn_đề gặp tìm thợ sửa ống_nước đường_ống
+__label__electricity bóng_đèn
+__label__medical hay đau_đầu mỗi thời_tiết thay_đổi
+__label__electricity tìm pha sửa tủ điện
+__label__electronic bật nút lên nồi cơm_điện hư
+__label__medical ốm bác_sĩ tôi
+__label__electricity hư điện tôi sửa tôi
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity điện tôi sửa tôi hư
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__electronic Máy_giặt lỗi về giặt xả
+__label__electricity tôi sửa hư điện tôi
+__label__electricity thợ điện hư tìm sửa
+__label__water máy_bơm lỗi, bơm
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__electricity điện sửa thợ
+__label__electricity chập sửa mạch điện
+__label__electricity tôi tôi sửa hư điện
+__label__electronic bật nút nồi hư lên cơm_điện
+__label__electronic ra to quạt chạy phát tiếng rất
+__label__medical lưng và gối tôi đau chịu tôi tin rằng tôi đang thoái hóa khớp
+__label__water vòi điện lỗi hư hỏng nặng, trợ giúp
+__label__medical bác_sĩ tôi ốm
+__label__electricity sửa mạch điện chập
+__label__water phần động cơ máy bơm nóng, gây tốn điện năng.
+__label__electricity sửa mạch điện chập
+__label__electricity mạch điện chập sửa
+__label__electricity điện pha tủ tìm sửa
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__water máy_bơm hoạt_động bình_thường
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity hư tìm điện thợ sửa
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__electronic nút nồi cơm_điện hư bật lên
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity chập sửa mạch điện
+__label__medical bác_sĩ tôi ốm
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity pha tủ điện tìm sửa
+__label__medical thời_tiết hay đau_đầu mỗi thay_đổi
+__label__electricity sửa tôi hư điện tôi
+__label__medical nhà tôi tại bác_sĩ
+__label__medical tôi bác_sĩ tôi bệnh
+__label__water lắp_đặt, sửa máy bơm tăng áp, bơm đẩy cao, lắp máy giặt, máy nóng lạnh.
+__label__electronic Ngăn đông tủ_lạnh đá
+__label__water cống tắc chuyên_môn hỗ_trợ thông ngay lập tức
+__label__medical sức_khỏe hỗ_trợ y_tế
+__label__medical thường_xuyên đau_lưng mặc_dù vẫn còn trẻ
+__label__electricity dây điện máy đun siêu tốc sau cắm khoảng 5-10p thì nóng, mùi khét, bên trong dây điện mùi khét, sửa trong mai.
+__label__electronic máy_vi_tính hư sửa trong
+__label__electronic ra tiếng rất to chạy phát quạt
+__label__medical tôi bệnh tôi bác_sĩ
+__label__medical còn trẻ thường_xuyên vẫn đau_lưng mặc_dù
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electricity chập sửa mạch điện
+__label__medical khỏi uống thuốc tôi mặc_dù cảm lâu
+__label__medical đau nhức lồng_ngực nhiễm ncov phải
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity Aptomat nhà tôi thường nhảy số rõ nguyên nhân
+__label__medical vẫn thường_xuyên đau lưng mặc_dù còn trẻ
+__label__electronic máy_vi_tính nguồn sập
+__label__water sửa_chữa vòi_sen tắm càng nhanh càng tốt
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical tôi thuốc cảm lâu khỏi mặc_dù uống
+__label__electricity tủ điện pha tìm sửa
+__label__electricity sửa mạch điện chập
+__label__electricity điện hỏng nhà tôi sửa
+__label__electronic sửa trong máy_vi_tính
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__water chúng_tôi ống trong tìm thợ sửa
+__label__medical ho sốt liên_tục ngừng
+__label__electricity pha điện tìm sửa tủ
+__label__water thợ xử lí máy bơm hoạt_động, hay hoạt_động bơm lên nước.
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__electricity điện tìm thợ sửa hư
+__label__electricity sửa pha tìm tủ điện
+__label__electricity Bóng đèn nhà tôi chập chờn, tìm thay mới
+__label__medical cảm lâu khỏi mặc_dù uống tôi thuốc
+__label__water dò_tìm rò_rỉ âm tường, dưới nền nhà
+__label__electronic Tủ_lạnh 2 ngăn ngăn đông hoạt_động
+__label__electronic tivi tự_động tắt
+__label__electronic Tủ_lạnh 2 ngăn ngăn đông hoạt_động
+__label__water khắc phục vòi_sen tắm càng nhanh càng tốt
+__label__water sửa_chữa máy bơm dân dụng các loại, sửa máy bơm tăng áp, máy bơm đẩy cao dành cho gia đình, cơ quan….
+__label__electricity tôi sửa tôi hư điện
+__label__medical còn trẻ thường_xuyên vẫn đau_lưng mặc_dù
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electricity tôi sửa tôi hư điện
+__label__water nhà uống vì máy_bơm
+__label__water thợ chúng_tôi tìm sửa ống_nước trong
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__water máy_bơm hoạt_động yên_tĩnh
+__label__medical về tôi cảm thấy khỏe tôi trợ giúp y_tế
+__label__electricity Cần tìm hỗ trợ gấp, điện nhà tôi ngắt lý mặc dù đóng tiền điện đầy đủ
+__label__electronic tắt tự_động tivi
+__label__electronic to rất quạt chạy phát ra tiếng
+__label__electricity Tôi biết cách bắt bóng điện này như thế nào cả, ai thể giúp tôi
+__label__medical mặc_dù vẫn còn trẻ thường_xuyên đau lưng
+__label__electricity thợ điện sửa
+__label__medical tôi tôi bác_sĩ bệnh
+__label__electronic ra tiếng rất to phát quạt chạy
+__label__electricity sửa tủ điện pha tìm
+__label__electronic quạt chạy phát ra tiếng rất to
+__label__electricity sửa điện nhà tôi hỏng
+__label__water chúng_tôi sửa tìm thợ ống_nước trong
+__label__water đường_ống_nước rò_rỉ chậm chảy
+__label__electronic phát ra rất to chạy tiếng quạt
+__label__electricity Tôi lắp hệ_thống đèn led trong gia_đình
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity pha tìm sửa tủ điện
+__label__electricity pha tủ tìm sửa điện
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity sửa mạch điện chập
+__label__water thợ sửa_chữa hàn giúp ống PPR
+__label__water nhận lắp_đặt đường ống nước, đi ống lạnh, nóng.
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__water sửa máy_bơm
+__label__water linh kiện bên trong máy bơm chảy mùi khét khó chịu.
+__label__electronic bật nút lên nồi hư cơm_điện
+__label__water ống_nước sửa hư
+__label__electricity sửa điện sét đánh cháy ổ điện nhà tôi
+__label__water khắc phục máy_bơm hoạt_động
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, tôi chuyên_môn khắc_phục
+__label__water sửa chúng_tôi tìm thợ ống_nước trong
+__label__electronic bật lên nồi hư nút cơm_điện
+__label__electricity sửa tủ điện pha tìm
+__label__water trong chúng_tôi tìm thợ sửa ống_nước
+__label__electricity sửa mạch điện chập
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electronic máy xay sinh tố hoạt_động
+__label__medical đau lưng mặc_dù vẫn còn trẻ thường_xuyên
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical về sức_khỏe y_tế vấn_đề tôi đang
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity Cần tìm hiểu aptomat nhà tôi thường nhảy lý
+__label__electricity mạch điện chập sửa
+__label__electricity điện pha tủ tìm sửa
+__label__electricity mạch sửa điện hỏng
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic máy_vi_tính hư sửa trong
+__label__medical khỏi tôi cảm lâu mặc_dù uống thuốc
+__label__electricity điện hư tìm sửa thợ
+__label__electricity điện tôi sửa tôi hư
+__label__medical mặc_dù vẫn còn trẻ đau_lưng thường_xuyên
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa mạch điện chập
+__label__electricity bóng_đèn
+__label__medical tôi đau nửa đầu biết lý_do
+__label__electricity những con chuột cắn đứt những dây điện nhà tôi
+__label__electricity cháy công tơ điện
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electronic chạy quạt phát ra tiếng rất to
+__label__electricity dây điện nhà tôi những con chuột cắn đứt
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic Máy_giặt đóng cửa
+__label__medical tôi vấn_đề y_tế đang về sức_khỏe
+__label__electricity tôi điện sửa hư tôi
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electricity sửa tôi tôi hư điện
+__label__electricity hỏng sửa điện nhà tôi
+__label__medical bác_sĩ tôi tôi bệnh
+__label__water khắc phục vòi_sen tắm ngay lập tức
+__label__medical trẻ thường_xuyên còn đau_lưng mặc_dù vẫn
+__label__electronic tủ_lạnh đèn
+__label__water sửa chữa thiết vệ sinh càng nhanh càng tốt
+__label__electricity hỏng sửa điện nhà tôi
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__medical bác_sĩ tôi tại nhà
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__water sửa_chữa nhanh các sự cố tràn bồn chứa nước, mấy nước, yếu hay cặn bẩn.
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electronic hư máy_vi_tính sửa trong
+__label__electricity sửa tủ pha tìm điện
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electricity điện tôi tôi hư sửa
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity điện thợ sửa
+__label__water sự hỗ trợ thay_thế vòi trong phòng tắm
+__label__medical về tôi cảm thấy khỏe tôi trợ giúp y_tế
+__label__electricity sửa tôi tôi hư điện
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity cháy công tơ điện
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__medical vẫn còn trẻ thường_xuyên mặc_dù đau lưng
+__label__electricity sửa tủ điện pha tìm
+__label__water hư đường_ống sửa ống_nước tôi tìm
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic Cánh quạt điều_hòa quay
+__label__electricity tủ điện sửa pha tìm
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical tôi trợ giúp về y_tế khỏe tôi cảm thấy
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electricity hư điện tìm thợ sửa
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electronic rất to quạt chạy phát ra tiếng
+__label__electricity sửa mạch điện chập
+__label__electricity hỏng sửa điện nhà tôi
+__label__electronic sửa máy_vi_tính hư trong
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic hư nồi cơm_điện bật nút lên
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity hư điện sửa tôi tôi
+__label__water thông cống nghẹt cống_rãnh, thông cống nghẹt hầm_cầu.
+__label__medical còn thường_xuyên đau_lưng mặc_dù vẫn trẻ
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity sửa tôi tôi hư điện
+__label__water cống nghẹt sử_dụng
+__label__water ống_nước hư sửa
+__label__water vấn_đề tìm thợ sửa ống_nước tay nghề đường_ống gặp
+__label__water thợ sửa_chữa hàn giúp ống PPR
+__label__water nhận lắp đặt hệ thống nước nóng năng lượng mặt trời
+__label__water cống tắc thể sửa_chữa điện hỗ_trợ ngay lập tức
+__label__water tìm thợ sửa ống_nước trong
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__electronic máy_vi_tính trong hư sửa
+__label__electronic Máy_giặt bình thường
+__label__water sửa_chữa vòi_sen tắm càng nhanh càng tốt
+__label__electricity tủ điện pha sửa tìm
+__label__electronic máy_vi_tính trong hư sửa
+__label__electricity thợ sửa điện hư tìm
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__water thợ trợ_giúp xử_lý mùi hôi cống
+__label__medical tôi nhà bác_sĩ tại
+__label__water thông nghẹt ống
+__label__electricity sửa điện sét đánh cháy ổ điện nhà tôi
+__label__water sửa chữa những thiết vệ sinh ngay lập tức
+__label__electricity sửa mạch điện chập
+__label__electronic to quạt chạy phát ra tiếng rất
+__label__electricity hỏng sửa điện tôi nhà
+__label__electricity sửa điện tôi nhà hỏng
+__label__electronic tủ_lạnh đèn
+__label__medical mỗi thời_tiết hay đau_đầu thay_đổi
+__label__electricity tôi hỏng sửa điện nhà
+__label__electricity sửa hư thợ_điện tìm
+__label__electricity sửa tôi tôi hư điện
+__label__electronic tủ_lạnh đèn
+__label__electronic bật nút nồi hư lên cơm_điện
+__label__electronic rất to phát tiếng quạt chạy ra
+__label__electricity cháy công tơ điện
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__electricity Công_tắc điện nhà tôi sử dụng lâu, thay_thế
+__label__electricity mạch điện chập sửa
+__label__water vấn_đề gặp đường_ống ống sửa thợ tìm
+__label__electricity hỏng sửa điện nhà tôi
+__label__electricity hỏng sửa mạch điện
+__label__medical thời_tiết thay_đổi mỗi hay đau_đầu
+__label__electricity Cần giúp đỡ khắc phục thiết điện hư hỏng lý
+__label__electronic ra to quạt chạy phát tiếng rất
+__label__electricity sửa tủ điện pha tìm
+__label__water máy bơm hay khởi_động lâu, hoạt_động phát sinh tiếng ồn, khói bóc lên
+__label__water tìm thợ sửa ống trong chúng_tôi
+__label__electronic tủ_lạnh đèn
+__label__medical thời_tiết thay_đổi hay mỗi đau_đầu
+__label__medical uống tôi cảm lâu khỏi mặc_dù thuốc
+__label__electricity Cần lắp bộ bóng đèn + công_tắc trong gia_đình, giá cả thương_lượng
+__label__medical về y_tế trợ giúp tôi cảm thấy khỏe tôi
+__label__water thông cống nghẹt cống_rãnh, thông cống nghẹt hầm_cầu.
+__label__electricity công cháy tơ điện
+__label__water sửa_chữa, lắp_đặt thiết nhà_vệ_sinh, đường thải, sinh hoạt.
+__label__water đường ốm âm nền bục vỡ chảy cả
+__label__water thông cầu nghẹt, thông cống nghẹt
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__electronic Quần áo giặt bằng máy_giặt khô
+__label__electricity sửa điện nhà tôi hỏng
+__label__water sửa ống_nước chúng_tôi thợ trong tìm
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__medical mặc_dù uống thuốc tôi lâu khỏi cảm
+__label__water nhận lắp đặt hệ thống nước nóng năng lượng mặt trời
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__medical thường_xuyên còn trẻ đau_lưng mặc_dù vẫn
+__label__electricity bóng_đèn
+__label__medical thường_xuyên còn trẻ đau_lưng mặc_dù vẫn
+__label__electricity điện mạch chập sửa
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__water sửa ống_nước hư
+__label__electricity sửa mạch điện hỏng
+__label__electronic Chế_độ hẹn giờ điều_hòa chán nản, gì cả
+__label__water sửa ống nóng máy năng lượng mặt trời, hàn ống nóng ppr
+__label__electricity sửa mạch hỏng điện
+__label__water chảy rò_rỉ đường_ống chậm
+__label__electronic chạy phát ra rất to quạt tiếng
+__label__electricity Tôi lắp ổ_cắm điện nổi
+__label__electricity sửa tôi hư điện tôi
+__label__water lắp_đặt, thay van vòi_nước, bộ xịt nhà_vệ_sinh, vòi_nước nóng lạnh, dây cấp thoát thiết vệ sinh,…
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electronic Loa paramax âm_thanh còn như ban đầu nữa
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__electricity hư tìm điện thợ sửa
+__label__medical Mặt mày bỗng xanh xao, đứng dậy đầu óc quay cuồng, thấy đường sau 5-10 giây mới ổn định, bác_sĩ nhà chẩn đoán và cho thuốc
+__label__electricity chập sửa mạch điện
+__label__electricity điện sửa nhà tôi hỏng
+__label__water dò_tìm rỉ
+__label__electricity sửa mạch chập điện
+__label__water chậm đường_ống_nước chảy rò_rỉ
+__label__electricity hỏng sửa mạch điện
+__label__electricity sửa tôi tôi hư điện
+__label__medical khỏe tôi trợ giúp về y_tế cảm thấy tôi
+__label__electricity điện mạch hỏng sửa
+__label__water ống_nước hư sửa
+__label__water chúng_tôi thợ tìm sửa ống_nước trong
+__label__electronic máy_vi_tính khởi_động
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electricity hỏng ổ_cắm điện
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__water sửa ống_nước hư
+__label__water chúng_tôi sửa trong tìm thợ ống_nước
+__label__electronic hư trong máy_vi_tính sửa
+__label__electricity sửa tìm tủ điện pha
+__label__water sự_cố mục ống, biết nguyên_nhân
+__label__electricity công tơ điện cháy
+__label__electricity mạch điện chập sửa
+__label__electronic máy_vi_tính khởi_động
+__label__electricity sửa điện hư thợ tìm
+__label__electricity tôi sửa tôi điện hư
+__label__electronic sửa trong máy_vi_tính
+__label__electricity sửa thợ điện
+__label__electricity sửa điện hỏng nhà tôi
+__label__water ống_nước hư sửa
+__label__medical đau nhức lồng_ngực nhiễm ncov phải
+__label__medical tôi tôi bệnh bác_sĩ
+__label__electricity mạch điện hỏng sửa
+__label__water sửa vòi xịt toilet hoạt_động
+__label__electricity sửa tôi điện hư tôi
+__label__water ống_nước trong chúng_tôi sửa tìm thợ
+__label__electricity mạch điện chập sửa
+__label__medical tôi bệnh tôi bác_sĩ
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity sửa mạch điện chập
+__label__electricity điện thợ sửa
+__label__electricity tôi hỏng điện nhà sửa
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electricity chập sửa mạch điện
+__label__electronic máy xay sinh tố hoạt_động
+__label__water ống_nước sửa hư
+__label__medical khỏi mặc_dù uống tôi thuốc cảm lâu
+__label__electricity hỏng ổ_cắm điện
+__label__water tư vấn, thiết_kế hệ_thống mới công trình điện nhà ở, chung cư, văn phòng,… trước bắt đầu khởi công xây dựng.
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electronic rất quạt chạy phát ra tiếng to
+__label__electricity điện cháy công tơ
+__label__water trong chúng_tôi thợ ống tìm sửa
+__label__electricity đèn nhà tôi hoạt động ổn định
+__label__water sửa ống_nước hư
+__label__electricity sửa mạch điện hỏng
+__label__water vô tình khoan lủng ống, hỗ trợ thay_thế
+__label__water lắp_đặt bồn chứa nước, lắp phao chống tràn, rơ le điện, vệ sinh bồn nước, bể gia đình.
+__label__water chúng_tôi ống trong tìm thợ sửa
+__label__electricity hư điện tôi tôi sửa
+__label__electronic Tủ_lạnh lạnh mặc_dù cắm điện đầy đủ
+__label__electricity sửa tôi hư điện tôi
+__label__electricity tôi sửa tôi điện hư
+__label__electricity mạch điện chập sửa
+__label__electricity hỗ trợ thay_thế cầu chì, thiết_bị điện trong nhà
+__label__electronic tivi tự_động tắt
+__label__water chảy chậm rò_rỉ đường_ống
+__label__water ống_nước trong sửa chúng_tôi tìm thợ
+__label__water mục ống biết đâu mà ra
+__label__electronic phát ra tiếng rất to chạy quạt
+__label__medical đầu tự nhiên đau nhức liên_hồi, bác_sĩ nhà thăm khám và điều_trị
+__label__water sửa chữa các thiết vệ sinh càng nhanh càng tốt
+__label__medical trẻ thường_xuyên vẫn còn đau_lưng mặc_dù
+__label__water thi_công, cải_tạo hệ_thống cấp thoát hộ gia đình, cơ quan, công_ty
+__label__electricity điện pha tủ tìm sửa
+__label__electronic Điều_hòa phả ra hơi nóng
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__electricity sửa tôi hư điện tôi
+__label__electricity tôi tôi sửa hư điện
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__water đội ngũ thợ chuyên sửa_chữa linh kiện máy bơm uy tín, chất lượng.
+__label__medical tôi bác_sĩ tôi bệnh
+__label__medical tôi cảm thấy khỏe tôi trợ giúp về y_tế
+__label__electricity hỏng điện nhà tôi sửa
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electricity tìm sửa tủ điện pha
+__label__electricity sửa tủ điện pha tìm
+__label__electronic ra tiếng rất to phát quạt chạy
+__label__electricity tìm thợ sửa điện hư
+__label__electronic Lò_vi_sóng còn nóng nữa
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa điện hỏng nhà tôi
+__label__electricity ổ_cắm điện hỏng
+__label__water sửa ống_nước hư
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống_nước
+__label__electricity cầu chì nhà tôi tự động ngắt sự cố điện, cung cấp giải pháp
+__label__water sửa chữa đường ống hư van
+__label__water chuyên nhận sửa_chữa máy bơm pha, sửa máy bơm 3 pha chuyên nghiệp.
+__label__medical tôi y_tế cảm thấy khỏe tôi trợ giúp về
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity mạch sửa điện hỏng
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical đau lưng mặc_dù vẫn còn trẻ thường_xuyên
+__label__water chuyên nhận sửa_chữa máy bơm pha, sửa máy bơm 3 pha chuyên nghiệp.
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__electricity dây điện nhà tôi chuột cắn đứt, sửa
+__label__medical hay thay_đổi đau_đầu mỗi thời_tiết
+__label__electronic hư nút lên nồi bật cơm_điện
+__label__water lắp_đặt hệ_thống ngăn mùi, xử_lý triệt để mùi hôi nhà_vệ_sinh.
+__label__electricity điện hư sửa tìm thợ
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic sửa máy_vi_tính hư trong
+__label__water vấn_đề tìm thợ sửa ống_nước trình độ đường_ống gặp
+__label__electricity điện tôi sửa hư tôi
+__label__electricity Tôi lắp hệ_thống đèn led trong gia_đình
+__label__water nhận thông tắc cầu cống nghẹt, thông bồn cầu, lavabo, thông tắc nhà_vệ_sinh, bồn tắm,…
+__label__electronic tự_động tivi tắt
+__label__medical bác_sĩ tại tôi nhà
+__label__electricity sửa mạch điện hỏng
+__label__medical đau_đầu hay mỗi thời_tiết thay_đổi
+__label__medical tôi y_tế đang vấn_đề về sức_khỏe
+__label__electricity hỏng sửa điện tôi nhà
+__label__electricity hỏng sửa điện tôi nhà
+__label__water chảy đường_ống_nước chậm rò_rỉ
+__label__electricity hỗ trợ thay thế cầu chì, thiết điện trong nhà
+__label__water đường ống âm nền bục vỡ khiến chảy lênh láng
+__label__electricity cháy công_điện tơ
+__label__electricity tôi hư điện tôi sửa
+__label__electronic tủ_lạnh đèn
+__label__water sửa chữa đường ống hư van
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electricity mạch sửa điện chập
+__label__electronic máy_vi_tính hư sửa trong
+__label__water tư vấn, lắp_đặt máy lạnh điều hòa các hãng daikin, lg, panasonic,.. đi âm tường đường ống đồng cung cấp khí ga bảo đảm thẩm mỹ và an toàn.
+__label__medical về y_tế tôi trợ giúp cảm thấy khỏe tôi
+__label__medical khỏe trợ giúp về y_tế tôi tôi cảm thấy
+__label__electronic bình lọc dây_nóng hoạt_động
+__label__electricity sửa mạch chập điện
+__label__electronic máy_vi_tính hư sửa trong
+__label__electricity sửa điện tôi hỏng nhà
+__label__medical lưng và khớp gối vấn đề mỗi bưng hàng nặng
+__label__electricity bóng_đèn
+__label__medical mặc_dù uống thuốc tôi khỏi cảm lâu
+__label__electricity pha tủ tìm sửa điện
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electronic Dây máy quạt hư
+__label__electricity tôi sửa tôi điện hư
+__label__electricity cháy công tơ điện
+__label__electricity pha tìm sửa tủ điện
+__label__electricity hư tôi điện tôi sửa
+__label__medical vấn_đề về sức_khỏe tôi đang y_tế
+__label__water vòi điện lỗi hư hỏng nặng, trợ giúp
+__label__water chúng tôi nhận thông đường ống tắt_nghẽn. lưu thông, hay xuống yếu.
+__label__water chúng_tôi ống trong tìm thợ sửa
+__label__electricity sửa điện hỏng nhà tôi
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity điện hỏng nhà tôi sửa
+__label__electricity trợ giúp thay thế cầu giao, cầu chị thay thế thiết điện trong gia đình
+__label__electricity điện hỏng sửa nhà tôi
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__water đường ốm âm nền bục vỡ chảy liên tục
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic bật nồi cơm_điện hư nút lên
+__label__electronic tủ_lạnh đèn
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__water lắp_đặt, thay van vòi_nước, bộ xịt nhà_vệ_sinh, vòi_nước nóng lạnh, dây cấp thoát thiết vệ sinh,…
+__label__water thông cống nghẹt toilet, bể phốt, chậu rửa, thoát sàn, các loại đường cống ngầm.
+__label__electricity chập sửa mạch điện
+__label__electricity bóng_đèn
+__label__water lắp đặt hệ thống máy bơm nước gia đình mới, sửa máy bơm nước chạy, lên nước.. thay thế hệ thống ống nước máy bơm cũ lâu năm thành hệ thống ống nước mới.
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity hư điện tìm thợ sửa
+__label__electricity sửa hỏng điện nhà tôi
+__label__electronic máy_vi_tính khởi_động
+__label__electronic nồi hư lên cơm_điện bật nút
+__label__electricity điện cháy công tơ
+__label__water sửa ống_nước hư
+__label__electricity điện tôi sửa tôi hư
+__label__electricity tôi hỏng sửa điện nhà
+__label__medical đầu tự nhiên đau nhức liên_hồi, bác_sĩ nhà thăm khám và điều_trị
+__label__medical tôi bác_sĩ tại nhà
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__medical trợ giúp về y_tế tôi khỏe cảm thấy tôi
+__label__medical y_tế tôi cảm thấy khỏe tôi trợ giúp về
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electronic Lò_vi_sóng còn nóng nữa
+__label__electricity đèn nhà tôi lúc tắt lúc bật
+__label__electronic máy vi tính hư sửa trong
+__label__electricity Tôi lắp bộ báo cháy điện
+__label__electricity chập sửa mạch điện
+__label__medical bác_sĩ tôi tôi bệnh
+__label__electronic Chế_độ nướng lò_vi_sóng dùng
+__label__medical về tôi đang vấn_đề sức_khỏe y_tế
+__label__electronic hư bật lên nồi cơm_điện nút
+__label__electronic máy_vi_tính khởi_động
+__label__electronic hư bật nút nồi cơm_điện lên
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity sửa mạch điện chập
+__label__water nhận sửa_chữa công tắc, cầu dao khởi_động máy bơm nước.
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__water chậm rò_rỉ đường_ống_nước chảy
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity điện nhà tôi hỏng, sửa
+__label__water máy bơm hỏng công tắc, máy bơm vẫn hoạt_động nước,..
+__label__medical vẫn còn thường_xuyên mặc_dù trẻ đau lưng
+__label__electricity Nhà tôi ngập lụt, hỏng hết hệ_thống điện, kiểm tra ngay trong mai
+__label__water vô tình khoan lủng ống, hỗ trợ thay_thế
+__label__electronic tivi tự_động tắt
+__label__electronic máy_vi_tính trong hư sửa
+__label__electronic máy_vi_tính sửa hư trong
+__label__water vấn_đề gặp đường_ống tìm thợ sửa ống
+__label__electricity chập sửa mạch điện
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electronic Loa paramax âm_thanh còn như ban đầu nữa
+__label__electronic Điều_hòa còn lạnh nữa
+__label__water rò_rỉ đường_ống chậm chảy
+__label__medical cơ_thể đang khỏe bỗng dung mệt mỏi rõ nguyên_nhân
+__label__electricity mạch điện chập sửa
+__label__electricity bóng_đèn
+__label__electricity sửa mạch chập điện
+__label__electricity pha tìm điện sửa tủ
+__label__electricity tôi sửa hư điện tôi
+__label__electronic lên nồi cơm_điện hư bật nút
+__label__water sửa ống_nước trong chúng_tôi tìm thợ
+__label__water vấn_đề tìm thợ sửa ống_nước giỏi đường_ống gặp
+__label__water ống_nước hư sửa
+__label__electricity hỏng ổ_cắm điện
+__label__electronic sập máy_vi_tính nguồn
+__label__medical bác_sĩ tôi ốm
+__label__medical tôi đang y_tế vấn_đề về sức_khỏe
+__label__medical bác_sĩ tôi ốm
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__water sửa_chữa, thay_thế các thiết ngành nước: gãy vòi, hỏng van, xi phông, vòi_sen, vòi chậu, lavabo……
+__label__water tôi tìm thợ ống_nước
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity sửa_mạch điện hỏng
+__label__water nhận sửa_chữa đường ống rò_rỉ.
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electronic Đầu karaoke chạy mặc_dù bật lần
+__label__water sửa chữa thiết vệ sinh ngay lập tức
+__label__water đường ốm âm nền bục vỡ chảy xuyên suốt
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic Lò_vi_sóng còn nóng nữa
+__label__electricity sửa mạch điện chập
+__label__electricity cháy công tơ điện
+__label__electronic phát ra tiếng rất chạy to quạt
+__label__electricity chập sửa mạch điện
+__label__electricity hỏng sửa điện nhà tôi
+__label__electricity sửa tôi hư điện tôi
+__label__electronic tivi tắt tự_động
+__label__electronic đèn tủ_lạnh
+__label__electronic sửa trong máy_vi_tính hư
+__label__water vấn_đề gặp đường_ống ống tìm thợ sửa
+__label__electricity Cần tìm hỗ trợ gấp, điện nhà tôi ngắt lý mặc dù đóng tiền điện đầy đủ
+__label__water chậm rò_rỉ đường_ống_nước chảy
+__label__electronic hư sửa trong máy_vi_tính
+__label__water đường_ống chảy rò_rỉ chậm
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electronic lên nồi hư cơm_điện bật nút
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electricity sửa mạch điện chập
+__label__medical khỏi mặc_dù uống thuốc tôi lâu cảm
+__label__electricity nhà điện tôi hỏng sửa
+__label__electricity sửa tủ điện pha tìm
+__label__electronic Máy_giặt phát ra tạp_âm nghe
+__label__electronic Chế_độ swing điều_hòa hỏng
+__label__electricity sửa_mạch điện hỏng
+__label__electricity sửa điện thợ hư tìm
+__label__electricity sửa tôi hư điện tôi
+__label__electronic Đầu karaoke hỏng_hóc, bật
+__label__electronic Máy_giặt bỏ xà_phòng vào
+__label__electricity sửa điện nhà hỏng tôi
+__label__electricity tôi hỏng sửa điện nhà
+__label__electricity tìm pha sửa tủ điện
+__label__electronic trong máy_vi_tính sửa hư
+__label__water trợ giúp thay_thế vòi trong toilet
+__label__electronic tủ_lạnh đèn
+__label__electricity sửa điện hỏng nhà tôi
+__label__electricity sửa tôi hư điện tôi
+__label__electricity mạch sửa điện hỏng
+__label__electronic nút lên nồi hư bật cơm_điện
+__label__electricity Nhà tôi lắp hệ_thống đèn chiếu sáng, giá cả thương_lượng
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electricity điện tôi tôi hư sửa
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__electricity sửa mạch điện chập
+__label__electricity sửa tôi hư điện tôi
+__label__water sự_cố mục ống, biết lý_do
+__label__medical trợ giúp y_tế tôi về cảm thấy khỏe tôi
+__label__electricity sửa điện hỏng nhà tôi
+__label__water sửa chữa những thiết vệ sinh càng nhanh càng tốt
+__label__electronic chạy phát ra tiếng rất quạt to
+__label__electricity điện cháy công tơ
+__label__water đường ốm âm nền bục vỡ chảy từ tối
+__label__medical thường_xuyên đau_lưng mặc_dù vẫn còn trẻ
+__label__electronic khởi_động máy_vi_tính
+__label__medical khỏe tôi trợ giúp về y_tế tôi cảm thấy
+__label__water thợ sửa ống_nước trong chúng_tôi tìm
+__label__medical nôn_mửa liên_tục ngừng, tụi tôi tin rằng mình ngộ_độc thức ăn
+__label__electricity mạch sửa điện chập
+__label__electricity sửa hư thợ_điện tìm
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity sửa mạch điện chập
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__medical nhà tôi tại bác_sĩ
+__label__electricity sửa tôi điện tôi hư
+__label__electronic Quạt trần gần như rớt xuống sợ quá
+__label__medical tôi tôi y_tế cảm thấy khỏe trợ giúp về
+__label__electronic phát ra tiếng rất chạy to quạt
+__label__electricity sửa điện nhà hỏng tôi
+__label__electricity chập sửa mạch điện
+__label__electricity bóng_đèn
+__label__electricity mạch chập sửa điện
+__label__water lắp_đặt, sửa đường ống nóng lạnh tại nhà, hệ_thống cấp thoát gia đình, căn hộ,…
+__label__electricity hỏng sửa điện nhà tôi
+__label__electricity hư thợ_điện tìm sửa
+__label__water ống PPR lủng hàn giúp ống cho tôi
+__label__water sửa chữa các thiết vệ sinh càng nhanh càng tốt
+__label__electricity tôi sửa hư điện tôi
+__label__electronic máy_xay hoạt_động sinh_tố
+__label__water vấn_đề gặp đường_ống ống sửa tìm thợ
+__label__electricity sửa điện nhà tôi hỏng
+__label__medical trợ_giúp, lưng tôi đau liên_tục ngừng
+__label__water máy_bơm lỗi bơm
+__label__water máy_bơm phát ra âm_thanh to lớn
+__label__water máy_bơm kêu tiếng ồn, bơm lên
+__label__electricity pha điện tìm sửa tủ
+__label__electronic máy_vi_tính trong hư sửa
+__label__medical tôi vừa xuất_viện hôm nay thấy khỏe, tôi bác_sĩ
+__label__electricity mạch điện chập sửa
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity dây điện nhà tôi chuột cắn đứt, sửa
+__label__water lủng lổ ống biết lý_do
+__label__electricity pha tìm sửa tủ điện
+__label__medical lồng_ngực tôi đau nhói liên_hồi, bác_sĩ kiểm_tra
+__label__electricity điện sửa thợ
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__electricity chập sửa mạch điện
+__label__electronic bật nút lên hư nồi cơm_điện
+__label__medical đau lưng mặc_dù còn trẻ thường_xuyên vẫn
+__label__medical tôi bác_sĩ bệnh tôi
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical Tai tôi chảy mủ, đôi chảy máu ngoáy, bác_sĩ tư vấn điều_trị tại nhà
+__label__electronic Dây máy quạt hư
+__label__electricity sửa mạch điện chập
+__label__medical sức_khỏe y_tế về tôi đang vấn_đề
+__label__medical ốm bác_sĩ tôi
+__label__electronic máy_vi_tính nguồn sập
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__medical y_tế tôi cảm thấy khỏe tôi trợ giúp về
+__label__water thợ ống_nước trong chúng_tôi tìm sửa
+__label__water thợ xử_lý mùi hôi cống
+__label__electricity điện hư tìm sửa thợ
+__label__electricity tủ điện pha sửa tìm
+__label__electronic nguồn máy_vi_tính sập
+__label__electronic máy_vi_tính khởi_động
+__label__electricity tôi hỏng sửa nhà điện
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity cháy công tơ điện
+__label__medical y_tế tôi đang vấn_đề về sức_khỏe
+__label__electricity điện nhà tôi hỏng sửa
+__label__medical bác_sĩ ốm tôi
+__label__electricity tủ điện pha tìm sửa
+__label__medical mặc_dù vẫn còn trẻ thường_xuyên đau lưng
+__label__electronic trong máy_vi_tính hư sửa
+__label__electricity công tơ điện cháy
+__label__electricity sửa điện hỏng nhà tôi
+__label__electricity chập sửa mạch điện
+__label__electricity pha tìm sửa tủ điện
+__label__electricity tôi sửa tôi hư điện
+__label__electricity Cần tìm hiểu aptomat nhà tôi thường nhảy lý
+__label__medical vấn_đề về sức_khỏe tôi đang y_tế
+__label__medical tôi bác_sĩ tôi bệnh
+__label__electricity sửa hư thợ_điện tìm
+__label__electricity điện sửa nhà tôi hỏng
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic hư sửa trong máy_vi_tính
+__label__electricity sửa tôi hư điện tôi
+__label__electricity tôi hỏng sửa điện nhà
+__label__water ống_nước trong chúng_tôi tìm sửa thợ
+__label__electronic phát ra tiếng rất to quạt chạy
+__label__medical trợ giúp tôi cảm thấy khỏe tôi về y_tế
+__label__electricity điện hư tìm thợ sửa
+__label__medical tôi bác_sĩ ốm
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electricity thợ sửa điện tìm hư
+__label__water chậm chảy rò_rỉ đường_ống
+__label__electronic quạt to chạy phát ra tiếng rất
+__label__electronic sửa trong máy_vi_tính hư
+__label__electronic máy_vi_tính khởi_động
+__label__electronic hư bật nút nồi lên cơm_điện
+__label__electronic tủ_lạnh đèn
+__label__electricity điện hư sửa tìm thợ
+__label__water máy_bơm hoạt_động bình_thường
+__label__water hàn ống chịu nhiệt gấp, sửa ngay
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__medical bác_sĩ tôi ốm
+__label__water vấn_đề tìm thợ sửa ống_nước trình độ cao đường_ống gặp
+__label__water ống PPR lủng, hàn giúp
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__medical hỗ_trợ sức_khỏe y_tế
+__label__water cống nghẹt sử_dụng
+__label__medical tôi trợ giúp về y_tế tôi khỏe cảm thấy
+__label__electronic hư sửa trong máy_vi_tính
+__label__water trong chúng_tôi sửa ống tìm thợ
+__label__water khắc phục máy_bơm hư
+__label__electricity pha tìm sửa tủ điện
+__label__electricity Tôi lắp bộ báo cháy điện
+__label__electricity tôi sửa tôi điện hư
+__label__electricity cháy công tơ điện
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__electronic bật nồi cơm_điện hư nút lên
+__label__electronic tủ_lạnh đèn
+__label__electricity điện sửa nhà tôi hỏng
+__label__water ống_nước chúng_tôi sửa trong tìm thợ
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__medical y_tế sức_khỏe tôi đang vấn_đề về
+__label__medical khỏe tôi về y_tế tôi trợ giúp cảm thấy
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electricity cháy công_điện tơ
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity tôi sửa tôi điện hư
+__label__medical cảm lâu khỏi mặc_dù uống thuốc tôi
+__label__electricity Cần tìm hỗ trợ gấp, điện nhà tôi ngắt lý mặc dù đóng tiền điện đầy đủ
+__label__medical trợ giúp về tôi tôi y_tế cảm thấy khỏe
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electricity mạch chập sửa điện
+__label__water vấn_đề tìm thợ sửa ống_nước giỏi đường_ống gặp
+__label__electricity chập mạch điện sửa
+__label__electronic đèn tủ_lạnh
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity hỏng sửa điện tôi nhà
+__label__electricity tôi sửa tôi điện hư
+__label__water sửa ống_nước
+__label__medical bệnh tôi bác_sĩ tôi
+__label__electronic bật nút nồi hư lên cơm_điện
+__label__electricity pha tìm sửa tủ điện
+__label__water ống_nước sửa hư
+__label__electricity công_điện cháy tơ
+__label__electronic máy_vi_tính nguồn sập
+__label__electricity sửa mạch điện chập
+__label__medical tôi mới xuất_viện vẫn cảm thấy khỏe, y_tá
+__label__medical khỏi tôi cảm lâu mặc_dù uống thuốc
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic Lò_vi_sóng quay
+__label__water trong chúng_tôi ống tìm thợ sửa
+__label__electronic chạy phát tiếng rất to quạt ra
+__label__electricity sửa tủ điện pha tìm
+__label__water sự hỗ trợ vòi
+__label__electricity giúp sức sửa chữa đồ điện, trời mưa nên điện vấn đề
+__label__electricity tôi hỏng sửa điện nhà
+__label__medical Môi tôi rát, lở loét vài chỗ, bác_sĩ kiểm_tra
+__label__electricity tôi hư điện tôi sửa
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity tôi hỏng sửa điện nhà
+__label__water rò_rỉ đường_ống_nước chậm chảy
+__label__electronic tivi tắt tự_động
+__label__water đường ốm âm nền bục vỡ chảy từ tối
+__label__medical khỏi mặc_dù uống thuốc tôi cảm lâu
+__label__water tìm thợ sửa ống_nước trong
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__water tìm thợ sửa ống_nước trong chúng_tôi
+__label__electricity mạch điện chập sửa
+__label__medical tôi cảm lâu khỏi mặc_dù uống thuốc
+__label__electronic nút lên nồi cơm_điện bật hư
+__label__electricity điện pha tủ tìm sửa
+__label__medical mỗi thời_tiết thay_đổi hay đau_đầu
+__label__electronic bật nút lên nồi cơm_điện hư
+__label__electricity hỏng ổ_cắm điện
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic hư bật nút nồi lên cơm_điện
+__label__water sửa_chữa vòi_sen tắm càng nhanh càng tốt
+__label__electricity Cần lắp mạch_điện cho gia_đình, giá cả thương_lượng
+__label__water chậm chảy đường_ống_nước rò_rỉ
+__label__electricity pha điện tìm sửa tủ
+__label__electronic sửa máy_vi_tính trong hư
+__label__water chúng_tôi tìm thợ sửa ống_nước trong
+__label__electricity điện hư tìm sửa thợ
+__label__electricity công cháy tơ điện
+__label__water trong chúng_tôi sửa tìm thợ ống
+__label__electricity sửa mạch điện chập
+__label__electronic sập máy_vi_tính nguồn
+__label__electronic lên nồi bật cơm_điện hư nút
+__label__electricity sửa mạch điện chập
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity điện nhà tôi hỏng sửa
+__label__medical hay thay_đổi đau_đầu mỗi thời_tiết
+__label__electronic Chế_độ hẹn giờ điều_hòa chán nản, gì cả
+__label__electronic hoạt_động sinh_tố máy_xay
+__label__medical cơ_thể bỗng dung lạnh, xanh xao, bác_sĩ hỗ trợ điều_trị
+__label__electronic trong máy_vi_tính sửa hư
+__label__water sửa ống_nước hư
+__label__medical tôi cảm thấy khỏe tôi trợ giúp về y_tế
+__label__electronic trong máy_vi_tính sửa hư
+__label__medical hỗ_trợ y_tế sức_khỏe
+__label__electricity điện nhà tôi hỏng, sửa
+__label__electricity cầu chì nhà tôi cháy, tôi ngắt điện trong nhà, khả năng khắc phục
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity chập sửa mạch điện
+__label__electricity hư điện tôi sửa tôi
+__label__water sửa chữa đường ống vòi đứt đoạn
+__label__electricity pha tìm điện sửa tủ
+__label__electricity mạch sửa điện hỏng
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__medical thời_tiết hay đau_đầu mỗi thay_đổi
+__label__medical tôi bác_sĩ ốm
+__label__electronic rất to phát tiếng quạt chạy ra
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical cơ_thể đang khỏe bỗng dung mệt biết lý_do
+__label__electronic máy_vi_tính khởi_động
+__label__electricity sửa mạch điện hỏng
+__label__electronic đèn tủ_lạnh
+__label__electricity điện sửa nhà tôi hỏng
+__label__electronic máy_vi_tính sập nguồn
+__label__electricity tôi sửa tôi hư điện
+__label__electricity tủ điện sửa pha tìm
+__label__medical y_tế tôi tôi về cảm thấy khỏe trợ giúp
+__label__electricity sửa tôi hư điện tôi
+__label__medical y_tế tôi sức_khỏe đang vấn_đề về
+__label__electricity điện pha tủ tìm sửa
+__label__medical tôi nhà bác_sĩ tại
+__label__medical ho sốt liên_tục ngừng
+__label__water khắc phục vòi_sen tắm càng nhanh càng tốt
+__label__water trong ống chúng_tôi tìm thợ sửa
+__label__electricity điện thợ sửa
+__label__medical bệnh tôi bác_sĩ tôi
+__label__electronic ra tiếng rất to phát quạt chạy
+__label__medical thời_tiết thay_đổi hay mỗi đau_đầu
+__label__electricity mạch điện chập sửa
+__label__electricity tôi tôi sửa hư điện
+__label__electricity hư tôi điện tôi sửa
+__label__water đường_ống_nước chậm chảy
+__label__electronic đèn tủ_lạnh
+__label__electronic lên nồi nút cơm_điện hư bật
+__label__electricity mạch sửa điện chập
+__label__electricity điện sửa tôi hư tôi
+__label__water tìm thợ sửa ống_nước đường_ống gặp vấn_đề
+__label__electricity điện cháy tơ công
+__label__electronic nồi cơm_điện hư bật nút lên
+__label__electricity tôi hỏng sửa điện nhà
+__label__water thi_công lắp_đặt, sửa_chữa mới và cũ đường cấp và thoát nước.
+__label__electronic tiếng rất to ra quạt chạy phát
+__label__electricity bóng_đèn
+__label__electricity Điện nhà tôi bỗng dung ngắt, liên lạc với sửa điện họ biết, khắc phục
+__label__medical về sức_khỏe y_tế vấn_đề tôi đang
+__label__electronic đèn tủ_lạnh
+__label__electricity sửa điện nhà tôi hỏng
+__label__water đường_ống hư rồi tôi tìm thợ sửa ống_nước
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__electronic hư bật nút lên nồi cơm_điện
+__label__water rò_rỉ đường_ống chảy chậm
+__label__electricity sửa mạch điện chập
+__label__electricity sửa điện thợ hư tìm
+__label__water sửa ống_nước hư
+__label__medical ốm bác_sĩ tôi
+__label__electricity điện sửa nhà tôi hỏng
+__label__water chảy rò_rỉ chậm đường_ống_nước
+__label__medical tôi tôi bác_sĩ bệnh
+__label__electronic lên nồi bật cơm_điện hư nút
+__label__electricity sửa điện nhà tôi hỏng
+__label__electronic máy_vi_tính khởi_động
+__label__electricity chập sửa mạch điện
+__label__water chúng_tôi tìm trong thợ sửa ống_nước
+__label__medical về y_tế tôi cảm thấy trợ giúp khỏe tôi
+__label__electricity sửa mạch điện hỏng
+__label__water đường ốm âm nền bục vỡ chảy xuyên suốt
+__label__medical đầu tôi đau nửa đầu
+__label__electricity công cháy tơ điện
+__label__medical ốm bác_sĩ tôi
+__label__electronic trong máy_vi_tính sửa hư
+__label__electricity sửa mạch điện chập
+__label__medical trợ giúp về y_tế tôi cảm thấy khỏe tôi
+__label__electronic trong máy_vi_tính hư sửa
+__label__electronic máy_xay sinh_tố hoạt_động
+__label__medical vấn_đề về sức_khỏe y_tế tôi đang
+__label__electricity hỏng sửa điện nhà tôi
+__label__medical thay_đổi hay mỗi thời_tiết đau_đầu
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__electricity mạch sửa điện chập
+__label__electricity ổ_cắm điện hỏng
+__label__water nhận lắp đặt hệ thống nước nóng năng lượng mặt trời
+__label__medical sức_khỏe y_tế tôi về đang vấn_đề
+__label__water sửa chữa phễu thu sàn
+__label__electronic máy_vi_tính sửa trong hư
+__label__electricity sửa mạch điện hỏng
+__label__medical bác_sĩ tôi bệnh tôi
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity sửa điện tôi hỏng nhà
+__label__electricity điện pha tìm sửa tủ
+__label__electronic Loa paramax hoạt_động
+__label__electronic sửa trong máy_vi_tính hư
+__label__medical phải là ngộ_độc thức ăn nôn_mửa liên_tục
+__label__medical lồng_ngực tôi lúc nào cũng kêu biết phải tôi corona
+__label__medical tôi trợ giúp về y_tế tôi cảm thấy khỏe
+__label__electricity hỏng mạch điện sửa
+__label__electricity pha tìm sửa tủ điện
+__label__electronic hư bật nút lên cơm_điện nồi
+__label__electricity điện nhà tôi hỏng sửa
+__label__electricity sửa tôi hư điện tôi
+__label__electricity sửa tôi tôi hư điện
+__label__electricity sửa điện tôi hỏng nhà
+__label__electronic nồi lên cơm_điện hư bật nút
+__label__electronic nút lên nồi bật cơm_điện hư
+__label__electricity điện nhà tôi hỏng sửa
+__label__electronic hư sửa trong máy_vi_tính
+__label__electronic bật nút lên nồi cơm_điện hư
+__label__medical tôi ốm bác_sĩ
+__label__water trong chúng_tôi ống_nước tìm thợ sửa
+__label__electricity hỏng sửa điện nhà tôi
+__label__water trong chúng_tôi tìm thợ sửa ống
+__label__electronic tivi tự_động tắt
+__label__water chậm rò_rỉ đường_ống_nước chảy
+__label__water trong ống chúng_tôi tìm thợ sửa
+__label__water rò_rỉ đường_ống chảy chậm
+__label__electronic nút nồi cơm_điện hư bật lên
+__label__medical lâu khỏi mặc_dù thuốc tôi cảm uống
+__label__electricity sửa mạch điện hỏng
+__label__electronic Tiếng kêu quạt ồn ngủ
+__label__electricity sửa điện nhà tôi hỏng
+__label__electricity điện nhà tôi hỏng sửa
+__label__water rò_rỉ chảy đường_ống_nước chậm
+__label__medical tôi bác_sĩ nhà tại
+__label__electricity chập sửa mạch điện
+__label__electricity sửa tủ điện tìm pha
+__label__water rò_rỉ đường_ống chậm chảy
+__label__electricity sửa tủ điện pha tìm
+__label__electricity hỏng sửa điện nhà tôi
+__label__medical y_tế tôi về cảm thấy khỏe tôi trợ giúp
+__label__water sửa_chữa hư hỏng, chập cháy tủ điện dân dụng, công nghiệp
+__label__electronic tủ_lạnh đèn
+__label__electricity hỏng sửa mạch điện
+__label__electricity tủ pha tìm sửa điện
+__label__electricity điện pha sửa tủ tìm
+__label__water hút bể phốt, hố ga, cống_rãnh.
+__label__medical trẻ còn thường_xuyên đau_lưng mặc_dù vẫn
+__label__electricity sửa điện pha tủ tìm
+__label__water chậm đường_ống_nước chảy rò_rỉ
+__label__water máy bơm rò_rỉ nước, rò_rỉ điện lên vỏ ngoài vô cùng nguy hiểm.
+__label__medical da bỗng_dưng nổi vết đỏ, tôi nghĩ tôi dị ứng, bác_sĩ điểm kiểm_tra
+__label__electronic tiếng quạt chạy phát ra rất to
+__label__water ống_nước chúng_tôi sửa trong tìm thợ
+__label__water đường ống nghẹt, lưu thông được, dùng cho sinh hoạt.
+__label__electronic khởi_động máy_vi_tính
+__label__electronic trong máy_vi_tính hư sửa
+__label__medical mặc_dù uống thuốc tôi cảm khỏi lâu
+__label__electricity sửa hư tìm thợ điện
+__label__electronic sập máy_vi_tính nguồn
+__label__electricity cháy công_điện tơ
+__label__medical vấn_đề sức_khỏe y_tế tôi đang về
+__label__water sửa ống_nước hư
+__label__electronic tủ_lạnh đèn
+__label__medical lâu khỏi mặc_dù uống thuốc tôi cảm
+__label__electricity Đồng hồ điện nhà tôi hư, lắp đặt bộ thiết_bị mới
+__label__electricity sửa mạch điện chập
+__label__electronic khởi_động máy_vi_tính
+__label__electricity pha điện tìm sửa tủ
+__label__medical thay_đổi hay mỗi thời_tiết đau_đầu
+__label__electronic hư bật lên nồi nút cơm_điện
+__label__electricity tôi sửa hư điện tôi
+__label__electricity sửa tôi điện hư tôi
+__label__water bạn sử_dụng nước, chỗ ống nghẹt chạy ra cống thải được. hậu quả là cho nhà bạn ngập hoặc dám sử_dụng vì sợ tràn vào nhà.
+__label__medical mỗi thời_tiết thay_đổi hay đau_đầu
+__label__water sửa ống_nước hư
+__label__electricity pha điện tìm sửa tủ
+__label__electronic chạy phát ra tiếng rất to quạt
+__label__electronic máy_vi_tính khởi_động
+__label__electricity Điện nhà tôi rò_rỉ mấy hôm, sửa ngay trong hôm nay
+__label__electricity hư tìm thợ sửa điện
+__label__electricity pha điện tìm sửa tủ
+__label__water chúng_tôi trong tìm thợ sửa ống_nước
+__label__electricity tủ điện pha sửa tìm
+__label__electricity sửa điện sét đánh cháy ổ điện nhà tôi
+__label__water tìm sửa ống_nước trong chúng_tôi thợ
+__label__electricity mạch chập sửa điện
+__label__electricity Tôi biết cách bắt bóng điện này như thế nào cả, ai thể giúp tôi
+__label__water nhận sửa_chữa đường ống rò_rỉ.
+__label__medical trẻ thường_xuyên vẫn còn đau_lưng mặc_dù
+__label__medical tôi về y_tế cảm thấy khỏe tôi trợ giúp
+__label__electricity sửa hỏng mạch điện
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electronic máy_vi_tính hư sửa trong
+__label__electronic Chế_độ nướng lò_vi_sóng dùng
+__label__electricity cháy công tơ điện
+__label__electricity điện hỏng nhà tôi sửa
+__label__water chảy đường_ống_nước chậm rò_rỉ
+__label__electronic ra tiếng rất to chạy phát quạt
+__label__electronic sửa trong máy_vi_tính hư
+__label__electricity điện sửa nhà tôi hỏng
+__label__electricity điện tủ pha tìm sửa
+__label__electricity pha điện tìm sửa tủ
+__label__electronic chạy to quạt phát ra tiếng rất
+__label__water sửa hư ống_nước
+__label__electricity mạch điện chập sửa
+__label__medical trợ giúp về y_tế tôi tôi cảm thấy khỏe
+__label__electricity cầu chì nhà tôi tự động ngắt sự cố điện, cung cấp giải pháp
+__label__electronic hoạt_động máy_xay sinh_tố
+__label__electricity sửa mạch chập điện
+__label__electricity mạch điện chập sửa
+__label__water sửa ống_nước hư
+__label__electronic máy_vi_tính nguồn sập
+__label__water sửa vòi xịt toilet hoạt_động
+__label__electricity mạch sửa điện chập
+__label__electricity tôi sửa tôi hư điện
+__label__electricity sửa mạch điện chập
+__label__medical vẫn còn trẻ mặc_dù thường_xuyên đau lưng
+__label__water sửa ống_nước hư
+__label__electricity sửa điện pha tủ tìm
+__label__medical vấn_đề về y_tế tôi đang sức_khỏe
+__label__water trong chúng_tôi tìm thợ sửa ống

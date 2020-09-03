@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "name": "Nguyen Van A",
+      "job": "water"
+    },
+    {
+      "name": "Nguyen Van B",
+      "job": "water"
+    },
+    {
+      "name": "Nguyen Van C",
+      "job": "electricity"
+    }
+  ]
+}

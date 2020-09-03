@@ -1,0 +1,2073 @@
+__label__nước đường_ống bị hư rồi tôi cần tìm thợ sửa ống_nước gấp
+__label__nước tôi cần tìm thợ sửa ống_nước gấp đướng ống bị hư
+__label__nước ngày mai, tôi cần người có chuyên_môn sửa ống nước gấp, nhận tiền trong ngày
+__label__nước cần người sửa máy_bơm
+__label__nước cần người khắc phục máy_bơm bị hư
+__label__nước cần người khắc phục máy_bơm không hoạt_động được
+__label__nước máy_bơm bị lỗi, bơm không lên nước
+__label__nước máy_bơm bị lỗi, bơm không được nước
+__label__nước Nước nhà tôi bị rò_rỉ âm tường, cần người đến kiểm_tra
+__label__nước Bồn_cầu nhà tôi bị rò_rỉ nước, cần người đến xem
+__label__nước Bồn_cầu nhà tôi bị tràn bể chứa nước
+__label__nước Vòi_xịt toilet nhà tôi nước yếu, có lúc nhỏ_giọt, cần người đến thay
+__label__nước Máy bơm nhà tôi bị rò_rỉ nước
+__label__nước Máy bơm nhà tôi bơm nhưng nước không vào
+__label__nước Cần người lắp_đặt đường_ống_nước cấp
+__label__nước Cần thợ lắp_đặt đường_ống_nước thải
+__label__nước ống_nước nhà tôi bị bể, rò_rỉ nước, cần người đến xem và kiểm_tra
+__label__nước tôi cần tìm người lắp_đặt máy lọc nước
+__label__nước cần thợ hướng dẫn sử_dụng máy lọc nước nóng lạnh
+__label__nước cần thợ lắp_đặt đường_ống_nước 
+__label__nước cần người lắp_đặt máy bơm cho gia đình
+__label__nước cống nhà tôi bị nghẹt, cần người nạo_vét gom nước thải
+__label__nước máng_xối nhà tôi bị kẹt rác, cần người thông máng_xối
+__label__nước tôi cần người thông lavabo, chậu rửa chén bị kẹt rác 
+__label__nước nước nhà tôi mấy hôm nay rất yếu, cần thợ đến xem_xét và sửa_chữa
+__label__nước van nước nhà tôi bị hỏng, cần người đến thay_thế
+__label__nước vòi_nước nhà tôi bị gãy, tôi đã ngắt nước đi, cần người đến thay thế vòi_nước gấp
+__label__nước cần thay thế vòi_xịt toilet bị hỏng
+__label__nước vòi xem tắm ra nước yếu hơn bình thường rất nhiều, cần thợ đến xem_xét và thay_thế
+__label__nước sàn bê tông nhà tôi bị thấm nước, cần thợ đến và xử_lý vấn_đề
+__label__nước tôi cần người thông bồn_cầu, bệ xí
+__label__nước tôi cần thợ hút bể phốt cho gia_đình
+__label__nước chậu rửa bát nhà tôi bị nghẹt_nước, cần người thông chậu rửa bát
+__label__nước tôi cần người lắp_đặt bồn chứa nước trong gia đình
+__label__nước cống nhà tôi bị nghẹt do rác, cần người thông tắc
+__label__nước cần người thông tắc cầu cống nghẹt do nhiều rác
+__label__nước tôi cần thợ lắp phao chống tràn
+__label__nước nhà tôi bỗng dưng mất hết nước không có nước dùng, cần thợ đến sửa_chữa ngay
+__label__nước nước nhà tôi chảy yếu, không đủ để sinh_hoạt, cần người đến tìm hiểu lý_do và sửa_chữa
+__label__nước vì nước nhà tôi quá mạnh nên ống dẫn nước bị vỡ gây thấm tường quanh nhà, cần thợ đến xem và sửa gấp
+__label__nước ồn nước rửa tay bị nghẹt, nước không rút xuống hết được, cần thợ đến sửa ngay
+__label__nước cần người đến sửa ống nước bị tắc do dầu mỡ lâu ngày
+__label__nước đến giờ cao điểm thì nước nhà tôi thường chảy rất yếu, nhà tôi không có đủ nước để sinh_hoạt, cần thợ đến xem_xét và sửa_chữa .
+__label__nước cần thợ đến xem lý_do ống nước của tôi thường xuyên bị tắc
+__label__nước nước hoạt_động yếu hơn bình_thường khiến tôi làm việc nhà tốn nhiều thời_gian, cần thợ đến xem_xét
+__label__nước nhà mình bị hỏng vòi nước nhưng mà mùa dịch này đều đóng cửa cả, mình cần 1 thợ đến nhà và thay_thế, giá_cả thương_lượng
+__label__nước đường ống trong tường nhà tôi gặp sự_cố hư_hỏng khó sửa_chữa, không rõ nguyên_nhân gây hư_hỏng, cần thợ đến tìm_hiểu và sửa_chữa
+__label__nước bồn nước của tôi thường xuyên bị rỉ, gây khó_khăn cho gia_đình, cần người đến sửa_chữa ngay
+__label__nước ống nước nhà tôi bị yếu, vòi sen lúc tắm lúc mạnh lúc yếu làm gia_đình tôi rất khó_khăn trong việc sinh_hoạt, cần người đến khắc_phục ngay
+__label__nước nước chảy ra từ vòi nhà tôi rất ít, dòng chảy nhỏ gây khó_khăn cho gia_đình tôi rất nhiều, tôi cần người đến khắc_phục
+__label__nước vòi nước nhà tôi chảy yếu, rất khó chịu mỗi lúc đi tắm hay rửa chén, cần người đến khắc_phục vấn_đề ngay
+__label__nước cần người khắc_phục máy_bơm bị hư
+__label__nước cần người sửa_chữa máy_bơm không hoạt_động
+__label__nước cần người khắc_phục máy_bơm không hoạt_động
+__label__nước cần người sửa_chữa máy_bơm bị hư
+__label__nước máy_bơm bị lỗi, nước bơm không lên
+__label__nước máy_bơm bị lỗi, bơm không lên nước
+__label__nước máy_bơm bị hỏng, không bơm nước lên được
+__label__nước máy_bơm bị hư, bơm không được nước
+__label__nước nhà không có nước sinh_hoạt vì nước bơm không lên
+__label__nước nhà không có nước để sử_dụng vì máy_bơm hỏng
+__label__nước nhà sinh_hoạt không được vì máy_bơm không lên
+__label__nước máy_bơm phát ra tiếng nhưng không bơm nước lên
+__label__nước máy_bơm có âm_thanh kì lạ nhưng không hoạt_động
+__label__nước máy_bơm hoạt_động 1 cách không bình_thường
+__label__nước ống PPR bị hỏng, cần người hàn giúp
+__label__nước cần người hàn ống PPR hỏng
+__label__nước ống PPR bị lủng, cần thợ đến hàn
+__label__nước cần thợ đến hàn ống PPR bị hỏng
+__label__nước cần người hàn giúp ống PPR
+__label__nước cần trợ_giúp thay_thế vòi sen trong nhà tắm
+__label__nước cần trợ_giúp lắp nước máy thay nước giếng
+__label__nước cần người thay_thế nguồn nước giếng bằng nguồn nước máy
+__label__nước thay_thế vòi nước các loại
+__label__nước thay_thế vòi xịt toilet
+__label__nước thay_thế toàn bộ vòi nước trong nhà
+__label__nước bể ống nước, cần thay_thế
+__label__nước cần thay_thế ống nước bị bể
+__label__nước cần giúp_đỡ thay_thế phao cơ
+__label__nước cần giúp_đỡ thay_thế phao điện
+__label__nước cần trợ_giúp để thay mới phao cơ, phao điện
+__label__nước cần trợ_giúp thay_thế vòi nước các loại
+__label__nước cần người giúp thay_thế vòi nước hỏng trong phòng tắm
+__label__nước cần người sửa máy_bơm
+__label__nước nghẹt hố ga, cần người trợ_giúp thông 
+__label__nước cần người giúp thông hố ga bị nghẹt
+__label__nước máng xối bị kẹt rác, cần người thông
+__label__nước cần người thông máng xối kẹt rác
+__label__nước sự_cố mục ống, không biết lý_do
+__label__nước sự_cố mục ống không biết nguyên_nhân
+__label__nước thiết_bị trục_trặc gây thất rò_rỉ nước, cần người khắc_phục
+__label__nước cần người khắc_phục sự_cố thiết_bị trục_trặc gây rò_rỉ nước
+__label__nước nước chảy liên_tục, khóa van vẫn không ngừng, cần người trợ_giúp gấp
+__label__nước vòi điện bị lỗi, cần trợ_giúp
+__label__nước vòi điện bỗng hư_hỏng nặng, cần sửa chữa
+__label__nước vòi nước hoạt_động yếu, cần kiểm tra
+__label__nước cần kiểm_tra nguồn nước tại sao hoạt_động yếu
+__label__nước sàn bê_tông bị rỉ nước, cần kiểm_tra
+__label__nước cần kiểm_tra nguyên_nhân sàn bị rỉ nước
+__label__nước hỏng bồn cầu, cần trợ_giúp
+__label__nước bồn chứa nước bị tràn, cần trợ_giúp
+__label__nước Vòi_nước nhà tôi bị nhỏ_giọt, cần người đến kiểm_tra và thay
+__label__nước Nước nhà tôi bị rò_rỉ âm tường, cần người đến kiểm_tra
+__label__nước Bồn_cầu nhà tôi bị rò_rỉ nước, cần người đến xem
+__label__nước Bồn_cầu nhà tôi bị tràn bể chứa nước
+__label__nước Vòi_xịt toilet nhà tôi nước yếu, có lúc nhỏ_giọt, cần người đến thay
+__label__nước Máy bơm nhà tôi bị rò_rỉ nước
+__label__nước Máy bơm nhà tôi bơm nhưng nước không vào
+__label__nước Cần người lắp_đặt đường_ống_nước cấp
+__label__nước Cần thợ lắp_đặt đường_ống_nước thải
+__label__nước ống_nước nhà tôi bị bể, rò_rỉ nước, cần người đến xem và kiểm_tra
+__label__nước tôi cần tìm người lắp_đặt máy lọc nước
+__label__nước cần thợ hướng dẫn sử_dụng máy lọc nước nóng lạnh
+__label__nước cần thợ lắp_đặt đường_ống_nước 
+__label__nước cần người lắp_đặt máy bơm cho gia đình
+__label__nước cống nhà tôi bị nghẹt, cần người nạo_vét gom nước thải
+__label__nước máng_xối nhà tôi bị kẹt rác, cần người thông máng_xối
+__label__nước tôi cần người thông lavabo, chậu rửa chén bị kẹt rác 
+__label__nước nước nhà tôi mấy hôm nay rất yếu, cần thợ đến xem_xét và sửa_chữa
+__label__nước van nước nhà tôi bị hỏng, cần người đến thay_thế
+__label__nước vòi_nước nhà tôi bị gãy, tôi đã ngắt nước đi, cần người đến thay thế vòi_nước gấp
+__label__nước cần thay thế vòi_xịt toilet bị hỏng
+__label__nước vòi xem tắm ra nước yếu hơn bình thường rất nhiều, cần thợ đến xem_xét và thay_thế
+__label__nước sàn bê tông nhà tôi bị thấm nước, cần thợ đến và xử_lý vấn_đề
+__label__nước tôi cần người thông bồn_cầu, bệ xí
+__label__nước tôi cần thợ hút bể phốt cho gia_đình
+__label__nước chậu rửa bát nhà tôi bị nghẹt_nước, cần người thông chậu rửa bát
+__label__nước tôi cần người lắp_đặt bồn chứa nước trong gia đình
+__label__nước cống nhà tôi bị nghẹt do rác, cần người thông tắc
+__label__nước cần người thông tắc cầu cống nghẹt do nhiều rác
+__label__nước tôi cần thợ lắp phao chống tràn
+__label__nước máy_bơm bị lỗi bơm nước không được
+__label__nước máy_bơm bị tịt, bơm nước không được
+__label__nước nhà không có nước uống vì máy_bơm không được
+__label__nước máy_bơm kêu tiếng ồn, không bơm nước lên
+__label__nước máy_bơm phát ra âm_thanh to lớn
+__label__nước máy_bơm hoạt_động không yên_tĩnh
+__label__nước máy_bơm không hoạt_động bình_thường
+__label__nước cần thợ sửa_chữa hàn giúp ống PPR
+__label__nước cần thợ sửa_chữa khắc phục ống PPR
+__label__nước ống PPR bị lủng, cần người hàn giúp
+__label__nước ống PPR bị lủng hàn giúp ống cho tôi
+__label__nước tôi muốn hàn ống PPR nhưng không biết cách, giúp tôi với
+__label__nước cần người giúp hàn ống PPR
+__label__nước cần trợ giúp thay_thế vòi nước các loại
+__label__nước cần trợ giúp thay_thế vòi nước trong toilet
+__label__nước cần sự hỗ trợ thay_thế vòi nước trong phòng tắm
+__label__nước cần sự hỗ trợ thay_thế ống nước trong nhà
+__label__nước cần sự hỗ trợ vòi nước
+__label__nước cần sự giúp đỡ thay_thế vòi nước các loại
+__label__nước cần giúp đỡ về thay_thế sửa_chữa phao cơ phao điện
+__label__nước sửa vòi xịt toilet không hoạt_động được
+__label__nước vòi điện bị lỗi hư hỏng nặng, cần trợ giúp gấp
+__label__nước hàn ống chịu nhiệt gấp, cần người sửa ngay
+__label__nước vô tình khoan lủng ống, cần người hỗ trợ thay_thế
+__label__nước ống bị bể, mục
+__label__nước vòi nước chảy rỉ liên tục, không dừng lại
+__label__nước rò_rỉ nước âm tường, cần thợ dò_tìm
+__label__nước dò_tìm rỉ nước
+__label__nước dò_tìm rò_rỉ nước âm tường, dưới nền nhà
+__label__nước chảy liên tục, không dừng lại cần người gấp
+__label__nước thiết bị trục trặc gây thất thoát
+__label__nước phao bồn cầu bị hư hỏng nặng, không biết cách nào để thay_thế
+__label__nước sự_cố mục ống, không biết nguyên_nhân
+__label__nước sự_cố mục ống, không biết lý_do
+__label__nước mục ống không biết do đâu mà ra
+__label__nước lủng lổ ống không biết lý_do
+__label__nước cần tìm thợ sửa ống_nước gấp đường_ống gặp vấn_đề
+__label__nước cần tìm người sửa ống_nước đường_ống hư
+__label__nước ống_nước hư cần người sửa		
+__label__nước hư ống_nước cần người sửa		
+__label__nước cần ống_nước hư người sửa		
+__label__nước người ống_nước hư cần sửa		
+__label__nước sửa ống_nước hư cần người		
+__label__nước ống_nước sửa hư cần người		
+__label__nước ống_nước sửa hư cần người		
+__label__nước ống_nước hư sửa cần người		
+__label__nước ống_nước cần sửa hư người		
+__label__nước ống_nước người sửa hư cần		
+__label__nước sửa người ống_nước hư cần		
+__label__nước sửa ống_nước người hư cần		
+__label__nước sửa ống_nước người hư cần		
+__label__nước sửa ống_nước hư người cần		
+__label__nước sửa ống_nước cần người hư		
+__label__nước người ống_nước cần sửa hư		
+__label__nước người sửa cần ống_nước hư		
+__label__nước người sửa ống_nước cần hư		
+__label__nước người sửa ống_nước cần hư		
+__label__nước người sửa ống_nước hư cần		
+__label__nước cần sửa ống_nước hư người		
+__label__nước cần người ống_nước hư sửa		
+__label__nước cần người sửa hư ống_nước		
+__label__nước cần người sửa ống_nước hư		
+__label__nước tôi cần tìm thợ ống_nước		
+__label__nước tìm người biết sửa ống_nước	
+__label__nước tìm người có khả năng sửa ống nước	
+__label__nước sửa ống_nước tìm người		
+__label__nước người sửa ống_nước		
+__label__nước ống_nước người sửa		
+__label__nước đường_ống hư bị cần tìm tôi sửa thợ ống_nước
+__label__nước hư bị đường_ống sửa ống_nước	
+__label__nước hư bị đường_ống sửa ống_nước tôi tìm
+__label__nước hư bị đường_ống_nước tôi tìm thợ	
+__label__nước thợ tôi tìm sửa ống_nước		
+__label__nước nước chảy chậm rò_rỉ đường_ống	
+__label__nước đường_ống_nước chậm chảy	
+__label__nước đường_ống_nước chậm chảy rò_rỉ	
+__label__nước đường_ống_nước chậm chảy rò_rỉ	
+__label__nước nước đường_ống chậm chảy rò_rỉ	
+__label__nước chậm đường_ống_nước chảy rò_rỉ	
+__label__nước chảy đường_ống_nước chậm rò_rỉ	
+__label__nước rò_rỉ đường_ống_nước chậm chảy	
+__label__nước đường_ống rò_rỉ nước chậm chảy	
+__label__nước đường_ống rò_rỉ nước chậm chảy	
+__label__nước đường_ống_nước rò_rỉ chậm chảy	
+__label__nước đường_ống chậm rò_rỉ nước chảy	
+__label__nước đường_ống chảy rò_rỉ nước chậm	
+__label__nước rò_rỉ chảy đường_ống_nước chậm	
+__label__nước rò_rỉ đường_ống chảy nước chậm	
+__label__nước rò_rỉ đường_ống chảy nước chậm	
+__label__nước rò_rỉ đường_ống_nước chảy chậm	
+__label__nước rò_rỉ đường_ống chậm chảy nước	
+__label__nước chảy đường_ống chậm rò_rỉ nước	
+__label__nước chảy rò_rỉ chậm đường_ống_nước	
+__label__nước chảy rò_rỉ đường_ống chậm nước	
+__label__nước chảy rò_rỉ đường_ống chậm nước	
+__label__nước chảy rò_rỉ đường_ống_nước chậm	
+__label__nước chậm rò_rỉ đường_ống_nước chảy	
+__label__nước chậm chảy đường_ống_nước rò_rỉ	
+__label__nước chậm chảy rò_rỉ nước đường_ống	
+__label__nước chậm chảy rò_rỉ đường_ống_nước	
+__label__nước chậm chảy rò_rỉ đường_ống_nước	
+__label__nước vấn_đề cần tìm thợ sửa ống_nước gấp đường_ống gặp
+__label__nước vấn_đề gặp cần tìm thợ sửa ống_nước gấp đường_ống
+__label__nước vấn_đề gặp đường_ống cần tìm thợ sửa ống_nước gấp
+__label__nước vấn_đề gặp đường_ống gấp cần tìm thợ sửa ống_nước
+__label__nước vấn_đề gặp đường_ống gấp nước cần tìm thợ sửa ống
+__label__nước vấn_đề gặp đường_ống gấp nước ống cần tìm thợ sửa
+__label__nước vấn_đề gặp đường_ống gấp nước ống sửa cần tìm thợ
+__label__nước vấn_đề gặp đường_ống gấp nước ống sửa thợ cần tìm
+__label__nước vấn_đề gặp đường_ống gấp nước ống sửa thợ tìm cần
+__label__nước vấn_đề cần tìm thợ sửa ống_nước giỏi gấp đường_ống gặp
+__label__nước vấn_đề cần tìm thợ sửa ống_nước có tay nghề gấp đường_ống gặp
+__label__nước vấn_đề cần tìm thợ sửa ống_nước trình độ cao gấp đường_ống gặp
+__label__nước vấn_đề cần tìm thợ sửa ống_nước có trình độ gấp đường_ống gặp
+__label__nước chúng_tôi cần tìm thợ sửa ống_nước trong ngày
+__label__nước cần chúng_tôi tìm thợ sửa ống_nước trong ngày
+__label__nước tìm chúng_tôi cần thợ sửa ống_nước trong ngày
+__label__nước thợ chúng_tôi cần tìm sửa ống_nước trong ngày
+__label__nước sửa chúng_tôi cần tìm thợ ống_nước trong ngày
+__label__nước ống chúng_tôi cần tìm thợ sửa nước trong ngày
+__label__nước nước chúng_tôi cần tìm thợ sửa ống trong ngày
+__label__nước trong chúng_tôi cần tìm thợ sửa ống_nước ngày
+__label__nước ngày chúng_tôi cần tìm thợ sửa ống_nước trong
+__label__nước chúng_tôi ngày cần tìm thợ sửa ống_nước trong
+__label__nước chúng_tôi ngày cần tìm thợ sửa ống_nước trong
+__label__nước chúng_tôi cần ngày tìm thợ sửa ống_nước trong
+__label__nước chúng_tôi tìm ngày cần thợ sửa ống_nước trong
+__label__nước chúng_tôi thợ ngày cần tìm sửa ống_nước trong
+__label__nước chúng_tôi sửa ngày cần tìm thợ ống_nước trong
+__label__nước chúng_tôi ống ngày cần tìm thợ sửa nước trong
+__label__nước chúng_tôi nước ngày cần tìm thợ sửa ống trong
+__label__nước chúng_tôi trong ngày cần tìm thợ sửa ống_nước
+__label__nước ngày trong chúng_tôi cần tìm thợ sửa ống_nước
+__label__nước ngày chúng_tôi trong cần tìm thợ sửa ống_nước
+__label__nước ngày chúng_tôi trong cần tìm thợ sửa ống_nước
+__label__nước ngày chúng_tôi cần trong tìm thợ sửa ống_nước
+__label__nước ngày chúng_tôi tìm trong cần thợ sửa ống_nước
+__label__nước ngày chúng_tôi thợ trong cần tìm sửa ống_nước
+__label__nước ngày chúng_tôi sửa trong cần tìm thợ ống_nước
+__label__nước ngày chúng_tôi ống trong cần tìm thợ sửa nước
+__label__nước ngày chúng_tôi nước trong cần tìm thợ sửa ống
+__label__nước trong chúng_tôi nước ngày cần tìm thợ sửa ống
+__label__nước trong ngày nước chúng_tôi cần tìm thợ sửa ống
+__label__nước trong ngày chúng_tôi nước cần tìm thợ sửa ống
+__label__nước trong ngày chúng_tôi nước cần tìm thợ sửa ống
+__label__nước trong ngày chúng_tôi cần nước tìm thợ sửa ống
+__label__nước trong ngày chúng_tôi tìm nước cần thợ sửa ống
+__label__nước trong ngày chúng_tôi thợ nước cần tìm sửa ống
+__label__nước trong ngày chúng_tôi sửa nước cần tìm thợ ống
+__label__nước trong ngày chúng_tôi ống_nước cần tìm thợ sửa
+__label__nước nước ngày chúng_tôi ống trong cần tìm thợ sửa
+__label__nước nước trong chúng_tôi ống ngày cần tìm thợ sửa
+__label__nước nước trong ngày ống chúng_tôi cần tìm thợ sửa
+__label__nước nước trong ngày chúng_tôi ống cần tìm thợ sửa
+__label__nước nước trong ngày chúng_tôi ống cần tìm thợ sửa
+__label__nước nước trong ngày chúng_tôi cần ống tìm thợ sửa
+__label__nước nước trong ngày chúng_tôi tìm ống cần thợ sửa
+__label__nước nước trong ngày chúng_tôi thợ ống cần tìm sửa
+__label__nước nước trong ngày chúng_tôi sửa ống cần tìm thợ
+__label__nước ống trong ngày chúng_tôi sửa nước cần tìm thợ
+__label__nước ống_nước ngày chúng_tôi sửa trong cần tìm thợ
+__label__nước ống_nước trong chúng_tôi sửa ngày cần tìm thợ
+__label__nước ống_nước trong ngày sửa chúng_tôi cần tìm thợ
+__label__nước ống_nước trong ngày chúng_tôi sửa cần tìm thợ
+__label__nước ống_nước trong ngày chúng_tôi sửa cần tìm thợ
+__label__nước ống_nước trong ngày chúng_tôi cần sửa tìm thợ
+__label__nước ống_nước trong ngày chúng_tôi tìm sửa cần thợ
+__label__nước ống_nước trong ngày chúng_tôi thợ sửa cần tìm
+__label__nước sửa nước trong ngày chúng_tôi thợ ống cần tìm
+__label__nước sửa ống trong ngày chúng_tôi thợ nước cần tìm
+__label__nước sửa ống_nước ngày chúng_tôi thợ trong cần tìm
+__label__nước sửa ống_nước trong chúng_tôi thợ ngày cần tìm
+__label__nước sửa ống_nước trong ngày thợ chúng_tôi cần tìm
+__label__nước sửa ống_nước trong ngày chúng_tôi thợ cần tìm
+__label__nước sửa ống_nước trong ngày chúng_tôi thợ cần tìm
+__label__nước sửa ống_nước trong ngày chúng_tôi cần thợ tìm
+__label__nước sửa ống_nước trong ngày chúng_tôi tìm thợ cần
+__label__nước thợ ống_nước trong ngày chúng_tôi tìm sửa cần
+__label__nước thợ sửa nước trong ngày chúng_tôi tìm ống cần
+__label__nước thợ sửa ống trong ngày chúng_tôi tìm nước cần
+__label__nước thợ sửa ống_nước ngày chúng_tôi tìm trong cần
+__label__nước thợ sửa ống_nước trong chúng_tôi tìm ngày cần
+__label__nước thợ sửa ống_nước trong ngày tìm chúng_tôi cần
+__label__nước thợ sửa ống_nước trong ngày chúng_tôi tìm cần
+__label__nước thợ sửa ống_nước trong ngày chúng_tôi tìm cần
+__label__nước thợ sửa ống_nước trong ngày chúng_tôi cần tìm
+__label__nước tìm sửa ống_nước trong ngày chúng_tôi cần thợ
+__label__nước tìm thợ ống_nước trong ngày chúng_tôi cần sửa
+__label__nước tìm thợ sửa nước trong ngày chúng_tôi cần ống
+__label__nước tìm thợ sửa ống trong ngày chúng_tôi cần nước
+__label__nước tìm thợ sửa ống_nước ngày chúng_tôi cần trong
+__label__nước tìm thợ sửa ống_nước trong chúng_tôi cần ngày
+__label__nước tìm thợ sửa ống_nước trong ngày	
+__label__nước tìm thợ sửa ống_nước trong ngày chúng_tôi cần
+__label__điện_tử máy vi tính bị hư cần người sửa gấp trong ngày
+__label__điện_tử máy_vi_tính bị hư cần người sửa gấp trong ngày
+__label__điện_tử bị máy_vi_tính hư cần người sửa gấp trong ngày
+__label__điện_tử hư máy_vi_tính bị cần người sửa gấp trong ngày
+__label__điện_tử cần máy_vi_tính bị hư người sửa gấp trong ngày
+__label__điện_tử người máy_vi_tính bị hư cần sửa gấp trong ngày
+__label__điện_tử sửa máy_vi_tính bị hư cần người gấp trong ngày
+__label__điện_tử gấp máy_vi_tính bị hư cần người sửa trong ngày
+__label__điện_tử trong máy_vi_tính bị hư cần người sửa gấp ngày
+__label__điện_tử ngày máy_vi_tính bị hư cần người sửa gấp trong
+__label__điện_tử máy_vi_tính ngày bị hư cần người sửa gấp trong
+__label__điện_tử máy_vi_tính ngày bị hư cần người sửa gấp trong
+__label__điện_tử máy_vi_tính bị ngày hư cần người sửa gấp trong
+__label__điện_tử máy_vi_tính hư ngày bị cần người sửa gấp trong
+__label__điện_tử máy_vi_tính cần ngày bị hư người sửa gấp trong
+__label__điện_tử máy_vi_tính người ngày bị hư cần sửa gấp trong
+__label__điện_tử máy_vi_tính sửa ngày bị hư cần người gấp trong
+__label__điện_tử máy_vi_tính gấp ngày bị hư cần người sửa trong
+__label__điện_tử máy_vi_tính trong ngày bị hư cần người sửa gấp
+__label__điện_tử ngày trong máy_vi_tính bị hư cần người sửa gấp
+__label__điện_tử ngày máy_vi_tính trong bị hư cần người sửa gấp
+__label__điện_tử ngày máy_vi_tính trong bị hư cần người sửa gấp
+__label__điện_tử ngày máy_vi_tính bị trong hư cần người sửa gấp
+__label__điện_tử ngày máy_vi_tính hư trong bị cần người sửa gấp
+__label__điện_tử ngày máy_vi_tính cần trong bị hư người sửa gấp
+__label__điện_tử ngày máy_vi_tính người trong bị hư cần sửa gấp
+__label__điện_tử ngày máy_vi_tính sửa trong bị hư cần người gấp
+__label__điện_tử ngày máy_vi_tính gấp trong bị hư cần người sửa
+__label__điện_tử trong máy_vi_tính gấp ngày bị hư cần người sửa
+__label__điện_tử trong ngày gấp máy_vi_tính bị hư cần người sửa
+__label__điện_tử trong ngày máy_vi_tính gấp bị hư cần người sửa
+__label__điện_tử trong ngày máy_vi_tính gấp bị hư cần người sửa
+__label__điện_tử trong ngày máy_vi_tính bị gấp hư cần người sửa
+__label__điện_tử trong ngày máy_vi_tính hư gấp bị cần người sửa
+__label__điện_tử trong ngày máy_vi_tính cần gấp bị hư người sửa
+__label__điện_tử trong ngày máy_vi_tính người gấp bị hư cần sửa
+__label__điện_tử trong ngày máy_vi_tính sửa gấp bị hư cần người
+__label__điện_tử gấp ngày máy_vi_tính sửa trong bị hư cần người
+__label__điện_tử gấp trong máy_vi_tính sửa ngày bị hư cần người
+__label__điện_tử gấp trong ngày sửa máy_vi_tính bị hư cần người
+__label__điện_tử gấp trong ngày máy_vi_tính sửa bị hư cần người
+__label__điện_tử gấp trong ngày máy_vi_tính sửa bị hư cần người
+__label__điện_tử gấp trong ngày máy_vi_tính bị sửa hư cần người
+__label__điện_tử gấp trong ngày máy_vi_tính hư sửa bị cần người
+__label__điện_tử gấp trong ngày máy_vi_tính cần sửa bị hư người
+__label__điện_tử gấp trong ngày máy_vi_tính người sửa bị hư cần
+__label__điện_tử sửa trong ngày máy_vi_tính người gấp bị hư cần
+__label__điện_tử sửa gấp ngày máy_vi_tính người trong bị hư cần
+__label__điện_tử sửa gấp trong máy_vi_tính người ngày bị hư cần
+__label__điện_tử sửa gấp trong ngày người máy_vi_tính bị hư cần
+__label__điện_tử sửa gấp trong ngày máy_vi_tính người bị hư cần
+__label__điện_tử sửa gấp trong ngày máy_vi_tính người bị hư cần
+__label__điện_tử sửa gấp trong ngày máy_vi_tính bị người hư cần
+__label__điện_tử sửa gấp trong ngày máy_vi_tính hư người bị cần
+__label__điện_tử sửa gấp trong ngày máy_vi_tính cần người bị hư
+__label__điện_tử người gấp trong ngày máy_vi_tính cần sửa bị hư
+__label__điện_tử người sửa trong ngày máy_vi_tính cần gấp bị hư
+__label__điện_tử người sửa gấp ngày máy_vi_tính cần trong bị hư
+__label__điện_tử người sửa gấp trong máy_vi_tính cần ngày bị hư
+__label__điện_tử người sửa gấp trong ngày cần máy_vi_tính bị hư
+__label__điện_tử người sửa gấp trong ngày máy_vi_tính cần bị hư
+__label__điện_tử người sửa gấp trong ngày máy_vi_tính cần bị hư
+__label__điện_tử người sửa gấp trong ngày máy_vi_tính bị cần hư
+__label__điện_tử người sửa gấp trong ngày máy_vi_tính hư cần bị
+__label__điện_tử cần sửa gấp trong ngày máy_vi_tính hư người bị
+__label__điện_tử cần người gấp trong ngày máy_vi_tính hư sửa bị
+__label__điện_tử cần người sửa trong ngày máy_vi_tính hư gấp bị
+__label__điện_tử cần người sửa gấp ngày máy_vi_tính hư trong bị
+__label__điện_tử cần người sửa gấp trong máy_vi_tính hư ngày bị
+__label__điện_tử cần người sửa gấp trong ngày hư máy_vi_tính bị
+__label__điện_tử cần người sửa gấp trong ngày máy_vi_tính hư bị
+__label__điện_tử cần người sửa gấp trong ngày máy_vi_tính hư bị
+__label__điện_tử cần người sửa gấp trong ngày máy_vi_tính bị hư
+__label__điện_tử sửa gấp trong ngày máy_vi_tính
+__label__điện_tử hư cần sửa gấp trong ngày máy_vi_tính
+__label__điện_tử hư cần người gấp trong ngày máy_vi_tính bị sửa
+__label__điện_tử hư cần người sửa trong ngày máy_vi_tính bị gấp
+__label__điện_tử hư cần người sửa gấp ngày máy_vi_tính bị trong
+__label__điện_tử hư cần người sửa gấp trong máy_vi_tính bị ngày
+__label__điện_tử hư cần người sửa gấp trong ngày bị máy_vi_tính
+__label__điện_tử hư cần người sửa gấp trong ngày máy_vi_tính bị
+__label__điện_tử máy_vi_tính bị sập nguồn
+__label__điện_tử bị máy_vi_tính sập nguồn
+__label__điện_tử Tivi (TV) nhà tôi bị hỏng, cần người đến sửa trong ngày_mai, giá_cả thương_lượng
+__label__điện_tử Cần người đến sửa tivi (TV) gặp sự_cố.
+__label__điện_tử TV nhà tôi đang xem bỗng_dưng tắt, sau đó không bật lên nữa
+__label__điện_tử Cần người đến nhà cài win cho máy_tính
+__label__điện_tử Máy_tính bị hỏng, cần người đến nhà cài win giúp
+__label__điện_tử Quạt nước nhà tôi không quay được, cần người đến sửa_chữa
+__label__điện_tử Cần người đến sửa_chữa ngay sự_cố quạt nước không quay được
+__label__điện_tử Máy_tính gặp trục_trặc 1 số vấn_đề, cần thợ qua xem và sửa_chữa nếu có thể
+__label__điện_tử Bản_lề laptop bị trật, cần người có kinh nghiệm sửa
+__label__điện_tử Laptop không nhận sạc, cần người đến sửa
+__label__điện_tử Tivi có tiếng không có hình
+__label__điện_tử Tivi bật 2-5s sau lại tắt
+__label__điện_tử Remote không điều_khiển được TV dù đã thay remote
+__label__điện_tử Bộ thu sóng bị sét đánh, bị hỏng, mất hết đài, cần người thay ngay trong ngày_mai
+__label__điện_tử Tivi có hình nhưng lại không có tiếng
+__label__điện_tử Quạt nhà tôi khô dầu, không chạy, cần người đến thêm dầu, giá_cả thương_lượng
+__label__điện_tử Lò_vi_sóng bị hư phím điều_chỉnh thường, cần người đến thay
+__label__điện_tử Cần người đến thay phím điều_chỉnh inverter của lò_vi_sóng
+__label__điện_tử Cầu chì lò_vi_sóng bị hỏng, cần người đến thay ngay
+__label__điện_tử Lò_nướng của tôi đã sử dụng lâu, cần đem đi kiểm_tra và bảo_dưỡng
+__label__điện_tử Máy rửa bát của tôi bị hư không rõ lý do, cần người đến kiểm_tra và sửa_chữa
+__label__điện_tử Máy hút mùi của tôi không hoạt_động, cần người sửa_chữa ngay
+__label__điện_tử Máy_tính của tôi bị hỏng, bật không lên nguồn, cần thợ đến sửa gấp
+__label__điện_tử Đồng_hồ treo tường điện nhà tôi có vấn_đề, cần người kiểm_tra và sửa sữa trong ngày_mai
+__label__điện_tử Đèn tủ_lạnh nhà tôi không sáng, cần người đến sửa ngay
+__label__điện_tử Tủ_lạnh nhà tôi không hoạt động dù điện đã cắm đầy đủ
+__label__điện_tử Máy_lạnh nhà tôi bật không lên, cần người sang kiểm_tra
+__label__điện_tử Bình nước nóng lạnh nhà tôi không hoạt động, cần người sang kiểm_tra và sửa_chữa trong ngày_mai
+__label__điện_tử Điện_thoại của tôi bị hỏng nút nguồn, cần người sang kiểm_tra và tư vấn sửa_chữa
+__label__điện_tử Điện_thoại của tôi bị hỏng nút âm_lượng, cần người sang kiểm_tra sửa_chữa
+__label__điện_tử Máy_tính của tôi sáng nhưng màn_hình thì không hiện, cần người sang kiểm_tra và sửa_chữa
+__label__điện_tử Máy_tính nhà tôi đang chơi thì tự_động tắt, cần người đến khắc phục vấn_đề
+__label__điện_tử Tôi cần người vệ_sinh laptop tại nhà, giá_cả thương_lượng
+__label__điện_tử Máy lọc không_khí nhà tôi bỗng_dưng không hoạt_động, cần người sang kiểm_tra
+__label__điện_tử Nồi cơm điện nhà tôi bật nhưng không nấu chin cơm, cần người sang kiểm_tra và sửa ngay
+__label__điện_tử Loa Bluetooth của tôi đang nghe thì tự_động tắt và bật không lên, cần người sang kiểm_tra và sửa_chữa ngay
+__label__điện_tử Chuông cửa nhà tôi bị hỏng, bấm không nghe, cần người sang sửa ngay
+__label__điện_tử Pin laptop của tôi đã bị chai, cần người sang thay pin cho laptop
+__label__điện_tử sập máy_vi_tính bị nguồn
+__label__điện_tử nguồn máy_vi_tính bị sập
+__label__điện_tử máy_vi_tính nguồn bị sập
+__label__điện_tử máy_vi_tính nguồn bị sập
+__label__điện_tử máy_vi_tính bị nguồn sập
+__label__điện_tử máy_vi_tính sập nguồn bị
+__label__điện_tử nguồn sập máy_vi_tính bị
+__label__điện_tử nguồn máy_vi_tính sập bị
+__label__điện_tử nguồn máy_vi_tính sập bị
+__label__điện_tử nguồn máy_vi_tính bị sập
+__label__điện_tử sập máy_vi_tính bị nguồn
+__label__điện_tử sập nguồn bị máy_vi_tính
+__label__điện_tử sập nguồn máy_vi_tính	
+__label__điện_tử máy_vi_tính không khởi_động được
+__label__điện_tử không máy_vi_tính khởi_động được
+__label__điện_tử khởi_động máy_vi_tính không được
+__label__điện_tử được máy_vi_tính không khởi_động
+__label__điện_tử máy_vi_tính được không khởi_động
+__label__điện_tử máy_vi_tính được không khởi_động
+__label__điện_tử máy_vi_tính không được khởi_động
+__label__điện_tử máy_vi_tính khởi_động được không
+__label__điện_tử được khởi_động máy_vi_tính không
+__label__điện_tử được máy_vi_tính khởi_động không
+__label__điện_tử được máy_vi_tính khởi_động không
+__label__điện_tử được máy_vi_tính không khởi_động
+__label__điện_tử khởi_động máy_vi_tính không được
+__label__điện_tử khởi_động được không máy_vi_tính
+__label__điện_tử Tivi (TV) nhà tôi bị hỏng, cần người đến sửa trong ngày_mai, giá_cả thương_lượng
+__label__điện_tử Cần người đến sửa tivi (TV) gặp sự_cố.
+__label__điện_tử TV nhà tôi đang xem bỗng_dưng tắt, sau đó không bật lên nữa
+__label__điện_tử Cần người đến nhà cài win cho máy_tính
+__label__điện_tử Máy_tính bị hỏng, cần người đến nhà cài win giúp
+__label__điện_tử Quạt nước nhà tôi không quay được, cần người đến sửa_chữa
+__label__điện_tử Cần người đến sửa_chữa ngay sự_cố quạt nước không quay được
+__label__điện_tử Máy_tính gặp trục_trặc 1 số vấn_đề, cần thợ qua xem và sửa_chữa nếu có thể
+__label__điện_tử Bản_lề laptop bị trật, cần người có kinh nghiệm sửa
+__label__điện_tử Laptop không nhận sạc, cần người đến sửa
+__label__điện_tử Tivi có tiếng không có hình
+__label__điện_tử Tivi bật 2-5s sau lại tắt
+__label__điện_tử Remote không điều_khiển được TV dù đã thay remote
+__label__điện_tử Bộ thu sóng bị sét đánh, bị hỏng, mất hết đài, cần người thay ngay trong ngày_mai
+__label__điện_tử Tivi có hình nhưng lại không có tiếng
+__label__điện_tử Quạt nhà tôi khô dầu, không chạy, cần người đến thêm dầu, giá_cả thương_lượng
+__label__điện_tử Lò_vi_sóng bị hư phím điều_chỉnh thường, cần người đến thay
+__label__điện_tử Cần người đến thay phím điều_chỉnh inverter của lò_vi_sóng
+__label__điện_tử Cầu chì lò_vi_sóng bị hỏng, cần người đến thay ngay
+__label__điện_tử Lò_nướng của tôi đã sử dụng lâu, cần đem đi kiểm_tra và bảo_dưỡng
+__label__điện_tử Máy rửa bát của tôi bị hư không rõ lý do, cần người đến kiểm_tra và sửa_chữa
+__label__điện_tử Máy hút mùi của tôi không hoạt_động, cần người sửa_chữa ngay
+__label__điện_tử Máy_tính của tôi bị hỏng, bật không lên nguồn, cần thợ đến sửa gấp
+__label__điện_tử Đồng_hồ treo tường điện nhà tôi có vấn_đề, cần người kiểm_tra và sửa sữa trong ngày_mai
+__label__điện_tử Đèn tủ_lạnh nhà tôi không sáng, cần người đến sửa ngay
+__label__điện_tử Tủ_lạnh nhà tôi không hoạt động dù điện đã cắm đầy đủ
+__label__điện_tử Máy_lạnh nhà tôi bật không lên, cần người sang kiểm_tra
+__label__điện_tử Bình nước nóng lạnh nhà tôi không hoạt động, cần người sang kiểm_tra và sửa_chữa trong ngày_mai
+__label__điện_tử Điện_thoại của tôi bị hỏng nút nguồn, cần người sang kiểm_tra và tư vấn sửa_chữa
+__label__điện_tử Điện_thoại của tôi bị hỏng nút âm_lượng, cần người sang kiểm_tra sửa_chữa
+__label__điện_tử Máy_tính của tôi sáng nhưng màn_hình thì không hiện, cần người sang kiểm_tra và sửa_chữa
+__label__điện_tử Máy_tính nhà tôi đang chơi thì tự_động tắt, cần người đến khắc phục vấn_đề
+__label__điện_tử Tôi cần người vệ_sinh laptop tại nhà, giá_cả thương_lượng
+__label__điện_tử Máy lọc không_khí nhà tôi bỗng_dưng không hoạt_động, cần người sang kiểm_tra
+__label__điện_tử Nồi cơm điện nhà tôi bật nhưng không nấu chin cơm, cần người sang kiểm_tra và sửa ngay
+__label__điện_tử Loa Bluetooth của tôi đang nghe thì tự_động tắt và bật không lên, cần người sang kiểm_tra và sửa_chữa ngay
+__label__điện_tử Chuông cửa nhà tôi bị hỏng, bấm không nghe, cần người sang sửa ngay
+__label__điện_tử Pin laptop của tôi đã bị chai, cần người sang thay pin cho laptop
+__label__điện_tử Điều_hòa nhà tôi bị hỏng, tôi cần người sang và sửa chữa
+__label__điện_tử Sạc laptop của tôi bị hỏng, không sạc được, tôi cần người đến tư_vấn và thay_thế sạc mới
+__label__điện_tử Tivi nhà tôi bỗng_dưng xuất_hiện những vân đen, tôi cần người đến kiểm_tra ngay
+__label__điện_tử  Quạt_điện nhà tôi bị hỏng nút, tôi cần người đến thay mới
+__label__điện_tử Máy_giặt nhà tôi bỗng_dưng trục_trặc không hiểu lý_do, làm tôi phải giặt tay, cần người sang sửa_chữa ngay
+__label__điện_tử Quạt hơi nước nhà tôi bỗng dưng chế_độ Cool không hoạt_động, cần người sang và kiểm_tra
+__label__điện_tử Điều_hòa nhà tôi bỗng_dưng hoạt_động yếu đi không rõ nguyên_nhân, dù tôi vừa mới vệ_sinh, tôi cần người sang khắc_phục tận gốc sự_cố
+__label__điện_tử Điều_hòa nhà tôi đột_nhiên bị rỉ nước, gây khó_chịu cho tôi, cần người sang kiểm_tra và sửa_chữa ngay
+__label__điện_tử Những vệt mờ bỗng xuất_hiện trên TV nhà tôi, tôi cần người đến kiểm_tra lý_do
+__label__điện_tử Laptop của tôi sau khi bật thì không bấm vào được bất cứ thứ gì trên màn_hình, tôi cần thợ đến kiểm_tra và khắc_phục sự_cố
+__label__điện_tử Máy_tính của tôi đang xài thì bị màn hình xanh, nó đã lặp lại nhiều lần, tôi cần người đến kiểm_tra ngay
+__label__điện_tử Lò vi sóng nhà tôi hôm nay bỗng_dưng không hoạt_động bình_thường, tôi không hẹn giờ nhưng nó vẫn tự_động tắt, tôi cần người đến sửa ngay
+__label__điện_tử Màn_hình máy_tính của tôi đang chơi thì bỗng_dưng tắt đen, tôi đã làm mọi cách nhưng vẫn không được, cần người hiểu rõ về lỗi đến kiểm_tra và khắc_phục
+__label__điện_tử Cần người sửa lò vi sóng có kinh_nghiệm đến kiểm_tra lò vi sóng nhà tôi bị hỏng không hiểu lý_do
+__label__điện_tử Máy quạt nhà tôi bật rất lâu sau cánh mới quay, tôi đã thay dầu nhưng vẫn bị, cần thợ đến xem_xét và sửa_chữa
+__label__điện_tử Laptop của tôi sử dụng đã lâu, cần người vệ sinh tại nhà để đảm bảo an toàn
+__label__điện_tử Máy lọc không khí của tôi hôm nay không hoạt_động không hiểu lý_do, cần người đến kiểm_tra và sửa_chữa
+__label__điện_tử Màn_hình máy_tính của tôi bỗng_dưng xuất_hiện 1 vệt mờ dọc màn_hình, tôi cần thợ đến xem và tư_vấn
+__label__điện_tử Laptop của tôi để gần cửa_sổ nên bị nắng chiếu vào gây nóng máy, giờ bật không lên, tôi cần thợ đến kiểm_tra và sửa_chữa
+__label__điện_tử Đèn tủ_lạnh nhà tôi bỗng_dưng không sáng, cần người đến sửa_chữa
+__label__điện_tử Bếp điện nhà tôi hôm nay bỗng_dưng không nóng, tôi cần người đến kiểm_tra
+__label__điện_tử Pin laptop của tôi sử dụng lâu bị chai, cần người tư_vấn pin và mang đến thay, giá cả thương_lượng
+__label__điện_tử Remote quạt nước của tôi không điều_khiển được dù đã thay pin, tôi cần người đến kiểm_tra và sửa_chữa
+__label__điện_tử Tv của tôi bỗng_dưng mất hết đài, dò không ra, tôi cần người đến xem và sửa_chữa
+__label__điện_tử Tv của tôi bị mất âm_thanh không hiểu lý_do, tôi cần người đến xem và sửa
+__label__điện_tử Đồng_hồ điện_tử của tôi bị mất đèn, tôi cần người đến thay đèn cho đồng_hồ
+__label__điện_tử Tôi mới mua các bộ_phận của máy_tính, tôi cần người có chuyên_môn đến lắp giúp, giả_cả thương_lượng
+__label__điện_tử Loa kéo của tôi không hoạt_động bình_thường, lúc có âm_thanh lúc không, tôi cần người đến kiểm_tra và sửa_chữa
+__label__điện_tử Cần người sửa chữa tay cầm PlayStation
+__label__điện_tử Cần người sửa console Xbox
+__label__điện_tử Máy in nhà tôi bị hỏng, in mực không đều, tôi cần người đến kiểm_tra và sửa_chữa
+__label__điện_tử Tôi cần người lắp hệ_thống báo cháy trong gia_đình
+__label__điện_tử Máy_chiếu của tôi bị hỏng không kết_nối được với bât cứ thiết_bị nào, cần người đến sửa
+__label__điện_tử Máy FAX của tôi có vấn_đề, không rõ lý_do hỏng, cần người sang kiểm_tra và sửa_chữa
+__label__điện_tử Ngăn đông của tủ_lạnh nhà tôi bỗng_dưng không hoạt_động dù ngăn lạnh vẫn hoạt_động bình_thường, tôi cần người đến kiểm_tra
+__label__điện_tử Bàn_phím laptop của tôi bị hỏng, tôi cần người có kinh_nghiệm tư_vấn và đến thay_thế
+__label__điện_tử Bình nước nóng lạnh của tôi bỗng_dưng không làm lạnh, chỉ làm nóng, tôi không rõ lý_do, cần người đến kiểm_tra
+__label__điện_tử Bình nước nóng lạnh hỏng
+__label__điện_tử Cần sửa_chữa tay cầm chơi game
+__label__điện_tử Tv mất kênh, làm mọi cách nhưng không sửa được, cần người giúp
+__label__điện_tử Tv hỏng, thử mọi biện_pháp nhưng không khắc_phục được, cần trợ_giúp
+__label__điện_tử Hỏng tay cầm chơi game
+__label__điện_tử Tay cầm chơi game không hoạt_động
+__label__điện_tử Hệ_thống báo cháy hỏng
+__label__điện_tử Hệ_thống báo cháy không hoạt động
+__label__điện_tử Camera trong gia_đình bỗng tắt trong 1 khoảng thời_gian, cần trợ_giúp
+__label__điện_tử Hỏng camera, cần trợ_giúp
+__label__điện_tử Bếp điện từ hoạt_động có vấn_đề, cần trợ_giúp
+__label__điện_tử Hỏng máy FAX, cần người sửa
+__label__điện_tử Cần thợ sửa máy FAX hỏng
+__label__điện_tử Tủ_lạnh có vấn_đề, cần người sửa_chữa
+__label__điện_tử Cần thợ sửa tủ_lạnh bị hỏng
+__label__điện_tử Máy_tính nóng đột_xuất, cần trợ_giúp kiểm_tra
+__label__điện_tử Cần trợ_giúp lắp máy_tính
+__label__điện_tử Máy_tính bị hỏng win, cần người cài
+__label__điện_tử Đèn tủ_lạnh có vấn_đề, cần thay_thế
+__label__điện_tử Bóng đèn tủ_lạnh hoạt_động không bình_thường, cần thay_thế
+__label__điện_tử Quạt nước có vấn_đề, cần người sửa_chữa
+__label__điện_tử Quạt không chạy, cần người đến sửa
+__label__điện_tử Nồi cơm điện hoạt_động không bình_thường, cần người kiểm tra
+__label__điện_tử Máy_sấy bị hỏng 1 chế_độ, cần khắc_phục
+__label__điện_tử Máy_sấy gặp trục trặc, cần người sửa_chữa
+__label__điện_tử Remote không điều_khiển được dù đã thay pin, cần trợ_giúp
+__label__điện_tử khởi_động được máy_vi_tính không
+__label__điện_tử nồi cơm_điện bị hư bật nút không lên				
+__label__điện_tử cơm_điện nồi bị hư bật nút không lên				
+__label__điện_tử bị nồi cơm_điện hư bật nút không lên				
+__label__điện_tử hư nồi cơm_điện bị bật nút không lên				
+__label__điện_tử bật nồi cơm_điện bị hư nút không lên				
+__label__điện_tử nút nồi cơm_điện bị hư bật không lên				
+__label__điện_tử không nồi cơm_điện bị hư bật nút lên				
+__label__điện_tử lên nồi cơm_điện bị hư bật nút không				
+__label__điện_tử nồi lên cơm_điện bị hư bật nút không				
+__label__điện_tử nồi lên cơm_điện bị hư bật nút không				
+__label__điện_tử nồi cơm_điện lên bị hư bật nút không				
+__label__điện_tử nồi bị lên cơm_điện hư bật nút không				
+__label__điện_tử nồi hư lên cơm_điện bị bật nút không				
+__label__điện_tử nồi bật lên cơm_điện bị hư nút không				
+__label__điện_tử nồi nút lên cơm_điện bị hư bật không				
+__label__điện_tử nồi không lên cơm_điện bị hư bật nút				
+__label__điện_tử lên không nồi cơm_điện bị hư bật nút				
+__label__điện_tử lên nồi không cơm_điện bị hư bật nút				
+__label__điện_tử lên nồi không cơm_điện bị hư bật nút				
+__label__điện_tử lên nồi cơm_điện không bị hư bật nút				
+__label__điện_tử lên nồi bị không cơm_điện hư bật nút				
+__label__điện_tử lên nồi hư không cơm_điện bị bật nút				
+__label__điện_tử lên nồi bật không cơm_điện bị hư nút				
+__label__điện_tử lên nồi nút không cơm_điện bị hư bật				
+__label__điện_tử không nồi nút lên cơm_điện bị hư bật				
+__label__điện_tử không lên nút nồi cơm_điện bị hư bật				
+__label__điện_tử không lên nồi nút cơm_điện bị hư bật				
+__label__điện_tử không lên nồi nút cơm_điện bị hư bật				
+__label__điện_tử không lên nồi cơm_điện nút bị hư bật				
+__label__điện_tử không lên nồi bị nút cơm_điện hư bật				
+__label__điện_tử không lên nồi hư nút cơm_điện bị bật				
+__label__điện_tử không lên nồi bật nút cơm_điện bị hư				
+__label__điện_tử nút lên nồi bật không cơm_điện bị hư				
+__label__điện_tử nút không nồi bật lên cơm_điện bị hư				
+__label__điện_tử nút không lên bật nồi cơm_điện bị hư				
+__label__điện_tử nút không lên nồi bật cơm_điện bị hư				
+__label__điện_tử nút không lên nồi bật cơm_điện bị hư				
+__label__điện_tử nút không lên nồi cơm_điện bật bị hư				
+__label__điện_tử nút không lên nồi bị bật cơm_điện hư				
+__label__điện_tử nút không lên nồi hư bật cơm_điện bị				
+__label__điện_tử bật không lên nồi hư nút cơm_điện bị				
+__label__điện_tử bật nút lên nồi hư không cơm_điện bị				
+__label__điện_tử bật nút không nồi hư lên cơm_điện bị				
+__label__điện_tử bật nút không lên hư nồi cơm_điện bị				
+__label__điện_tử bật nút không lên nồi hư cơm_điện bị				
+__label__điện_tử bật nút không lên nồi hư cơm_điện bị				
+__label__điện_tử bật nút không lên nồi cơm_điện hư bị				
+__label__điện_tử bật nút không lên nồi bị hư cơm_điện
+__label__điện_tử khi quạt chạy phát ra tiếng rất to				
+__label__điện_tử quạt khi chạy phát ra tiếng rất to				
+__label__điện_tử chạy khi quạt phát ra tiếng rất to				
+__label__điện_tử phát khi quạt chạy ra tiếng rất to				
+__label__điện_tử ra khi quạt chạy phát tiếng rất to				
+__label__điện_tử tiếng khi quạt chạy phát ra rất to				
+__label__điện_tử rất khi quạt chạy phát ra tiếng to				
+__label__điện_tử to khi quạt chạy phát ra tiếng rất				
+__label__điện_tử khi to quạt chạy phát ra tiếng rất				
+__label__điện_tử khi to quạt chạy phát ra tiếng rất				
+__label__điện_tử khi quạt to chạy phát ra tiếng rất				
+__label__điện_tử khi chạy to quạt phát ra tiếng rất				
+__label__điện_tử khi phát to quạt chạy ra tiếng rất				
+__label__điện_tử khi ra to quạt chạy phát tiếng rất				
+__label__điện_tử khi tiếng to quạt chạy phát ra rất				
+__label__điện_tử khi rất to quạt chạy phát ra tiếng				
+__label__điện_tử to rất khi quạt chạy phát ra tiếng				
+__label__điện_tử to khi rất quạt chạy phát ra tiếng				
+__label__điện_tử to khi rất quạt chạy phát ra tiếng				
+__label__điện_tử to khi quạt rất chạy phát ra tiếng				
+__label__điện_tử to khi chạy rất quạt phát ra tiếng				
+__label__điện_tử to khi phát rất quạt chạy ra tiếng				
+__label__điện_tử to khi ra rất quạt chạy phát tiếng				
+__label__điện_tử to khi tiếng rất quạt chạy phát ra				
+__label__điện_tử rất khi tiếng to quạt chạy phát ra				
+__label__điện_tử rất to_tiếng khi quạt chạy phát ra				
+__label__điện_tử rất to khi tiếng quạt chạy phát ra				
+__label__điện_tử rất to khi tiếng quạt chạy phát ra				
+__label__điện_tử rất to khi quạt tiếng chạy phát ra				
+__label__điện_tử rất to khi chạy tiếng quạt phát ra				
+__label__điện_tử rất to khi phát tiếng quạt chạy ra				
+__label__điện_tử rất to khi ra tiếng quạt chạy phát				
+__label__điện_tử tiếng to khi ra rất quạt chạy phát				
+__label__điện_tử tiếng rất khi ra to quạt chạy phát				
+__label__điện_tử tiếng rất to ra khi quạt chạy phát				
+__label__điện_tử tiếng rất to khi ra quạt chạy phát				
+__label__điện_tử tiếng rất to khi ra quạt chạy phát				
+__label__điện_tử tiếng rất to khi quạt ra chạy phát				
+__label__điện_tử tiếng rất to khi chạy ra quạt phát				
+__label__điện_tử tiếng rất to khi phát ra quạt chạy				
+__label__điện_tử ra rất to khi phát tiếng quạt chạy				
+__label__điện_tử ra tiếng to khi phát rất quạt chạy				
+__label__điện_tử ra tiếng rất khi phát to quạt chạy				
+__label__điện_tử ra tiếng rất to phát khi quạt chạy				
+__label__điện_tử ra tiếng rất to khi phát quạt chạy				
+__label__điện_tử ra tiếng rất to khi phát quạt chạy				
+__label__điện_tử ra tiếng rất to khi quạt phát chạy				
+__label__điện_tử ra tiếng rất to khi chạy phát quạt				
+__label__điện_tử phát tiếng rất to khi chạy ra quạt				
+__label__điện_tử phát ra rất to khi chạy tiếng quạt				
+__label__điện_tử phát ra tiếng to khi chạy rất quạt				
+__label__điện_tử phát ra tiếng rất khi chạy to quạt				
+__label__điện_tử phát ra tiếng rất to chạy khi quạt				
+__label__điện_tử phát ra tiếng rất to khi chạy quạt				
+__label__điện_tử phát ra tiếng rất to khi chạy quạt				
+__label__điện_tử phát ra tiếng rất to khi quạt chạy				
+__label__điện_tử chạy ra tiếng rất to khi quạt phát				
+__label__điện_tử chạy phát tiếng rất to khi quạt ra				
+__label__điện_tử chạy phát ra rất to khi quạt tiếng				
+__label__điện_tử chạy phát ra tiếng to khi quạt rất				
+__label__điện_tử chạy phát ra tiếng rất khi quạt to				
+__label__điện_tử chạy phát ra tiếng rất to quạt khi				
+__label__điện_tử chạy phát ra tiếng rất to khi quạt				
+__label__điện_tử chạy phát ra tiếng rất to khi quạt				
+__label__điện_tử tivi tự_động tắt				
+__label__điện_tử tự_động tivi tắt				
+__label__điện_tử tắt tivi tự_động				
+__label__điện_tử tivi tắt tự_động				
+__label__điện_tử tivi tắt tự_động				
+__label__điện_tử tivi tự_động tắt				
+__label__điện_tử tắt tự_động tivi				
+__label__điện_tử tắt tivi tự_động				
+__label__điện_tử tắt tivi tự_động				
+__label__điện_tử tủ_lạnh không sáng đèn				
+__label__điện_tử không tủ_lạnh sáng đèn				
+__label__điện_tử sáng tủ_lạnh không đèn				
+__label__điện_tử đèn tủ_lạnh không sáng				
+__label__điện_tử tủ_lạnh đèn không sáng				
+__label__điện_tử tủ_lạnh đèn không sáng				
+__label__điện_tử tủ_lạnh không đèn sáng				
+__label__điện_tử tủ_lạnh sáng đèn không				
+__label__điện_tử đèn sáng tủ_lạnh không				
+__label__điện_tử đèn tủ_lạnh sáng không				
+__label__điện_tử đèn tủ_lạnh sáng không				
+__label__điện_tử đèn tủ_lạnh không sáng				
+__label__điện_tử sáng tủ_lạnh không đèn				
+__label__điện_tử sáng đèn không tủ_lạnh				
+__label__điện_tử sáng đèn tủ_lạnh không				
+__label__điện_tử sáng đèn tủ_lạnh không				
+__label__điện_tử máy xay sinh tố không hoạt_động được				
+__label__điện_tử máy_xay sinh_tố không hoạt_động được				
+__label__điện_tử sinh_tố máy_xay không hoạt_động được				
+__label__điện_tử không máy_xay sinh_tố hoạt_động được				
+__label__điện_tử hoạt_động máy_xay sinh_tố không được				
+__label__điện_tử được máy_xay sinh_tố không hoạt_động				
+__label__điện_tử máy_xay được sinh_tố không hoạt_động				
+__label__điện_tử máy_xay được sinh_tố không hoạt_động				
+__label__điện_tử máy_xay sinh_tố được không hoạt_động				
+__label__điện_tử máy_xay không được sinh_tố hoạt_động				
+__label__điện_tử máy_xay hoạt_động được sinh_tố không				
+__label__điện_tử được hoạt_động máy_xay sinh_tố không				
+__label__điện_tử được máy_xay hoạt_động sinh_tố không				
+__label__điện_tử được máy_xay hoạt_động sinh_tố không				
+__label__điện_tử được máy_xay sinh_tố hoạt_động không				
+__label__điện_tử được máy_xay không hoạt_động sinh_tố				
+__label__điện_tử hoạt_động máy_xay không được sinh_tố				
+__label__điện_tử hoạt_động được không máy_xay sinh_tố				
+__label__điện_tử hoạt_động được máy_xay không sinh_tố				
+__label__điện_tử hoạt_động được máy_xay không sinh_tố				
+__label__điện_tử hoạt_động được máy_xay sinh_tố không				
+__label__điện_tử không được máy_xay sinh_tố hoạt_động				
+__label__điện_tử không hoạt_động máy_xay sinh_tố được				
+__label__điện_tử không hoạt_động được sinh_tố máy_xay				
+__label__điện_tử không hoạt_động được máy_xay sinh_tố
+__label__điện_tử Loa paramax không hoạt_động được				
+__label__điện_tử Loa paramax phát tiềng ồn				
+__label__điện_tử Loa paramax âm_thanh không còn như ban đầu nữa				
+__label__điện_tử Loa paramax bị lỗi, âm_thanh bị lẫn tạp_âm				
+__label__điện_tử Amply bị lủng không phát nhạc được				
+__label__điện_tử Phát nhạc không được do amply bị lủng				
+__label__điện_tử Đầu karaoke bị hỏng_hóc, không bật được				
+__label__điện_tử Bật karaoke nhưng không có tín_hiệu				
+__label__điện_tử Đầu karaoke không chạy mặc_dù đã bật nhiều lần				
+__label__điện_tử Máy_giặt kêu tiếng_ồn				
+__label__điện_tử Âm_thanh máy_giặt không còn như bình thường				
+__label__điện_tử Máy_giặt phát ra tạp_âm không nghe được				
+__label__điện_tử Máy_giặt không đóng cửa được				
+__label__điện_tử Máy_giặt không bỏ xà_phòng vào được				
+__label__điện_tử Quần áo giặt bằng máy_giặt không khô được				
+__label__điện_tử Máy_giặt bị lỗi về giặt xả nước				
+__label__điện_tử Máy_giặt không hoạt_động như mọi khi				
+__label__điện_tử Máy_giặt không bình thường				
+__label__điện_tử Xà_phòng vào máy_giặt không được				
+__label__điện_tử Lỗ đóng mở xà_phòng bị lỗi				
+__label__điện_tử Lò_vi_sóng không còn làm nóng được nữa				
+__label__điện_tử Lò_vi_sóng bị lỗi, không còn ánh đèn hồng ngoại				
+__label__điện_tử Lò_vi_sóng không quay được				
+__label__điện_tử Cửa lò_vi_sóng không bật được				
+__label__điện_tử Chế_độ hấp của lò_vi_sóng bị lỗi				
+__label__điện_tử Chế_độ hấp của lò_vi_sóng không hoạt_động được				
+__label__điện_tử Chế_độ nướng của lò_vi_sóng không dùng được				
+__label__điện_tử Chế_độ nướng của lò_vi_sóng không hoạt_động				
+__label__điện_tử Điều_hòa phả ra hơi nóng				
+__label__điện_tử Điều_hòa không còn làm lạnh được nữa				
+__label__điện_tử Cánh quạt của điều_hòa không quay được				
+__label__điện_tử Cánh quạt của điều_hòa không điều khiển được				
+__label__điện_tử Chế_độ swing của điều_hòa bị hỏng				
+__label__điện_tử Chế_độ hẹn giờ của điều_hòa chán nản, không làm được gì cả				
+__label__điện_tử Ngăn mát của tủ_lạnh không làm mát				
+__label__điện_tử Ngăn đông của tủ_lạnh không làm đá được				
+__label__điện_tử Máy hút bụi không hút được bụi				
+__label__điện_tử Máy hút bụi kêu tiếng_ồn hơn mọi khi				
+__label__điện_tử Máy hút bụi hỏng_hóc không hiểu lý do				
+__label__điện_tử Dây của máy quạt bị hư				
+__label__điện_tử Quạt không đứng thẳng được				
+__label__điện_tử Tiếng kêu của quạt ồn không ngủ được				
+__label__điện_tử Quạt trần gần như rớt xuống sợ quá				
+__label__điện_tử Cánh quạt không quay mặc_dù motor có hoạt_động				
+__label__điện_tử Tủ_lạnh 2 ngăn có 1 ngăn đông không hoạt_động				
+__label__điện_tử Tủ_lạnh không làm lạnh được mặc_dù đã cắm điện đầy đủ				
+__label__điện_tử ấm đun siêu_tốc không làm nước nóng				
+__label__điện_tử ấm đun siêu_tốc không sáng đèn phải đợi đến khi nước nóng rồi mình tự đi tắt				
+__label__điện_tử ấm đun siêu_tốc bị đứt dây tốc				
+__label__điện_tử ấm đun siêu_tốc bị đứt dây làm nóng				
+__label__điện_tử bình lọc không hoạt_động được				
+__label__điện_tử bình lọc dây lạnh không hoạt_động được				
+__label__điện_tử bình lọc dây_nóng không hoạt_động được				
+__label__điện_tử bình lọc không lọc gì được, không thải ra nước luôn								
+__label__điện_tử không hoạt_động được máy_xay sinh_tố								
+__label__điện_tử hư nút không lên nồi bị bật cơm_điện				
+__label__điện_tử hư bật không lên nồi bị nút cơm_điện				
+__label__điện_tử hư bật nút lên nồi bị không cơm_điện				
+__label__điện_tử hư bật nút không nồi bị lên cơm_điện				
+__label__điện_tử hư bật nút không lên bị nồi cơm_điện				
+__label__điện_tử hư bật nút không lên nồi bị cơm_điện				
+__label__điện_tử hư bật nút không lên nồi bị cơm_điện				
+__label__điện_tử hư bật nút không lên nồi cơm_điện bị				
+__label__điện_tử bị bật nút không lên nồi cơm_điện hư				
+__label__điện_tử bị hư nút không lên nồi cơm_điện bật				
+__label__điện_tử bị hư bật không lên nồi cơm_điện nút				
+__label__điện_tử bị hư bật nút lên nồi cơm_điện không				
+__label__điện_tử bị hư bật nút không nồi cơm_điện lên				
+__label__điện_tử bị hư bật nút không lên cơm_điện nồi				
+__label__điện_tử bị hư bật nút không lên nồi cơm_điện				
+__label__điện_tử bị hư bật nút không lên nồi cơm_điện
+__label__điện tôi bị hư điện tôi cần người sửa				
+__label__điện bị tôi hư điện tôi cần người sửa				
+__label__điện hư tôi bị điện tôi cần người sửa				
+__label__điện điện tôi bị hư tôi cần người sửa				
+__label__điện tôi bị hư điện tôi cần người sửa				
+__label__điện tôi tôi bị hư điện cần người sửa				
+__label__điện cần tôi bị hư điện tôi người sửa				
+__label__điện người tôi bị hư điện tôi cần sửa				
+__label__điện sửa tôi bị hư điện tôi cần người				
+__label__điện tôi sửa bị hư điện tôi cần người				
+__label__điện tôi sửa bị hư điện tôi cần người				
+__label__điện tôi bị sửa hư điện tôi cần người				
+__label__điện tôi hư sửa bị điện tôi cần người				
+__label__điện tôi điện sửa bị hư tôi cần người				
+__label__điện tôi sửa bị hư điện tôi cần người				
+__label__điện tôi tôi sửa bị hư điện cần người				
+__label__điện tôi cần sửa bị hư điện tôi người				
+__label__điện tôi người sửa bị hư điện tôi cần				
+__label__điện sửa người tôi bị hư điện tôi cần				
+__label__điện sửa tôi người bị hư điện tôi cần
+__label__điện công tơ điện bị cháy			
+__label__điện tơ công_điện bị cháy			
+__label__điện điện công tơ bị cháy			
+__label__điện bị công tơ điện cháy			
+__label__điện cháy công tơ điện bị			
+__label__điện công cháy tơ điện bị			
+__label__điện công cháy tơ điện bị			
+__label__điện công tơ cháy điện bị			
+__label__điện công_điện cháy tơ bị			
+__label__điện công bị cháy tơ điện			
+__label__điện cháy bị công tơ điện			
+__label__điện cháy công bị tơ điện			
+__label__điện cháy công bị tơ điện			
+__label__điện cháy công tơ bị điện			
+__label__điện cháy công_điện bị tơ			
+__label__điện bị công_điện cháy tơ			
+__label__điện bị cháy điện công tơ			
+__label__điện bị cháy công_điện tơ			
+__label__điện bị cháy công_điện tơ			
+__label__điện bị cháy công tơ điện			
+__label__điện điện cháy công tơ bị			
+__label__điện điện bị công tơ cháy			
+__label__điện điện bị cháy tơ công			
+__label__điện điện bị cháy công tơ			
+__label__điện điện bị cháy công tơ			
+__label__điện bóng_đèn không sáng			
+__label__điện không bóng_đèn sáng			
+__label__điện sáng bóng_đèn không			
+__label__điện bóng_đèn sáng không			
+__label__điện bóng_đèn sáng không			
+__label__điện bóng_đèn không sáng			
+__label__điện sáng không bóng_đèn			
+__label__điện sáng bóng_đèn không			
+__label__điện sáng bóng_đèn không			
+__label__điện ổ_cắm điện bị hỏng			
+__label__điện điện ổ_cắm bị hỏng			
+__label__điện bị ổ_cắm điện hỏng			
+__label__điện hỏng ổ_cắm điện bị			
+__label__điện ổ_cắm hỏng điện bị			
+__label__điện ổ_cắm hỏng điện bị			
+__label__điện ổ_cắm điện hỏng bị			
+__label__điện ổ_cắm bị hỏng điện			
+__label__điện hỏng bị ổ_cắm điện			
+__label__điện hỏng ổ_cắm bị điện			
+__label__điện hỏng ổ_cắm bị điện			
+__label__điện hỏng ổ_cắm điện bị			
+__label__điện bị ổ_cắm điện hỏng			
+__label__điện bị hỏng điện ổ_cắm			
+__label__điện bị hỏng ổ_cắm điện			
+__label__điện bị hỏng ổ_cắm điện			
+__label__điện cần tìm người sửa tủ điện 1 pha			
+__label__điện tìm cần người sửa tủ điện 1 pha			
+__label__điện người cần tìm sửa tủ điện 1 pha			
+__label__điện sửa cần tìm người tủ điện 1 pha			
+__label__điện tủ cần tìm người sửa điện 1 pha			
+__label__điện điện cần tìm người sửa tủ 1 pha			
+__label__điện 1 cần tìm người sửa tủ điện pha			
+__label__điện pha cần tìm người sửa tủ điện 1			
+__label__điện cần pha tìm người sửa tủ điện 1			
+__label__điện cần pha tìm người sửa tủ điện 1			
+__label__điện cần tìm pha người sửa tủ điện 1			
+__label__điện cần người pha tìm sửa tủ điện 1			
+__label__điện cần sửa pha tìm người tủ điện 1			
+__label__điện cần tủ pha tìm người sửa điện 1			
+__label__điện cần điện pha tìm người sửa tủ 1			
+__label__điện cần 1 pha tìm người sửa tủ điện			
+__label__điện pha 1 cần tìm người sửa tủ điện			
+__label__điện pha cần 1 tìm người sửa tủ điện			
+__label__điện pha cần 1 tìm người sửa tủ điện			
+__label__điện pha cần tìm 1 người sửa tủ điện			
+__label__điện pha cần người 1 tìm sửa tủ điện			
+__label__điện pha cần sửa 1 tìm người tủ điện			
+__label__điện pha cần tủ 1 tìm người sửa điện			
+__label__điện pha cần điện 1 tìm người sửa tủ			
+__label__điện 1 cần điện pha tìm người sửa tủ			
+__label__điện 1 pha điện cần tìm người sửa tủ			
+__label__điện 1 pha cần điện tìm người sửa tủ			
+__label__điện 1 pha cần điện tìm người sửa tủ			
+__label__điện 1 pha cần tìm điện người sửa tủ			
+__label__điện 1 pha cần người điện tìm sửa tủ			
+__label__điện 1 pha cần sửa điện tìm người tủ			
+__label__điện 1 pha cần tủ điện tìm người sửa			
+__label__điện điện pha cần tủ 1 tìm người sửa			
+__label__điện điện 1 cần tủ pha tìm người sửa			
+__label__điện điện 1 pha tủ cần tìm người sửa			
+__label__điện điện 1 pha cần tủ tìm người sửa			
+__label__điện điện 1 pha cần tủ tìm người sửa			
+__label__điện điện 1 pha cần tìm tủ người sửa			
+__label__điện điện 1 pha cần người tủ tìm sửa			
+__label__điện điện 1 pha cần sửa tủ tìm người			
+__label__điện tủ 1 pha cần sửa điện tìm người			
+__label__điện tủ điện pha cần sửa 1 tìm người			
+__label__điện tủ điện 1 cần sửa pha tìm người			
+__label__điện tủ điện 1 pha sửa cần tìm người			
+__label__điện tủ điện 1 pha cần sửa tìm người			
+__label__điện tủ điện 1 pha cần sửa tìm người			
+__label__điện tủ điện 1 pha cần tìm sửa người			
+__label__điện tủ điện 1 pha cần người sửa tìm			
+__label__điện sửa điện 1 pha cần người tủ tìm			
+__label__điện sửa tủ 1 pha cần người điện tìm			
+__label__điện sửa tủ điện pha cần người 1 tìm			
+__label__điện sửa tủ điện 1 cần người pha tìm			
+__label__điện sửa tủ điện 1 pha người cần tìm			
+__label__điện sửa tủ điện 1 pha cần người tìm			
+__label__điện sửa tủ điện 1 pha cần người tìm			
+__label__điện sửa tủ điện 1 pha cần tìm người			
+__label__điện người tủ điện 1 pha cần tìm sửa			
+__label__điện người sửa điện 1 pha cần tìm tủ			
+__label__điện người sửa tủ 1 pha cần tìm điện			
+__label__điện người sửa tủ điện pha cần tìm 1			
+__label__điện người sửa tủ điện 1 cần tìm pha			
+__label__điện người sửa tủ điện 1 pha tìm cần			
+__label__điện người sửa tủ điện 1 pha cần tìm			
+__label__điện người sửa tủ điện 1 pha cần tìm							
+__label__điện sửa tôi người bị hư điện tôi cần				
+__label__điện sửa tôi bị người hư điện tôi cần				
+__label__điện sửa tôi hư người bị điện tôi cần				
+__label__điện sửa tôi điện người bị hư tôi cần				
+__label__điện sửa tôi người bị hư điện tôi cần				
+__label__điện sửa tôi tôi người bị hư điện cần				
+__label__điện sửa tôi cần người bị hư điện tôi				
+__label__điện người tôi cần sửa bị hư điện tôi				
+__label__điện người sửa cần tôi bị hư điện tôi				
+__label__điện người sửa tôi cần bị hư điện tôi				
+__label__điện người sửa tôi cần bị hư điện tôi				
+__label__điện người sửa tôi bị cần hư điện tôi				
+__label__điện người sửa tôi hư cần bị điện tôi				
+__label__điện người sửa tôi điện cần bị hư tôi				
+__label__điện người sửa tôi cần bị hư điện tôi				
+__label__điện người sửa tôi tôi cần bị hư điện				
+__label__điện cần sửa tôi tôi người bị hư điện				
+__label__điện cần người tôi tôi sửa bị hư điện				
+__label__điện cần người sửa tôi tôi bị hư điện				
+__label__điện cần người sửa tôi tôi bị hư điện				
+__label__điện cần người sửa tôi tôi bị hư điện				
+__label__điện cần người sửa tôi bị tôi hư điện				
+__label__điện cần người sửa tôi hư tôi bị điện				
+__label__điện cần người sửa tôi điện tôi bị hư				
+__label__điện cần người sửa tôi tôi bị hư điện				
+__label__điện tôi người sửa tôi cần bị hư điện				
+__label__điện tôi cần sửa tôi người bị hư điện				
+__label__điện tôi cần người tôi sửa bị hư điện				
+__label__điện tôi cần người sửa tôi bị hư điện				
+__label__điện tôi cần người sửa tôi bị hư điện				
+__label__điện tôi cần người sửa tôi bị hư điện				
+__label__điện tôi cần người sửa tôi bị hư điện				
+__label__điện tôi cần người sửa tôi hư bị điện				
+__label__điện tôi cần người sửa tôi điện bị hư				
+__label__điện cần người sửa tôi điện tôi bị hư				
+__label__điện tôi người sửa tôi điện cần bị hư				
+__label__điện tôi cần sửa tôi điện người bị hư				
+__label__điện mạch điện hỏng cần sửa				
+__label__điện điện mạch hỏng cần sửa				
+__label__điện hỏng mạch điện cần sửa				
+__label__điện mạch điện hỏng cần sửa				
+__label__điện cần mạch điện hỏng sửa				
+__label__điện sửa mạch điện hỏng cần				
+__label__điện mạch sửa điện hỏng cần				
+__label__điện mạch sửa điện hỏng cần				
+__label__điện mạch điện sửa hỏng cần				
+__label__điện mạch hỏng sửa điện cần				
+__label__điện mạch sửa điện hỏng cần				
+__label__điện mạch cần sửa điện hỏng				
+__label__điện sửa cần mạch điện hỏng				
+__label__điện sửa mạch cần điện hỏng				
+__label__điện sửa mạch cần điện hỏng				
+__label__điện sửa mạch điện cần hỏng				
+__label__điện sửa mạch hỏng cần điện				
+__label__điện sửa mạch cần điện hỏng				
+__label__điện cần mạch sửa điện hỏng				
+__label__điện cần sửa mạch điện hỏng				
+__label__điện cần sửa_mạch điện hỏng				
+__label__điện cần sửa_mạch điện hỏng				
+__label__điện cần sửa mạch điện hỏng				
+__label__điện cần sửa mạch hỏng điện				
+__label__điện sửa mạch hỏng cần điện				
+__label__điện cần mạch hỏng sửa điện				
+__label__điện cần sửa hỏng mạch điện				
+__label__điện cần sửa mạch hỏng điện				
+__label__điện cần sửa mạch hỏng điện				
+__label__điện cần sửa mạch điện hỏng				
+__label__điện hỏng cần sửa mạch điện				
+__label__điện hỏng sửa mạch điện cần				
+__label__điện hỏng cần mạch điện sửa				
+__label__điện hỏng cần sửa điện mạch				
+__label__điện hỏng cần sửa mạch điện				
+__label__điện hỏng cần sửa mạch điện				
+__label__điện tôi cần người tôi điện sửa bị hư				
+__label__điện tôi cần người sửa điện tôi bị hư				
+__label__điện tôi cần người sửa tôi điện bị hư				
+__label__điện tôi cần người sửa tôi điện bị hư				
+__label__điện tôi cần người sửa tôi bị điện hư				
+__label__điện tôi cần người sửa tôi hư điện bị				
+__label__điện điện tôi cần người sửa tôi hư bị				
+__label__điện điện cần người sửa tôi hư tôi bị				
+__label__điện điện tôi người sửa tôi hư cần bị				
+__label__điện điện tôi cần sửa tôi hư người bị				
+__label__điện điện tôi cần người tôi hư sửa bị				
+__label__điện điện tôi cần người sửa hư tôi bị				
+__label__điện điện tôi cần người sửa tôi hư bị				
+__label__điện điện tôi cần người sửa tôi bị hư				
+__label__điện hư tôi cần người sửa tôi bị điện				
+__label__điện hư điện tôi cần người sửa tôi bị				
+__label__điện hư điện cần người sửa tôi bị tôi				
+__label__điện hư điện tôi người sửa tôi bị cần				
+__label__điện hư điện tôi cần sửa tôi bị người				
+__label__điện hư điện tôi cần người tôi bị sửa				
+__label__điện hư điện tôi cần người sửa bị tôi				
+__label__điện hư điện tôi cần người sửa tôi bị				
+__label__điện điện nhà tôi bị hỏng, cần người sửa gấp				
+__label__điện điện nhà tôi bị hỏng cần người sửa gấp				
+__label__điện nhà điện tôi bị hỏng cần người sửa gấp				
+__label__điện tôi điện nhà bị hỏng cần người sửa gấp				
+__label__điện bị điện nhà tôi hỏng cần người sửa gấp				
+__label__điện hỏng điện nhà tôi bị cần người sửa gấp				
+__label__điện điện nhà tôi bị hỏng cần người sửa gấp				
+__label__điện cần điện nhà tôi bị hỏng người sửa gấp				
+__label__điện người điện nhà tôi bị hỏng cần sửa gấp				
+__label__điện sửa điện nhà tôi bị hỏng cần người gấp				
+__label__điện gấp điện nhà tôi bị hỏng cần người sửa				
+__label__điện điện gấp nhà tôi bị hỏng cần người sửa				
+__label__điện điện nhà gấp tôi bị hỏng cần người sửa				
+__label__điện điện tôi gấp nhà bị hỏng cần người sửa
+__label__điện đèn nhà tôi chập_chờn, thiết_bị tự ngắt, cần người đến khắc_phục
+__label__điện cầu chì nhà tôi bị cháy, tôi đã ngắt_điện trong nhà, tôi cần gấp người có chuyên_môn khắc_phục
+__label__điện cần hỗ_trợ thay thế cầu chì, thiết_bị điện trong nhà
+__label__điện dây_điện nhà tôi bị chuột cắn đứt, cần người sửa 
+__label__điện cần người sửa điện do sét đánh làm cháy ổ_điện nhà tôi
+__label__điện dây_điện của máy đun nước siêu tốc sau khi cắm khoảng 5-10p thì nóng, bên trong dây_điện có mùi khét, cần người sửa gấp trong ngày_mai.
+__label__điện Điện nhà tôi bỗng dung tắt không biết lý_do, cần người tìm_hiểu và khắc_phục
+__label__điện Cần người khắc_phục thiết_bị điện bị mất nguồn
+__label__điện Công_tắc điện nhà tôi sử_dụng đã lâu, cần người thay thế
+__label__điện Cần người tìm_hiểu aptomat nhà tôi thường nhảy không có lý_do
+__label__điện Bóng_đèn nhà tôi bị chập_chờn, cần tìm người thay mới
+__label__điện Cần người lắp mạch điện cho gia_đình, giá_cả thương lượng
+__label__điện Cần người thiết_kế, lắp mạch điện âm tường
+__label__điện Cần người lắp bộ bóng_đèn + công_tắc trong gia_đình, giá_cả thương lượng
+__label__điện Tôi cần lắp bộ báo_cháy trong gia_đình
+__label__điện Tôi cần người người lắp bộ báo_cháy điện
+__label__điện Cần người sửa_chữa mạch điện âm tường
+__label__điện Chập điện nổi bị hỏng, cần sửa_chữa ngay
+__label__điện Điện nhà tôi bị rò_rỉ mấy hôm, cần người đến sửa ngay trong hôm_nay
+__label__điện Đồng_hồ điện nhà tôi bị hư, cần người lắp_đặt bộ thiết_bị mới
+__label__điện Tôi cần lắp ngay 1 ổ_cắm điện âm 
+__label__điện Tôi cần người lắp 1 ổ_cắm điện nổi
+__label__điện Nhà tôi cần lắp hệ_thống đèn chiếu sáng, giá_cả thương lượng
+__label__điện Điện nhà tôi bị chập liên_hồi, tôi cần người đến kiểm tra
+__label__điện Nhà tôi bị sét đánh, điện trong nhà bỗng cháy khét, tôi đã ngắt cầu_dao, tôi cần người đến xem ngay
+__label__điện Aptomat nhà tôi tự động nhảy rất nhiều lần, cần thợ điện có chuyên_môn đến sửa trong nay mai
+__label__điện Nhà tôi bị ngập_lụt, nước làm hỏng hết hệ_thống điện, cần người đến kiểm tra ngay trong ngày_mai
+__label__điện Tôi cần lắp hệ_thống đèn led trong gia_đình
+__label__điện Tôi cần thợ_điện lắp hệ_thống đèn âm tường, trang trí
+__label__điện Bóng_đèn nhà tôi bị hỏng, cần người thay ngay lập tức
+__label__điện Tôi cần người chuyên_môn cao lắp_đặt điện 3 pha cho gia_đình
+__label__điện Bóng_đèn nhà tôi hoạt_động không ổn_định, lúc bật lúc tắt không hiểu lý_do, tôi cần người đến kiểm_tra và thay_thế ngay
+__label__điện Điện nhà tôi bỗng_dưng chập_chờn, hiện_tượng này đã xảy_ra rất nhiều lần, tôi cần người đến kiểm_tra lý_do ngay
+__label__điện Mỗi khi nhà tôi muốn bật công_tắc đèn phòng thờ thì đèn của cả gia_đình tôi bị tắt, tôi cần người đến và kiểm_tra và khắc_phục đèn điện nhà tôi
+__label__điện Điện nhà tôi thường_xuyên bị delay không rõ nguyên_nhân, làm tôi rất bất_an, tôi cần thợ đến kiểm_tra và sửa_chữa ngay
+__label__điện Điện nhà tôi tự_động tắt trong 1 khung giờ cố_định, tôi cần người đến xem lý_do
+__label__điện Ổ điện nhà tôi đang có dấu_hiệu quá_tải, lúc xài được lúc không, tôi cần người đến kiểm_tra và thay mới
+__label__điện Nhà tôi sáng sớm thường_xuyên bị mất điện, sau 1-2 tiếng thì mới có lại, tôi cần người đến kiểm_tra và sửa_chữa
+__label__điện Điện nhà tôi lúc xài được, lúc lại bị tắt, tôi nghĩ nó đang có dấu_hiệu bị quá_tải, tôi cần người đến kiểm_tra và khắc_phục
+__label__điện Tôi cần người thay_thế bóng_đèn 3 pha bị hỏng
+__label__điện Bóng_đèn nhà tôi sau khi bật tầm 10 phút mới hoạt_động, tôi cần người đến kiểm_tra và thay_thế
+__label__điện sửa điện nhà tôi bị rò_rỉ mấy hôm cần người đến ngay trong hôm_nay
+__label__điện cần người đến sửa ngay trong hôm_nay điện nhà tôi bị rò_rỉ 
+__label__điện công tắc điện nhà tôi sử_dụng cũng đã lâu, nay có dấu hiệu hỏng_hóc, cần người đến thay_thế
+__label__điện cần người đến kiểm_tra lý_do tại sao nhà tôi thường bị mất điện trong 1 khung giờ cố_định
+__label__điện  không rõ lý_do vì sao mà mỗi lần bật đèn trong phòng thờ, các đèn trong phòng khác của nhà tôi đều bị tắt, tôi cần người đến kiểm_tra và khắc_phục sự cố, giá_cả không thành vấn_đề
+__label__điện đợt lũ_lụt vừa rồi, nhà tôi bị ngập làm cho các thiết_bị điện bị hư_hỏng và không sử_dụng được nữa, cần người đến thay_thế toàn bộ
+__label__điện nhà tôi bị sét đánh trúng dây điện, cần người đến xem_xét và sửa_chữa 
+__label__điện cầu_chì nhà tôi bỗng_dưng cháy khét trong khi đang sử_dụng, hiện tại tôi đang rất hoang mang
+__label__điện nhà tôi đang xài điện thì bỗng_dưng aptomat bị nhảy ngắt điện, bật lại nhưng vẫn không sáng,
+__label__điện cần người đến kiểm_tra và sửa gấp
+__label__điện nhà tôi thường mất điện vào lúc sáng sớm, không hiểu lý_do, cần người đến tìm_hiểu và khắc_phục
+__label__điện nhà tôi vừa xây, cần thợ thi_công và lắp mạch điện âm tường cho gia đình
+__label__điện tôi cần lắp mới đồng_hồ điện cho cho căn hộ của mình
+__label__điện cần người lắp công_tơ điện cho gia đình
+__label__điện tôi cần người lắp ổ cắm điện âm tường trong ngày_mai, giá cả thương_lượng
+__label__điện tôi cần một hệ thống đèn âm trần, ai có khả năng thi công thì liên hệ
+__label__điện tôi đang có nhu_cầu lắp hệ_thống đèn led âm trần cho gia_đình, ai có chuyên môn liên_hệ, giá cả thương_lượng
+__label__điện tôi cần người đến thay công_tắc đã sử_dụng lâu
+__label__điện cần lắp_đặt hệ_thống đèn âm trần
+__label__điện cần trợ_giúp thay_thế bóng đèn
+__label__điện bóng_đèn cháy, cần người trợ_giúp thay mới
+__label__điện cần trợ_giúp lắp hệ_thống đèn led trong gia đình
+__label__điện hệ_thống điện có vấn_đề, cần thợ đến sửa
+__label__điện công_tắc hỏng, cần người thay
+__label__điện cần người lắp_đặt ổ điện nổi
+__label__điện mới xây nhà, cần người thiết_kế mạng lưới điện
+__label__điện điện bị rò_rỉ, có chỗ sờ vào bị giật dù đã có cách điện, cần trợ_giúp
+__label__điện  cần trợ_giúp tìm hiểu lý_do bị giật dù đã có cách điện
+__label__điện cần người trợ_giúp đi dây điện âm_tường
+__label__điện  cần trợ_giúp thay_thế hệ_thống đèn led trong gia_đình
+__label__điện bộ báo cháy điện bị hỏng, cần thay_thế
+__label__điện cần thay mới bộ báo cháy hoạt_động không bình_thường
+__label__điện bị rò_rỉ điện, cần trợ giúp
+__label__điện công tơ điện đã cũ, cần người thay_thế
+__label__điện cần người thay mới lại công tơ điện xài đã lâu
+__label__điện cần trợ giúp lắp_đặt ổ điện
+__label__điện cần trợ_giúp khắc_phục sự_cố đèn chập_chờn
+__label__điện cầu chì bị cháy, cần trợ giúp thay_thế
+__label__điện cầu_chì bị quá tải và hỏng, cần thay mới
+__label__điện cần thay_thế chuột cho bóng đèn bị hỏng
+__label__điện bóng đèn 3 pha có vấn đề, cần thay_thế
+__label__điện bóng đèn 3 pha hoạt_động không bình thường, cần thay mới
+__label__điện cần người tìm hiểu nguyên_nhân hệ_thống điện quả tải trong khung giờ nhất_định
+__label__điện hệ_thống điện hư_hỏng do thiên_tai, cần trợ_giúp thay_thế
+__label__điện cần người lắp_đặt đồng_hồ điện mới thay cho cái bị hỏng
+__label__điện đồng_hồ điện sử_dụng lâu ngày bị hỏng, cần người trợ giúp thay_thế				
+__label__điện điện bị gấp nhà tôi hỏng cần người sửa				
+__label__điện điện hỏng gấp nhà tôi bị cần người sửa				
+__label__điện điện gấp nhà tôi bị hỏng cần người sửa				
+__label__điện điện cần gấp nhà tôi bị hỏng người sửa				
+__label__điện điện người gấp nhà tôi bị hỏng cần sửa				
+__label__điện điện sửa gấp nhà tôi bị hỏng cần người				
+__label__điện gấp sửa điện nhà tôi bị hỏng cần người				
+__label__điện gấp điện sửa nhà tôi bị hỏng cần người				
+__label__điện gấp điện sửa nhà tôi bị hỏng cần người				
+__label__điện gấp điện nhà sửa tôi bị hỏng cần người				
+__label__điện gấp điện tôi sửa nhà bị hỏng cần người				
+__label__điện gấp điện bị sửa nhà tôi hỏng cần người				
+__label__điện gấp điện hỏng sửa nhà tôi bị cần người				
+__label__điện gấp điện sửa nhà tôi bị hỏng cần người				
+__label__điện gấp điện cần sửa nhà tôi bị hỏng người				
+__label__điện gấp điện người sửa nhà tôi bị hỏng cần				
+__label__điện sửa điện người gấp nhà tôi bị hỏng cần				
+__label__điện sửa gấp người điện nhà tôi bị hỏng cần				
+__label__điện sửa gấp điện người nhà tôi bị hỏng cần				
+__label__điện sửa gấp điện người nhà tôi bị hỏng cần				
+__label__điện sửa gấp điện nhà người tôi bị hỏng cần				
+__label__điện sửa gấp điện tôi người_nhà bị hỏng cần				
+__label__điện sửa gấp điện bị người_nhà tôi hỏng cần				
+__label__điện sửa gấp điện hỏng người nhà tôi bị cần				
+__label__điện sửa gấp điện người nhà tôi bị hỏng cần				
+__label__điện sửa gấp điện cần người nhà tôi bị hỏng				
+__label__điện người gấp điện cần sửa nhà tôi bị hỏng				
+__label__điện người sửa điện cần gấp nhà tôi bị hỏng				
+__label__điện người sửa gấp cần điện nhà tôi bị hỏng
+__label__điện đèn nhà tôi chập_chờn, thiết_bị tự ngắt, cần người đến khắc_phục
+__label__điện cầu chì nhà tôi bị cháy, tôi đã ngắt_điện trong nhà, tôi cần gấp người có chuyên_môn khắc_phục
+__label__điện  cần hỗ_trợ thay thế cầu chì, thiết_bị điện trong nhà
+__label__điện dây_điện nhà tôi bị chuột cắn đứt, cần người sửa 
+__label__điện cần người sửa điện do sét đánh làm cháy ổ_điện nhà tôi
+__label__điện dây_điện của máy đun nước siêu tốc sau khi cắm khoảng 5-10p thì nóng, bên trong dây_điện có mùi khét, cần người sửa gấp trong ngày_mai.
+__label__điện Điện nhà tôi bỗng dung tắt không biết lý_do, cần người tìm_hiểu và khắc_phục
+__label__điện Cần người khắc_phục thiết_bị điện bị mất nguồn
+__label__điện Công_tắc điện nhà tôi sử_dụng đã lâu, cần người thay thế
+__label__điện Cần người tìm_hiểu aptomat nhà tôi thường nhảy không có lý_do
+__label__điện Bóng_đèn nhà tôi bị chập_chờn, cần tìm người thay mới
+__label__điện Cần người lắp mạch điện cho gia_đình, giá_cả thương lượng
+__label__điện Cần người thiết_kế, lắp mạch điện âm tường
+__label__điện Cần người lắp bộ bóng_đèn + công_tắc trong gia_đình, giá_cả thương lượng
+__label__điện Tôi cần lắp bộ báo_cháy trong gia_đình
+__label__điện Tôi cần người người lắp bộ báo_cháy điện
+__label__điện Cần người sửa_chữa mạch điện âm tường
+__label__điện Chập điện nổi bị hỏng, cần sửa_chữa ngay
+__label__điện Điện nhà tôi bị rò_rỉ mấy hôm, cần người đến sửa ngay trong hôm_nay
+__label__điện Đồng_hồ điện nhà tôi bị hư, cần người lắp đặt bộ thiết_bị mới
+__label__điện Tôi cần lắp ngay 1 ổ_cắm điện âm 
+__label__điện Tôi cần người lắp 1 ổ_cắm điện nổi
+__label__điện Nhà tôi cần lắp hệ_thống đèn chiếu sáng, giá_cả thương lượng
+__label__điện Điện nhà tôi bị chập liên_hồi, tôi cần người đến kiểm tra
+__label__điện Nhà tôi bị sét đánh, điện trong nhà bỗng cháy khét, tôi đã ngắt cầu_dao, tôi cần người đến xem ngay
+__label__điện Aptomat nhà tôi tự động nhảy rất nhiều lần, cần thợ điện có chuyên_môn đến sửa trong nay mai
+__label__điện Nhà tôi bị ngập_lụt, nước làm hỏng hết hệ_thống điện, cần người đến kiểm tra ngay trong ngày_mai
+__label__điện Tôi cần lắp hệ_thống đèn led trong gia_đình
+__label__điện Tôi cần thợ_điện lắp hệ_thống đèn âm tường, trang trí
+__label__điện Bóng_đèn nhà tôi bị hỏng, cần người thay ngay lập tức
+__label__điện Tôi cần người chuyên_môn cao lắp đặt điện 3 pha cho gia_đình
+__label__điện Bóng_đèn nhà tôi hoạt_động không ổn_định, lúc bật lúc tắt không hiểu lý_do, tôi cần người đến kiểm_tra và thay_thế ngay
+__label__điện Điện nhà tôi bỗng_dưng chập_chờn, hiện_tượng này đã xảy_ra rất nhiều lần, tôi cần người đến kiểm_tra lý_do ngay
+__label__điện Mỗi khi nhà tôi muốn bật công_tắc đèn phòng thờ thì đèn của cả gia_đình tôi bị tắt, tôi cần người đến và kiểm_tra và khắc_phục đèn điện nhà tôi
+__label__điện Điện nhà tôi thường_xuyên bị delay không rõ nguyên_nhân, làm tôi rất bất_an, tôi cần thợ đến kiểm_tra và sửa_chữa ngay
+__label__điện Điện nhà tôi tự_động tắt trong 1 khung giờ cố_định, tôi cần người đến xem lý_do
+__label__điện Ổ điện nhà tôi đang có dấu_hiệu quá_tải, lúc xài được lúc không, tôi cần người đến kiểm_tra và thay mới
+__label__điện Nhà tôi sáng sớm thường_xuyên bị mất điện, sau 1-2 tiếng thì mới có lại, tôi cần người đến kiểm_tra và sửa_chữa				
+__label__điện người sửa gấp điện cần nhà tôi bị hỏng				
+__label__điện người sửa gấp điện cần nhà tôi bị hỏng				
+__label__điện người sửa gấp điện nhà cần tôi bị hỏng				
+__label__điện người sửa gấp điện tôi cần nhà bị hỏng				
+__label__điện người sửa gấp điện bị cần nhà tôi hỏng				
+__label__điện người sửa gấp điện hỏng cần nhà tôi bị				
+__label__điện người sửa gấp điện cần nhà tôi bị hỏng				
+__label__điện cần sửa gấp điện người nhà tôi bị hỏng				
+__label__điện cần người gấp điện sửa nhà tôi bị hỏng				
+__label__điện cần người sửa điện gấp nhà tôi bị hỏng				
+__label__điện cần người sửa gấp điện nhà tôi bị hỏng				
+__label__điện cần người sửa gấp điện nhà tôi bị hỏng				
+__label__điện cần người sửa gấp điện nhà tôi bị hỏng				
+__label__điện cần người sửa gấp điện nhà tôi bị hỏng				
+__label__điện cần người sửa gấp điện tôi nhà bị hỏng				
+__label__điện cần người sửa gấp điện bị nhà tôi hỏng				
+__label__điện cần người sửa gấp điện hỏng nhà tôi bị				
+__label__điện người sửa gấp điện hỏng cần nhà tôi bị				
+__label__điện cần sửa gấp điện hỏng người nhà tôi bị				
+__label__điện cần người gấp điện hỏng sửa nhà tôi bị				
+__label__điện cần người sửa điện hỏng gấp nhà tôi bị				
+__label__điện cần người sửa gấp hỏng điện nhà tôi bị				
+__label__điện cần người sửa gấp điện hỏng nhà tôi bị				
+__label__điện cần người sửa gấp điện hỏng nhà tôi bị				
+__label__điện cần người sửa gấp điện nhà hỏng tôi bị				
+__label__điện cần người sửa gấp điện tôi hỏng nhà bị				
+__label__điện cần người sửa gấp điện bị hỏng nhà tôi				
+__label__điện hỏng cần người sửa gấp điện bị nhà tôi				
+__label__điện hỏng người sửa gấp điện bị cần nhà tôi				
+__label__điện hỏng cần sửa gấp điện bị người_nhà tôi				
+__label__điện hỏng cần người gấp điện bị sửa nhà tôi				
+__label__điện hỏng cần người sửa điện bị gấp nhà tôi				
+__label__điện hỏng cần người sửa gấp bị điện nhà tôi				
+__label__điện hỏng cần người sửa gấp điện bị nhà tôi				
+__label__điện hỏng cần người sửa gấp điện bị nhà tôi				
+__label__điện hỏng cần người sửa gấp điện nhà bị tôi				
+__label__điện hỏng cần người sửa gấp điện tôi bị nhà				
+__label__điện bị cần người sửa gấp điện tôi hỏng nhà				
+__label__điện bị hỏng cần người sửa gấp điện tôi nhà							
+__label__điện bị hỏng người sửa gấp điện tôi cần nhà				
+__label__điện bị hỏng cần sửa gấp điện tôi người nhà				
+__label__điện bị hỏng cần người gấp điện tôi sửa nhà				
+__label__điện bị hỏng cần người sửa điện tôi gấp nhà				
+__label__điện bị hỏng cần người sửa gấp tôi điện nhà				
+__label__điện bị hỏng cần người sửa gấp điện tôi nhà				
+__label__điện bị hỏng cần người sửa gấp điện tôi nhà				
+__label__điện bị hỏng cần người sửa gấp điện nhà tôi				
+__label__điện tôi hỏng cần người sửa gấp điện nhà bị				
+__label__điện tôi bị cần người sửa gấp điện nhà hỏng				
+__label__điện tôi bị hỏng cần người sửa gấp điện nhà				
+__label__điện tôi bị hỏng người sửa gấp điện nhà cần				
+__label__điện tôi bị hỏng cần sửa gấp điện nhà người				
+__label__điện tôi bị hỏng cần người gấp điện nhà sửa				
+__label__điện tôi bị hỏng cần người sửa điện nhà gấp				
+__label__điện tôi bị hỏng cần người sửa gấp nhà điện				
+__label__điện tôi bị hỏng cần người sửa gấp điện nhà				
+__label__điện tìm cần thợ sửa điện hư				
+__label__điện thợ cần tìm sửa điện hư				
+__label__điện sửa cần tìm thợ_điện hư				
+__label__điện điện cần tìm thợ sửa hư				
+__label__điện hư cần tìm thợ sửa điện				
+__label__điện cần hư tìm thợ sửa điện				
+__label__điện cần hư tìm thợ sửa điện				
+__label__điện cần tìm hư thợ sửa điện				
+__label__điện cần thợ hư tìm sửa điện				
+__label__điện cần sửa hư tìm thợ điện				
+__label__điện cần điện hư tìm thợ sửa				
+__label__điện hư điện cần tìm thợ sửa				
+__label__điện hư cần điện tìm thợ sửa				
+__label__điện hư cần điện tìm thợ sửa				
+__label__điện hư cần tìm điện thợ sửa				
+__label__điện hư cần thợ_điện tìm sửa				
+__label__điện hư cần sửa điện tìm thợ				
+__label__điện điện cần sửa hư tìm thợ				
+__label__điện điện hư sửa cần tìm thợ				
+__label__điện điện hư cần sửa tìm thợ				
+__label__điện điện hư cần sửa tìm thợ				
+__label__điện điện hư cần tìm sửa thợ				
+__label__điện điện hư cần thợ sửa tìm				
+__label__điện sửa hư cần thợ_điện tìm				
+__label__điện sửa điện cần thợ hư tìm				
+__label__điện sửa điện hư thợ cần tìm				
+__label__điện sửa điện hư cần thợ tìm				
+__label__điện sửa điện hư cần thợ tìm				
+__label__điện sửa điện hư cần tìm thợ				
+__label__điện thợ điện hư cần tìm sửa				
+__label__điện thợ sửa hư cần tìm điện				
+__label__điện thợ sửa điện cần tìm hư				
+__label__điện thợ sửa điện hư tìm cần				
+__label__điện thợ sửa điện hư cần tìm				
+__label__điện thợ sửa điện				
+__label__điện sửa thợ điện				
+__label__điện điện thợ sửa				
+__label__điện thợ điện sửa				
+__label__điện thợ điện sửa				
+__label__điện thợ sửa điện				
+__label__điện điện sửa thợ				
+__label__điện điện thợ sửa
+__label__điện đèn nhà tôi chập chờn, thiết bị tự ngắt, cần người đến khắc phục							
+__label__điện đèn nhà tôi lúc tắt lúc bật							
+__label__điện đèn nhà tôi hoạt động không ổn định							
+__label__điện đèn nhà tôi hoạt động không bình thường							
+__label__điện đèn nhà tôi không hoạt động							
+__label__điện thiết bị điện nhà tôi tự động ngắt, tôi không biết lý do							
+__label__điện thiết bị điện nhà tôi tự động ngắt, tôi không biết nguyên nhân							
+__label__điện đồ dùng điện nhà tôi bị hư hỏng nặng, không sử dụng được							
+__label__điện cầu chì nhà tôi bị cháy, tôi đã ngắt điện trong nhà, tôi cần gấp người có chuyên môn khắc phục							
+__label__điện cầu chì nhà tôi bị cháy, tôi đã ngắt điện trong nhà, cần gấp người có khả năng khắc phục							
+__label__điện cầu chì nhà tôi tự động ngắt do sự cố điện, cần người cung cấp giải pháp							
+__label__điện cần hỗ trợ thay thế cầu chì, thiết bị điện trong nhà							
+__label__điện cần trợ giúp thay thế cầu giao, cầu chị thay thế thiết bị điện trong gia đình							
+__label__điện cần trợ giúp thay thế cầu giao, thiết bị điện trong tổ ấm							
+__label__điện dây điện nhà tôi bị chuột cắn đứt, cần người sửa							
+__label__điện dây điện nhà tôi bị những con chuột phá hoạt cắn đứt							
+__label__điện dây điện nhà tôi bị những con chuột cắn đứt							
+__label__điện những con chuột cắn đứt những dây điện nhà tôi							
+__label__điện cần người sửa điện do sét đánh làm cháy ổ điện nhà tôi							
+__label__điện cần người giúp sức sửa chữa đồ điện, do trời mưa nên điện có vấn đề							
+__label__điện dây điện của máy đun nước siêu tốc sau khi cắm khoảng 5-10p thì nóng, có mùi khét, bên trong dây điện có mùi khét, cần người sửa gấp trong ngày mai.							
+__label__điện Điện nhà tôi bỗng dung tắt không biết lý do, cần người tìm hiểu và khắc phục							
+__label__điện Điện nhà tôi bỗng dung bị ngắt, đã liên lạc với người sửa điện nhưng họ không biết, cần người khắc phục							
+__label__điện Cần tìm người hỗ trợ gấp, điện nhà tôi bị ngắt không lý do mặc dù đã đóng tiền điện đầy đủ							
+__label__điện Cần người khắc phục thiết bị điện bị mất nguồn							
+__label__điện Cần người giúp đỡ khắc phục thiết bị điện bị hư hỏng không lý do							
+__label__điện Cần người giúp sức khắc phục thiết bị điện trong nhà bị hư hỏng							
+__label__điện Công tắc điện nhà tôi sử dụng đã lâu, cần người thay thế							
+__label__điện Tôi không biết cách bắt bóng điện này như thế nào cả, có ai có thể giúp tôi không							
+__label__điện Cách bắt bóng đèn này như thế nào vậy, tôi cần người hỗ trợ gấp							
+__label__điện Cần người tìm hiểu aptomat nhà tôi thường nhảy không có lý do							
+__label__điện Aptomat nhà tôi thường nhảy số không rõ nguyên nhân							
+__label__điện Bóng đèn nhà tôi bị chập chờn, cần tìm người thay mới							
+__label__điện Bóng đèn nhà tôi bị gì mà không hoạt động bình thường							
+__label__điện Cần người lắp mạch điện cho gia đình, giá cả thương lượng											
+__label__điện điện mạch bị chập cần người sửa gấp				
+__label__điện bị mạch điện chập cần người sửa gấp				
+__label__điện chập_mạch điện bị cần người sửa gấp				
+__label__điện mạch điện bị chập cần người sửa gấp				
+__label__điện cần mạch điện bị chập người sửa gấp				
+__label__điện người mạch điện bị chập cần sửa gấp				
+__label__điện sửa mạch điện bị chập cần người gấp				
+__label__điện gấp mạch điện bị chập cần người sửa				
+__label__điện mạch gấp điện bị chập cần người sửa				
+__label__điện mạch gấp điện bị chập cần người sửa				
+__label__điện mạch điện gấp bị chập cần người sửa				
+__label__điện mạch bị gấp điện chập cần người sửa				
+__label__điện mạch chập gấp điện bị cần người sửa				
+__label__điện mạch gấp điện bị chập cần người sửa				
+__label__điện mạch cần gấp điện bị chập người sửa				
+__label__điện mạch người gấp điện bị chập cần sửa				
+__label__điện mạch sửa gấp điện bị chập cần người				
+__label__điện gấp sửa mạch điện bị chập cần người				
+__label__điện gấp mạch sửa điện bị chập cần người				
+__label__điện gấp mạch sửa điện bị chập cần người				
+__label__điện gấp mạch điện sửa bị chập cần người				
+__label__điện gấp mạch bị sửa điện chập cần người				
+__label__điện gấp mạch chập sửa điện bị cần người				
+__label__điện gấp mạch sửa điện bị chập cần người				
+__label__điện gấp mạch cần sửa điện bị chập người				
+__label__điện gấp mạch người sửa điện bị chập cần				
+__label__điện sửa mạch người gấp điện bị chập cần				
+__label__điện sửa gấp người mạch điện bị chập cần				
+__label__điện sửa gấp mạch người điện bị chập cần				
+__label__điện sửa gấp mạch người điện bị chập cần				
+__label__điện sửa gấp mạch điện người bị chập cần				
+__label__điện sửa gấp mạch bị người điện chập cần				
+__label__điện sửa gấp mạch chập người điện bị cần				
+__label__điện sửa gấp mạch người điện bị chập cần				
+__label__điện sửa gấp mạch cần người điện bị chập				
+__label__điện người gấp mạch cần sửa điện bị chập				
+__label__điện người sửa mạch cần gấp điện bị chập				
+__label__điện người sửa gấp cần mạch điện bị chập				
+__label__điện người sửa gấp mạch cần điện bị chập				
+__label__điện người sửa gấp mạch cần điện bị chập				
+__label__điện người sửa gấp mạch điện cần bị chập				
+__label__điện người sửa gấp mạch bị cần điện chập				
+__label__điện người sửa gấp mạch chập cần điện bị				
+__label__điện người sửa gấp mạch cần điện bị chập				
+__label__điện cần sửa gấp mạch người điện bị chập				
+__label__điện cần người gấp mạch sửa điện bị chập				
+__label__điện cần người sửa_mạch gấp điện bị chập				
+__label__điện cần người sửa gấp mạch điện bị chập				
+__label__điện cần người sửa gấp mạch điện bị chập				
+__label__điện cần người sửa gấp mạch điện bị chập				
+__label__điện cần người sửa gấp mạch điện bị chập				
+__label__điện cần người sửa gấp mạch bị điện chập				
+__label__điện cần người sửa gấp mạch chập điện bị				
+__label__điện người sửa gấp mạch chập cần điện bị				
+__label__điện cần sửa gấp mạch chập người điện bị				
+__label__điện cần người gấp mạch chập sửa điện bị				
+__label__điện cần người sửa mạch chập gấp điện bị				
+__label__điện cần người sửa gấp chập_mạch điện bị				
+__label__điện cần người sửa gấp mạch chập điện bị				
+__label__điện cần người sửa gấp mạch chập điện bị				
+__label__điện cần người sửa gấp mạch điện chập bị				
+__label__điện cần người sửa gấp mạch bị chập điện				
+__label__điện chập cần người sửa gấp mạch bị điện				
+__label__điện chập người sửa gấp mạch bị cần điện				
+__label__điện chập cần sửa gấp mạch bị người điện				
+__label__điện chập cần người gấp mạch bị sửa điện				
+__label__điện chập cần người sửa mạch bị gấp điện				
+__label__điện chập cần người sửa gấp bị mạch điện				
+__label__điện chập cần người sửa gấp mạch bị điện				
+__label__điện chập cần người sửa gấp mạch bị điện				
+__label__điện chập cần người sửa gấp mạch điện bị				
+__label__điện bị cần người sửa gấp mạch điện chập				
+__label__điện bị chập cần người sửa gấp mạch điện				
+__label__điện bị chập người sửa gấp mạch điện cần				
+__label__điện bị chập cần sửa gấp mạch điện người				
+__label__điện bị chập cần người gấp mạch điện sửa				
+__label__điện bị chập cần người sửa mạch điện gấp				
+__label__điện bị chập cần người sửa gấp điện mạch				
+__label__điện bị chập cần người sửa gấp mạch điện
+__label__y_tế Tôi bị bệnh tôi cần bác_sĩ			
+__label__y_tế bị tôi bệnh tôi cần bác_sĩ			
+__label__y_tế bệnh tôi bị tôi cần bác_sĩ			
+__label__y_tế tôi bị bệnh tôi cần bác_sĩ			
+__label__y_tế tôi tôi bị bệnh cần bác_sĩ			
+__label__y_tế cần tôi bị bệnh tôi bác_sĩ			
+__label__y_tế bác_sĩ tôi bị bệnh tôi cần			
+__label__y_tế tôi bác_sĩ bị bệnh tôi cần			
+__label__y_tế tôi bác_sĩ bị bệnh tôi cần			
+__label__y_tế tôi bị bác_sĩ bệnh tôi cần			
+__label__y_tế tôi bệnh bác_sĩ bị tôi cần			
+__label__y_tế tôi bác_sĩ bị bệnh tôi cần			
+__label__y_tế tôi tôi bác_sĩ bị bệnh cần			
+__label__y_tế tôi cần bác_sĩ bị bệnh tôi			
+__label__y_tế bác_sĩ cần tôi bị bệnh tôi			
+__label__y_tế bác_sĩ tôi cần bị bệnh tôi			
+__label__y_tế bác_sĩ tôi cần bị bệnh tôi			
+__label__y_tế bác_sĩ tôi bị cần bệnh tôi			
+__label__y_tế bác_sĩ tôi bệnh cần bị tôi			
+__label__y_tế bác_sĩ tôi cần bị bệnh tôi			
+__label__y_tế bác_sĩ tôi tôi cần bị bệnh			
+__label__y_tế cần tôi tôi bác_sĩ bị bệnh			
+__label__y_tế cần bác_sĩ tôi tôi bị bệnh			
+__label__y_tế cần bác_sĩ tôi tôi bị bệnh			
+__label__y_tế cần bác_sĩ tôi tôi bị bệnh			
+__label__y_tế cần bác_sĩ tôi bị tôi bệnh			
+__label__y_tế cần bác_sĩ tôi bệnh tôi bị			
+__label__y_tế cần bác_sĩ tôi tôi bị bệnh			
+__label__y_tế tôi bác_sĩ tôi cần bị bệnh			
+__label__y_tế tôi cần tôi bác_sĩ bị bệnh			
+__label__y_tế tôi cần bác_sĩ tôi bị bệnh			
+__label__y_tế tôi cần bác_sĩ tôi bị bệnh			
+__label__y_tế tôi cần bác_sĩ tôi bị bệnh			
+__label__y_tế tôi cần bác_sĩ tôi bị bệnh			
+__label__y_tế tôi cần bác_sĩ tôi bệnh bị			
+__label__y_tế cần bác_sĩ tôi bệnh tôi bị			
+__label__y_tế tôi bác_sĩ tôi bệnh cần bị			
+__label__y_tế tôi cần tôi bệnh bác_sĩ bị			
+__label__y_tế tôi cần bác_sĩ bệnh tôi bị			
+__label__y_tế tôi cần bác_sĩ tôi bệnh bị			
+__label__y_tế tôi cần bác_sĩ tôi bệnh bị			
+__label__y_tế tôi cần bác_sĩ tôi bị bệnh			
+__label__y_tế bệnh tôi cần bác_sĩ tôi bị			
+__label__y_tế bệnh cần bác_sĩ tôi bị tôi			
+__label__y_tế bệnh tôi bác_sĩ tôi bị cần			
+__label__y_tế bệnh tôi cần tôi bị bác_sĩ			
+__label__y_tế bệnh tôi cần bác_sĩ bị tôi			
+__label__y_tế bệnh tôi cần bác_sĩ tôi bị			
+__label__y_tế tôi cảm thấy không khỏe tôi cần trợ giúp về y_tế			
+__label__y_tế cảm thấy tôi không khỏe tôi cần trợ giúp về y_tế			
+__label__y_tế không tôi cảm thấy khỏe tôi cần trợ giúp về y_tế			
+__label__y_tế khỏe tôi cảm thấy không tôi cần trợ giúp về y_tế			
+__label__y_tế tôi cảm thấy không khỏe tôi cần trợ giúp về y_tế			
+__label__y_tế tôi tôi cảm thấy không khỏe cần trợ giúp về y_tế			
+__label__y_tế cần tôi cảm thấy không khỏe tôi trợ giúp về y_tế			
+__label__y_tế trợ giúp tôi cảm thấy không khỏe tôi cần về y_tế			
+__label__y_tế về tôi cảm thấy không khỏe tôi cần trợ giúp y_tế			
+__label__y_tế y_tế tôi cảm thấy không khỏe tôi cần trợ giúp về			
+__label__y_tế tôi y_tế cảm thấy không khỏe tôi cần trợ giúp về			
+__label__y_tế tôi y_tế cảm thấy không khỏe tôi cần trợ giúp về			
+__label__y_tế tôi cảm thấy y_tế không khỏe tôi cần trợ giúp về			
+__label__y_tế tôi không y_tế cảm thấy khỏe tôi cần trợ giúp về			
+__label__y_tế tôi khỏe y_tế cảm thấy không tôi cần trợ giúp về			
+__label__y_tế tôi y_tế cảm thấy không khỏe tôi cần trợ giúp về			
+__label__y_tế tôi tôi y_tế cảm thấy không khỏe cần trợ giúp về			
+__label__y_tế tôi cần y_tế cảm thấy không khỏe tôi trợ giúp về			
+__label__y_tế tôi trợ giúp y_tế cảm thấy không khỏe tôi cần về			
+__label__y_tế tôi về y_tế cảm thấy không khỏe tôi cần trợ giúp			
+__label__y_tế y_tế về tôi cảm thấy không khỏe tôi cần trợ giúp			
+__label__y_tế y_tế tôi về cảm thấy không khỏe tôi cần trợ giúp			
+__label__y_tế y_tế tôi về cảm thấy không khỏe tôi cần trợ giúp			
+__label__y_tế y_tế tôi cảm thấy về không khỏe tôi cần trợ giúp			
+__label__y_tế y_tế tôi không về cảm thấy khỏe tôi cần trợ giúp			
+__label__y_tế y_tế tôi khỏe về cảm thấy không tôi cần trợ giúp			
+__label__y_tế y_tế tôi về cảm thấy không khỏe tôi cần trợ giúp			
+__label__y_tế y_tế tôi tôi về cảm thấy không khỏe cần trợ giúp			
+__label__y_tế y_tế tôi cần về cảm thấy không khỏe tôi trợ giúp			
+__label__y_tế y_tế tôi trợ giúp về cảm thấy không khỏe tôi cần			
+__label__y_tế về tôi trợ giúp y_tế cảm thấy không khỏe tôi cần			
+__label__y_tế về y_tế trợ giúp tôi cảm thấy không khỏe tôi cần			
+__label__y_tế về y_tế tôi trợ giúp cảm thấy không khỏe tôi cần			
+__label__y_tế về y_tế tôi trợ giúp cảm thấy không khỏe tôi cần			
+__label__y_tế về y_tế tôi cảm thấy trợ giúp không khỏe tôi cần			
+__label__y_tế về y_tế tôi không trợ giúp cảm thấy khỏe tôi cần			
+__label__y_tế về y_tế tôi khỏe trợ giúp cảm thấy không tôi cần			
+__label__y_tế về y_tế tôi trợ giúp cảm thấy không khỏe tôi cần			
+__label__y_tế về y_tế tôi tôi trợ giúp cảm thấy không khỏe cần			
+__label__y_tế về y_tế tôi cần trợ giúp cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp y_tế tôi cần về cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp về tôi cần y_tế cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp về y_tế cần tôi cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp về y_tế tôi cần cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp về y_tế tôi cần cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp về y_tế tôi cảm thấy cần không khỏe tôi			
+__label__y_tế trợ giúp về y_tế tôi không cần cảm thấy khỏe tôi			
+__label__y_tế trợ giúp về y_tế tôi khỏe cần cảm thấy không tôi			
+__label__y_tế trợ giúp về y_tế tôi cần cảm thấy không khỏe tôi			
+__label__y_tế trợ giúp về y_tế tôi tôi cần cảm thấy không khỏe			
+__label__y_tế cần về y_tế tôi tôi trợ giúp cảm thấy không khỏe			
+__label__y_tế cần trợ giúp y_tế tôi tôi về cảm thấy không khỏe			
+__label__y_tế cần trợ giúp về tôi tôi y_tế cảm thấy không khỏe			
+__label__y_tế cần trợ giúp về y_tế tôi tôi cảm thấy không khỏe			
+__label__y_tế cần trợ giúp về y_tế tôi tôi cảm thấy không khỏe			
+__label__y_tế cần trợ giúp về y_tế tôi tôi cảm thấy không khỏe			
+__label__y_tế cần trợ giúp về y_tế tôi cảm thấy tôi không khỏe			
+__label__y_tế cần trợ giúp về y_tế tôi không tôi cảm thấy khỏe			
+__label__y_tế cần trợ giúp về y_tế tôi khỏe tôi cảm thấy không			
+__label__y_tế cần trợ giúp về y_tế tôi tôi cảm thấy không khỏe			
+__label__y_tế tôi trợ giúp về y_tế tôi cần cảm thấy không khỏe			
+__label__y_tế tôi cần về y_tế tôi trợ giúp cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp y_tế tôi về cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp về tôi y_tế cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp về y_tế tôi cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp về y_tế tôi cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp về y_tế tôi cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp về y_tế tôi cảm thấy không khỏe			
+__label__y_tế tôi cần trợ giúp về y_tế tôi không cảm thấy khỏe			
+__label__y_tế tôi cần trợ giúp về y_tế tôi khỏe cảm thấy không			
+__label__y_tế cần trợ giúp về y_tế tôi khỏe tôi cảm thấy không			
+__label__y_tế tôi trợ giúp về y_tế tôi khỏe cần cảm thấy không			
+__label__y_tế tôi cần về y_tế tôi khỏe trợ giúp cảm thấy không			
+__label__y_tế tôi cần trợ giúp y_tế tôi khỏe về cảm thấy không			
+__label__y_tế tôi cần trợ giúp về tôi khỏe y_tế cảm thấy không			
+__label__y_tế tôi cần trợ giúp về y_tế khỏe tôi cảm thấy không			
+__label__y_tế tôi cần trợ giúp về y_tế tôi khỏe cảm thấy không			
+__label__y_tế tôi cần trợ giúp về y_tế tôi khỏe cảm thấy không			
+__label__y_tế tôi cần trợ giúp về y_tế tôi cảm thấy khỏe không			
+__label__y_tế tôi cần trợ giúp về y_tế tôi không khỏe cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp về y_tế tôi không cảm thấy			
+__label__y_tế khỏe cần trợ giúp về y_tế tôi không tôi cảm thấy			
+__label__y_tế khỏe tôi trợ giúp về y_tế tôi không cần cảm thấy			
+__label__y_tế khỏe tôi cần về y_tế tôi không trợ giúp cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp y_tế tôi không về cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp về tôi không y_tế cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp về y_tế không tôi cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp về y_tế tôi không cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp về y_tế tôi không cảm thấy			
+__label__y_tế khỏe tôi cần trợ giúp về y_tế tôi cảm thấy không			
+__label__y_tế không tôi cần trợ giúp về y_tế tôi cảm thấy khỏe			
+__label__y_tế không khỏe tôi cần trợ giúp về y_tế tôi cảm thấy			
+__label__y_tế không khỏe cần trợ giúp về y_tế tôi cảm thấy tôi			
+__label__y_tế không khỏe tôi trợ giúp về y_tế tôi cảm thấy cần			
+__label__y_tế không khỏe tôi cần về y_tế tôi cảm thấy trợ giúp			
+__label__y_tế không khỏe tôi cần trợ giúp y_tế tôi cảm thấy về			
+__label__y_tế không khỏe tôi cần trợ giúp về tôi cảm thấy y_tế			
+__label__y_tế không khỏe tôi cần trợ giúp về y_tế cảm thấy tôi			
+__label__y_tế không khỏe tôi cần trợ giúp về y_tế tôi cảm thấy			
+__label__y_tế không khỏe tôi cần trợ giúp về y_tế tôi cảm thấy			
+__label__y_tế tôi cần bác_sĩ tại nhà			
+__label__y_tế cần tôi bác_sĩ tại nhà			
+__label__y_tế  bác_sĩ tôi cần tại nhà			
+__label__y_tế tại tôi cần bác_sĩ nhà			
+__label__y_tế nhà tôi cần bác_sĩ tại			
+__label__y_tế tôi nhà cần bác_sĩ tại			
+__label__y_tế tôi nhà cần bác_sĩ tại			
+__label__y_tế tôi cần nhà bác_sĩ tại			
+__label__y_tế tôi bác_sĩ nhà cần tại			
+__label__y_tế tôi tại nhà cần bác_sĩ			
+__label__y_tế nhà tại tôi cần bác_sĩ			
+__label__y_tế nhà tôi tại cần bác_sĩ			
+__label__y_tế nhà tôi tại cần bác_sĩ			
+__label__y_tế nhà tôi cần tại bác_sĩ			
+__label__y_tế nhà tôi bác_sĩ tại cần			
+__label__y_tế tại tôi bác_sĩ nhà cần			
+__label__y_tế tại nhà bác_sĩ tôi cần			
+__label__y_tế tại nhà tôi bác_sĩ cần			
+__label__y_tế tại nhà tôi bác_sĩ cần			
+__label__y_tế tại nhà tôi cần bác_sĩ			
+__label__y_tế  bác_sĩ nhà tôi cần tại			
+__label__y_tế  bác_sĩ tại tôi cần nhà			
+__label__y_tế  bác_sĩ tại nhà cần tôi			
+__label__y_tế  bác_sĩ tại nhà tôi cần			
+__label__y_tế  bác_sĩ tại nhà tôi cần			
+__label__y_tế tôi bị ốm cần bác_sĩ			
+__label__y_tế bị tôi ốm cần bác_sĩ			
+__label__y_tế ốm tôi bị cần bác_sĩ			
+__label__y_tế tôi bị ốm cần bác_sĩ			
+__label__y_tế cần tôi bị ốm bác_sĩ			
+__label__y_tế  bác_sĩ tôi bị ốm cần			
+__label__y_tế tôi bác_sĩ bị ốm cần			
+__label__y_tế tôi bác_sĩ bị ốm cần			
+__label__y_tế tôi bị bác_sĩ ốm cần			
+__label__y_tế tôi ốm bác_sĩ bị cần			
+__label__y_tế tôi bác_sĩ bị ốm cần			
+__label__y_tế tôi cần bác_sĩ bị ốm			
+__label__y_tế  bác_sĩ cần tôi bị ốm			
+__label__y_tế  bác_sĩ tôi cần bị ốm			
+__label__y_tế  bác_sĩ tôi cần bị ốm			
+__label__y_tế  bác_sĩ tôi bị cần ốm			
+__label__y_tế  bác_sĩ tôi ốm cần bị			
+__label__y_tế  bác_sĩ tôi cần bị ốm			
+__label__y_tế cần tôi bác_sĩ bị ốm			
+__label__y_tế cần bác_sĩ tôi bị ốm			
+__label__y_tế cần bác_sĩ tôi bị ốm			
+__label__y_tế cần bác_sĩ tôi bị ốm			
+__label__y_tế cần bác_sĩ tôi bị ốm			
+__label__y_tế cần bác_sĩ tôi ốm bị			
+__label__y_tế  bác_sĩ tôi ốm cần bị			
+__label__y_tế cần tôi ốm bác_sĩ bị			
+__label__y_tế cần bác_sĩ ốm tôi bị			
+__label__y_tế cần bác_sĩ tôi ốm bị			
+__label__y_tế cần bác_sĩ tôi ốm bị			
+__label__y_tế cần bác_sĩ tôi bị ốm			
+__label__y_tế ốm cần bác_sĩ tôi bị			
+__label__y_tế ốm bác_sĩ tôi bị cần			
+__label__y_tế ốm cần tôi bị bác_sĩ			
+__label__y_tế ốm cần bác_sĩ bị tôi			
+__label__y_tế ốm cần bác_sĩ tôi bị			
+__label__y_tế ốm cần bác_sĩ tôi bị			
+__label__y_tế tôi đang có vấn_đề về sức_khỏe cần y_tế			
+__label__y_tế đang tôi có vấn_đề về sức_khỏe cần y_tế			
+__label__y_tế có tôi đang vấn_đề về sức_khỏe cần y_tế			
+__label__y_tế vấn_đề tôi đang có về sức_khỏe cần y_tế			
+__label__y_tế về tôi đang có vấn_đề sức_khỏe cần y_tế			
+__label__y_tế sức_khỏe tôi đang có vấn_đề về cần y_tế			
+__label__y_tế tôi đang có vấn_đề về sức_khỏe cần y_tế			
+__label__y_tế cần tôi đang có vấn_đề về sức_khỏe y_tế			
+__label__y_tế y_tế tôi đang có vấn_đề về sức_khỏe cần			
+__label__y_tế tôi y_tế đang có vấn_đề về sức_khỏe cần			
+__label__y_tế tôi y_tế đang có vấn_đề về sức_khỏe cần			
+__label__y_tế tôi đang y_tế có vấn_đề về sức_khỏe cần			
+__label__y_tế tôi có y_tế đang vấn_đề về sức_khỏe cần			
+__label__y_tế tôi vấn_đề y_tế đang có về sức_khỏe cần			
+__label__y_tế tôi về y_tế đang có vấn_đề sức_khỏe cần			
+__label__y_tế tôi sức_khỏe y_tế đang có vấn_đề về cần			
+__label__y_tế tôi y_tế đang có vấn_đề về sức_khỏe cần			
+__label__y_tế tôi cần y_tế đang có vấn_đề về sức_khỏe			
+__label__y_tế y_tế cần tôi đang có vấn_đề về sức_khỏe			
+__label__y_tế y_tế tôi cần đang có vấn_đề về sức_khỏe			
+__label__y_tế y_tế tôi cần đang có vấn_đề về sức_khỏe			
+__label__y_tế y_tế tôi đang cần có vấn_đề về sức_khỏe			
+__label__y_tế y_tế tôi có cần đang vấn_đề về sức_khỏe			
+__label__y_tế y_tế tôi vấn_đề cần đang có về sức_khỏe			
+__label__y_tế y_tế tôi về cần đang có vấn_đề sức_khỏe			
+__label__y_tế y_tế tôi sức_khỏe cần đang có vấn_đề về			
+__label__y_tế y_tế tôi cần đang có vấn_đề về sức_khỏe			
+__label__y_tế cần tôi y_tế đang có vấn_đề về sức_khỏe			
+__label__y_tế cần y_tế tôi đang có vấn_đề về sức_khỏe			
+__label__y_tế cần y_tế tôi đang có vấn_đề về sức_khỏe			
+__label__y_tế cần y_tế tôi đang có vấn_đề về sức_khỏe			
+__label__y_tế cần y_tế tôi đang có vấn_đề về sức_khỏe			
+__label__y_tế cần y_tế tôi có đang vấn_đề về sức_khỏe			
+__label__y_tế cần y_tế tôi vấn_đề đang có về sức_khỏe			
+__label__y_tế cần y_tế tôi về đang có vấn_đề sức_khỏe			
+__label__y_tế cần y_tế tôi sức_khỏe đang có vấn_đề về			
+__label__y_tế y_tế tôi sức_khỏe cần đang có vấn_đề về			
+__label__y_tế cần tôi sức_khỏe y_tế đang có vấn_đề về			
+__label__y_tế cần y_tế sức_khỏe tôi đang có vấn_đề về			
+__label__y_tế cần y_tế tôi sức_khỏe đang có vấn_đề về			
+__label__y_tế cần y_tế tôi sức_khỏe đang có vấn_đề về			
+__label__y_tế cần y_tế tôi đang sức_khỏe có vấn_đề về			
+__label__y_tế cần y_tế tôi có sức_khỏe đang vấn_đề về			
+__label__y_tế cần y_tế tôi vấn_đề sức_khỏe đang có về			
+__label__y_tế cần y_tế tôi về sức_khỏe đang có vấn_đề			
+__label__y_tế sức_khỏe cần y_tế tôi về đang có vấn_đề			
+__label__y_tế sức_khỏe y_tế tôi về cần đang có vấn_đề			
+__label__y_tế sức_khỏe cần tôi về y_tế đang có vấn_đề			
+__label__y_tế sức_khỏe cần y_tế về tôi đang có vấn_đề			
+__label__y_tế sức_khỏe cần y_tế tôi về đang có vấn_đề			
+__label__y_tế sức_khỏe cần y_tế tôi về đang có vấn_đề			
+__label__y_tế sức_khỏe cần y_tế tôi đang về có vấn_đề			
+__label__y_tế sức_khỏe cần y_tế tôi có về đang vấn_đề			
+__label__y_tế sức_khỏe cần y_tế tôi vấn_đề về đang có			
+__label__y_tế về cần y_tế tôi vấn_đề sức_khỏe đang có			
+__label__y_tế về sức_khỏe cần y_tế tôi vấn_đề đang có			
+__label__y_tế về sức_khỏe y_tế tôi vấn_đề cần đang có			
+__label__y_tế về sức_khỏe cần tôi vấn_đề y_tế đang có
+__label__y_tế tôi bị ho và sốt liên tục nhưng bác_sĩ ra ngoài, cần bác_sĩ tư đến nhà khám								
+__label__y_tế tôi thường xuyên nôn_mửa, tôi nghĩ mình bị ngộ_độc thực_phẩm, cần hỗ_trợ về mặt y_tế								
+__label__y_tế đầu tôi bỗng_dưng đau_nhức liên_hồi, cần bác_sĩ đến nhà kiểm_tra								
+__label__y_tế tôi mới xuất viện nhưng thấy cơ_thể chưa ổn, cần y_tá đến chăm sóc								
+__label__y_tế lồng_ngực của tôi đau nhói liên hồi, cần bác_sĩ đến kiểm_tra gấp								
+__label__y_tế cơ_thể bỗng dung lạnh, người xanh xao, cần bác_sĩ hỗ_trợ điều trị								
+__label__y_tế mắt đau_nhức, không_thể nhìn rõ, cần bác_sĩ có chuyên môn về mắt hỗ_trợ								
+__label__y_tế da bỗng_dưng bị nổi vết đỏ, tôi nghĩ tôi bị dị_ứng, cần bác_sĩ điểm kiểm_tra								
+__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại 1 vùng.								
+__label__y_tế Cơ_thể bỗng mệt mỏi, di chuyển không nổi, cần bác_sĩ đến trợ giúp								
+__label__y_tế Mặt_mày bỗng xanh_xao, đứng dậy đầu_óc quay_cuồng, không thấy đường sau 5-10 giây mới ổn_định, cần bác_sĩ đến nhà chẩn_đoán và cho thuốc								
+__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau_rát, sau 1 thời gian nhưng vẫn không hết								
+__label__y_tế Da của tôi phát ban đỏ hình tròn, cần bác_sĩ kiểm_tra								
+__label__y_tế Da của tôi nổi ban đỏ, ngứa_ngáy liên_hồi								
+__label__y_tế Tai của tôi bị chảy_mủ, đôi khi chảy_máu khi ngoáy, cần bác_sĩ tư vấn điều trị tại nhà								
+__label__y_tế Môi của tôi bị rát, lở_loét 1 vài chỗ, cần bác_sĩ đến kiểm_tra								
+__label__y_tế Tôi bỗng_dưng bị hen_suyễn khi thời_tiết thay_đổi, cần bác_sĩ đến điều trị								
+__label__y_tế Tôi bị hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, cần bác_sĩ đến chữa_trị								
+__label__y_tế Cần bác_sĩ đến chữa_trị hen_suyễn								
+__label__y_tế Lồng_ngực đau nhói, cần bác_sĩ kiểm_tra								
+__label__y_tế Bác_sĩ kiểm_tra bệnh về ngực								
+__label__y_tế Cần bác_sĩ chẩn_đoán bệnh tim tại nhà								
+__label__y_tế Bị bệnh tim cần bác_sĩ đến nhà chẩn_đoán								
+__label__y_tế Cần bác_sĩ da liễu đến khám_bệnh								
+__label__y_tế Da nổi trên bề mặt nổi nhiều mụn nước và vảy tiết, cần bác_sĩ đến khám gấp								
+__label__y_tế Cần bác_sĩ đến kiểm_tra bệnh da liễu khi da nổi trên bề mặt nhiều mụn nước và vảy tiết								
+__label__y_tế Cần bác_sĩ đến khám và cho thuốc vì ngộ độc thực phẩm								
+__label__y_tế Ho không ngừng khi thời_tiết thay đổi, cần bác_sĩ đến cho thuốc và khám_bệnh								
+__label__y_tế Cần bác_sĩ đến khám_bệnh về ho liên tục								
+__label__y_tế Bị phổi nhưng không ra đường được, cần bác_sĩ đến tận nhà khám								
+__label__y_tế Cần bác_sĩ đến nhà khám phổi và cho thuốc do không ra được khỏi nhà vì lý do dịch								
+__label__y_tế Cần bác_sĩ có chuyên_ngành đến khám bang_quang								
+__label__y_tế Tiểu tiện không ổn, cần bác_sĩ đến khám và cho lời khuyên								
+__label__y_tế Cần bác_sĩ chuyên_ngành đến khám các bệnh về đường tiểu tiện								
+__label__y_tế Bị vật lạ bay vào mắt nhưng làm mọi cách vẫn không hết, cần bác_sĩ đến khám và cho thuốc								
+__label__y_tế Cần bác_sĩ đến khám và cho thuốc khi bị vật lạ bay vào mắt nhưng mãi không hết								
+__label__y_tế Mụn nổi ở lưng, cần bác_sĩ đến cho lời khuyên và thuốc								
+__label__y_tế Da nổi những vết đỏ do uống bia, cần bác_sĩ đến nhà cho thuốc											
+__label__y_tế về sức_khỏe cần y_tế vấn_đề tôi đang có			
+__label__y_tế về sức_khỏe cần y_tế tôi vấn_đề đang có			
+__label__y_tế về sức_khỏe cần y_tế tôi vấn_đề đang có			
+__label__y_tế về sức_khỏe cần y_tế tôi đang vấn_đề có			
+__label__y_tế về sức_khỏe cần y_tế tôi có vấn_đề đang			
+__label__y_tế vấn_đề sức_khỏe cần y_tế tôi có về đang			
+__label__y_tế vấn_đề về cần y_tế tôi có sức_khỏe đang			
+__label__y_tế vấn_đề về sức_khỏe cần y_tế tôi có đang			
+__label__y_tế vấn_đề về sức_khỏe y_tế tôi có cần đang			
+__label__y_tế vấn_đề về sức_khỏe cần tôi có y_tế đang			
+__label__y_tế vấn_đề về sức_khỏe cần y_tế có tôi đang			
+__label__y_tế vấn_đề về sức_khỏe cần y_tế tôi có đang			
+__label__y_tế vấn_đề về sức_khỏe cần y_tế tôi có đang			
+__label__y_tế vấn_đề về sức_khỏe cần y_tế tôi đang có			
+__label__y_tế có về sức_khỏe cần y_tế tôi đang vấn_đề			
+__label__y_tế có vấn_đề sức_khỏe cần y_tế tôi đang về			
+__label__y_tế có vấn_đề về cần y_tế tôi đang sức_khỏe			
+__label__y_tế có vấn_đề về sức_khỏe cần y_tế tôi đang			
+__label__y_tế có vấn_đề về sức_khỏe y_tế tôi đang cần			
+__label__y_tế có vấn_đề về sức_khỏe cần tôi đang y_tế			
+__label__y_tế có vấn_đề về sức_khỏe cần y_tế đang tôi			
+__label__y_tế có vấn_đề về sức_khỏe cần y_tế tôi đang			
+__label__y_tế có vấn_đề về sức_khỏe cần y_tế tôi đang			
+__label__y_tế cần y_tế hỗ_trợ sức_khỏe			
+__label__y_tế y_tế cần hỗ_trợ sức_khỏe			
+__label__y_tế hỗ_trợ cần y_tế sức_khỏe			
+__label__y_tế sức_khỏe cần y_tế hỗ_trợ			
+__label__y_tế cần sức_khỏe y_tế hỗ_trợ			
+__label__y_tế cần sức_khỏe y_tế hỗ_trợ			
+__label__y_tế cần y_tế sức_khỏe hỗ_trợ			
+__label__y_tế cần hỗ_trợ sức_khỏe y_tế			
+__label__y_tế sức_khỏe hỗ_trợ cần y_tế			
+__label__y_tế sức_khỏe cần hỗ_trợ y_tế			
+__label__y_tế sức_khỏe cần hỗ_trợ y_tế			
+__label__y_tế sức_khỏe cần y_tế hỗ_trợ			
+__label__y_tế hỗ_trợ cần y_tế sức_khỏe			
+__label__y_tế hỗ_trợ sức_khỏe y_tế cần			
+__label__y_tế hỗ_trợ sức_khỏe cần y_tế			
+__label__y_tế hỗ_trợ sức_khỏe cần y_tế
+__label__y_tế mặc_dù đã uống thuốc tôi khỏi bị cảm lâu ngày không				
+__label__y_tế mặc_dù đã uống thuốc tôi khỏi bị cảm lâu ngày không				
+__label__y_tế mặc_dù đã uống thuốc tôi bị khỏi cảm lâu ngày không				
+__label__y_tế mặc_dù đã uống thuốc tôi cảm khỏi bị lâu ngày không				
+__label__y_tế mặc_dù đã uống thuốc tôi lâu khỏi bị cảm ngày không				
+__label__y_tế mặc_dù đã uống thuốc tôi ngày khỏi bị cảm lâu không				
+__label__y_tế mặc_dù đã uống thuốc tôi không khỏi bị cảm lâu ngày				
+__label__y_tế khỏi đã uống thuốc tôi không mặc_dù bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù uống thuốc tôi không đã bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã thuốc tôi không uống bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống tôi không thuốc bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc không tôi bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc tôi không bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc tôi không bị cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc tôi bị không cảm lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc tôi cảm không bị lâu ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc tôi lâu không bị cảm ngày				
+__label__y_tế khỏi mặc_dù đã uống thuốc tôi ngày không bị cảm lâu				
+__label__y_tế không mặc_dù đã uống thuốc tôi ngày khỏi bị cảm lâu				
+__label__y_tế không khỏi đã uống thuốc tôi ngày mặc_dù bị cảm lâu				
+__label__y_tế không khỏi mặc_dù uống thuốc tôi ngày đã bị cảm lâu				
+__label__y_tế không khỏi mặc_dù đã thuốc tôi ngày uống bị cảm lâu				
+__label__y_tế không khỏi mặc_dù đã uống tôi ngày thuốc bị cảm lâu				
+__label__y_tế không khỏi mặc_dù đã uống thuốc ngày tôi bị cảm lâu				
+__label__y_tế không khỏi mặc_dù đã uống thuốc tôi ngày bị cảm lâu				
+__label__y_tế không khỏi mặc_dù đã uống thuốc tôi ngày bị cảm lâu				
+__label__y_tế không khỏi mặc_dù đã uống thuốc tôi bị ngày cảm lâu				
+__label__y_tế không khỏi mặc_dù đã uống thuốc tôi cảm ngày bị lâu				
+__label__y_tế không khỏi mặc_dù đã uống thuốc tôi lâu ngày bị cảm				
+__label__y_tế ngày khỏi mặc_dù đã uống thuốc tôi lâu không bị cảm				
+__label__y_tế ngày không mặc_dù đã uống thuốc tôi lâu khỏi bị cảm				
+__label__y_tế ngày không khỏi đã uống thuốc tôi lâu mặc_dù bị cảm				
+__label__y_tế ngày không khỏi mặc_dù uống thuốc tôi lâu đã bị cảm				
+__label__y_tế ngày không khỏi mặc_dù đã thuốc tôi lâu uống bị cảm				
+__label__y_tế ngày không khỏi mặc_dù đã uống tôi lâu thuốc bị cảm				
+__label__y_tế ngày không khỏi mặc_dù đã uống thuốc lâu tôi bị cảm				
+__label__y_tế ngày không khỏi mặc_dù đã uống thuốc tôi lâu bị cảm				
+__label__y_tế ngày không khỏi mặc_dù đã uống thuốc tôi lâu bị cảm				
+__label__y_tế ngày không khỏi mặc_dù đã uống thuốc tôi bị lâu cảm				
+__label__y_tế ngày không khỏi mặc_dù đã uống thuốc tôi cảm lâu bị				
+__label__y_tế lâu không khỏi mặc_dù đã uống thuốc tôi cảm ngày bị				
+__label__y_tế lâu ngày khỏi mặc_dù đã uống thuốc tôi cảm không bị				
+__label__y_tế lâu ngày không mặc_dù đã uống thuốc tôi cảm khỏi bị				
+__label__y_tế lâu ngày không khỏi đã uống thuốc tôi cảm mặc_dù bị				
+__label__y_tế lâu ngày không khỏi mặc_dù uống thuốc tôi cảm đã bị				
+__label__y_tế lâu ngày không khỏi mặc_dù đã thuốc tôi cảm uống bị				
+__label__y_tế lâu ngày không khỏi mặc_dù đã uống tôi cảm thuốc bị				
+__label__y_tế lâu ngày không khỏi mặc_dù đã uống thuốc cảm tôi bị				
+__label__y_tế lâu ngày không khỏi mặc_dù đã uống thuốc tôi cảm bị				
+__label__y_tế lâu ngày không khỏi mặc_dù đã uống thuốc tôi cảm bị				
+__label__y_tế lâu ngày không khỏi mặc_dù đã uống thuốc tôi bị cảm				
+__label__y_tế cảm ngày không khỏi mặc_dù đã uống thuốc tôi bị lâu				
+__label__y_tế cảm lâu không khỏi mặc_dù đã uống thuốc tôi bị ngày				
+__label__y_tế cảm lâu ngày khỏi mặc_dù đã uống thuốc tôi bị không				
+__label__y_tế cảm lâu ngày không mặc_dù đã uống thuốc tôi bị khỏi				
+__label__y_tế cảm lâu ngày không khỏi đã uống thuốc tôi bị mặc_dù				
+__label__y_tế cảm lâu ngày không khỏi mặc_dù uống thuốc tôi bị đã				
+__label__y_tế cảm lâu ngày không khỏi mặc_dù đã thuốc tôi bị uống				
+__label__y_tế cảm lâu ngày không khỏi mặc_dù đã uống tôi bị thuốc				
+__label__y_tế cảm lâu ngày không khỏi mặc_dù đã uống thuốc bị tôi				
+__label__y_tế cảm lâu ngày không khỏi mặc_dù đã uống thuốc tôi bị				
+__label__y_tế cảm lâu ngày không khỏi mặc_dù đã uống thuốc tôi bị				
+__label__y_tế tôi bị cảm lâu ngày không khỏi mặc_dù đã uống thuốc				
+__label__y_tế bị tôi cảm lâu ngày không khỏi mặc_dù đã uống thuốc				
+__label__y_tế cảm tôi bị lâu ngày không khỏi mặc_dù đã uống thuốc				
+__label__y_tế lâu tôi bị cảm ngày không khỏi mặc_dù đã uống thuốc				
+__label__y_tế ngày tôi bị cảm lâu không khỏi mặc_dù đã uống thuốc
+__label__y_tế tôi bị ho và sốt liên tục nhưng bác_sĩ ra ngoài, cần bác_sĩ tư đến nhà khám
+__label__y_tế đầu tôi bỗng_dưng đau_nhức liên_hồi, cần bác_sĩ đến nhà kiểm_tra
+__label__y_tế tôi mới xuất viện nhưng thấy cơ_thể chưa ổn, cần y_tá đến chăm sóc
+__label__y_tế lồng_ngực của tôi đau nhói liên hồi, cần bác_sĩ đến kiểm_tra gấp
+__label__y_tế cơ_thể bỗng dung lạnh, người xanh xao, cần bác_sĩ hỗ_trợ điều trị
+__label__y_tế mắt đau_nhức, không_thể nhìn rõ, cần bác_sĩ có chuyên môn về mắt hỗ_trợ
+__label__y_tế da bỗng_dưng bị nổi vết đỏ, tôi nghĩ tôi bị dị_ứng, cần bác_sĩ điểm kiểm_tra
+__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại 1 vùng.
+__label__y_tế Cơ_thể bỗng mệt mỏi, di chuyển không nổi, cần bác_sĩ đến trợ giúp
+__label__y_tế Mặt_mày bỗng xanh_xao, đứng dậy đầu_óc quay_cuồng, không thấy đường sau 5-10 giây mới ổn_định, cần bác_sĩ đến nhà chẩn_đoán và cho thuốc
+__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau_rát, sau 1 thời gian nhưng vẫn không hết
+__label__y_tế Da của tôi phát ban đỏ hình tròn, cần bác_sĩ kiểm_tra
+__label__y_tế Da của tôi nổi ban đỏ, ngứa_ngáy liên_hồi
+__label__y_tế Tai của tôi bị chảy_mủ, đôi khi chảy_máu khi ngoáy, cần bác_sĩ tư vấn điều trị tại nhà
+__label__y_tế Môi của tôi bị rát, lở_loét 1 vài chỗ, cần bác_sĩ đến kiểm_tra
+__label__y_tế Tôi bỗng_dưng bị hen_suyễn khi thời_tiết thay_đổi, cần bác_sĩ đến điều trị
+__label__y_tế Tôi bị hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, cần bác_sĩ đến chữa_trị
+__label__y_tế Cần bác_sĩ đến chữa_trị hen_suyễn
+__label__y_tế Lồng_ngực đau nhói, cần bác_sĩ kiểm_tra
+__label__y_tế Bác_sĩ kiểm_tra bệnh về ngực
+__label__y_tế Cần bác_sĩ chẩn_đoán bệnh tim tại nhà
+__label__y_tế Bị bệnh tim cần bác_sĩ đến nhà chẩn_đoán
+__label__y_tế Cần bác_sĩ da liễu đến khám_bệnh
+__label__y_tế Da nổi trên bề mặt nổi nhiều mụn nước và vảy tiết, cần bác_sĩ đến khám gấp
+__label__y_tế Cần bác_sĩ đến kiểm_tra bệnh da liễu khi da nổi trên bề mặt nhiều mụn nước và vảy tiết
+__label__y_tế Cần bác_sĩ đến khám và cho thuốc vì ngộ độc thực phẩm
+__label__y_tế Ho không ngừng khi thời_tiết thay đổi, cần bác_sĩ đến cho thuốc và khám_bệnh
+__label__y_tế Cần bác_sĩ đến khám_bệnh về ho liên tục
+__label__y_tế Bị phổi nhưng không ra đường được, cần bác_sĩ đến tận nhà khám
+__label__y_tế Cần bác_sĩ đến nhà khám phổi và cho thuốc do không ra được khỏi nhà vì lý_do dịch
+__label__y_tế Do nguyên_nhân dịch, ần bác_sĩ đến nhà khám phổi và cho thuốc do không ra được khỏi nhà 
+__label__y_tế Cần bác_sĩ có chuyên_ngành đến khám bàng_quang
+__label__y_tế Tiểu tiện không ổn, cần bác_sĩ đến khám và cho lời khuyên
+__label__y_tế Cần bác_sĩ chuyên_ngành đến khám các bệnh về đường tiểu tiện
+__label__y_tế Bị vật lạ bay vào mắt nhưng làm mọi cách vẫn không hết, cần bác_sĩ đến khám và cho thuốc
+__label__y_tế Cần bác_sĩ đến khám và cho thuốc khi bị vật lạ bay vào mắt nhưng mãi không hết
+__label__y_tế Mụn nổi ở lưng, cần bác_sĩ đến cho lời khuyên và thuốc
+__label__y_tế Da nổi những vết đỏ do uống bia, cần bác_sĩ đến nhà cho thuốc
+__label__y_tế Cần bác_sĩ đến cho thuốc chữa những vết đỏ nổi ở da
+__label__y_tế Cần đo điện tim tại nhà
+__label__y_tế Tôi cảm thấy không khỏe nhưng tôi không có thời gian đi bệnh_viện, cần người tư vấn online
+__label__y_tế Tôi cần lấy máu trực_tiếp tại nhà để khám tổng quát
+__label__y_tế Con tôi càng ngày ăn ít ăn, ốm lại, cần bác_sĩ tư vấn chế độ ăn_uống phù_hợp
+__label__y_tế Tôi đã mấy lần bấm lỗ tai nhưng không thành, hay bị lên mủ,ở chỗ bấm cũ có nổi cái gì giống như hạch, rất cứng, mỗi lần bấm vào là đau, cần bác_sĩ tư vấn
+__label__y_tế Người tôi bỗng lại mọc nhiều mụn nước nhỏ rải_rác. Mặt thì cũng tự_nhiên xuất_hiện nhiều mụn hơn, cần bác_sĩ đến nhà tư vấn thêm.
+__label__y_tế Trong mùa dịch tôi ít ra ngoài vận_động dẫn đến  cơ_thể mỏi_mệt, dạo gần đây thì càng ngày càng tệ hơn, tôi cần bác_sĩ đến khám và cho lời_khuyên
+__label__y_tế Dạo gần đây tôi có các triệu_chứng của ho và đau họng, tôi cần bác_sĩ đến kiểm_tra xem tôi có gặp phải vấn_đề gì nghiêm_trọng hay không
+__label__y_tế Sức_khoẻ của tôi bình_thường, không có vấn_đề gì. Tuy nhiên gần đây cơ_thể tôi mệt_mỏi, đau đầu, da trở nên xanh xao (có thể là vì tôi ít hoạt động và ít tiếp xúc với ánh nắng mặt trời) nên người tôi không linh_hoạt, năng_động như trước được, cần bác_sĩ đến nhà tư_vấn và khám trực_tiếp
+__label__y_tế Cơ_thể mệt_mỏi, đau đầu, da trở nên xanh xao (có thể là vì tôi ít hoạt động và ít tiếp xúc với ánh nắng mặt trời) nên người tôi không linh_hoạt, năng_động như trước được, cần bác_sĩ đến nhà cho lời_khuyên và khám trực_tiếp
+__label__y_tế Do đợt cách_ly nên lâu ngày tôi không ra khỏi nhà, bây giờ ra khỏi nhà thì tôi cảm thấy toàn cơ_thể mệt_ mỏi, cơ_thể không đủ sức di_chuyển, tôi cần bác_sĩ tư_vấn về vấn_đề này.
+__label__y_tế Cần bác sĩ cho lời_khuyên về cảm giác toàn cơ_thể mệt_ mỏi, cơ_thể không đủ sức di_chuyển
+__label__y_tế Thời gian gần đây bỗng dưng đầu tôi rất hay đau_nhức, tôi cần bác_sĩ kiểm_tra và cho lời khuyên
+__label__y_tế Bụng tôi sau khi ăn tối thì đau bụng liên_tục, tôi nghĩ tôi bị ngộ_độc thực_phẩm, tôi cần bác_sĩ đến nhà kiểm_tra
+__label__y_tế Dạo gần đây tôi rất hay bị stress vì nhiều vấn_đề, đến mức đầu tôi như muốn nổ_tung, tôi cần một bác_sĩ tâm_lý có thể tư_vấn cho tôi những cách giải_quyết vấn_đề stress
+__label__y_tế Dạo gần đây tôi ngồi học online nhiều, dẫn đến lưng đau, nhức mắt, tôi cần bác sĩ đến kiểm_tra và cho thuốc
+__label__y_tế Ngực tôi dạo gần đây thường xuyên bị đau nhói rất lâu, cần bác_sĩ đến kiểm_tra các triệu_chứng
+__label__y_tế Tôi chịu áp_lực rất kém, mỗi lần bước vào những kì thi, cơ_thể hồi_hộp, ngực tôi như muốn nổ tung đến mức không chịu nổi, tôi cần bác_sĩ đến nhà kiểm_tra và cho lời khuyên
+__label__y_tế Dạo gần đây tôi thường_xuyên bị chảy máu cam, cơ thể chóng mặt và bất_ổn, tôi cần bác sĩ đến kiểm_tra và cho thuốc
+__label__y_tế Cần bác_sĩ đến nhà lấy máu để khám tổng_quát
+__label__y_tế Tôi không uống rượu bia nhưng dạo gần đây, gan của tôi rất nóng và cồn cào, tôi cần bác sĩ đến khám hoặc có thể cho tôi lời tư_vấn
+__label__y_tế Tôi nghĩ phổi tôi có vấn_đề, dạo gần đây tôi rất hay bị hụt hơi hoặc hết hơi, bình_thường tôi thường hít 1 hơi thật sâu không có vấn_đề gì, nhưng mấy hôm_nay khi tôi hít vào thì có cảm_giác như tôi bị hụt hơi, rất khó chịu, tôi cần bác_sĩ đến nhà khám và tư_vấn
+__label__y_tế Tôi vừa bị một miếng sắt rỉ đâm vào da, tôi đã sát_trùng nhưng vẫn sợ bị uốn_ván, tôi cần bá_sĩ đến và sơ_cứu
+__label__y_tế Tôi vừa bị đinh đâm vào chân, tôi sợ mình sẽ bị uốn_ván, cần bác_sĩ đến chăm_sóc và sơ_cứu
+__label__y_tế Bố tôi vừa trải qua cơn phẫu_thuật, hiện tại đã được về nhà nhưng vẫn chưa hồi_phục hẵn, tôi cần y_tá đến chăm_sóc cho bố, tiền_bạc không thành vấn_đề
+__label__y_tế Tôi vừa đỡ quả bóng rất mạnh, giờ tay tôi đang rất đau, tôi không biết mình có bị gãy tay hay không, cần bác_sĩ đến nhà khám hoặc cần bác_sĩ cho lời_khuyên tôi có nên đến bệnh_viện trong mùa dịch này không
+__label__y_tế Nổi mụn ở lưng, cần bác sĩ tư_vấn
+__label__y_tế Lưng tôi bỗng dưng nổi những vết sần_sùi giống như sẹo, tôi cần bác sĩ đến nhà tư_vấn và cho thuốc
+__label__y_tế Vì đặc_thù của công_việc, tôi phải thức đêm nên đã quen mắt, mỗi lúc một khuya hơn, thời lượng giấc ngủ cũng ngày càng ít đi, có hôm thức đến tận sáng vì không ngủ được, tôi cần bác sĩ cho lời_khuyên và đơn thuốc
+__label__y_tế Đầu óc của tôi càng ngày càng quên nhiều thứ, có phải tôi đã mắc bệnh Alzheimer, tôi cần bác sĩ tư_vấn về các triệu_chứng
+__label__y_tế Răng của tôi mấy hôm nay bỗng_dưng đau_nhức, tôi đã uống thuốc nhưng vẫn không hết, tôi cần bác_sĩ tư_vấn hoặc đến tận nhà để khám
+__label__y_tế Tai tôi có 1 vết trầy ở trong, mỗi lần tôi động vào rất đau và chảy máu, tôi cần bác_sĩ tư_vấn hoặc có thể thì đến tận nhà để khám
+__label__y_tế Dạo gần đây tay tôi ra mồ hôi rất nhiều, xin bác_sĩ tư_vấn về cắt tuyến mồ hôi
+__label__y_tế Dạo gần đây tôi ho rất nhiều, có lần còn ho ra máu, tôi không có tiền sử bị ho nên rất lo_lắng, tôi cần bác_sĩ đến tận nhà khám
+__label__y_tế Dạo gần đây tôi ăn ngọt rất nhiều, khi tiểu còn có kiến bâu vào, tôi nghĩ mình bị tiểu đường, cần bác_sĩ đến tư_vấn và khám bệnh
+__label__y_tế Tôi cần bác_sĩ đến lấy máu để khám tổng_quát
+__label__y_tế Cần bác_sĩ dinh_dưỡng tư_vấn chế_độ ăn_uống phù_hợp để phát_triển cơ_thể
+__label__y_tế Cần bác_sĩ cho lời_khuyên về các bệnh da_liễu
+__label__y_tế Cần bác_sĩ tư vấn các bệnh da_liễu
+__label__y_tế Đau đầu nửa sau, cần bác sĩ tư_vấn và kê đơn thuốc
+__label__y_tế Cần bác_sĩ cho lời_khuyên các bệnh về thần_kinh và cho thuốc
+__label__y_tế Cần bác_sĩ tư_vấn các bệnh về thần_kinh
+__label__y_tế Da nổi những vết đỏ lạ, cần hỗ trợ y_tế
+__label__y_tế Cần bác_sĩ cho lời_khuyên các bệnh về tim mạch
+__label__y_tế Cần bác_sĩ tư_vấn các bệnh về tim mạch
+__label__y_tế Cần bác_sĩ cho lời_khuyên các bệnh về phổi
+__label__y_tế Cần bác_sĩ tư_vấn các bệnh về phổi
+__label__y_tế Cần bác_sĩ cho lời_khuyên các bệnh về gan
+__label__y_tế Cần bác_sĩ tư_vấn các bệnh về gan
+__label__y_tế Bị ho khi chuyển trời, không có lịch sử hen_suyễn, cần bác_sĩ tư_vấn
+__label__y_tế Cần bác_sĩ cho lời_khuyên tại sao ho khi chuyển trời dù không có lịch sử hen_suyễn
+__label__y_tế Dạ_dày có vấn_đề, cần bác_sĩ tư_vấn
+__label__y_tế Hình như tôi bị tiêu_chảy, cần tư_vấn y_tế				
+__label__y_tế không tôi bị cảm lâu ngày khỏi mặc_dù đã uống thuốc				
+__label__y_tế khỏi tôi bị cảm lâu ngày không mặc_dù đã uống thuốc				
+__label__y_tế mặc_dù tôi bị cảm lâu ngày không khỏi đã uống thuốc				
+__label__y_tế đã tôi bị cảm lâu ngày không khỏi mặc_dù uống thuốc				
+__label__y_tế uống tôi bị cảm lâu ngày không khỏi mặc_dù đã thuốc				
+__label__y_tế thuốc tôi bị cảm lâu ngày không khỏi mặc_dù đã uống				
+__label__y_tế tôi thuốc bị cảm lâu ngày không khỏi mặc_dù đã uống				
+__label__y_tế tôi thuốc bị cảm lâu ngày không khỏi mặc_dù đã uống				
+__label__y_tế thường_xuyên bị đau_lưng mặc_dù vẫn còn trẻ				
+__label__y_tế bị thường_xuyên đau_lưng mặc_dù vẫn còn trẻ				
+__label__y_tế đau lưng thường_xuyên bị mặc_dù vẫn còn trẻ				
+__label__y_tế mặc_dù thường_xuyên bị đau_lưng vẫn còn trẻ				
+__label__y_tế vẫn thường_xuyên bị đau lưng mặc_dù còn trẻ				
+__label__y_tế còn thường_xuyên bị đau_lưng mặc_dù vẫn trẻ				
+__label__y_tế trẻ thường_xuyên bị đau_lưng mặc_dù vẫn còn				
+__label__y_tế thường_xuyên trẻ bị đau_lưng mặc_dù vẫn còn				
+__label__y_tế thường_xuyên trẻ bị đau_lưng mặc_dù vẫn còn				
+__label__y_tế thường_xuyên bị trẻ đau_lưng mặc_dù vẫn còn				
+__label__y_tế thường_xuyên đau_lưng trẻ bị mặc_dù vẫn còn				
+__label__y_tế thường_xuyên mặc_dù trẻ bị đau_lưng vẫn còn				
+__label__y_tế thường_xuyên vẫn trẻ bị đau lưng mặc_dù còn				
+__label__y_tế thường_xuyên còn trẻ bị đau_lưng mặc_dù vẫn				
+__label__y_tế trẻ còn thường_xuyên bị đau_lưng mặc_dù vẫn				
+__label__y_tế trẻ thường_xuyên còn bị đau_lưng mặc_dù vẫn				
+__label__y_tế trẻ thường_xuyên còn bị đau_lưng mặc_dù vẫn				
+__label__y_tế trẻ thường_xuyên bị còn đau_lưng mặc_dù vẫn				
+__label__y_tế trẻ thường_xuyên đau lưng còn bị mặc_dù vẫn				
+__label__y_tế trẻ thường_xuyên mặc_dù còn bị đau_lưng vẫn				
+__label__y_tế trẻ thường_xuyên vẫn còn bị đau_lưng mặc_dù				
+__label__y_tế còn thường_xuyên vẫn trẻ bị đau_lưng mặc_dù				
+__label__y_tế còn trẻ vẫn thường_xuyên bị đau_lưng mặc_dù				
+__label__y_tế còn trẻ thường_xuyên vẫn bị đau_lưng mặc_dù				
+__label__y_tế còn trẻ thường_xuyên vẫn bị đau_lưng mặc_dù				
+__label__y_tế còn trẻ thường_xuyên bị vẫn đau_lưng mặc_dù				
+__label__y_tế còn trẻ thường_xuyên đau_lưng vẫn bị mặc_dù				
+__label__y_tế còn trẻ thường_xuyên mặc_dù vẫn bị đau lưng				
+__label__y_tế vẫn trẻ thường_xuyên mặc_dù còn bị đau lưng				
+__label__y_tế vẫn còn thường_xuyên mặc_dù trẻ bị đau lưng				
+__label__y_tế vẫn còn trẻ mặc_dù thường_xuyên bị đau lưng				
+__label__y_tế vẫn còn trẻ thường_xuyên mặc_dù bị đau lưng				
+__label__y_tế vẫn còn trẻ thường_xuyên mặc_dù bị đau lưng				
+__label__y_tế vẫn còn trẻ thường_xuyên bị mặc_dù đau lưng				
+__label__y_tế vẫn còn trẻ thường_xuyên đau lưng mặc_dù bị				
+__label__y_tế mặc_dù còn trẻ thường_xuyên đau_lưng vẫn bị				
+__label__y_tế mặc_dù vẫn trẻ thường_xuyên đau lưng còn bị				
+__label__y_tế mặc_dù vẫn còn thường_xuyên đau_lưng trẻ bị				
+__label__y_tế mặc_dù vẫn còn trẻ đau_lưng thường_xuyên bị				
+__label__y_tế mặc_dù vẫn còn trẻ thường_xuyên đau_lưng bị				
+__label__y_tế mặc_dù vẫn còn trẻ thường_xuyên đau_lưng bị				
+__label__y_tế mặc_dù vẫn còn trẻ thường_xuyên bị đau lưng				
+__label__y_tế đau lưng vẫn còn trẻ thường_xuyên bị mặc_dù				
+__label__y_tế đau lưng mặc_dù còn trẻ thường_xuyên bị vẫn				
+__label__y_tế đau lưng mặc_dù vẫn trẻ thường_xuyên bị còn				
+__label__y_tế đau lưng mặc_dù vẫn còn thường_xuyên bị trẻ				
+__label__y_tế đau lưng mặc_dù vẫn còn trẻ bị thường_xuyên				
+__label__y_tế đau lưng mặc_dù vẫn còn trẻ thường_xuyên bị				
+__label__y_tế đau lưng mặc_dù vẫn còn trẻ thường_xuyên bị				
+__label__y_tế hay đau_đầu mỗi khi thời_tiết thay_đổi				
+__label__y_tế đau_đầu hay mỗi khi thời_tiết thay_đổi				
+__label__y_tế mỗi hay đau_đầu khi thời_tiết thay_đổi				
+__label__y_tế khi hay đau_đầu mỗi thời_tiết thay_đổi				
+__label__y_tế thời_tiết hay đau_đầu mỗi khi thay_đổi				
+__label__y_tế thay_đổi hay đau_đầu mỗi khi thời_tiết				
+__label__y_tế hay thay_đổi đau_đầu mỗi khi thời_tiết				
+__label__y_tế hay thay_đổi đau_đầu mỗi khi thời_tiết				
+__label__y_tế hay đau_đầu thay_đổi mỗi khi thời_tiết				
+__label__y_tế hay mỗi thay_đổi đau_đầu khi thời_tiết				
+__label__y_tế hay khi thay_đổi đau_đầu mỗi thời_tiết				
+__label__y_tế hay thời_tiết thay_đổi đau_đầu mỗi khi				
+__label__y_tế thay_đổi thời_tiết hay đau_đầu mỗi khi				
+__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi khi				
+__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi khi				
+__label__y_tế thay_đổi hay đau_đầu thời_tiết mỗi khi				
+__label__y_tế thay_đổi hay mỗi thời_tiết đau_đầu khi				
+__label__y_tế thay_đổi hay khi thời_tiết đau_đầu mỗi				
+__label__y_tế thời_tiết hay khi thay_đổi đau_đầu mỗi				
+__label__y_tế thời_tiết thay_đổi khi hay đau_đầu mỗi				
+__label__y_tế thời_tiết thay_đổi hay khi đau_đầu mỗi				
+__label__y_tế thời_tiết thay_đổi hay khi đau_đầu mỗi				
+__label__y_tế thời_tiết thay_đổi hay đau_đầu khi mỗi				
+__label__y_tế thời_tiết thay_đổi hay mỗi khi đau_đầu				
+__label__y_tế khi thay_đổi hay mỗi thời_tiết đau_đầu
+__label__y_tế tôi bị ho và sốt liên_tục nhưng không thể ra ngoài, cần bác_sĩ tư đến nhà khám								
+__label__y_tế tôi ho và sốt liên_tục cần sự trợ_giúp từ bác_sĩ								
+__label__y_tế tôi ho và sốt liên_tục không ngừng cần sự giúp đỡ từ các y bác_sĩ								
+__label__y_tế tôi ho sốt liên_tục không ngừng cần sự trợ_giúp từ bác_sĩ								
+__label__y_tế ho sốt liên_tục không ngừng								
+__label__y_tế tôi thường xuyên nôn_mửa, tôi nghĩ mình bị ngộ_độc_thực_phẩm, cần hỗ trợ về mặt y_tế								
+__label__y_tế nôn_mửa không kiểm soát, tôi nghĩ mình bị ngộ_độc_thực_phẩm								
+__label__y_tế nôn_mửa không ngừng, chúng tôi tin rằng mình bị ngộ_độc_thực_phẩm								
+__label__y_tế nôn_mửa liên_tục không ngừng, tụi tôi tin rằng mình bị ngộ_độc thức ăn								
+__label__y_tế có phải là ngộ_độc thức ăn không khi nôn_mửa liên_tục								
+__label__y_tế từ sáng đến tối tôi bị nôn_mửa liên_tục, không biết có phải do bị ngộ_độc ko								
+__label__y_tế đầu tôi bỗng dung đau nhức liên_hồi, cần bác_sĩ đến nhà kiểm_tra								
+__label__y_tế đầu tự nhiên đau nhức liên_hồi, cần bác_sĩ đến nhà kiểm_tra								
+__label__y_tế đầu tự nhiên đau nhức liên_hồi, cần bác_sĩ đến nhà thăm khám và điều_trị								
+__label__y_tế đầu đột ngột đau nhức liên tù tì, cần bác_sĩ đến nhà thăm khám và chữa trị								
+__label__y_tế đầu đột ngột đau nhức liên_tục không ngừng nghỉ, cần bác_sĩ gấp								
+__label__y_tế đầu liên_tục đau nhức từ sáng đến tối không ngừng								
+__label__y_tế đầu tôi ong ong liên_tục								
+__label__y_tế tôi bị đau nửa đầu không biết lý_do								
+__label__y_tế tôi bị đau nửa đầu không rõ nguyên_nhân								
+__label__y_tế tôi bị đau nửa đầu không biết tại_sao								
+__label__y_tế đầu tôi bị đau nửa đầu								
+__label__y_tế tôi mới xuất_viện nhưng thấy cơ_thể chưa ổn, cần y_tá đến chăm sóc								
+__label__y_tế tôi mới xuất_viện nhưng vẫn cảm thấy không khỏe, cần y_tá gấp								
+__label__y_tế tôi vừa xuất_viện hôm nay nhưng thấy không khỏe, tôi cần bác_sĩ gấp								
+__label__y_tế lồng_ngực của tôi đau nhói liên_hồi, cần bác_sĩ đến kiểm_tra gấp								
+__label__y_tế lồng_ngực của tôi bị nhức không hiểu lý_do								
+__label__y_tế lồng_ngực của tôi lúc nào cũng kêu không biết có phải tôi bị corona không								
+__label__y_tế tôi bị đau nhức lồng_ngực không biết nguyên_nhân								
+__label__y_tế đau nhức lồng_ngực do bị nhiễm ncov có phải không								
+__label__y_tế cần người trợ_giúp, lưng tôi đau liên_tục không ngừng								
+__label__y_tế lưng và đầu gối đau mỗi khi làm việc nặng								
+__label__y_tế lưng và đầu gối đau mỗi khi hoạt động ở cường_độ cao								
+__label__y_tế lưng và khớp gối có vấn đề mỗi khi bưng hàng nặng								
+__label__y_tế lưng và gối của tôi đau không chịu được tôi tin rằng tôi đang bị thoái hóa khớp								
+__label__y_tế bị ghẻ phỏng làm sao để chữa khỏi vậy								
+__label__y_tế bị ghẻ phỏng không biết làm sao để chữa hết bệnh								
+__label__y_tế đùi tôi bị hâm nặng không biết có phải do tôi ngồi quá lâu hay không								
+__label__y_tế đùi tôi bị hâm, tróc da trầy xước, do tôi ngồi lâu phải không								
+__label__y_tế tôi bị xuất tinh sớm, có cách nào trị bệnh này không								
+__label__y_tế tôi bị yếu sinh lý, có cách nào khắc phục tình trạng này không								
+__label__y_tế lồng_ngực tôi nhức kinh khủng, không biết có phải tôi sắp chết không								
+__label__y_tế lồng_ngực của tôi nhức không thể nào chịu đựng được, tôi cần hỗ trợ ngay bây giờ								
+__label__y_tế cơ_thể bỗng dung lạnh, người xanh xao, cần bác_sĩ hỗ trợ điều_trị								
+__label__y_tế cơ_thể đang khỏe_mạnh bỗng dung lạnh toát, mồ hôi chảy nhễ nhại, người xanh xao								
+__label__y_tế cơ_thể đang mạnh khỏe tự nhiên lạnh ngắt, mồ hôi đầm đìa, không sao dừng đc								
+__label__y_tế cơ_thể đang khỏe bỗng dung mệt mỏi không rõ nguyên_nhân								
+__label__y_tế cơ_thể đang khỏe bỗng dung mệt không biết lý_do								
+__label__y_tế mắt đau nhức, không thể nhìn rõ, cần bác_sĩ có chuyên môn về mắt hỗ trợ								
+__label__y_tế da bỗng_dưng bị nổi vết đỏ, tôi nghĩ tôi bị dị ứng, cần bác_sĩ điểm kiểm_tra								
+__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại 1 vùng.								
+__label__y_tế Cơ_thể bỗng mệt mỏi, di chuyển không nổi, cần bác_sĩ đến trợ_giúp								
+__label__y_tế Mặt mày bỗng xanh xao, đứng dậy đầu óc quay cuồng, không thấy đường sau 5-10 giây mới ổn định, cần bác_sĩ đến nhà chẩn đoán và cho thuốc								
+__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau rát, sau 1 thời gian nhưng vẫn không hết								
+__label__y_tế Da của tôi phát ban đỏ hình tròn, trên bề mặt nổi nhiều mụn nước và vảy tiết, cần bác_sĩ kiểm_tra								
+__label__y_tế Da của tôi nổi ban đỏ, ngứa ngáy liên_hồi								
+__label__y_tế Tai của tôi bị chảy mủ, đôi khi chảy máu khi ngoáy, cần bác_sĩ tư vấn điều_trị tại nhà								
+__label__y_tế Môi của tôi bị rát, lở loét 1 vài chỗ, cần bác_sĩ đến kiểm_tra								
+__label__y_tế Tôi bỗng dung bị hen suyễn khi thời thiết thay đổi, ho không ngừng, cần bác_sĩ đến điều_trị								
+__label__y_tế Tôi bị hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, cần bác_sĩ đến chữa trị				
+__label__y_tế khi thời_tiết hay mỗi thay_đổi đau_đầu				
+__label__y_tế khi thời_tiết thay_đổi mỗi hay đau_đầu				
+__label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu				
+__label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu				
+__label__y_tế khi thời_tiết thay_đổi hay đau_đầu mỗi				
+__label__y_tế mỗi thời_tiết thay_đổi hay đau_đầu khi				
+__label__y_tế mỗi khi thay_đổi hay đau_đầu thời_tiết				
+__label__y_tế mỗi khi thời_tiết hay đau_đầu thay_đổi				
+__label__y_tế mỗi khi thời_tiết thay_đổi đau_đầu hay				
+__label__y_tế mỗi khi thời_tiết thay_đổi hay đau_đầu				
+__label__y_tế mỗi khi thời_tiết thay_đổi hay đau_đầu				
