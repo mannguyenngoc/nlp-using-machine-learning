@@ -1,7 +1,7 @@
-__label__nước đường_ống hư rồi tìm thợ sửa ống_nước
-__label__nước tìm thợ sửa ống_nước đướng ống hư
-__label__nước mai, chuyên_môn sửa ống gấp, nhận tiền
-__label__nước sửa máy_bơm
+__label__nước đường_ống hư rồi tìm thợ ống_nước
+__label__nước tìm thợ ống_nước đướng ống hư
+__label__nước mai, chuyên_môn ống gấp, nhận tiền
+__label__nước máy_bơm
 __label__nước máy_bơm hư
 __label__nước máy_bơm hoạt_động
 __label__nước máy_bơm lỗi, bơm lên
@@ -15,10 +15,10 @@ __label__nước Máy bơm bơm
 __label__nước lắp_đặt đường_ống_nước cấp
 __label__nước thợ lắp_đặt đường_ống_nước thải
 __label__nước ống_nước bể, rò_rỉ nước,
-__label__nước tìm lắp_đặt máy lọc
-__label__nước thợ hướng dẫn sử_dụng máy lọc nóng lạnh
+__label__nước tìm lắp_đặt lọc
+__label__nước thợ hướng dẫn sử_dụng lọc nóng lạnh
 __label__nước thợ lắp_đặt đường_ống_nước
-__label__nước lắp_đặt máy bơm gia đình
+__label__nước lắp_đặt bơm gia đình
 __label__nước cống nghẹt, nạo_vét gom thải
 __label__nước máng_xối kẹt rác, thông máng_xối
 __label__nước thông lavabo, chậu rửa chén kẹt rác
@@ -37,9 +37,9 @@ __label__nước thông tắc cầu cống nghẹt rác
 __label__nước thợ lắp phao chống tràn
 __label__nước dưng mất dùng, thợ sửa_chữa
 __label__nước chảy yếu, để sinh_hoạt, tìm sửa_chữa
-__label__nước vì mạnh ống dẫn vỡ gây thấm tường quanh thợ sửa
-__label__nước ồn rửa tay nghẹt, rút xuống thợ sửa
-__label__nước sửa ống tắc dầu mỡ
+__label__nước vì mạnh ống dẫn vỡ gây thấm tường quanh thợ
+__label__nước ồn rửa tay nghẹt, rút xuống thợ
+__label__nước ống tắc dầu mỡ
 __label__nước cao điểm chảy yếu, để sinh_hoạt, thợ xem_xét sửa_chữa .
 __label__nước thợ ống xuyên tắc
 __label__nước hoạt_động yếu hơn bình_thường khiến việc tốn thời_gian, thợ xem_xét
@@ -69,8 +69,8 @@ __label__nước ống PPR lủng, thợ hàn
 __label__nước thợ hàn ống PPR hỏng
 __label__nước hàn ống PPR
 __label__nước thay_thế vòi sen tắm
-__label__nước lắp máy giếng
-__label__nước thay_thế nguồn giếng bằng nguồn máy
+__label__nước lắp giếng
+__label__nước thay_thế nguồn giếng bằng nguồn
 __label__nước thay_thế vòi loại
 __label__nước thay_thế vòi xịt toilet
 __label__nước thay_thế bộ vòi
@@ -81,7 +81,7 @@ __label__nước giúp_đỡ thay_thế phao
 __label__nước để phao cơ, phao
 __label__nước thay_thế vòi loại
 __label__nước thay_thế vòi hỏng phòng tắm
-__label__nước sửa máy_bơm
+__label__nước máy_bơm
 __label__nước nghẹt hố ga, thông
 __label__nước thông hố ga nghẹt
 __label__nước máng xối kẹt rác, thông
@@ -92,7 +92,7 @@ __label__nước thiết_bị trục_trặc gây thất rò_rỉ nước, khắc
 __label__nước khắc_phục sự_cố thiết_bị trục_trặc gây rò_rỉ
 __label__nước chảy liên_tục, khóa van ngừng,
 __label__nước vòi lỗi,
-__label__nước vòi hư_hỏng nặng, sửa
+__label__nước vòi hư_hỏng nặng,
 __label__nước vòi hoạt_động yếu, tra
 __label__nước nguồn sao hoạt_động yếu
 __label__nước sàn bê_tông rỉ nước,
@@ -109,10 +109,10 @@ __label__nước Máy bơm bơm
 __label__nước lắp_đặt đường_ống_nước cấp
 __label__nước thợ lắp_đặt đường_ống_nước thải
 __label__nước ống_nước bể, rò_rỉ nước,
-__label__nước tìm lắp_đặt máy lọc
-__label__nước thợ hướng dẫn sử_dụng máy lọc nóng lạnh
+__label__nước tìm lắp_đặt lọc
+__label__nước thợ hướng dẫn sử_dụng lọc nóng lạnh
 __label__nước thợ lắp_đặt đường_ống_nước
-__label__nước lắp_đặt máy bơm gia đình
+__label__nước lắp_đặt bơm gia đình
 __label__nước cống nghẹt, nạo_vét gom thải
 __label__nước máng_xối kẹt rác, thông máng_xối
 __label__nước thông lavabo, chậu rửa chén kẹt rác
@@ -123,6 +123,31 @@ __label__nước thế vòi_xịt toilet hỏng
 __label__nước vòi tắm ra yếu hơn bình nhiều, thợ xem_xét thay_thế
 __label__nước sàn bê tông thấm nước, thợ xử_lý
 __label__nước thông bồn_cầu, bệ xí
+__label__nước ống ở bệnh_viện hỏng
+__label__nước phòng khám hỏng toilet, thợ
+__label__nước toilet riêng phòng khám hư, thợ
+__label__nước thợ hệ_thống ở bệnh viện
+__label__nước hệ_thống ở bệnh_viện đề, thợ
+__label__nước nguồn ở bệnh_viện hoạt_động, trợ
+__label__nước ở bệnh_viện màu khác thường, khắc_phục
+__label__nước bơm ở bệnh_viện hư, bệnh_nhân
+__label__nước bệnh_viện hỏng bơm,
+__label__nước bơm ở bệnh_viện hư, bơm lên
+__label__nước số vòi xịt ở bệnh_viện hỏng,
+__label__nước Có bệnh_nhân báo rằng số vòi hỏng, sửa_chữa
+__label__nước thay_thế vài vòi hỏng ở bệnh_viện
+__label__nước ống bệnh_viện vỡ, trợ
+__label__nước bồn rửa mặt số phòng bệnh nghẹt nước,
+__label__nước vật lạ bắn mắt, đau rát, hỗ_trợ y_tế
+__label__nước số bồn cầu ở phòng bệnh đọng nước, khắc_phục
+__label__nước khắc_phục số toilet ở bệnh viện đọng
+__label__nước bệnh_nhân than_phiền số bồn cầu tràn bể chứa nước, khắc_phục
+__label__nước số toilet ở phòng bệnh tràn bể chứa
+__label__nước hàn tay hàn ống PPR, giúp_đỡ về y_tế
+__label__nước ngộ_độc uống ở nguồn
+__label__nước bồn ở phòng bệnh rỉ, gây khó_khăn,
+__label__nước vài ống bệnh_viện mục, thợ
+__label__nước bệnh_viện nước, bệnh_nhân sinh_hoạt
 __label__nước thợ hút bể phốt gia_đình
 __label__nước chậu rửa bát nghẹt_nước, thông chậu rửa bát
 __label__nước lắp_đặt bồn chứa gia đình
@@ -149,9 +174,9 @@ __label__nước sự hỗ trợ thay_thế ống
 __label__nước sự hỗ trợ vòi
 __label__nước sự đỡ thay_thế vòi loại
 __label__nước đỡ về thay_thế sửa_chữa phao cơ phao
-__label__nước sửa vòi xịt toilet hoạt_động
+__label__nước vòi xịt toilet hoạt_động
 __label__nước vòi lỗi hư hỏng nặng, trợ
-__label__nước hàn ống chịu nhiệt gấp, sửa
+__label__nước hàn ống chịu nhiệt gấp,
 __label__nước vô tình khoan lủng ống, hỗ trợ thay_thế
 __label__nước ống bể, mục
 __label__nước vòi chảy rỉ liên tục, dừng
@@ -165,43 +190,43 @@ __label__nước sự_cố mục ống, biết nguyên_nhân
 __label__nước sự_cố mục ống, biết
 __label__nước mục ống biết đâu mà ra
 __label__nước lủng lổ ống biết
-__label__nước tìm thợ sửa ống_nước đường_ống gặp
-__label__nước tìm sửa ống_nước đường_ống hư
-__label__nước ống_nước hư sửa
-__label__nước hư ống_nước sửa
-__label__nước ống_nước hư sửa
-__label__nước ống_nước hư sửa
-__label__nước sửa ống_nước hư
-__label__nước ống_nước sửa hư
-__label__nước ống_nước sửa hư
-__label__nước ống_nước hư sửa
-__label__nước ống_nước sửa hư
-__label__nước ống_nước sửa hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước ống_nước sửa hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước sửa ống_nước hư
-__label__nước ống_nước hư sửa
-__label__nước sửa hư ống_nước
-__label__nước sửa ống_nước hư
+__label__nước tìm thợ ống_nước đường_ống gặp
+__label__nước tìm ống_nước đường_ống hư
+__label__nước ống_nước hư
+__label__nước hư ống_nước
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước ống_nước hư
+__label__nước hư ống_nước
+__label__nước ống_nước hư
 __label__nước tìm thợ ống_nước
-__label__nước tìm biết sửa ống_nước
-__label__nước tìm khả năng sửa ống
-__label__nước sửa ống_nước tìm
-__label__nước sửa ống_nước
-__label__nước ống_nước sửa
-__label__nước đường_ống hư tìm sửa thợ ống_nước
-__label__nước hư đường_ống sửa ống_nước
-__label__nước hư đường_ống sửa ống_nước tìm
+__label__nước tìm biết ống_nước
+__label__nước tìm khả năng ống
+__label__nước ống_nước tìm
+__label__nước ống_nước
+__label__nước ống_nước
+__label__nước đường_ống hư tìm thợ ống_nước
+__label__nước hư đường_ống ống_nước
+__label__nước hư đường_ống ống_nước tìm
 __label__nước hư đường_ống_nước tìm thợ
-__label__nước thợ tìm sửa ống_nước
+__label__nước thợ tìm ống_nước
 __label__nước chảy chậm rò_rỉ đường_ống
 __label__nước đường_ống_nước chậm chảy
 __label__nước đường_ống_nước chậm chảy rò_rỉ
@@ -230,192 +255,192 @@ __label__nước chậm chảy đường_ống_nước rò_rỉ
 __label__nước chậm chảy rò_rỉ đường_ống
 __label__nước chậm chảy rò_rỉ đường_ống_nước
 __label__nước chậm chảy rò_rỉ đường_ống_nước
-__label__nước tìm thợ sửa ống_nước đường_ống gặp
-__label__nước gặp tìm thợ sửa ống_nước đường_ống
-__label__nước gặp đường_ống tìm thợ sửa ống_nước
-__label__nước gặp đường_ống tìm thợ sửa ống_nước
-__label__nước gặp đường_ống tìm thợ sửa ống
-__label__nước gặp đường_ống ống tìm thợ sửa
-__label__nước gặp đường_ống ống sửa tìm thợ
-__label__nước gặp đường_ống ống sửa thợ tìm
-__label__nước gặp đường_ống ống sửa thợ tìm
-__label__nước tìm thợ sửa ống_nước giỏi đường_ống gặp
-__label__nước tìm thợ sửa ống_nước tay nghề đường_ống gặp
-__label__nước tìm thợ sửa ống_nước trình độ cao đường_ống gặp
-__label__nước tìm thợ sửa ống_nước trình độ đường_ống gặp
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước tìm chúng_tôi thợ sửa ống_nước
-__label__nước thợ chúng_tôi tìm sửa ống_nước
-__label__nước sửa chúng_tôi tìm thợ ống_nước
-__label__nước ống chúng_tôi tìm thợ sửa
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi thợ tìm sửa ống_nước
-__label__nước chúng_tôi sửa tìm thợ ống_nước
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi tìm thợ sửa ống_nước
-__label__nước chúng_tôi thợ tìm sửa ống_nước
-__label__nước chúng_tôi sửa tìm thợ ống_nước
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi tìm thợ sửa ống
-__label__nước chúng_tôi thợ tìm sửa ống
-__label__nước chúng_tôi sửa tìm thợ ống
-__label__nước chúng_tôi ống_nước tìm thợ sửa
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước ống chúng_tôi tìm thợ sửa
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước chúng_tôi ống tìm thợ sửa
-__label__nước chúng_tôi tìm ống thợ sửa
-__label__nước chúng_tôi thợ ống tìm sửa
-__label__nước chúng_tôi sửa ống tìm thợ
-__label__nước ống chúng_tôi sửa tìm thợ
-__label__nước ống_nước chúng_tôi sửa tìm thợ
-__label__nước ống_nước chúng_tôi sửa tìm thợ
-__label__nước ống_nước sửa chúng_tôi tìm thợ
-__label__nước ống_nước chúng_tôi sửa tìm thợ
-__label__nước ống_nước chúng_tôi sửa tìm thợ
-__label__nước ống_nước chúng_tôi sửa tìm thợ
-__label__nước ống_nước chúng_tôi tìm sửa thợ
-__label__nước ống_nước chúng_tôi thợ sửa tìm
-__label__nước sửa chúng_tôi thợ ống tìm
-__label__nước sửa ống chúng_tôi thợ tìm
-__label__nước sửa ống_nước chúng_tôi thợ tìm
-__label__nước sửa ống_nước chúng_tôi thợ tìm
-__label__nước sửa ống_nước thợ chúng_tôi tìm
-__label__nước sửa ống_nước chúng_tôi thợ tìm
-__label__nước sửa ống_nước chúng_tôi thợ tìm
-__label__nước sửa ống_nước chúng_tôi thợ tìm
-__label__nước sửa ống_nước chúng_tôi tìm thợ
-__label__nước thợ ống_nước chúng_tôi tìm sửa
-__label__nước thợ sửa chúng_tôi tìm ống
-__label__nước thợ sửa ống chúng_tôi tìm
-__label__nước thợ sửa ống_nước chúng_tôi tìm
-__label__nước thợ sửa ống_nước chúng_tôi tìm
-__label__nước thợ sửa ống_nước tìm chúng_tôi
-__label__nước thợ sửa ống_nước chúng_tôi tìm
-__label__nước thợ sửa ống_nước chúng_tôi tìm
-__label__nước thợ sửa ống_nước chúng_tôi tìm
-__label__nước tìm sửa ống_nước chúng_tôi thợ
-__label__nước tìm thợ ống_nước chúng_tôi sửa
-__label__nước tìm thợ sửa chúng_tôi ống
-__label__nước tìm thợ sửa ống chúng_tôi
-__label__nước tìm thợ sửa ống_nước chúng_tôi
-__label__nước tìm thợ sửa ống_nước chúng_tôi
-__label__nước tìm thợ sửa ống_nước
-__label__nước tìm thợ sửa ống_nước chúng_tôi
-__label__điện_tử máy vi tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử hư máy_vi_tính sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử máy_vi_tính sửa hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử máy_vi_tính hư sửa
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa hư máy_vi_tính
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính hư
-__label__điện_tử sửa máy_vi_tính
-__label__điện_tử hư sửa máy_vi_tính
-__label__điện_tử hư máy_vi_tính sửa
-__label__điện_tử hư sửa máy_vi_tính
-__label__điện_tử hư sửa máy_vi_tính
-__label__điện_tử hư sửa máy_vi_tính
-__label__điện_tử hư sửa máy_vi_tính
-__label__điện_tử hư sửa máy_vi_tính
+__label__nước tìm thợ ống_nước đường_ống gặp
+__label__nước gặp tìm thợ ống_nước đường_ống
+__label__nước gặp đường_ống tìm thợ ống_nước
+__label__nước gặp đường_ống tìm thợ ống_nước
+__label__nước gặp đường_ống tìm thợ ống
+__label__nước gặp đường_ống ống tìm thợ
+__label__nước gặp đường_ống ống tìm thợ
+__label__nước gặp đường_ống ống thợ tìm
+__label__nước gặp đường_ống ống thợ tìm
+__label__nước tìm thợ ống_nước giỏi đường_ống gặp
+__label__nước tìm thợ ống_nước tay nghề đường_ống gặp
+__label__nước tìm thợ ống_nước trình độ cao đường_ống gặp
+__label__nước tìm thợ ống_nước trình độ đường_ống gặp
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước tìm chúng_tôi thợ ống_nước
+__label__nước thợ chúng_tôi tìm ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước ống chúng_tôi tìm thợ
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi thợ tìm ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi ống tìm thợ
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi thợ tìm ống_nước
+__label__nước chúng_tôi tìm thợ ống_nước
+__label__nước chúng_tôi ống tìm thợ
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi thợ tìm ống
+__label__nước chúng_tôi tìm thợ ống
+__label__nước chúng_tôi ống_nước tìm thợ
+__label__nước chúng_tôi ống tìm thợ
+__label__nước chúng_tôi ống tìm thợ
+__label__nước ống chúng_tôi tìm thợ
+__label__nước chúng_tôi ống tìm thợ
+__label__nước chúng_tôi ống tìm thợ
+__label__nước chúng_tôi ống tìm thợ
+__label__nước chúng_tôi tìm ống thợ
+__label__nước chúng_tôi thợ ống tìm
+__label__nước chúng_tôi ống tìm thợ
+__label__nước ống chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước ống_nước chúng_tôi thợ tìm
+__label__nước chúng_tôi thợ ống tìm
+__label__nước ống chúng_tôi thợ tìm
+__label__nước ống_nước chúng_tôi thợ tìm
+__label__nước ống_nước chúng_tôi thợ tìm
+__label__nước ống_nước thợ chúng_tôi tìm
+__label__nước ống_nước chúng_tôi thợ tìm
+__label__nước ống_nước chúng_tôi thợ tìm
+__label__nước ống_nước chúng_tôi thợ tìm
+__label__nước ống_nước chúng_tôi tìm thợ
+__label__nước thợ ống_nước chúng_tôi tìm
+__label__nước thợ chúng_tôi tìm ống
+__label__nước thợ ống chúng_tôi tìm
+__label__nước thợ ống_nước chúng_tôi tìm
+__label__nước thợ ống_nước chúng_tôi tìm
+__label__nước thợ ống_nước tìm chúng_tôi
+__label__nước thợ ống_nước chúng_tôi tìm
+__label__nước thợ ống_nước chúng_tôi tìm
+__label__nước thợ ống_nước chúng_tôi tìm
+__label__nước tìm ống_nước chúng_tôi thợ
+__label__nước tìm thợ ống_nước chúng_tôi
+__label__nước tìm thợ chúng_tôi ống
+__label__nước tìm thợ ống chúng_tôi
+__label__nước tìm thợ ống_nước chúng_tôi
+__label__nước tìm thợ ống_nước chúng_tôi
+__label__nước tìm thợ ống_nước
+__label__nước tìm thợ ống_nước chúng_tôi
+__label__điện_tử vi tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính hư
+__label__điện_tử máy_vi_tính
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử hư máy_vi_tính
+__label__điện_tử hư máy_vi_tính
 __label__điện_tử máy_vi_tính sập nguồn
 __label__điện_tử máy_vi_tính sập nguồn
-__label__điện_tử Tivi (TV) hỏng, sửa ngày_mai, giá_cả thương_lượng
-__label__điện_tử sửa tivi (TV) gặp sự_cố.
-__label__điện_tử TV đang bỗng_dưng tắt, sau đó bật lên nữa
+__label__điện_tử Tivi (TV) hỏng, ngày_mai, giá_cả thương_lượng
+__label__điện_tử tivi (TV) gặp sự_cố.
+__label__điện_tử TV tắt, sau đó bật lên nữa
 __label__điện_tử cài win máy_tính
 __label__điện_tử Máy_tính hỏng, cài win
 __label__điện_tử Quạt quay sửa_chữa
 __label__điện_tử sửa_chữa sự_cố quạt quay
 __label__điện_tử Máy_tính gặp trục_trặc số vấn_đề, thợ qua sửa_chữa nếu thể
-__label__điện_tử Bản_lề laptop trật, kinh nghiệm sửa
-__label__điện_tử Laptop nhận sạc, sửa
+__label__điện_tử Bản_lề laptop trật, kinh nghiệm
+__label__điện_tử Laptop nhận sạc,
 __label__điện_tử Tivi tiếng hình
 __label__điện_tử Tivi bật 2-5s sau tắt
 __label__điện_tử Remote điều_khiển TV dù remote
@@ -426,23 +451,23 @@ __label__điện_tử Lò_vi_sóng hư phím điều_chỉnh thường,
 __label__điện_tử phím điều_chỉnh inverter lò_vi_sóng
 __label__điện_tử Cầu chì lò_vi_sóng hỏng,
 __label__điện_tử Lò_nướng sử dụng lâu, đem bảo_dưỡng
-__label__điện_tử Máy rửa bát hư lý do, sửa_chữa
+__label__điện_tử Máy rửa bát hư do, sửa_chữa
 __label__điện_tử Máy hút mùi hoạt_động, sửa_chữa
-__label__điện_tử Máy_tính hỏng, bật lên nguồn, thợ sửa
-__label__điện_tử Đồng_hồ treo tường vấn_đề, sửa sữa ngày_mai
-__label__điện_tử Đèn tủ_lạnh sáng, sửa
-__label__điện_tử Tủ_lạnh hoạt động dù cắm đầy
+__label__điện_tử Máy_tính hỏng, bật lên nguồn, thợ
+__label__điện_tử Đồng_hồ treo tường vấn_đề, sữa ngày_mai
+__label__điện_tử Đèn tủ_lạnh sáng,
+__label__điện_tử Tủ_lạnh hoạt dù cắm đầy
 __label__điện_tử Máy_lạnh bật lên, sang
 __label__điện_tử Bình nóng lạnh hoạt động, sang sửa_chữa ngày_mai
-__label__điện_tử Điện_thoại hỏng nút nguồn, sang tư vấn sửa_chữa
+__label__điện_tử Điện_thoại hỏng nút nguồn, sang tư sửa_chữa
 __label__điện_tử Điện_thoại hỏng nút âm_lượng, sang sửa_chữa
 __label__điện_tử Máy_tính sáng màn_hình hiện, sang sửa_chữa
-__label__điện_tử Máy_tính đang chơi tự_động tắt,
+__label__điện_tử Máy_tính chơi tự_động tắt,
 __label__điện_tử Tôi vệ_sinh laptop giá_cả thương_lượng
-__label__điện_tử Máy lọc không_khí bỗng_dưng hoạt_động, sang
-__label__điện_tử Nồi cơm bật nấu chin cơm, sang sửa
-__label__điện_tử Loa Bluetooth đang nghe tự_động tắt bật lên, sang sửa_chữa
-__label__điện_tử Chuông cửa hỏng, bấm nghe, sang sửa
+__label__điện_tử Máy lọc không_khí hoạt_động, sang
+__label__điện_tử Nồi cơm bật nấu chin cơm, sang
+__label__điện_tử Loa Bluetooth nghe tự_động tắt bật lên, sang sửa_chữa
+__label__điện_tử Chuông cửa hỏng, bấm nghe, sang
 __label__điện_tử Pin laptop chai, sang pin laptop
 __label__điện_tử sập máy_vi_tính nguồn
 __label__điện_tử nguồn máy_vi_tính sập
@@ -471,16 +496,16 @@ __label__điện_tử máy_vi_tính khởi_động
 __label__điện_tử máy_vi_tính khởi_động
 __label__điện_tử khởi_động máy_vi_tính
 __label__điện_tử khởi_động máy_vi_tính
-__label__điện_tử Tivi (TV) hỏng, sửa ngày_mai, giá_cả thương_lượng
-__label__điện_tử sửa tivi (TV) gặp sự_cố.
-__label__điện_tử TV đang bỗng_dưng tắt, sau đó bật lên nữa
+__label__điện_tử Tivi (TV) hỏng, ngày_mai, giá_cả thương_lượng
+__label__điện_tử tivi (TV) gặp sự_cố.
+__label__điện_tử TV tắt, sau đó bật lên nữa
 __label__điện_tử cài win máy_tính
 __label__điện_tử Máy_tính hỏng, cài win
 __label__điện_tử Quạt quay sửa_chữa
 __label__điện_tử sửa_chữa sự_cố quạt quay
 __label__điện_tử Máy_tính gặp trục_trặc số vấn_đề, thợ qua sửa_chữa nếu thể
-__label__điện_tử Bản_lề laptop trật, kinh nghiệm sửa
-__label__điện_tử Laptop nhận sạc, sửa
+__label__điện_tử Bản_lề laptop trật, kinh nghiệm
+__label__điện_tử Laptop nhận sạc,
 __label__điện_tử Tivi tiếng hình
 __label__điện_tử Tivi bật 2-5s sau tắt
 __label__điện_tử Remote điều_khiển TV dù remote
@@ -491,83 +516,83 @@ __label__điện_tử Lò_vi_sóng hư phím điều_chỉnh thường,
 __label__điện_tử phím điều_chỉnh inverter lò_vi_sóng
 __label__điện_tử Cầu chì lò_vi_sóng hỏng,
 __label__điện_tử Lò_nướng sử dụng lâu, đem bảo_dưỡng
-__label__điện_tử Máy rửa bát hư lý do, sửa_chữa
+__label__điện_tử Máy rửa bát hư do, sửa_chữa
 __label__điện_tử Máy hút mùi hoạt_động, sửa_chữa
-__label__điện_tử Máy_tính hỏng, bật lên nguồn, thợ sửa
-__label__điện_tử Đồng_hồ treo tường vấn_đề, sửa sữa ngày_mai
-__label__điện_tử Đèn tủ_lạnh sáng, sửa
-__label__điện_tử Tủ_lạnh hoạt động dù cắm đầy
+__label__điện_tử Máy_tính hỏng, bật lên nguồn, thợ
+__label__điện_tử Đồng_hồ treo tường vấn_đề, sữa ngày_mai
+__label__điện_tử Đèn tủ_lạnh sáng,
+__label__điện_tử Tủ_lạnh hoạt dù cắm đầy
 __label__điện_tử Máy_lạnh bật lên, sang
 __label__điện_tử Bình nóng lạnh hoạt động, sang sửa_chữa ngày_mai
-__label__điện_tử Điện_thoại hỏng nút nguồn, sang tư vấn sửa_chữa
+__label__điện_tử Điện_thoại hỏng nút nguồn, sang tư sửa_chữa
 __label__điện_tử Điện_thoại hỏng nút âm_lượng, sang sửa_chữa
 __label__điện_tử Máy_tính sáng màn_hình hiện, sang sửa_chữa
-__label__điện_tử Máy_tính đang chơi tự_động tắt,
+__label__điện_tử Máy_tính chơi tự_động tắt,
 __label__điện_tử Tôi vệ_sinh laptop giá_cả thương_lượng
-__label__điện_tử Máy lọc không_khí bỗng_dưng hoạt_động, sang
-__label__điện_tử Nồi cơm bật nấu chin cơm, sang sửa
-__label__điện_tử Loa Bluetooth đang nghe tự_động tắt bật lên, sang sửa_chữa
-__label__điện_tử Chuông cửa hỏng, bấm nghe, sang sửa
+__label__điện_tử Máy lọc không_khí hoạt_động, sang
+__label__điện_tử Nồi cơm bật nấu chin cơm, sang
+__label__điện_tử Loa Bluetooth nghe tự_động tắt bật lên, sang sửa_chữa
+__label__điện_tử Chuông cửa hỏng, bấm nghe, sang
 __label__điện_tử Pin laptop chai, sang pin laptop
-__label__điện_tử Điều_hòa hỏng, sang sửa
+__label__điện_tử Điều_hòa hỏng, sang
 __label__điện_tử Sạc laptop hỏng, sạc tư_vấn thay_thế sạc
-__label__điện_tử Tivi bỗng_dưng xuất_hiện những vân đen,
+__label__điện_tử Tivi xuất_hiện những vân đen,
 __label__điện_tử Quạt_điện hỏng nút,
-__label__điện_tử Máy_giặt bỗng_dưng trục_trặc lý_do, phải giặt tay, sang sửa_chữa
+__label__điện_tử Máy_giặt trục_trặc lý_do, phải giặt tay, sang sửa_chữa
 __label__điện_tử Quạt hơi dưng chế_độ Cool hoạt_động, sang
-__label__điện_tử Điều_hòa bỗng_dưng hoạt_động yếu nguyên_nhân, dù vừa vệ_sinh, sang khắc_phục tận gốc sự_cố
+__label__điện_tử Điều_hòa hoạt_động yếu nguyên_nhân, dù vừa vệ_sinh, sang khắc_phục tận gốc sự_cố
 __label__điện_tử Điều_hòa đột_nhiên rỉ nước, gây khó_chịu tôi, sang sửa_chữa
 __label__điện_tử Những vệt mờ xuất_hiện trên TV tôi,
-__label__điện_tử Laptop sau khi bật bấm bất cứ thứ gì trên màn_hình, thợ khắc_phục sự_cố
-__label__điện_tử Máy_tính đang xài màn hình xanh, nó lặp lần,
-__label__điện_tử Lò vi sóng bỗng_dưng hoạt_động bình_thường, hẹn nó tự_động tắt, sửa
-__label__điện_tử Màn_hình máy_tính đang chơi bỗng_dưng tắt đen, mọi về lỗi khắc_phục
-__label__điện_tử sửa lò vi sóng kinh_nghiệm lò vi sóng hỏng
+__label__điện_tử Laptop sau bật bấm bất cứ thứ gì trên màn_hình, thợ khắc_phục sự_cố
+__label__điện_tử Máy_tính xài màn hình xanh, nó lặp lần,
+__label__điện_tử Lò vi sóng hoạt_động bình_thường, hẹn nó tự_động tắt,
+__label__điện_tử Màn_hình máy_tính chơi tắt đen, mọi về lỗi khắc_phục
+__label__điện_tử lò vi sóng kinh_nghiệm lò vi sóng hỏng
 __label__điện_tử Máy quạt bật sau cánh quay, dầu bị, thợ xem_xét sửa_chữa
 __label__điện_tử Laptop sử dụng lâu, vệ sinh để đảm bảo an
 __label__điện_tử Máy lọc khí hoạt_động lý_do, sửa_chữa
-__label__điện_tử Màn_hình máy_tính bỗng_dưng xuất_hiện vệt mờ dọc màn_hình, thợ tư_vấn
+__label__điện_tử Màn_hình máy_tính xuất_hiện vệt mờ dọc màn_hình, thợ tư_vấn
 __label__điện_tử Laptop để gần cửa_sổ nắng chiếu gây nóng máy, bật lên, thợ sửa_chữa
-__label__điện_tử Đèn tủ_lạnh bỗng_dưng sáng, sửa_chữa
-__label__điện_tử Bếp bỗng_dưng nóng,
+__label__điện_tử Đèn tủ_lạnh sáng, sửa_chữa
+__label__điện_tử Bếp nóng,
 __label__điện_tử Pin laptop sử dụng chai, tư_vấn pin mang thay, giá cả thương_lượng
 __label__điện_tử Remote quạt điều_khiển dù pin, sửa_chữa
-__label__điện_tử Tv bỗng_dưng mất đài, dò ra, sửa_chữa
-__label__điện_tử Tv mất âm_thanh lý_do, sửa
+__label__điện_tử Tv mất đài, dò ra, sửa_chữa
+__label__điện_tử Tv mất âm_thanh lý_do,
 __label__điện_tử Đồng_hồ điện_tử mất đèn, đèn đồng_hồ
 __label__điện_tử Tôi mua bộ_phận máy_tính, chuyên_môn lắp giúp, giả_cả thương_lượng
 __label__điện_tử Loa kéo hoạt_động bình_thường, âm_thanh không, sửa_chữa
-__label__điện_tử sửa tay cầm PlayStation
-__label__điện_tử sửa console Xbox
+__label__điện_tử tay cầm PlayStation
+__label__điện_tử console Xbox
 __label__điện_tử Máy in hỏng, in mực đều, sửa_chữa
 __label__điện_tử Tôi lắp hệ_thống báo cháy gia_đình
-__label__điện_tử Máy_chiếu hỏng kết_nối bât cứ thiết_bị nào, sửa
+__label__điện_tử Máy_chiếu hỏng kết_nối bât cứ thiết_bị nào,
 __label__điện_tử Máy FAX vấn_đề, hỏng, sang sửa_chữa
-__label__điện_tử Ngăn đông tủ_lạnh bỗng_dưng hoạt_động dù ngăn lạnh hoạt_động bình_thường,
+__label__điện_tử Ngăn đông tủ_lạnh hoạt_động dù ngăn lạnh hoạt_động bình_thường,
 __label__điện_tử Bàn_phím laptop hỏng, kinh_nghiệm tư_vấn thay_thế
-__label__điện_tử Bình nóng lạnh bỗng_dưng lạnh, chỉ nóng, lý_do,
+__label__điện_tử Bình nóng lạnh lạnh, chỉ nóng, lý_do,
 __label__điện_tử Bình nóng lạnh hỏng
 __label__điện_tử sửa_chữa tay cầm chơi game
-__label__điện_tử Tv mất kênh, mọi sửa
+__label__điện_tử Tv mất kênh, mọi
 __label__điện_tử Tv hỏng, thử mọi biện_pháp khắc_phục
 __label__điện_tử Hỏng tay cầm chơi game
 __label__điện_tử Tay cầm chơi game hoạt_động
 __label__điện_tử Hệ_thống báo cháy hỏng
-__label__điện_tử Hệ_thống báo cháy hoạt động
+__label__điện_tử Hệ_thống báo cháy hoạt
 __label__điện_tử Camera gia_đình tắt khoảng thời_gian,
 __label__điện_tử Hỏng camera,
 __label__điện_tử Bếp từ hoạt_động vấn_đề,
-__label__điện_tử Hỏng máy FAX, sửa
-__label__điện_tử thợ sửa máy FAX hỏng
+__label__điện_tử Hỏng FAX,
+__label__điện_tử thợ FAX hỏng
 __label__điện_tử Tủ_lạnh vấn_đề, sửa_chữa
-__label__điện_tử thợ sửa tủ_lạnh hỏng
+__label__điện_tử thợ tủ_lạnh hỏng
 __label__điện_tử Máy_tính nóng đột_xuất,
 __label__điện_tử lắp máy_tính
 __label__điện_tử Máy_tính hỏng win, cài
 __label__điện_tử Đèn tủ_lạnh vấn_đề, thay_thế
 __label__điện_tử Bóng đèn tủ_lạnh hoạt_động bình_thường, thay_thế
 __label__điện_tử Quạt vấn_đề, sửa_chữa
-__label__điện_tử Quạt chạy, sửa
+__label__điện_tử Quạt chạy,
 __label__điện_tử Nồi cơm hoạt_động bình_thường, tra
 __label__điện_tử Máy_sấy hỏng chế_độ, khắc_phục
 __label__điện_tử Máy_sấy gặp trục trặc, sửa_chữa
@@ -621,70 +646,70 @@ __label__điện_tử bật nút lên nồi hư cơm_điện
 __label__điện_tử bật nút lên nồi hư cơm_điện
 __label__điện_tử bật nút lên nồi cơm_điện hư
 __label__điện_tử bật nút lên nồi hư cơm_điện
-__label__điện_tử khi quạt chạy phát ra tiếng to
-__label__điện_tử quạt khi chạy phát ra tiếng to
-__label__điện_tử chạy khi quạt phát ra tiếng to
-__label__điện_tử phát khi quạt chạy ra tiếng to
-__label__điện_tử ra khi quạt chạy phát tiếng to
-__label__điện_tử tiếng khi quạt chạy phát ra to
-__label__điện_tử khi quạt chạy phát ra tiếng to
-__label__điện_tử to khi quạt chạy phát ra tiếng
-__label__điện_tử khi to quạt chạy phát ra tiếng
-__label__điện_tử khi to quạt chạy phát ra tiếng
-__label__điện_tử khi quạt to chạy phát ra tiếng
-__label__điện_tử khi chạy to quạt phát ra tiếng
-__label__điện_tử khi phát to quạt chạy ra tiếng
-__label__điện_tử khi ra to quạt chạy phát tiếng
-__label__điện_tử khi tiếng to quạt chạy phát ra
-__label__điện_tử khi to quạt chạy phát ra tiếng
-__label__điện_tử to khi quạt chạy phát ra tiếng
-__label__điện_tử to khi quạt chạy phát ra tiếng
-__label__điện_tử to khi quạt chạy phát ra tiếng
-__label__điện_tử to khi quạt chạy phát ra tiếng
-__label__điện_tử to khi chạy quạt phát ra tiếng
-__label__điện_tử to khi phát quạt chạy ra tiếng
-__label__điện_tử to khi ra quạt chạy phát tiếng
-__label__điện_tử to khi tiếng quạt chạy phát ra
-__label__điện_tử khi tiếng to quạt chạy phát ra
-__label__điện_tử to_tiếng khi quạt chạy phát ra
-__label__điện_tử to khi tiếng quạt chạy phát ra
-__label__điện_tử to khi tiếng quạt chạy phát ra
-__label__điện_tử to khi quạt tiếng chạy phát ra
-__label__điện_tử to khi chạy tiếng quạt phát ra
-__label__điện_tử to khi phát tiếng quạt chạy ra
-__label__điện_tử to khi ra tiếng quạt chạy phát
-__label__điện_tử tiếng to khi ra quạt chạy phát
-__label__điện_tử tiếng khi ra to quạt chạy phát
-__label__điện_tử tiếng to ra khi quạt chạy phát
-__label__điện_tử tiếng to khi ra quạt chạy phát
-__label__điện_tử tiếng to khi ra quạt chạy phát
-__label__điện_tử tiếng to khi quạt ra chạy phát
-__label__điện_tử tiếng to khi chạy ra quạt phát
-__label__điện_tử tiếng to khi phát ra quạt chạy
-__label__điện_tử ra to khi phát tiếng quạt chạy
-__label__điện_tử ra tiếng to khi phát quạt chạy
-__label__điện_tử ra tiếng khi phát to quạt chạy
-__label__điện_tử ra tiếng to phát khi quạt chạy
-__label__điện_tử ra tiếng to khi phát quạt chạy
-__label__điện_tử ra tiếng to khi phát quạt chạy
-__label__điện_tử ra tiếng to khi quạt phát chạy
-__label__điện_tử ra tiếng to khi chạy phát quạt
-__label__điện_tử phát tiếng to khi chạy ra quạt
-__label__điện_tử phát ra to khi chạy tiếng quạt
-__label__điện_tử phát ra tiếng to khi chạy quạt
-__label__điện_tử phát ra tiếng khi chạy to quạt
-__label__điện_tử phát ra tiếng to chạy khi quạt
-__label__điện_tử phát ra tiếng to khi chạy quạt
-__label__điện_tử phát ra tiếng to khi chạy quạt
-__label__điện_tử phát ra tiếng to khi quạt chạy
-__label__điện_tử chạy ra tiếng to khi quạt phát
-__label__điện_tử chạy phát tiếng to khi quạt ra
-__label__điện_tử chạy phát ra to khi quạt tiếng
-__label__điện_tử chạy phát ra tiếng to khi quạt
-__label__điện_tử chạy phát ra tiếng khi quạt to
-__label__điện_tử chạy phát ra tiếng to quạt khi
-__label__điện_tử chạy phát ra tiếng to khi quạt
-__label__điện_tử chạy phát ra tiếng to khi quạt
+__label__điện_tử quạt chạy phát ra tiếng to
+__label__điện_tử quạt chạy phát ra tiếng to
+__label__điện_tử chạy quạt phát ra tiếng to
+__label__điện_tử phát quạt chạy ra tiếng to
+__label__điện_tử ra quạt chạy phát tiếng to
+__label__điện_tử tiếng quạt chạy phát ra to
+__label__điện_tử quạt chạy phát ra tiếng to
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử quạt to chạy phát ra tiếng
+__label__điện_tử chạy to quạt phát ra tiếng
+__label__điện_tử phát to quạt chạy ra tiếng
+__label__điện_tử ra to quạt chạy phát tiếng
+__label__điện_tử tiếng to quạt chạy phát ra
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to quạt chạy phát ra tiếng
+__label__điện_tử to chạy quạt phát ra tiếng
+__label__điện_tử to phát quạt chạy ra tiếng
+__label__điện_tử to ra quạt chạy phát tiếng
+__label__điện_tử to tiếng quạt chạy phát ra
+__label__điện_tử tiếng to quạt chạy phát ra
+__label__điện_tử to_tiếng quạt chạy phát ra
+__label__điện_tử to tiếng quạt chạy phát ra
+__label__điện_tử to tiếng quạt chạy phát ra
+__label__điện_tử to quạt tiếng chạy phát ra
+__label__điện_tử to chạy tiếng quạt phát ra
+__label__điện_tử to phát tiếng quạt chạy ra
+__label__điện_tử to ra tiếng quạt chạy phát
+__label__điện_tử tiếng to ra quạt chạy phát
+__label__điện_tử tiếng ra to quạt chạy phát
+__label__điện_tử tiếng to ra quạt chạy phát
+__label__điện_tử tiếng to ra quạt chạy phát
+__label__điện_tử tiếng to ra quạt chạy phát
+__label__điện_tử tiếng to quạt ra chạy phát
+__label__điện_tử tiếng to chạy ra quạt phát
+__label__điện_tử tiếng to phát ra quạt chạy
+__label__điện_tử ra to phát tiếng quạt chạy
+__label__điện_tử ra tiếng to phát quạt chạy
+__label__điện_tử ra tiếng phát to quạt chạy
+__label__điện_tử ra tiếng to phát quạt chạy
+__label__điện_tử ra tiếng to phát quạt chạy
+__label__điện_tử ra tiếng to phát quạt chạy
+__label__điện_tử ra tiếng to quạt phát chạy
+__label__điện_tử ra tiếng to chạy phát quạt
+__label__điện_tử phát tiếng to chạy ra quạt
+__label__điện_tử phát ra to chạy tiếng quạt
+__label__điện_tử phát ra tiếng to chạy quạt
+__label__điện_tử phát ra tiếng chạy to quạt
+__label__điện_tử phát ra tiếng to chạy quạt
+__label__điện_tử phát ra tiếng to chạy quạt
+__label__điện_tử phát ra tiếng to chạy quạt
+__label__điện_tử phát ra tiếng to quạt chạy
+__label__điện_tử chạy ra tiếng to quạt phát
+__label__điện_tử chạy phát tiếng to quạt ra
+__label__điện_tử chạy phát ra to quạt tiếng
+__label__điện_tử chạy phát ra tiếng to quạt
+__label__điện_tử chạy phát ra tiếng quạt to
+__label__điện_tử chạy phát ra tiếng to quạt
+__label__điện_tử chạy phát ra tiếng to quạt
+__label__điện_tử chạy phát ra tiếng to quạt
 __label__điện_tử tivi tự_động tắt
 __label__điện_tử tự_động tivi tắt
 __label__điện_tử tắt tivi tự_động
@@ -710,7 +735,7 @@ __label__điện_tử sáng tủ_lạnh đèn
 __label__điện_tử sáng đèn tủ_lạnh
 __label__điện_tử sáng đèn tủ_lạnh
 __label__điện_tử sáng đèn tủ_lạnh
-__label__điện_tử máy xay sinh tố hoạt_động
+__label__điện_tử xay sinh tố hoạt_động
 __label__điện_tử máy_xay sinh_tố hoạt_động
 __label__điện_tử sinh_tố máy_xay hoạt_động
 __label__điện_tử máy_xay sinh_tố hoạt_động
@@ -751,7 +776,7 @@ __label__điện_tử Máy_giặt đóng cửa
 __label__điện_tử Máy_giặt bỏ xà_phòng
 __label__điện_tử Quần áo giặt bằng máy_giặt khô
 __label__điện_tử Máy_giặt lỗi về giặt xả
-__label__điện_tử Máy_giặt hoạt_động như mọi khi
+__label__điện_tử Máy_giặt hoạt_động như mọi
 __label__điện_tử Máy_giặt bình
 __label__điện_tử Xà_phòng máy_giặt
 __label__điện_tử Lỗ đóng mở xà_phòng lỗi
@@ -772,9 +797,9 @@ __label__điện_tử Chế_độ hẹn điều_hòa chán nản, gì cả
 __label__điện_tử Ngăn mát tủ_lạnh mát
 __label__điện_tử Ngăn đông tủ_lạnh đá
 __label__điện_tử Máy hút bụi hút bụi
-__label__điện_tử Máy hút bụi kêu tiếng_ồn hơn mọi khi
-__label__điện_tử Máy hút bụi hỏng_hóc lý
-__label__điện_tử Dây máy quạt hư
+__label__điện_tử Máy hút bụi kêu tiếng_ồn hơn mọi
+__label__điện_tử Máy hút bụi hỏng_hóc
+__label__điện_tử Dây quạt hư
 __label__điện_tử Quạt đứng thẳng
 __label__điện_tử Tiếng kêu quạt ồn ngủ
 __label__điện_tử Quạt trần gần như rớt xuống sợ
@@ -782,7 +807,7 @@ __label__điện_tử Cánh quạt quay mặc_dù motor hoạt_động
 __label__điện_tử Tủ_lạnh 2 ngăn ngăn đông hoạt_động
 __label__điện_tử Tủ_lạnh lạnh mặc_dù cắm đầy
 __label__điện_tử ấm đun siêu_tốc nóng
-__label__điện_tử ấm đun siêu_tốc sáng đèn phải đợi khi nóng rồi tự tắt
+__label__điện_tử ấm đun siêu_tốc sáng đèn phải đợi nóng rồi tự tắt
 __label__điện_tử ấm đun siêu_tốc đứt dây tốc
 __label__điện_tử ấm đun siêu_tốc đứt dây nóng
 __label__điện_tử bình lọc hoạt_động
@@ -806,26 +831,26 @@ __label__điện_tử hư bật nút nồi cơm_điện lên
 __label__điện_tử hư bật nút lên cơm_điện nồi
 __label__điện_tử hư bật nút lên nồi cơm_điện
 __label__điện_tử hư bật nút lên nồi cơm_điện
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện hư sửa
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
 __label__điện công tơ cháy
 __label__điện tơ công_điện cháy
 __label__điện công tơ cháy
@@ -876,185 +901,185 @@ __label__điện ổ_cắm hỏng
 __label__điện hỏng ổ_cắm
 __label__điện hỏng ổ_cắm
 __label__điện hỏng ổ_cắm
-__label__điện tìm sửa tủ pha
-__label__điện tìm sửa tủ pha
-__label__điện tìm sửa tủ pha
-__label__điện sửa tìm tủ pha
-__label__điện tủ tìm sửa pha
-__label__điện tìm sửa tủ pha
-__label__điện tìm sửa tủ pha
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện tìm pha sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện sửa pha tìm tủ
-__label__điện tủ pha tìm sửa
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha sửa tìm tủ
-__label__điện pha tủ tìm sửa
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha tìm sửa tủ
-__label__điện pha sửa tìm tủ
-__label__điện pha tủ tìm sửa
-__label__điện pha tủ tìm sửa
-__label__điện tủ pha tìm sửa
-__label__điện pha tủ tìm sửa
-__label__điện pha tủ tìm sửa
-__label__điện pha tủ tìm sửa
-__label__điện pha tìm tủ sửa
-__label__điện pha tủ tìm sửa
-__label__điện pha sửa tủ tìm
-__label__điện tủ pha sửa tìm
-__label__điện tủ pha sửa tìm
-__label__điện tủ sửa pha tìm
-__label__điện tủ pha sửa tìm
-__label__điện tủ pha sửa tìm
-__label__điện tủ pha sửa tìm
-__label__điện tủ pha tìm sửa
-__label__điện tủ pha sửa tìm
-__label__điện sửa pha tủ tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện tủ pha tìm sửa
-__label__điện sửa pha tìm tủ
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ tìm pha
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa tủ pha tìm
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện mạch hỏng sửa
-__label__điện mạch hỏng sửa
-__label__điện hỏng mạch sửa
-__label__điện mạch hỏng sửa
-__label__điện mạch hỏng sửa
-__label__điện sửa mạch hỏng
-__label__điện mạch sửa hỏng
-__label__điện mạch sửa hỏng
-__label__điện mạch sửa hỏng
-__label__điện mạch hỏng sửa
-__label__điện mạch sửa hỏng
-__label__điện mạch sửa hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện mạch sửa hỏng
-__label__điện sửa mạch hỏng
+__label__điện tìm tủ pha
+__label__điện tìm tủ pha
+__label__điện tìm tủ pha
+__label__điện tìm tủ pha
+__label__điện tủ tìm pha
+__label__điện tìm tủ pha
+__label__điện tìm tủ pha
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện tìm pha tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện tủ pha tìm
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tủ tìm
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tìm tủ
+__label__điện pha tủ tìm
+__label__điện pha tủ tìm
+__label__điện tủ pha tìm
+__label__điện pha tủ tìm
+__label__điện pha tủ tìm
+__label__điện pha tủ tìm
+__label__điện pha tìm tủ
+__label__điện pha tủ tìm
+__label__điện pha tủ tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện pha tủ tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện pha tìm tủ
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ tìm pha
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện tủ pha tìm
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện hỏng mạch
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
 __label__điện sửa_mạch hỏng
 __label__điện sửa_mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện mạch hỏng sửa
-__label__điện sửa hỏng mạch
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện sửa mạch hỏng
-__label__điện hỏng sửa mạch
-__label__điện hỏng sửa mạch
-__label__điện hỏng mạch sửa
-__label__điện hỏng sửa mạch
-__label__điện hỏng sửa mạch
-__label__điện hỏng sửa mạch
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện hư sửa
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện sửa hư
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hư sửa
-__label__điện hỏng, sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện sửa hỏng
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện hỏng mạch
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện mạch hỏng
+__label__điện hỏng mạch
+__label__điện hỏng mạch
+__label__điện hỏng mạch
+__label__điện hỏng mạch
+__label__điện hỏng mạch
+__label__điện hỏng mạch
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hư
+__label__điện hỏng,
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
 __label__điện đèn chập_chờn, thiết_bị tự ngắt, khắc_phục
 __label__điện cầu chì cháy, ngắt_điện chuyên_môn khắc_phục
 __label__điện hỗ_trợ thế cầu chì, thiết_bị
-__label__điện dây_điện chuột cắn đứt, sửa
-__label__điện sửa sét đánh cháy ổ_điện
-__label__điện dây_điện máy đun siêu tốc sau khi cắm khoảng 5-10p nóng, bên dây_điện mùi khét, sửa ngày_mai.
+__label__điện dây_điện chuột cắn đứt,
+__label__điện sét đánh cháy ổ_điện
+__label__điện dây_điện đun siêu tốc sau cắm khoảng 5-một0p nóng, bên dây_điện mùi khét, ngày_mai.
 __label__điện Điện dung tắt biết lý_do, tìm_hiểu khắc_phục
 __label__điện khắc_phục thiết_bị mất nguồn
 __label__điện Công_tắc sử_dụng lâu, thế
@@ -1067,52 +1092,52 @@ __label__điện Tôi lắp bộ báo_cháy gia_đình
 __label__điện Tôi lắp bộ báo_cháy
 __label__điện sửa_chữa mạch âm tường
 __label__điện Chập nổi hỏng, sửa_chữa
-__label__điện Điện rò_rỉ mấy hôm, sửa hôm_nay
+__label__điện Điện rò_rỉ mấy hôm, hôm_nay
 __label__điện Đồng_hồ hư, lắp_đặt bộ thiết_bị
 __label__điện Tôi lắp ổ_cắm âm
 __label__điện Tôi lắp ổ_cắm nổi
 __label__điện Nhà lắp hệ_thống đèn chiếu sáng, giá_cả thương lượng
 __label__điện Điện chập liên_hồi, tra
 __label__điện Nhà sét đánh, cháy khét, ngắt cầu_dao,
-__label__điện Aptomat tự động nhảy lần, thợ chuyên_môn sửa mai
+__label__điện Aptomat tự nhảy lần, thợ chuyên_môn mai
 __label__điện Nhà ngập_lụt, hỏng hệ_thống điện, tra ngày_mai
 __label__điện Tôi lắp hệ_thống đèn led gia_đình
 __label__điện Tôi thợ_điện lắp hệ_thống đèn âm tường, trang trí
 __label__điện Bóng_đèn hỏng, lập tức
 __label__điện Tôi chuyên_môn cao lắp_đặt 3 pha gia_đình
 __label__điện Bóng_đèn hoạt_động ổn_định, bật tắt lý_do, thay_thế
-__label__điện Điện bỗng_dưng chập_chờn, hiện_tượng này xảy_ra lần,
-__label__điện Mỗi khi muốn bật công_tắc đèn phòng thờ đèn cả gia_đình tắt, khắc_phục đèn
+__label__điện Điện chập_chờn, hiện_tượng này xảy_ra lần,
+__label__điện Mỗi muốn bật công_tắc đèn phòng thờ đèn cả gia_đình tắt, khắc_phục đèn
 __label__điện Điện thường_xuyên delay nguyên_nhân, bất_an, thợ sửa_chữa
 __label__điện Điện tự_động tắt khung cố_định,
-__label__điện Ổ đang dấu_hiệu quá_tải, xài không,
-__label__điện Nhà sáng sớm thường_xuyên mất điện, sau 1-2 tiếng lại, sửa_chữa
-__label__điện Điện xài tắt, nghĩ nó đang dấu_hiệu quá_tải, khắc_phục
+__label__điện Ổ dấu_hiệu quá_tải, xài không,
+__label__điện Nhà sáng sớm thường_xuyên mất điện, sau một-2 tiếng lại, sửa_chữa
+__label__điện Điện xài tắt, nghĩ nó dấu_hiệu quá_tải, khắc_phục
 __label__điện Tôi thay_thế bóng_đèn 3 pha hỏng
-__label__điện Bóng_đèn sau khi bật tầm 10 phút hoạt_động, thay_thế
-__label__điện sửa rò_rỉ mấy hôm_nay
-__label__điện sửa hôm_nay rò_rỉ
+__label__điện Bóng_đèn sau bật tầm một0 phút hoạt_động, thay_thế
+__label__điện rò_rỉ mấy hôm_nay
+__label__điện hôm_nay rò_rỉ
 __label__điện công tắc sử_dụng cũng lâu, dấu hiệu hỏng_hóc, thay_thế
 __label__điện sao mất khung cố_định
 __label__điện vì sao mà mỗi lần bật đèn phòng thờ, đèn phòng khác đều tắt, khắc_phục sự cố, giá_cả thành
 __label__điện đợt lũ_lụt vừa rồi, ngập thiết_bị hư_hỏng sử_dụng nữa, thay_thế bộ
 __label__điện sét đánh trúng dây điện, xem_xét sửa_chữa
-__label__điện cầu_chì bỗng_dưng cháy khét khi đang sử_dụng, hiện đang hoang mang
-__label__điện đang xài bỗng_dưng aptomat nhảy ngắt điện, bật sáng,
-__label__điện sửa
+__label__điện cầu_chì cháy khét sử_dụng, hiện hoang mang
+__label__điện xài aptomat nhảy ngắt điện, bật sáng,
+__label__điện
 __label__điện mất sáng sớm, lý_do, tìm_hiểu khắc_phục
 __label__điện vừa xây, thợ thi_công lắp mạch âm tường gia đình
 __label__điện lắp đồng_hồ căn hộ
 __label__điện lắp công_tơ gia đình
 __label__điện lắp ổ cắm âm tường ngày_mai, giá cả thương_lượng
-__label__điện một hệ thống đèn âm trần, ai khả năng thi công liên hệ
-__label__điện đang nhu_cầu lắp hệ_thống đèn led âm trần gia_đình, ai chuyên môn liên_hệ, giá cả thương_lượng
+__label__điện hệ thống đèn âm trần, ai khả năng thi công liên hệ
+__label__điện nhu_cầu lắp hệ_thống đèn led âm trần gia_đình, ai chuyên môn liên_hệ, giá cả thương_lượng
 __label__điện công_tắc sử_dụng
 __label__điện lắp_đặt hệ_thống đèn âm trần
 __label__điện thay_thế bóng đèn
 __label__điện bóng_đèn cháy,
 __label__điện lắp hệ_thống đèn led gia đình
-__label__điện hệ_thống vấn_đề, thợ sửa
+__label__điện hệ_thống vấn_đề, thợ
 __label__điện công_tắc hỏng,
 __label__điện lắp_đặt ổ nổi
 __label__điện xây thiết_kế mạng lưới
@@ -1130,47 +1155,47 @@ __label__điện khắc_phục sự_cố đèn chập_chờn
 __label__điện cầu chì cháy, trợ thay_thế
 __label__điện cầu_chì tải hỏng,
 __label__điện thay_thế chuột bóng đèn hỏng
-__label__điện bóng đèn 3 pha vấn đề, thay_thế
+__label__điện bóng đèn 3 pha đề, thay_thế
 __label__điện bóng đèn 3 pha hoạt_động bình thường,
 __label__điện tìm nguyên_nhân hệ_thống quả tải khung nhất_định
 __label__điện hệ_thống hư_hỏng thiên_tai, thay_thế
 __label__điện lắp_đặt đồng_hồ cái hỏng
 __label__điện đồng_hồ sử_dụng hỏng, trợ thay_thế
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện hỏng sửa
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa người_nhà hỏng
-__label__điện sửa người_nhà hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện người_nhà hỏng
+__label__điện người_nhà hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
 __label__điện đèn chập_chờn, thiết_bị tự ngắt, khắc_phục
 __label__điện cầu chì cháy, ngắt_điện chuyên_môn khắc_phục
 __label__điện hỗ_trợ thế cầu chì, thiết_bị
-__label__điện dây_điện chuột cắn đứt, sửa
-__label__điện sửa sét đánh cháy ổ_điện
-__label__điện dây_điện máy đun siêu tốc sau khi cắm khoảng 5-10p nóng, bên dây_điện mùi khét, sửa ngày_mai.
+__label__điện dây_điện chuột cắn đứt,
+__label__điện sét đánh cháy ổ_điện
+__label__điện dây_điện đun siêu tốc sau cắm khoảng 5-một0p nóng, bên dây_điện mùi khét, ngày_mai.
 __label__điện Điện dung tắt biết lý_do, tìm_hiểu khắc_phục
 __label__điện khắc_phục thiết_bị mất nguồn
 __label__điện Công_tắc sử_dụng lâu, thế
@@ -1183,238 +1208,238 @@ __label__điện Tôi lắp bộ báo_cháy gia_đình
 __label__điện Tôi lắp bộ báo_cháy
 __label__điện sửa_chữa mạch âm tường
 __label__điện Chập nổi hỏng, sửa_chữa
-__label__điện Điện rò_rỉ mấy hôm, sửa hôm_nay
+__label__điện Điện rò_rỉ mấy hôm, hôm_nay
 __label__điện Đồng_hồ hư, lắp đặt bộ thiết_bị
 __label__điện Tôi lắp ổ_cắm âm
 __label__điện Tôi lắp ổ_cắm nổi
 __label__điện Nhà lắp hệ_thống đèn chiếu sáng, giá_cả thương lượng
 __label__điện Điện chập liên_hồi, tra
 __label__điện Nhà sét đánh, cháy khét, ngắt cầu_dao,
-__label__điện Aptomat tự động nhảy lần, thợ chuyên_môn sửa mai
+__label__điện Aptomat tự nhảy lần, thợ chuyên_môn mai
 __label__điện Nhà ngập_lụt, hỏng hệ_thống điện, tra ngày_mai
 __label__điện Tôi lắp hệ_thống đèn led gia_đình
 __label__điện Tôi thợ_điện lắp hệ_thống đèn âm tường, trang trí
 __label__điện Bóng_đèn hỏng, lập tức
 __label__điện Tôi chuyên_môn cao lắp đặt 3 pha gia_đình
 __label__điện Bóng_đèn hoạt_động ổn_định, bật tắt lý_do, thay_thế
-__label__điện Điện bỗng_dưng chập_chờn, hiện_tượng này xảy_ra lần,
-__label__điện Mỗi khi muốn bật công_tắc đèn phòng thờ đèn cả gia_đình tắt, khắc_phục đèn
+__label__điện Điện chập_chờn, hiện_tượng này xảy_ra lần,
+__label__điện Mỗi muốn bật công_tắc đèn phòng thờ đèn cả gia_đình tắt, khắc_phục đèn
 __label__điện Điện thường_xuyên delay nguyên_nhân, bất_an, thợ sửa_chữa
 __label__điện Điện tự_động tắt khung cố_định,
-__label__điện Ổ đang dấu_hiệu quá_tải, xài không,
-__label__điện Nhà sáng sớm thường_xuyên mất điện, sau 1-2 tiếng lại, sửa_chữa
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện hỏng sửa
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện sửa hỏng
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa người_nhà
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện sửa hỏng
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện sửa hỏng
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện hỏng sửa
-__label__điện tìm thợ sửa hư
-__label__điện thợ tìm sửa hư
-__label__điện sửa tìm thợ_điện hư
-__label__điện tìm thợ sửa hư
-__label__điện hư tìm thợ sửa
-__label__điện hư tìm thợ sửa
-__label__điện hư tìm thợ sửa
-__label__điện tìm hư thợ sửa
-__label__điện thợ hư tìm sửa
-__label__điện sửa hư tìm thợ
-__label__điện hư tìm thợ sửa
-__label__điện hư tìm thợ sửa
-__label__điện hư tìm thợ sửa
-__label__điện hư tìm thợ sửa
-__label__điện hư tìm thợ sửa
-__label__điện hư thợ_điện tìm sửa
-__label__điện hư sửa tìm thợ
-__label__điện sửa hư tìm thợ
-__label__điện hư sửa tìm thợ
-__label__điện hư sửa tìm thợ
-__label__điện hư sửa tìm thợ
-__label__điện hư tìm sửa thợ
-__label__điện hư thợ sửa tìm
-__label__điện sửa hư thợ_điện tìm
-__label__điện sửa thợ hư tìm
-__label__điện sửa hư thợ tìm
-__label__điện sửa hư thợ tìm
-__label__điện sửa hư thợ tìm
-__label__điện sửa hư tìm thợ
-__label__điện thợ hư tìm sửa
-__label__điện thợ sửa hư tìm
-__label__điện thợ sửa tìm hư
-__label__điện thợ sửa hư tìm
-__label__điện thợ sửa hư tìm
-__label__điện thợ sửa
-__label__điện sửa thợ
-__label__điện thợ sửa
-__label__điện thợ sửa
-__label__điện thợ sửa
-__label__điện thợ sửa
-__label__điện sửa thợ
-__label__điện thợ sửa
+__label__điện Ổ dấu_hiệu quá_tải, xài không,
+__label__điện Nhà sáng sớm thường_xuyên mất điện, sau một-2 tiếng lại, sửa_chữa
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng người_nhà
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện hỏng
+__label__điện tìm thợ hư
+__label__điện thợ tìm hư
+__label__điện tìm thợ_điện hư
+__label__điện tìm thợ hư
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện tìm hư thợ
+__label__điện thợ hư tìm
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư thợ_điện tìm
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư tìm thợ
+__label__điện hư thợ tìm
+__label__điện hư thợ_điện tìm
+__label__điện thợ hư tìm
+__label__điện hư thợ tìm
+__label__điện hư thợ tìm
+__label__điện hư thợ tìm
+__label__điện hư tìm thợ
+__label__điện thợ hư tìm
+__label__điện thợ hư tìm
+__label__điện thợ tìm hư
+__label__điện thợ hư tìm
+__label__điện thợ hư tìm
+__label__điện thợ
+__label__điện thợ
+__label__điện thợ
+__label__điện thợ
+__label__điện thợ
+__label__điện thợ
+__label__điện thợ
+__label__điện thợ
 __label__điện đèn chập chờn, thiết tự ngắt,
 __label__điện đèn tắt bật
-__label__điện đèn hoạt động ổn định
-__label__điện đèn hoạt động bình
-__label__điện đèn hoạt động
-__label__điện thiết tự động ngắt, biết lý
-__label__điện thiết tự động ngắt, biết nguyên nhân
+__label__điện đèn hoạt ổn định
+__label__điện đèn hoạt bình
+__label__điện đèn hoạt
+__label__điện thiết tự ngắt, biết
+__label__điện thiết tự ngắt, biết nguyên nhân
 __label__điện đồ dùng hư hỏng nặng, sử dụng
 __label__điện cầu chì cháy, ngắt chuyên môn
 __label__điện cầu chì cháy, ngắt khả năng
-__label__điện cầu chì tự động ngắt sự cố điện, cung cấp giải pháp
+__label__điện cầu chì tự ngắt sự cố điện, cung cấp giải pháp
 __label__điện hỗ trợ thế cầu chì, thiết
 __label__điện trợ thế cầu giao, cầu chị thế thiết gia đình
 __label__điện trợ thế cầu giao, thiết tổ ấm
-__label__điện dây chuột cắn đứt, sửa
+__label__điện dây chuột cắn đứt,
 __label__điện dây những con chuột phá hoạt cắn đứt
 __label__điện dây những con chuột cắn đứt
 __label__điện những con chuột cắn đứt những dây
-__label__điện sửa sét đánh cháy ổ
-__label__điện sức sửa đồ điện, trời mưa vấn đề
-__label__điện dây máy đun siêu tốc sau khi cắm khoảng 5-10p nóng, mùi khét, bên dây mùi khét, sửa mai.
-__label__điện Điện dung tắt biết lý do, tìm
-__label__điện Điện dung ngắt, liên lạc sửa họ biết,
-__label__điện tìm hỗ trợ gấp, ngắt lý mặc dù đóng tiền đầy
+__label__điện sét đánh cháy ổ
+__label__điện sức đồ điện, trời mưa đề
+__label__điện dây đun siêu tốc sau cắm khoảng 5-một0p nóng, mùi khét, bên dây mùi khét, mai.
+__label__điện Điện dung tắt biết do, tìm
+__label__điện Điện dung ngắt, liên lạc họ biết,
+__label__điện tìm hỗ trợ gấp, ngắt mặc dù đóng tiền đầy
 __label__điện thiết mất nguồn
-__label__điện đỡ thiết hư hỏng lý
+__label__điện đỡ thiết hư hỏng
 __label__điện sức thiết hư hỏng
 __label__điện Công tắc sử dụng lâu, thế
 __label__điện Tôi biết bắt bóng này như thế nào cả, ai thể
 __label__điện Cách bắt bóng đèn này như thế nào vậy, hỗ trợ
-__label__điện tìm aptomat nhảy lý
+__label__điện tìm aptomat nhảy
 __label__điện Aptomat nhảy số nguyên nhân
 __label__điện Bóng đèn chập chờn, tìm
-__label__điện Bóng đèn gì mà hoạt động bình
+__label__điện Bóng đèn gì mà hoạt bình
 __label__điện lắp mạch gia đình, giá cả thương lượng
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện chập_mạch sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện sửa mạch chập
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch chập sửa
-__label__điện mạch sửa chập
-__label__điện sửa mạch chập
-__label__điện mạch sửa chập
-__label__điện mạch sửa chập
-__label__điện mạch sửa chập
-__label__điện mạch sửa chập
-__label__điện mạch chập sửa
-__label__điện mạch sửa chập
-__label__điện mạch sửa chập
-__label__điện mạch sửa chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện mạch sửa chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện mạch sửa chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện chập_mạch
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
 __label__điện sửa_mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện mạch chập sửa
-__label__điện sửa mạch chập
-__label__điện sửa chập_mạch
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện sửa mạch chập
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập mạch sửa
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện sửa mạch chập
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập mạch sửa
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
-__label__điện chập sửa mạch
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện chập_mạch
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện mạch chập
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện mạch chập
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
+__label__điện chập mạch
 __label__y_tế Tôi bệnh bác_sĩ
 __label__y_tế bệnh bác_sĩ
 __label__y_tế bệnh bác_sĩ
@@ -1624,82 +1649,82 @@ __label__y_tế ốm bác_sĩ
 __label__y_tế ốm bác_sĩ
 __label__y_tế ốm bác_sĩ
 __label__y_tế ốm bác_sĩ
-__label__y_tế đang về sức_khỏe y_tế
-__label__y_tế đang về sức_khỏe y_tế
-__label__y_tế đang về sức_khỏe y_tế
-__label__y_tế đang về sức_khỏe y_tế
-__label__y_tế về đang sức_khỏe y_tế
-__label__y_tế sức_khỏe đang về y_tế
-__label__y_tế đang về sức_khỏe y_tế
-__label__y_tế đang về sức_khỏe y_tế
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế đang y_tế về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế về y_tế đang sức_khỏe
-__label__y_tế sức_khỏe y_tế đang về
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế về đang sức_khỏe
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế đang về sức_khỏe
-__label__y_tế y_tế về đang sức_khỏe
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế sức_khỏe y_tế đang về
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế đang sức_khỏe về
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế sức_khỏe đang về
-__label__y_tế y_tế về sức_khỏe đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế sức_khỏe về y_tế đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế sức_khỏe y_tế đang về
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế về y_tế sức_khỏe đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế sức_khỏe về y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế về y_tế sức_khỏe
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế sức_khỏe về
+__label__y_tế y_tế về sức_khỏe
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe về y_tế
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế về y_tế sức_khỏe
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
 __label__y_tế ho sốt liên tục bác_sĩ ra ngoài, bác_sĩ tư khám
 __label__y_tế xuyên nôn_mửa, nghĩ ngộ_độc thực_phẩm, hỗ_trợ về mặt y_tế
-__label__y_tế đầu bỗng_dưng đau_nhức liên_hồi, bác_sĩ
+__label__y_tế đầu đau_nhức liên_hồi, bác_sĩ
 __label__y_tế xuất viện thấy cơ_thể chưa ổn, y_tá chăm sóc
 __label__y_tế lồng_ngực đau nhói liên hồi, bác_sĩ
 __label__y_tế cơ_thể dung lạnh, xanh xao, bác_sĩ hỗ_trợ điều trị
 __label__y_tế mắt đau_nhức, không_thể nhìn rõ, bác_sĩ chuyên môn về mắt hỗ_trợ
-__label__y_tế da bỗng_dưng nổi vết đỏ, nghĩ dị_ứng, bác_sĩ điểm
+__label__y_tế da nổi vết đỏ, nghĩ dị_ứng, bác_sĩ điểm
 __label__y_tế bác_sĩ sao da dung tím vùng.
 __label__y_tế Cơ_thể mệt mỏi, di chuyển nổi, bác_sĩ trợ
-__label__y_tế Mặt_mày xanh_xao, đứng dậy đầu_óc quay_cuồng, thấy đường sau 5-10 giây ổn_định, bác_sĩ chẩn_đoán thuốc
-__label__y_tế Mắt sau khi ngủ dậy đỏ, đau_rát, sau thời gian
+__label__y_tế Mặt_mày xanh_xao, đứng dậy đầu_óc quay_cuồng, thấy đường sau 5-một0 giây ổn_định, bác_sĩ chẩn_đoán thuốc
+__label__y_tế Mắt sau ngủ dậy đỏ, đau_rát, sau thời gian
 __label__y_tế Da phát ban đỏ hình tròn, bác_sĩ
 __label__y_tế Da nổi ban đỏ, ngứa_ngáy liên_hồi
-__label__y_tế Tai chảy_mủ, đôi khi chảy_máu khi ngoáy, bác_sĩ tư vấn điều trị
+__label__y_tế Tai chảy_mủ, đôi chảy_máu ngoáy, bác_sĩ tư điều trị
 __label__y_tế Môi rát, lở_loét vài chỗ, bác_sĩ
-__label__y_tế Tôi bỗng_dưng hen_suyễn khi thời_tiết thay_đổi, bác_sĩ điều trị
-__label__y_tế Tôi hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, bác_sĩ chữa_trị
+__label__y_tế Tôi hen_suyễn thời_tiết thay_đổi, bác_sĩ điều trị
+__label__y_tế Tôi hắt_xì, mũi nghẹt, chảy mũi thời_tiết chuyển đổi, bác_sĩ chữa_trị
 __label__y_tế bác_sĩ chữa_trị hen_suyễn
 __label__y_tế Lồng_ngực đau nhói, bác_sĩ
 __label__y_tế Bác_sĩ bệnh về ngực
@@ -1707,42 +1732,42 @@ __label__y_tế bác_sĩ chẩn_đoán bệnh tim
 __label__y_tế Bị bệnh tim bác_sĩ chẩn_đoán
 __label__y_tế bác_sĩ da liễu khám_bệnh
 __label__y_tế Da nổi trên bề mặt nổi mụn vảy tiết, bác_sĩ khám
-__label__y_tế bác_sĩ bệnh da liễu khi da nổi trên bề mặt mụn vảy tiết
+__label__y_tế bác_sĩ bệnh da liễu da nổi trên bề mặt mụn vảy tiết
 __label__y_tế bác_sĩ khám thuốc vì ngộ độc thực phẩm
-__label__y_tế Ho ngừng khi thời_tiết đổi, bác_sĩ thuốc khám_bệnh
+__label__y_tế Ho ngừng thời_tiết đổi, bác_sĩ thuốc khám_bệnh
 __label__y_tế bác_sĩ khám_bệnh về ho liên tục
 __label__y_tế Bị phổi ra đường bác_sĩ tận khám
-__label__y_tế bác_sĩ khám phổi thuốc ra khỏi vì lý dịch
+__label__y_tế bác_sĩ khám phổi thuốc ra khỏi vì dịch
 __label__y_tế bác_sĩ chuyên_ngành khám bang_quang
 __label__y_tế Tiểu tiện ổn, bác_sĩ khám lời khuyên
 __label__y_tế bác_sĩ chuyên_ngành khám bệnh về đường tiểu tiện
 __label__y_tế Bị vật lạ bay mắt mọi hết, bác_sĩ khám thuốc
-__label__y_tế bác_sĩ khám thuốc khi vật lạ bay mắt mãi
+__label__y_tế bác_sĩ khám thuốc vật lạ bay mắt mãi
 __label__y_tế Mụn nổi ở lưng, bác_sĩ lời khuyên thuốc
 __label__y_tế Da nổi những vết đỏ uống bia, bác_sĩ thuốc
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế sức_khỏe y_tế về đang
-__label__y_tế về y_tế sức_khỏe đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế sức_khỏe y_tế đang về
-__label__y_tế về y_tế đang sức_khỏe
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe đang y_tế
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
-__label__y_tế về sức_khỏe y_tế đang
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế về y_tế sức_khỏe
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế sức_khỏe y_tế về
+__label__y_tế về y_tế sức_khỏe
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
+__label__y_tế về sức_khỏe y_tế
 __label__y_tế y_tế hỗ_trợ sức_khỏe
 __label__y_tế y_tế hỗ_trợ sức_khỏe
 __label__y_tế hỗ_trợ y_tế sức_khỏe
@@ -1827,22 +1852,22 @@ __label__y_tế cảm khỏi mặc_dù uống thuốc
 __label__y_tế cảm khỏi mặc_dù uống thuốc
 __label__y_tế cảm khỏi mặc_dù uống thuốc
 __label__y_tế ho sốt liên tục bác_sĩ ra ngoài, bác_sĩ tư khám
-__label__y_tế đầu bỗng_dưng đau_nhức liên_hồi, bác_sĩ
+__label__y_tế đầu đau_nhức liên_hồi, bác_sĩ
 __label__y_tế xuất viện thấy cơ_thể chưa ổn, y_tá chăm sóc
 __label__y_tế lồng_ngực đau nhói liên hồi, bác_sĩ
 __label__y_tế cơ_thể dung lạnh, xanh xao, bác_sĩ hỗ_trợ điều trị
 __label__y_tế mắt đau_nhức, không_thể nhìn rõ, bác_sĩ chuyên môn về mắt hỗ_trợ
-__label__y_tế da bỗng_dưng nổi vết đỏ, nghĩ dị_ứng, bác_sĩ điểm
+__label__y_tế da nổi vết đỏ, nghĩ dị_ứng, bác_sĩ điểm
 __label__y_tế bác_sĩ sao da dung tím vùng.
 __label__y_tế Cơ_thể mệt mỏi, di chuyển nổi, bác_sĩ trợ
-__label__y_tế Mặt_mày xanh_xao, đứng dậy đầu_óc quay_cuồng, thấy đường sau 5-10 giây ổn_định, bác_sĩ chẩn_đoán thuốc
-__label__y_tế Mắt sau khi ngủ dậy đỏ, đau_rát, sau thời gian
+__label__y_tế Mặt_mày xanh_xao, đứng dậy đầu_óc quay_cuồng, thấy đường sau 5-một0 giây ổn_định, bác_sĩ chẩn_đoán thuốc
+__label__y_tế Mắt sau ngủ dậy đỏ, đau_rát, sau thời gian
 __label__y_tế Da phát ban đỏ hình tròn, bác_sĩ
 __label__y_tế Da nổi ban đỏ, ngứa_ngáy liên_hồi
-__label__y_tế Tai chảy_mủ, đôi khi chảy_máu khi ngoáy, bác_sĩ tư vấn điều trị
+__label__y_tế Tai chảy_mủ, đôi chảy_máu ngoáy, bác_sĩ tư điều trị
 __label__y_tế Môi rát, lở_loét vài chỗ, bác_sĩ
-__label__y_tế Tôi bỗng_dưng hen_suyễn khi thời_tiết thay_đổi, bác_sĩ điều trị
-__label__y_tế Tôi hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, bác_sĩ chữa_trị
+__label__y_tế Tôi hen_suyễn thời_tiết thay_đổi, bác_sĩ điều trị
+__label__y_tế Tôi hắt_xì, mũi nghẹt, chảy mũi thời_tiết chuyển đổi, bác_sĩ chữa_trị
 __label__y_tế bác_sĩ chữa_trị hen_suyễn
 __label__y_tế Lồng_ngực đau nhói, bác_sĩ
 __label__y_tế Bác_sĩ bệnh về ngực
@@ -1850,9 +1875,9 @@ __label__y_tế bác_sĩ chẩn_đoán bệnh tim
 __label__y_tế Bị bệnh tim bác_sĩ chẩn_đoán
 __label__y_tế bác_sĩ da liễu khám_bệnh
 __label__y_tế Da nổi trên bề mặt nổi mụn vảy tiết, bác_sĩ khám
-__label__y_tế bác_sĩ bệnh da liễu khi da nổi trên bề mặt mụn vảy tiết
+__label__y_tế bác_sĩ bệnh da liễu da nổi trên bề mặt mụn vảy tiết
 __label__y_tế bác_sĩ khám thuốc vì ngộ độc thực phẩm
-__label__y_tế Ho ngừng khi thời_tiết đổi, bác_sĩ thuốc khám_bệnh
+__label__y_tế Ho ngừng thời_tiết đổi, bác_sĩ thuốc khám_bệnh
 __label__y_tế bác_sĩ khám_bệnh về ho liên tục
 __label__y_tế Bị phổi ra đường bác_sĩ tận khám
 __label__y_tế bác_sĩ khám phổi thuốc ra khỏi vì dịch
@@ -1861,49 +1886,49 @@ __label__y_tế bác_sĩ chuyên_ngành khám bàng_quang
 __label__y_tế Tiểu tiện ổn, bác_sĩ khám lời khuyên
 __label__y_tế bác_sĩ chuyên_ngành khám bệnh về đường tiểu tiện
 __label__y_tế Bị vật lạ bay mắt mọi hết, bác_sĩ khám thuốc
-__label__y_tế bác_sĩ khám thuốc khi vật lạ bay mắt mãi
+__label__y_tế bác_sĩ khám thuốc vật lạ bay mắt mãi
 __label__y_tế Mụn nổi ở lưng, bác_sĩ lời khuyên thuốc
 __label__y_tế Da nổi những vết đỏ uống bia, bác_sĩ thuốc
 __label__y_tế bác_sĩ thuốc những vết đỏ nổi ở da
 __label__y_tế đo tim
-__label__y_tế Tôi cảm thấy khỏe thời gian bệnh_viện, tư vấn online
+__label__y_tế Tôi cảm thấy khỏe thời gian bệnh_viện, tư online
 __label__y_tế Tôi lấy máu trực_tiếp để khám tổng quát
-__label__y_tế Con càng ăn ít ăn, ốm lại, bác_sĩ tư vấn chế độ ăn_uống phù_hợp
-__label__y_tế Tôi mấy lần bấm lỗ tai thành, hay lên mủ,ở chỗ bấm cũ nổi cái gì giống như hạch, cứng, mỗi lần bấm là đau, bác_sĩ tư vấn
-__label__y_tế Người mọc mụn nhỏ rải_rác. Mặt cũng tự_nhiên xuất_hiện mụn hơn, bác_sĩ tư vấn thêm.
+__label__y_tế Con càng ăn ít ăn, ốm lại, bác_sĩ tư chế độ ăn_uống phù_hợp
+__label__y_tế Tôi mấy lần bấm lỗ tai thành, hay lên mủ,ở chỗ bấm cũ nổi cái gì giống như hạch, cứng, mỗi lần bấm là đau, bác_sĩ tư
+__label__y_tế Người mọc mụn nhỏ rải_rác. Mặt cũng tự_nhiên xuất_hiện mụn hơn, bác_sĩ tư thêm.
 __label__y_tế Trong mùa dịch ít ra ngoài vận_động dẫn cơ_thể mỏi_mệt, dạo gần đây càng càng tệ hơn, bác_sĩ khám lời_khuyên
 __label__y_tế Dạo gần đây triệu_chứng ho đau họng, bác_sĩ gặp phải gì nghiêm_trọng hay
-__label__y_tế Sức_khoẻ bình_thường, gì. Tuy nhiên gần đây cơ_thể mệt_mỏi, đau đầu, da trở xanh xao (có thể là vì ít hoạt động ít tiếp xúc ánh nắng mặt trời) linh_hoạt, năng_động như trước bác_sĩ tư_vấn khám trực_tiếp
-__label__y_tế Cơ_thể mệt_mỏi, đau đầu, da trở xanh xao (có thể là vì ít hoạt động ít tiếp xúc ánh nắng mặt trời) linh_hoạt, năng_động như trước bác_sĩ lời_khuyên khám trực_tiếp
+__label__y_tế Sức_khoẻ bình_thường, gì. Tuy nhiên gần đây cơ_thể mệt_mỏi, đau đầu, da trở xanh xao (có thể là vì ít hoạt ít tiếp xúc ánh nắng mặt trời) linh_hoạt, năng_động như trước bác_sĩ tư_vấn khám trực_tiếp
+__label__y_tế Cơ_thể mệt_mỏi, đau đầu, da trở xanh xao (có thể là vì ít hoạt ít tiếp xúc ánh nắng mặt trời) linh_hoạt, năng_động như trước bác_sĩ lời_khuyên khám trực_tiếp
 __label__y_tế Do đợt cách_ly ra khỏi bây ra khỏi cảm thấy cơ_thể mệt_ mỏi, cơ_thể sức di_chuyển, bác_sĩ tư_vấn về này.
 __label__y_tế bác sĩ lời_khuyên về cảm giác cơ_thể mệt_ mỏi, cơ_thể sức di_chuyển
 __label__y_tế Thời gian gần đây dưng đầu hay đau_nhức, bác_sĩ lời khuyên
-__label__y_tế Bụng sau khi ăn tối đau bụng liên_tục, nghĩ ngộ_độc thực_phẩm, bác_sĩ
-__label__y_tế Dạo gần đây hay stress vì vấn_đề, mức đầu như muốn nổ_tung, một bác_sĩ tâm_lý thể tư_vấn những giải_quyết stress
+__label__y_tế Bụng sau ăn tối đau bụng liên_tục, nghĩ ngộ_độc thực_phẩm, bác_sĩ
+__label__y_tế Dạo gần đây hay stress vì vấn_đề, mức đầu như muốn nổ_tung, bác_sĩ tâm_lý thể tư_vấn những giải_quyết stress
 __label__y_tế Dạo gần đây ngồi học online nhiều, dẫn lưng đau, nhức mắt, bác sĩ thuốc
 __label__y_tế Ngực dạo gần đây xuyên đau nhói lâu, bác_sĩ triệu_chứng
 __label__y_tế Tôi chịu áp_lực kém, mỗi lần bước những kì thi, cơ_thể hồi_hộp, ngực như muốn nổ tung mức chịu nổi, bác_sĩ lời khuyên
 __label__y_tế Dạo gần đây thường_xuyên chảy máu cam, cơ thể chóng mặt bất_ổn, bác sĩ thuốc
 __label__y_tế bác_sĩ lấy máu để khám tổng_quát
 __label__y_tế Tôi uống rượu bia dạo gần đây, gan nóng cồn cào, bác sĩ khám hoặc thể lời tư_vấn
-__label__y_tế Tôi nghĩ phổi vấn_đề, dạo gần đây hay hụt hơi hoặc hơi, bình_thường hít hơi thật sâu gì, mấy hôm_nay khi hít cảm_giác như hụt hơi, khó chịu, bác_sĩ khám tư_vấn
-__label__y_tế Tôi vừa một miếng sắt rỉ đâm da, sát_trùng sợ uốn_ván, bá_sĩ sơ_cứu
+__label__y_tế Tôi nghĩ phổi vấn_đề, dạo gần đây hay hụt hơi hoặc hơi, bình_thường hít hơi thật sâu gì, mấy hôm_nay hít cảm_giác như hụt hơi, khó chịu, bác_sĩ khám tư_vấn
+__label__y_tế Tôi vừa miếng sắt rỉ đâm da, sát_trùng sợ uốn_ván, bá_sĩ sơ_cứu
 __label__y_tế Tôi vừa đinh đâm chân, sợ sẽ uốn_ván, bác_sĩ chăm_sóc sơ_cứu
 __label__y_tế Bố vừa trải qua cơn phẫu_thuật, hiện về chưa hồi_phục hẵn, y_tá chăm_sóc bố, tiền_bạc thành
-__label__y_tế Tôi vừa đỡ quả bóng mạnh, tay đang đau, biết gãy tay hay không, bác_sĩ khám hoặc bác_sĩ lời_khuyên bệnh_viện mùa dịch này
+__label__y_tế Tôi vừa đỡ quả bóng mạnh, tay đau, biết gãy tay hay không, bác_sĩ khám hoặc bác_sĩ lời_khuyên bệnh_viện mùa dịch này
 __label__y_tế Nổi mụn ở lưng, bác sĩ tư_vấn
 __label__y_tế Lưng dưng nổi những vết sần_sùi giống như sẹo, bác sĩ tư_vấn thuốc
-__label__y_tế Vì đặc_thù công_việc, phải thức đêm quen mắt, mỗi một khuya hơn, thời lượng giấc ngủ cũng càng ít đi, thức tận sáng vì ngủ bác sĩ lời_khuyên đơn thuốc
+__label__y_tế Vì đặc_thù công_việc, phải thức đêm quen mắt, mỗi khuya hơn, thời lượng giấc ngủ cũng càng ít đi, thức tận sáng vì ngủ bác sĩ lời_khuyên đơn thuốc
 __label__y_tế Đầu óc càng càng quên thứ, phải mắc bệnh Alzheimer, bác sĩ tư_vấn về triệu_chứng
-__label__y_tế Răng mấy bỗng_dưng đau_nhức, uống thuốc hết, bác_sĩ tư_vấn hoặc tận để khám
-__label__y_tế Tai vết trầy ở trong, mỗi lần động đau chảy máu, bác_sĩ tư_vấn hoặc thể tận để khám
+__label__y_tế Răng mấy đau_nhức, uống thuốc hết, bác_sĩ tư_vấn hoặc tận để khám
+__label__y_tế Tai vết trầy ở trong, mỗi lần đau chảy máu, bác_sĩ tư_vấn hoặc thể tận để khám
 __label__y_tế Dạo gần đây tay ra mồ hôi nhiều, xin bác_sĩ tư_vấn về cắt tuyến mồ hôi
 __label__y_tế Dạo gần đây ho nhiều, lần còn ho ra máu, tiền sử ho lo_lắng, bác_sĩ tận khám
-__label__y_tế Dạo gần đây ăn ngọt nhiều, khi tiểu còn kiến bâu vào, nghĩ tiểu đường, bác_sĩ tư_vấn khám bệnh
+__label__y_tế Dạo gần đây ăn ngọt nhiều, tiểu còn kiến bâu vào, nghĩ tiểu đường, bác_sĩ tư_vấn khám bệnh
 __label__y_tế Tôi bác_sĩ lấy máu để khám tổng_quát
 __label__y_tế bác_sĩ dinh_dưỡng tư_vấn chế_độ ăn_uống phù_hợp để phát_triển cơ_thể
 __label__y_tế bác_sĩ lời_khuyên về bệnh da_liễu
-__label__y_tế bác_sĩ tư vấn bệnh da_liễu
+__label__y_tế bác_sĩ tư bệnh da_liễu
 __label__y_tế Đau đầu nửa sau, bác sĩ tư_vấn kê đơn thuốc
 __label__y_tế bác_sĩ lời_khuyên bệnh về thần_kinh thuốc
 __label__y_tế bác_sĩ tư_vấn bệnh về thần_kinh
@@ -1914,8 +1939,8 @@ __label__y_tế bác_sĩ lời_khuyên bệnh về phổi
 __label__y_tế bác_sĩ tư_vấn bệnh về phổi
 __label__y_tế bác_sĩ lời_khuyên bệnh về gan
 __label__y_tế bác_sĩ tư_vấn bệnh về gan
-__label__y_tế Bị ho khi chuyển trời, lịch sử hen_suyễn, bác_sĩ tư_vấn
-__label__y_tế bác_sĩ lời_khuyên sao ho khi chuyển trời dù lịch sử hen_suyễn
+__label__y_tế Bị ho chuyển trời, lịch sử hen_suyễn, bác_sĩ tư_vấn
+__label__y_tế bác_sĩ lời_khuyên sao ho chuyển trời dù lịch sử hen_suyễn
 __label__y_tế Dạ_dày vấn_đề, bác_sĩ tư_vấn
 __label__y_tế Hình như tiêu_chảy, tư_vấn y_tế
 __label__y_tế cảm khỏi mặc_dù uống thuốc
@@ -1975,31 +2000,31 @@ __label__y_tế đau lưng mặc_dù còn thường_xuyên trẻ
 __label__y_tế đau lưng mặc_dù còn trẻ thường_xuyên
 __label__y_tế đau lưng mặc_dù còn trẻ thường_xuyên
 __label__y_tế đau lưng mặc_dù còn trẻ thường_xuyên
-__label__y_tế hay đau_đầu mỗi khi thời_tiết thay_đổi
-__label__y_tế đau_đầu hay mỗi khi thời_tiết thay_đổi
-__label__y_tế mỗi hay đau_đầu khi thời_tiết thay_đổi
-__label__y_tế khi hay đau_đầu mỗi thời_tiết thay_đổi
-__label__y_tế thời_tiết hay đau_đầu mỗi khi thay_đổi
-__label__y_tế thay_đổi hay đau_đầu mỗi khi thời_tiết
-__label__y_tế hay thay_đổi đau_đầu mỗi khi thời_tiết
-__label__y_tế hay thay_đổi đau_đầu mỗi khi thời_tiết
-__label__y_tế hay đau_đầu thay_đổi mỗi khi thời_tiết
-__label__y_tế hay mỗi thay_đổi đau_đầu khi thời_tiết
-__label__y_tế hay khi thay_đổi đau_đầu mỗi thời_tiết
-__label__y_tế hay thời_tiết thay_đổi đau_đầu mỗi khi
-__label__y_tế thay_đổi thời_tiết hay đau_đầu mỗi khi
-__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi khi
-__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi khi
-__label__y_tế thay_đổi hay đau_đầu thời_tiết mỗi khi
-__label__y_tế thay_đổi hay mỗi thời_tiết đau_đầu khi
-__label__y_tế thay_đổi hay khi thời_tiết đau_đầu mỗi
-__label__y_tế thời_tiết hay khi thay_đổi đau_đầu mỗi
-__label__y_tế thời_tiết thay_đổi khi hay đau_đầu mỗi
-__label__y_tế thời_tiết thay_đổi hay khi đau_đầu mỗi
-__label__y_tế thời_tiết thay_đổi hay khi đau_đầu mỗi
-__label__y_tế thời_tiết thay_đổi hay đau_đầu khi mỗi
-__label__y_tế thời_tiết thay_đổi hay mỗi khi đau_đầu
-__label__y_tế khi thay_đổi hay mỗi thời_tiết đau_đầu
+__label__y_tế hay đau_đầu mỗi thời_tiết thay_đổi
+__label__y_tế đau_đầu hay mỗi thời_tiết thay_đổi
+__label__y_tế mỗi hay đau_đầu thời_tiết thay_đổi
+__label__y_tế hay đau_đầu mỗi thời_tiết thay_đổi
+__label__y_tế thời_tiết hay đau_đầu mỗi thay_đổi
+__label__y_tế thay_đổi hay đau_đầu mỗi thời_tiết
+__label__y_tế hay thay_đổi đau_đầu mỗi thời_tiết
+__label__y_tế hay thay_đổi đau_đầu mỗi thời_tiết
+__label__y_tế hay đau_đầu thay_đổi mỗi thời_tiết
+__label__y_tế hay mỗi thay_đổi đau_đầu thời_tiết
+__label__y_tế hay thay_đổi đau_đầu mỗi thời_tiết
+__label__y_tế hay thời_tiết thay_đổi đau_đầu mỗi
+__label__y_tế thay_đổi thời_tiết hay đau_đầu mỗi
+__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi
+__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi
+__label__y_tế thay_đổi hay đau_đầu thời_tiết mỗi
+__label__y_tế thay_đổi hay mỗi thời_tiết đau_đầu
+__label__y_tế thay_đổi hay thời_tiết đau_đầu mỗi
+__label__y_tế thời_tiết hay thay_đổi đau_đầu mỗi
+__label__y_tế thời_tiết thay_đổi hay đau_đầu mỗi
+__label__y_tế thời_tiết thay_đổi hay đau_đầu mỗi
+__label__y_tế thời_tiết thay_đổi hay đau_đầu mỗi
+__label__y_tế thời_tiết thay_đổi hay đau_đầu mỗi
+__label__y_tế thời_tiết thay_đổi hay mỗi đau_đầu
+__label__y_tế thay_đổi hay mỗi thời_tiết đau_đầu
 __label__y_tế ho sốt liên_tục thể ra ngoài, bác_sĩ tư khám
 __label__y_tế ho sốt liên_tục sự từ bác_sĩ
 __label__y_tế ho sốt liên_tục ngừng sự đỡ từ y bác_sĩ
@@ -2009,7 +2034,7 @@ __label__y_tế xuyên nôn_mửa, nghĩ ngộ_độc_thực_phẩm, hỗ trợ 
 __label__y_tế nôn_mửa soát, nghĩ ngộ_độc_thực_phẩm
 __label__y_tế nôn_mửa ngừng, chúng tin rằng ngộ_độc_thực_phẩm
 __label__y_tế nôn_mửa liên_tục ngừng, tụi tin rằng ngộ_độc thức ăn
-__label__y_tế phải là ngộ_độc thức ăn khi nôn_mửa liên_tục
+__label__y_tế phải là ngộ_độc thức ăn nôn_mửa liên_tục
 __label__y_tế từ sáng tối nôn_mửa liên_tục, biết phải ngộ_độc ko
 __label__y_tế đầu dung đau nhức liên_hồi, bác_sĩ
 __label__y_tế đầu tự nhiên đau nhức liên_hồi, bác_sĩ
@@ -2031,10 +2056,10 @@ __label__y_tế lồng_ngực nào cũng kêu biết phải corona
 __label__y_tế đau nhức lồng_ngực biết nguyên_nhân
 __label__y_tế đau nhức lồng_ngực nhiễm ncov phải
 __label__y_tế trợ_giúp, lưng đau liên_tục ngừng
-__label__y_tế lưng đầu gối đau mỗi khi việc nặng
-__label__y_tế lưng đầu gối đau mỗi khi hoạt động ở cường_độ cao
-__label__y_tế lưng khớp gối vấn đề mỗi khi bưng hàng nặng
-__label__y_tế lưng gối đau chịu tin rằng đang thoái hóa khớp
+__label__y_tế lưng đầu gối đau mỗi việc nặng
+__label__y_tế lưng đầu gối đau mỗi hoạt ở cường_độ cao
+__label__y_tế lưng khớp gối đề mỗi bưng hàng nặng
+__label__y_tế lưng gối đau chịu tin rằng thoái hóa khớp
 __label__y_tế ghẻ phỏng sao để khỏi vậy
 __label__y_tế ghẻ phỏng biết sao để bệnh
 __label__y_tế đùi hâm nặng biết phải ngồi hay
@@ -2044,30 +2069,35 @@ __label__y_tế yếu sinh lý, nào tình trạng này
 __label__y_tế lồng_ngực nhức kinh khủng, biết phải sắp chết
 __label__y_tế lồng_ngực nhức thể nào chịu đựng hỗ trợ bây
 __label__y_tế cơ_thể dung lạnh, xanh xao, bác_sĩ hỗ trợ điều_trị
-__label__y_tế cơ_thể đang khỏe_mạnh dung lạnh toát, mồ hôi chảy nhễ nhại, xanh xao
-__label__y_tế cơ_thể đang mạnh khỏe tự nhiên lạnh ngắt, mồ hôi đầm đìa, sao dừng đc
-__label__y_tế cơ_thể đang khỏe dung mệt mỏi nguyên_nhân
-__label__y_tế cơ_thể đang khỏe dung mệt biết
+__label__y_tế cơ_thể khỏe_mạnh dung lạnh toát, mồ hôi chảy nhễ nhại, xanh xao
+__label__y_tế cơ_thể mạnh khỏe tự nhiên lạnh ngắt, mồ hôi đầm đìa, sao dừng đc
+__label__y_tế cơ_thể khỏe dung mệt mỏi nguyên_nhân
+__label__y_tế cơ_thể khỏe dung mệt biết
 __label__y_tế mắt đau nhức, thể nhìn rõ, bác_sĩ chuyên môn về mắt hỗ trợ
-__label__y_tế da bỗng_dưng nổi vết đỏ, nghĩ dị ứng, bác_sĩ điểm
+__label__y_tế da nổi vết đỏ, nghĩ dị ứng, bác_sĩ điểm
 __label__y_tế bác_sĩ sao da dung tím vùng.
 __label__y_tế Cơ_thể mệt mỏi, di chuyển nổi, bác_sĩ
-__label__y_tế Mặt mày xanh xao, đứng dậy đầu óc quay cuồng, thấy đường sau 5-10 giây ổn định, bác_sĩ chẩn đoán thuốc
-__label__y_tế Mắt sau khi ngủ dậy đỏ, đau rát, sau thời gian
+__label__y_tế Mặt mày xanh xao, đứng dậy đầu óc quay cuồng, thấy đường sau 5-một0 giây ổn định, bác_sĩ chẩn đoán thuốc
+__label__y_tế Mắt sau ngủ dậy đỏ, đau rát, sau thời gian
 __label__y_tế Da phát ban đỏ hình tròn, trên bề mặt nổi mụn vảy tiết, bác_sĩ
 __label__y_tế Da nổi ban đỏ, ngứa ngáy liên_hồi
-__label__y_tế Tai chảy mủ, đôi khi chảy máu khi ngoáy, bác_sĩ tư vấn điều_trị
+__label__y_tế Tai chảy mủ, đôi chảy máu ngoáy, bác_sĩ tư điều_trị
 __label__y_tế Môi rát, lở loét vài chỗ, bác_sĩ
-__label__y_tế Tôi dung hen suyễn khi thời thiết đổi, ho ngừng, bác_sĩ điều_trị
-__label__y_tế Tôi hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, bác_sĩ trị
-__label__y_tế khi thời_tiết hay mỗi thay_đổi đau_đầu
-__label__y_tế khi thời_tiết thay_đổi mỗi hay đau_đầu
-__label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu
-__label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu
-__label__y_tế khi thời_tiết thay_đổi hay đau_đầu mỗi
-__label__y_tế mỗi thời_tiết thay_đổi hay đau_đầu khi
-__label__y_tế mỗi khi thay_đổi hay đau_đầu thời_tiết
-__label__y_tế mỗi khi thời_tiết hay đau_đầu thay_đổi
-__label__y_tế mỗi khi thời_tiết thay_đổi đau_đầu hay
-__label__y_tế mỗi khi thời_tiết thay_đổi hay đau_đầu
-__label__y_tế mỗi khi thời_tiết thay_đổi hay đau_đầu
+__label__y_tế Tôi dung hen suyễn thời thiết đổi, ho ngừng, bác_sĩ điều_trị
+__label__y_tế Tôi hắt_xì, mũi nghẹt, chảy mũi thời_tiết chuyển đổi, bác_sĩ trị
+__label__y_tế thời_tiết hay mỗi thay_đổi đau_đầu
+__label__y_tế thời_tiết thay_đổi mỗi hay đau_đầu
+__label__y_tế thời_tiết thay_đổi hay mỗi đau_đầu
+__label__y_tế bơm thương, đỡ
+__label__y_tế Tôi ống thương, trợ
+__label__y_tế chóng_mặt nước, bác_sĩ khám
+__label__y_tế bơm chỗ sắc nhọn, hỗ_trợ y_tế uốn_ván hay
+__label__y_tế y_tế, thương hàn ống PPR
+__label__y_tế thời_tiết thay_đổi hay mỗi đau_đầu
+__label__y_tế thời_tiết thay_đổi hay đau_đầu mỗi
+__label__y_tế mỗi thời_tiết thay_đổi hay đau_đầu
+__label__y_tế mỗi thay_đổi hay đau_đầu thời_tiết
+__label__y_tế mỗi thời_tiết hay đau_đầu thay_đổi
+__label__y_tế mỗi thời_tiết thay_đổi đau_đầu hay
+__label__y_tế mỗi thời_tiết thay_đổi hay đau_đầu
+__label__y_tế mỗi thời_tiết thay_đổi hay đau_đầu

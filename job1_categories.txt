@@ -43,7 +43,7 @@ __label__nước cần người đến sửa ống nước bị tắc do dầu m
 __label__nước đến giờ cao điểm thì nước nhà tôi thường chảy rất yếu, nhà tôi không có đủ nước để sinh_hoạt, cần thợ đến xem_xét và sửa_chữa .
 __label__nước cần thợ đến xem lý_do ống nước của tôi thường xuyên bị tắc
 __label__nước nước hoạt_động yếu hơn bình_thường khiến tôi làm việc nhà tốn nhiều thời_gian, cần thợ đến xem_xét
-__label__nước nhà mình bị hỏng vòi nước nhưng mà mùa dịch này đều đóng cửa cả, mình cần 1 thợ đến nhà và thay_thế, giá_cả thương_lượng
+__label__nước nhà mình bị hỏng vòi nước nhưng mà mùa dịch này đều đóng cửa cả, mình cần một thợ đến nhà và thay_thế, giá_cả thương_lượng
 __label__nước đường ống trong tường nhà tôi gặp sự_cố hư_hỏng khó sửa_chữa, không rõ nguyên_nhân gây hư_hỏng, cần thợ đến tìm_hiểu và sửa_chữa
 __label__nước bồn nước của tôi thường xuyên bị rỉ, gây khó_khăn cho gia_đình, cần người đến sửa_chữa ngay
 __label__nước ống nước nhà tôi bị yếu, vòi sen lúc tắm lúc mạnh lúc yếu làm gia_đình tôi rất khó_khăn trong việc sinh_hoạt, cần người đến khắc_phục ngay
@@ -62,7 +62,7 @@ __label__nước nhà không có nước để sử_dụng vì máy_bơm hỏng
 __label__nước nhà sinh_hoạt không được vì máy_bơm không lên
 __label__nước máy_bơm phát ra tiếng nhưng không bơm nước lên
 __label__nước máy_bơm có âm_thanh kì lạ nhưng không hoạt_động
-__label__nước máy_bơm hoạt_động 1 cách không bình_thường
+__label__nước máy_bơm hoạt_động một cách không bình_thường
 __label__nước ống PPR bị hỏng, cần người hàn giúp
 __label__nước cần người hàn ống PPR hỏng
 __label__nước ống PPR bị lủng, cần thợ đến hàn
@@ -123,6 +123,31 @@ __label__nước cần thay thế vòi_xịt toilet bị hỏng
 __label__nước vòi xem tắm ra nước yếu hơn bình thường rất nhiều, cần thợ đến xem_xét và thay_thế
 __label__nước sàn bê tông nhà tôi bị thấm nước, cần thợ đến và xử_lý vấn_đề
 __label__nước tôi cần người thông bồn_cầu, bệ xí
+__label__nước ống nước ở bệnh_viện tôi bị hỏng						
+__label__nước phòng khám của tôi bị hỏng toilet, cần thợ đến sửa						
+__label__nước toilet riêng trong phòng khám của tôi bị hư, cần thợ trợ_giúp						
+__label__nước cần thợ đến sửa hệ_thống nước ở bệnh viện						
+__label__nước hệ_thống nước ở bệnh_viện có vấn đề, cần thợ đến kiểm_tra						
+__label__nước nguồn nước ở bệnh_viện bỗng_dưng không hoạt_động, cần trợ giúp						
+__label__nước nước ở bệnh_viện bỗng có màu khác thường, cần người đến kiểm_tra và khắc_phục						
+__label__nước máy bơm ở bệnh_viện bị hư, không có nước cho bệnh_nhân						
+__label__nước bệnh_viện hỏng máy bơm, cần khắc phục						
+__label__nước máy bơm ở bệnh_viện bị hư, bơm không lên nước						
+__label__nước một số vòi xịt ở bệnh_viện bị hỏng, cần người kiểm_tra						
+__label__nước Có bệnh_nhân báo rằng một số vòi nước bị hỏng, cần người sửa_chữa						
+__label__nước cần người thay_thế một vài vòi nước bị hỏng ở bệnh_viện						
+__label__nước ống nước tại bệnh_viện bị vỡ, cần trợ giúp thay						
+__label__nước bồn rửa mặt tại một số phòng bệnh bị nghẹt nước, cần trợ_giúp						
+__label__nước khi tôi đang sửa nước thì có một vật lạ bắn vào mắt, đau rát, cần hỗ_trợ y_tế						
+__label__nước một số bồn cầu ở phòng bệnh bị đọng nước, cần khắc_phục						
+__label__nước cần khắc_phục một số toilet ở bệnh viện bị đọng nước						
+__label__nước bệnh_nhân than_phiền một số bồn cầu bị tràn bể chứa nước, cần khắc_phục						
+__label__nước cần kiểm_tra lý do một số toilet ở phòng bệnh bị tràn bể chứa						
+__label__nước tôi bị máy hàn động vào tay khi đang hàn ống PPR, cần giúp_đỡ về y_tế						
+__label__nước bị ngộ_độc do uống nước ở nhà, cần người kiểm_tra nguồn nước						
+__label__nước bồn nước ở phòng bệnh bị rỉ, gây khó_khăn, cần người đến xem						
+__label__nước một vài ống nước trong bệnh_viện bị mục, cần thợ đến thay mới						
+__label__nước bệnh_viện không có nước, bệnh_nhân không sinh_hoạt được						
 __label__nước tôi cần thợ hút bể phốt cho gia_đình
 __label__nước chậu rửa bát nhà tôi bị nghẹt_nước, cần người thông chậu rửa bát
 __label__nước tôi cần người lắp_đặt bồn chứa nước trong gia đình
@@ -413,7 +438,7 @@ __label__điện_tử Cần người đến nhà cài win cho máy_tính
 __label__điện_tử Máy_tính bị hỏng, cần người đến nhà cài win giúp
 __label__điện_tử Quạt nước nhà tôi không quay được, cần người đến sửa_chữa
 __label__điện_tử Cần người đến sửa_chữa ngay sự_cố quạt nước không quay được
-__label__điện_tử Máy_tính gặp trục_trặc 1 số vấn_đề, cần thợ qua xem và sửa_chữa nếu có thể
+__label__điện_tử Máy_tính gặp trục_trặc một số vấn_đề, cần thợ qua xem và sửa_chữa nếu có thể
 __label__điện_tử Bản_lề laptop bị trật, cần người có kinh nghiệm sửa
 __label__điện_tử Laptop không nhận sạc, cần người đến sửa
 __label__điện_tử Tivi có tiếng không có hình
@@ -478,7 +503,7 @@ __label__điện_tử Cần người đến nhà cài win cho máy_tính
 __label__điện_tử Máy_tính bị hỏng, cần người đến nhà cài win giúp
 __label__điện_tử Quạt nước nhà tôi không quay được, cần người đến sửa_chữa
 __label__điện_tử Cần người đến sửa_chữa ngay sự_cố quạt nước không quay được
-__label__điện_tử Máy_tính gặp trục_trặc 1 số vấn_đề, cần thợ qua xem và sửa_chữa nếu có thể
+__label__điện_tử Máy_tính gặp trục_trặc một số vấn_đề, cần thợ qua xem và sửa_chữa nếu có thể
 __label__điện_tử Bản_lề laptop bị trật, cần người có kinh nghiệm sửa
 __label__điện_tử Laptop không nhận sạc, cần người đến sửa
 __label__điện_tử Tivi có tiếng không có hình
@@ -526,7 +551,7 @@ __label__điện_tử Cần người sửa lò vi sóng có kinh_nghiệm đến
 __label__điện_tử Máy quạt nhà tôi bật rất lâu sau cánh mới quay, tôi đã thay dầu nhưng vẫn bị, cần thợ đến xem_xét và sửa_chữa
 __label__điện_tử Laptop của tôi sử dụng đã lâu, cần người vệ sinh tại nhà để đảm bảo an toàn
 __label__điện_tử Máy lọc không khí của tôi hôm nay không hoạt_động không hiểu lý_do, cần người đến kiểm_tra và sửa_chữa
-__label__điện_tử Màn_hình máy_tính của tôi bỗng_dưng xuất_hiện 1 vệt mờ dọc màn_hình, tôi cần thợ đến xem và tư_vấn
+__label__điện_tử Màn_hình máy_tính của tôi bỗng_dưng xuất_hiện một vệt mờ dọc màn_hình, tôi cần thợ đến xem và tư_vấn
 __label__điện_tử Laptop của tôi để gần cửa_sổ nên bị nắng chiếu vào gây nóng máy, giờ bật không lên, tôi cần thợ đến kiểm_tra và sửa_chữa
 __label__điện_tử Đèn tủ_lạnh nhà tôi bỗng_dưng không sáng, cần người đến sửa_chữa
 __label__điện_tử Bếp điện nhà tôi hôm nay bỗng_dưng không nóng, tôi cần người đến kiểm_tra
@@ -554,7 +579,7 @@ __label__điện_tử Hỏng tay cầm chơi game
 __label__điện_tử Tay cầm chơi game không hoạt_động
 __label__điện_tử Hệ_thống báo cháy hỏng
 __label__điện_tử Hệ_thống báo cháy không hoạt động
-__label__điện_tử Camera trong gia_đình bỗng tắt trong 1 khoảng thời_gian, cần trợ_giúp
+__label__điện_tử Camera trong gia_đình bỗng tắt trong một khoảng thời_gian, cần trợ_giúp
 __label__điện_tử Hỏng camera, cần trợ_giúp
 __label__điện_tử Bếp điện từ hoạt_động có vấn_đề, cần trợ_giúp
 __label__điện_tử Hỏng máy FAX, cần người sửa
@@ -569,7 +594,7 @@ __label__điện_tử Bóng đèn tủ_lạnh hoạt_động không bình_thư�
 __label__điện_tử Quạt nước có vấn_đề, cần người sửa_chữa
 __label__điện_tử Quạt không chạy, cần người đến sửa
 __label__điện_tử Nồi cơm điện hoạt_động không bình_thường, cần người kiểm tra
-__label__điện_tử Máy_sấy bị hỏng 1 chế_độ, cần khắc_phục
+__label__điện_tử Máy_sấy bị hỏng một chế_độ, cần khắc_phục
 __label__điện_tử Máy_sấy gặp trục trặc, cần người sửa_chữa
 __label__điện_tử Remote không điều_khiển được dù đã thay pin, cần trợ_giúp
 __label__điện_tử khởi_động được máy_vi_tính không
@@ -779,7 +804,7 @@ __label__điện_tử Quạt không đứng thẳng được
 __label__điện_tử Tiếng kêu của quạt ồn không ngủ được				
 __label__điện_tử Quạt trần gần như rớt xuống sợ quá				
 __label__điện_tử Cánh quạt không quay mặc_dù motor có hoạt_động				
-__label__điện_tử Tủ_lạnh 2 ngăn có 1 ngăn đông không hoạt_động				
+__label__điện_tử Tủ_lạnh 2 ngăn có một ngăn đông không hoạt_động				
 __label__điện_tử Tủ_lạnh không làm lạnh được mặc_dù đã cắm điện đầy đủ				
 __label__điện_tử ấm đun siêu_tốc không làm nước nóng				
 __label__điện_tử ấm đun siêu_tốc không sáng đèn phải đợi đến khi nước nóng rồi mình tự đi tắt				
@@ -876,70 +901,70 @@ __label__điện bị ổ_cắm điện hỏng
 __label__điện bị hỏng điện ổ_cắm			
 __label__điện bị hỏng ổ_cắm điện			
 __label__điện bị hỏng ổ_cắm điện			
-__label__điện cần tìm người sửa tủ điện 1 pha			
-__label__điện tìm cần người sửa tủ điện 1 pha			
-__label__điện người cần tìm sửa tủ điện 1 pha			
-__label__điện sửa cần tìm người tủ điện 1 pha			
-__label__điện tủ cần tìm người sửa điện 1 pha			
-__label__điện điện cần tìm người sửa tủ 1 pha			
-__label__điện 1 cần tìm người sửa tủ điện pha			
-__label__điện pha cần tìm người sửa tủ điện 1			
-__label__điện cần pha tìm người sửa tủ điện 1			
-__label__điện cần pha tìm người sửa tủ điện 1			
-__label__điện cần tìm pha người sửa tủ điện 1			
-__label__điện cần người pha tìm sửa tủ điện 1			
-__label__điện cần sửa pha tìm người tủ điện 1			
-__label__điện cần tủ pha tìm người sửa điện 1			
-__label__điện cần điện pha tìm người sửa tủ 1			
-__label__điện cần 1 pha tìm người sửa tủ điện			
-__label__điện pha 1 cần tìm người sửa tủ điện			
-__label__điện pha cần 1 tìm người sửa tủ điện			
-__label__điện pha cần 1 tìm người sửa tủ điện			
-__label__điện pha cần tìm 1 người sửa tủ điện			
-__label__điện pha cần người 1 tìm sửa tủ điện			
-__label__điện pha cần sửa 1 tìm người tủ điện			
-__label__điện pha cần tủ 1 tìm người sửa điện			
-__label__điện pha cần điện 1 tìm người sửa tủ			
-__label__điện 1 cần điện pha tìm người sửa tủ			
-__label__điện 1 pha điện cần tìm người sửa tủ			
-__label__điện 1 pha cần điện tìm người sửa tủ			
-__label__điện 1 pha cần điện tìm người sửa tủ			
-__label__điện 1 pha cần tìm điện người sửa tủ			
-__label__điện 1 pha cần người điện tìm sửa tủ			
-__label__điện 1 pha cần sửa điện tìm người tủ			
-__label__điện 1 pha cần tủ điện tìm người sửa			
-__label__điện điện pha cần tủ 1 tìm người sửa			
-__label__điện điện 1 cần tủ pha tìm người sửa			
-__label__điện điện 1 pha tủ cần tìm người sửa			
-__label__điện điện 1 pha cần tủ tìm người sửa			
-__label__điện điện 1 pha cần tủ tìm người sửa			
-__label__điện điện 1 pha cần tìm tủ người sửa			
-__label__điện điện 1 pha cần người tủ tìm sửa			
-__label__điện điện 1 pha cần sửa tủ tìm người			
-__label__điện tủ 1 pha cần sửa điện tìm người			
-__label__điện tủ điện pha cần sửa 1 tìm người			
-__label__điện tủ điện 1 cần sửa pha tìm người			
-__label__điện tủ điện 1 pha sửa cần tìm người			
-__label__điện tủ điện 1 pha cần sửa tìm người			
-__label__điện tủ điện 1 pha cần sửa tìm người			
-__label__điện tủ điện 1 pha cần tìm sửa người			
-__label__điện tủ điện 1 pha cần người sửa tìm			
-__label__điện sửa điện 1 pha cần người tủ tìm			
-__label__điện sửa tủ 1 pha cần người điện tìm			
-__label__điện sửa tủ điện pha cần người 1 tìm			
-__label__điện sửa tủ điện 1 cần người pha tìm			
-__label__điện sửa tủ điện 1 pha người cần tìm			
-__label__điện sửa tủ điện 1 pha cần người tìm			
-__label__điện sửa tủ điện 1 pha cần người tìm			
-__label__điện sửa tủ điện 1 pha cần tìm người			
-__label__điện người tủ điện 1 pha cần tìm sửa			
-__label__điện người sửa điện 1 pha cần tìm tủ			
-__label__điện người sửa tủ 1 pha cần tìm điện			
-__label__điện người sửa tủ điện pha cần tìm 1			
-__label__điện người sửa tủ điện 1 cần tìm pha			
-__label__điện người sửa tủ điện 1 pha tìm cần			
-__label__điện người sửa tủ điện 1 pha cần tìm			
-__label__điện người sửa tủ điện 1 pha cần tìm							
+__label__điện cần tìm người sửa tủ điện một pha			
+__label__điện tìm cần người sửa tủ điện một pha			
+__label__điện người cần tìm sửa tủ điện một pha			
+__label__điện sửa cần tìm người tủ điện một pha			
+__label__điện tủ cần tìm người sửa điện một pha			
+__label__điện điện cần tìm người sửa tủ một pha			
+__label__điện một cần tìm người sửa tủ điện pha			
+__label__điện pha cần tìm người sửa tủ điện một			
+__label__điện cần pha tìm người sửa tủ điện một			
+__label__điện cần pha tìm người sửa tủ điện một			
+__label__điện cần tìm pha người sửa tủ điện một			
+__label__điện cần người pha tìm sửa tủ điện một			
+__label__điện cần sửa pha tìm người tủ điện một			
+__label__điện cần tủ pha tìm người sửa điện một			
+__label__điện cần điện pha tìm người sửa tủ một			
+__label__điện cần một pha tìm người sửa tủ điện			
+__label__điện pha một cần tìm người sửa tủ điện			
+__label__điện pha cần một tìm người sửa tủ điện			
+__label__điện pha cần một tìm người sửa tủ điện			
+__label__điện pha cần tìm một người sửa tủ điện			
+__label__điện pha cần người một tìm sửa tủ điện			
+__label__điện pha cần sửa một tìm người tủ điện			
+__label__điện pha cần tủ một tìm người sửa điện			
+__label__điện pha cần điện một tìm người sửa tủ			
+__label__điện một cần điện pha tìm người sửa tủ			
+__label__điện một pha điện cần tìm người sửa tủ			
+__label__điện một pha cần điện tìm người sửa tủ			
+__label__điện một pha cần điện tìm người sửa tủ			
+__label__điện một pha cần tìm điện người sửa tủ			
+__label__điện một pha cần người điện tìm sửa tủ			
+__label__điện một pha cần sửa điện tìm người tủ			
+__label__điện một pha cần tủ điện tìm người sửa			
+__label__điện điện pha cần tủ một tìm người sửa			
+__label__điện điện một cần tủ pha tìm người sửa			
+__label__điện điện một pha tủ cần tìm người sửa			
+__label__điện điện một pha cần tủ tìm người sửa			
+__label__điện điện một pha cần tủ tìm người sửa			
+__label__điện điện một pha cần tìm tủ người sửa			
+__label__điện điện một pha cần người tủ tìm sửa			
+__label__điện điện một pha cần sửa tủ tìm người			
+__label__điện tủ một pha cần sửa điện tìm người			
+__label__điện tủ điện pha cần sửa một tìm người			
+__label__điện tủ điện một cần sửa pha tìm người			
+__label__điện tủ điện một pha sửa cần tìm người			
+__label__điện tủ điện một pha cần sửa tìm người			
+__label__điện tủ điện một pha cần sửa tìm người			
+__label__điện tủ điện một pha cần tìm sửa người			
+__label__điện tủ điện một pha cần người sửa tìm			
+__label__điện sửa điện một pha cần người tủ tìm			
+__label__điện sửa tủ một pha cần người điện tìm			
+__label__điện sửa tủ điện pha cần người một tìm			
+__label__điện sửa tủ điện một cần người pha tìm			
+__label__điện sửa tủ điện một pha người cần tìm			
+__label__điện sửa tủ điện một pha cần người tìm			
+__label__điện sửa tủ điện một pha cần người tìm			
+__label__điện sửa tủ điện một pha cần tìm người			
+__label__điện người tủ điện một pha cần tìm sửa			
+__label__điện người sửa điện một pha cần tìm tủ			
+__label__điện người sửa tủ một pha cần tìm điện			
+__label__điện người sửa tủ điện pha cần tìm một			
+__label__điện người sửa tủ điện một cần tìm pha			
+__label__điện người sửa tủ điện một pha tìm cần			
+__label__điện người sửa tủ điện một pha cần tìm			
+__label__điện người sửa tủ điện một pha cần tìm							
 __label__điện sửa tôi người bị hư điện tôi cần				
 __label__điện sửa tôi bị người hư điện tôi cần				
 __label__điện sửa tôi hư người bị điện tôi cần				
@@ -1054,7 +1079,7 @@ __label__điện cầu chì nhà tôi bị cháy, tôi đã ngắt_điện trong
 __label__điện cần hỗ_trợ thay thế cầu chì, thiết_bị điện trong nhà
 __label__điện dây_điện nhà tôi bị chuột cắn đứt, cần người sửa 
 __label__điện cần người sửa điện do sét đánh làm cháy ổ_điện nhà tôi
-__label__điện dây_điện của máy đun nước siêu tốc sau khi cắm khoảng 5-10p thì nóng, bên trong dây_điện có mùi khét, cần người sửa gấp trong ngày_mai.
+__label__điện dây_điện của máy đun nước siêu tốc sau khi cắm khoảng 5-một0p thì nóng, bên trong dây_điện có mùi khét, cần người sửa gấp trong ngày_mai.
 __label__điện Điện nhà tôi bỗng dung tắt không biết lý_do, cần người tìm_hiểu và khắc_phục
 __label__điện Cần người khắc_phục thiết_bị điện bị mất nguồn
 __label__điện Công_tắc điện nhà tôi sử_dụng đã lâu, cần người thay thế
@@ -1069,8 +1094,8 @@ __label__điện Cần người sửa_chữa mạch điện âm tường
 __label__điện Chập điện nổi bị hỏng, cần sửa_chữa ngay
 __label__điện Điện nhà tôi bị rò_rỉ mấy hôm, cần người đến sửa ngay trong hôm_nay
 __label__điện Đồng_hồ điện nhà tôi bị hư, cần người lắp_đặt bộ thiết_bị mới
-__label__điện Tôi cần lắp ngay 1 ổ_cắm điện âm 
-__label__điện Tôi cần người lắp 1 ổ_cắm điện nổi
+__label__điện Tôi cần lắp ngay một ổ_cắm điện âm 
+__label__điện Tôi cần người lắp một ổ_cắm điện nổi
 __label__điện Nhà tôi cần lắp hệ_thống đèn chiếu sáng, giá_cả thương lượng
 __label__điện Điện nhà tôi bị chập liên_hồi, tôi cần người đến kiểm tra
 __label__điện Nhà tôi bị sét đánh, điện trong nhà bỗng cháy khét, tôi đã ngắt cầu_dao, tôi cần người đến xem ngay
@@ -1084,16 +1109,16 @@ __label__điện Bóng_đèn nhà tôi hoạt_động không ổn_định, lúc 
 __label__điện Điện nhà tôi bỗng_dưng chập_chờn, hiện_tượng này đã xảy_ra rất nhiều lần, tôi cần người đến kiểm_tra lý_do ngay
 __label__điện Mỗi khi nhà tôi muốn bật công_tắc đèn phòng thờ thì đèn của cả gia_đình tôi bị tắt, tôi cần người đến và kiểm_tra và khắc_phục đèn điện nhà tôi
 __label__điện Điện nhà tôi thường_xuyên bị delay không rõ nguyên_nhân, làm tôi rất bất_an, tôi cần thợ đến kiểm_tra và sửa_chữa ngay
-__label__điện Điện nhà tôi tự_động tắt trong 1 khung giờ cố_định, tôi cần người đến xem lý_do
+__label__điện Điện nhà tôi tự_động tắt trong một khung giờ cố_định, tôi cần người đến xem lý_do
 __label__điện Ổ điện nhà tôi đang có dấu_hiệu quá_tải, lúc xài được lúc không, tôi cần người đến kiểm_tra và thay mới
-__label__điện Nhà tôi sáng sớm thường_xuyên bị mất điện, sau 1-2 tiếng thì mới có lại, tôi cần người đến kiểm_tra và sửa_chữa
+__label__điện Nhà tôi sáng sớm thường_xuyên bị mất điện, sau một-2 tiếng thì mới có lại, tôi cần người đến kiểm_tra và sửa_chữa
 __label__điện Điện nhà tôi lúc xài được, lúc lại bị tắt, tôi nghĩ nó đang có dấu_hiệu bị quá_tải, tôi cần người đến kiểm_tra và khắc_phục
 __label__điện Tôi cần người thay_thế bóng_đèn 3 pha bị hỏng
-__label__điện Bóng_đèn nhà tôi sau khi bật tầm 10 phút mới hoạt_động, tôi cần người đến kiểm_tra và thay_thế
+__label__điện Bóng_đèn nhà tôi sau khi bật tầm một0 phút mới hoạt_động, tôi cần người đến kiểm_tra và thay_thế
 __label__điện sửa điện nhà tôi bị rò_rỉ mấy hôm cần người đến ngay trong hôm_nay
 __label__điện cần người đến sửa ngay trong hôm_nay điện nhà tôi bị rò_rỉ 
 __label__điện công tắc điện nhà tôi sử_dụng cũng đã lâu, nay có dấu hiệu hỏng_hóc, cần người đến thay_thế
-__label__điện cần người đến kiểm_tra lý_do tại sao nhà tôi thường bị mất điện trong 1 khung giờ cố_định
+__label__điện cần người đến kiểm_tra lý_do tại sao nhà tôi thường bị mất điện trong một khung giờ cố_định
 __label__điện  không rõ lý_do vì sao mà mỗi lần bật đèn trong phòng thờ, các đèn trong phòng khác của nhà tôi đều bị tắt, tôi cần người đến kiểm_tra và khắc_phục sự cố, giá_cả không thành vấn_đề
 __label__điện đợt lũ_lụt vừa rồi, nhà tôi bị ngập làm cho các thiết_bị điện bị hư_hỏng và không sử_dụng được nữa, cần người đến thay_thế toàn bộ
 __label__điện nhà tôi bị sét đánh trúng dây điện, cần người đến xem_xét và sửa_chữa 
@@ -1170,7 +1195,7 @@ __label__điện cầu chì nhà tôi bị cháy, tôi đã ngắt_điện trong
 __label__điện  cần hỗ_trợ thay thế cầu chì, thiết_bị điện trong nhà
 __label__điện dây_điện nhà tôi bị chuột cắn đứt, cần người sửa 
 __label__điện cần người sửa điện do sét đánh làm cháy ổ_điện nhà tôi
-__label__điện dây_điện của máy đun nước siêu tốc sau khi cắm khoảng 5-10p thì nóng, bên trong dây_điện có mùi khét, cần người sửa gấp trong ngày_mai.
+__label__điện dây_điện của máy đun nước siêu tốc sau khi cắm khoảng 5-một0p thì nóng, bên trong dây_điện có mùi khét, cần người sửa gấp trong ngày_mai.
 __label__điện Điện nhà tôi bỗng dung tắt không biết lý_do, cần người tìm_hiểu và khắc_phục
 __label__điện Cần người khắc_phục thiết_bị điện bị mất nguồn
 __label__điện Công_tắc điện nhà tôi sử_dụng đã lâu, cần người thay thế
@@ -1185,8 +1210,8 @@ __label__điện Cần người sửa_chữa mạch điện âm tường
 __label__điện Chập điện nổi bị hỏng, cần sửa_chữa ngay
 __label__điện Điện nhà tôi bị rò_rỉ mấy hôm, cần người đến sửa ngay trong hôm_nay
 __label__điện Đồng_hồ điện nhà tôi bị hư, cần người lắp đặt bộ thiết_bị mới
-__label__điện Tôi cần lắp ngay 1 ổ_cắm điện âm 
-__label__điện Tôi cần người lắp 1 ổ_cắm điện nổi
+__label__điện Tôi cần lắp ngay một ổ_cắm điện âm 
+__label__điện Tôi cần người lắp một ổ_cắm điện nổi
 __label__điện Nhà tôi cần lắp hệ_thống đèn chiếu sáng, giá_cả thương lượng
 __label__điện Điện nhà tôi bị chập liên_hồi, tôi cần người đến kiểm tra
 __label__điện Nhà tôi bị sét đánh, điện trong nhà bỗng cháy khét, tôi đã ngắt cầu_dao, tôi cần người đến xem ngay
@@ -1200,9 +1225,9 @@ __label__điện Bóng_đèn nhà tôi hoạt_động không ổn_định, lúc 
 __label__điện Điện nhà tôi bỗng_dưng chập_chờn, hiện_tượng này đã xảy_ra rất nhiều lần, tôi cần người đến kiểm_tra lý_do ngay
 __label__điện Mỗi khi nhà tôi muốn bật công_tắc đèn phòng thờ thì đèn của cả gia_đình tôi bị tắt, tôi cần người đến và kiểm_tra và khắc_phục đèn điện nhà tôi
 __label__điện Điện nhà tôi thường_xuyên bị delay không rõ nguyên_nhân, làm tôi rất bất_an, tôi cần thợ đến kiểm_tra và sửa_chữa ngay
-__label__điện Điện nhà tôi tự_động tắt trong 1 khung giờ cố_định, tôi cần người đến xem lý_do
+__label__điện Điện nhà tôi tự_động tắt trong một khung giờ cố_định, tôi cần người đến xem lý_do
 __label__điện Ổ điện nhà tôi đang có dấu_hiệu quá_tải, lúc xài được lúc không, tôi cần người đến kiểm_tra và thay mới
-__label__điện Nhà tôi sáng sớm thường_xuyên bị mất điện, sau 1-2 tiếng thì mới có lại, tôi cần người đến kiểm_tra và sửa_chữa				
+__label__điện Nhà tôi sáng sớm thường_xuyên bị mất điện, sau một-2 tiếng thì mới có lại, tôi cần người đến kiểm_tra và sửa_chữa				
 __label__điện người sửa gấp điện cần nhà tôi bị hỏng				
 __label__điện người sửa gấp điện cần nhà tôi bị hỏng				
 __label__điện người sửa gấp điện nhà cần tôi bị hỏng				
@@ -1321,7 +1346,7 @@ __label__điện dây điện nhà tôi bị những con chuột cắn đứt
 __label__điện những con chuột cắn đứt những dây điện nhà tôi							
 __label__điện cần người sửa điện do sét đánh làm cháy ổ điện nhà tôi							
 __label__điện cần người giúp sức sửa chữa đồ điện, do trời mưa nên điện có vấn đề							
-__label__điện dây điện của máy đun nước siêu tốc sau khi cắm khoảng 5-10p thì nóng, có mùi khét, bên trong dây điện có mùi khét, cần người sửa gấp trong ngày mai.							
+__label__điện dây điện của máy đun nước siêu tốc sau khi cắm khoảng 5-một0p thì nóng, có mùi khét, bên trong dây điện có mùi khét, cần người sửa gấp trong ngày mai.							
 __label__điện Điện nhà tôi bỗng dung tắt không biết lý do, cần người tìm hiểu và khắc phục							
 __label__điện Điện nhà tôi bỗng dung bị ngắt, đã liên lạc với người sửa điện nhưng họ không biết, cần người khắc phục							
 __label__điện Cần tìm người hỗ trợ gấp, điện nhà tôi bị ngắt không lý do mặc dù đã đóng tiền điện đầy đủ							
@@ -1690,14 +1715,14 @@ __label__y_tế lồng_ngực của tôi đau nhói liên hồi, cần bác_sĩ 
 __label__y_tế cơ_thể bỗng dung lạnh, người xanh xao, cần bác_sĩ hỗ_trợ điều trị								
 __label__y_tế mắt đau_nhức, không_thể nhìn rõ, cần bác_sĩ có chuyên môn về mắt hỗ_trợ								
 __label__y_tế da bỗng_dưng bị nổi vết đỏ, tôi nghĩ tôi bị dị_ứng, cần bác_sĩ điểm kiểm_tra								
-__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại 1 vùng.								
+__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại một vùng.								
 __label__y_tế Cơ_thể bỗng mệt mỏi, di chuyển không nổi, cần bác_sĩ đến trợ giúp								
-__label__y_tế Mặt_mày bỗng xanh_xao, đứng dậy đầu_óc quay_cuồng, không thấy đường sau 5-10 giây mới ổn_định, cần bác_sĩ đến nhà chẩn_đoán và cho thuốc								
-__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau_rát, sau 1 thời gian nhưng vẫn không hết								
+__label__y_tế Mặt_mày bỗng xanh_xao, đứng dậy đầu_óc quay_cuồng, không thấy đường sau 5-một0 giây mới ổn_định, cần bác_sĩ đến nhà chẩn_đoán và cho thuốc								
+__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau_rát, sau một thời gian nhưng vẫn không hết								
 __label__y_tế Da của tôi phát ban đỏ hình tròn, cần bác_sĩ kiểm_tra								
 __label__y_tế Da của tôi nổi ban đỏ, ngứa_ngáy liên_hồi								
 __label__y_tế Tai của tôi bị chảy_mủ, đôi khi chảy_máu khi ngoáy, cần bác_sĩ tư vấn điều trị tại nhà								
-__label__y_tế Môi của tôi bị rát, lở_loét 1 vài chỗ, cần bác_sĩ đến kiểm_tra								
+__label__y_tế Môi của tôi bị rát, lở_loét một vài chỗ, cần bác_sĩ đến kiểm_tra								
 __label__y_tế Tôi bỗng_dưng bị hen_suyễn khi thời_tiết thay_đổi, cần bác_sĩ đến điều trị								
 __label__y_tế Tôi bị hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, cần bác_sĩ đến chữa_trị								
 __label__y_tế Cần bác_sĩ đến chữa_trị hen_suyễn								
@@ -1833,14 +1858,14 @@ __label__y_tế lồng_ngực của tôi đau nhói liên hồi, cần bác_sĩ 
 __label__y_tế cơ_thể bỗng dung lạnh, người xanh xao, cần bác_sĩ hỗ_trợ điều trị
 __label__y_tế mắt đau_nhức, không_thể nhìn rõ, cần bác_sĩ có chuyên môn về mắt hỗ_trợ
 __label__y_tế da bỗng_dưng bị nổi vết đỏ, tôi nghĩ tôi bị dị_ứng, cần bác_sĩ điểm kiểm_tra
-__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại 1 vùng.
+__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại một vùng.
 __label__y_tế Cơ_thể bỗng mệt mỏi, di chuyển không nổi, cần bác_sĩ đến trợ giúp
-__label__y_tế Mặt_mày bỗng xanh_xao, đứng dậy đầu_óc quay_cuồng, không thấy đường sau 5-10 giây mới ổn_định, cần bác_sĩ đến nhà chẩn_đoán và cho thuốc
-__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau_rát, sau 1 thời gian nhưng vẫn không hết
+__label__y_tế Mặt_mày bỗng xanh_xao, đứng dậy đầu_óc quay_cuồng, không thấy đường sau 5-một0 giây mới ổn_định, cần bác_sĩ đến nhà chẩn_đoán và cho thuốc
+__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau_rát, sau một thời gian nhưng vẫn không hết
 __label__y_tế Da của tôi phát ban đỏ hình tròn, cần bác_sĩ kiểm_tra
 __label__y_tế Da của tôi nổi ban đỏ, ngứa_ngáy liên_hồi
 __label__y_tế Tai của tôi bị chảy_mủ, đôi khi chảy_máu khi ngoáy, cần bác_sĩ tư vấn điều trị tại nhà
-__label__y_tế Môi của tôi bị rát, lở_loét 1 vài chỗ, cần bác_sĩ đến kiểm_tra
+__label__y_tế Môi của tôi bị rát, lở_loét một vài chỗ, cần bác_sĩ đến kiểm_tra
 __label__y_tế Tôi bỗng_dưng bị hen_suyễn khi thời_tiết thay_đổi, cần bác_sĩ đến điều trị
 __label__y_tế Tôi bị hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, cần bác_sĩ đến chữa_trị
 __label__y_tế Cần bác_sĩ đến chữa_trị hen_suyễn
@@ -1886,7 +1911,7 @@ __label__y_tế Tôi chịu áp_lực rất kém, mỗi lần bước vào nhữ
 __label__y_tế Dạo gần đây tôi thường_xuyên bị chảy máu cam, cơ thể chóng mặt và bất_ổn, tôi cần bác sĩ đến kiểm_tra và cho thuốc
 __label__y_tế Cần bác_sĩ đến nhà lấy máu để khám tổng_quát
 __label__y_tế Tôi không uống rượu bia nhưng dạo gần đây, gan của tôi rất nóng và cồn cào, tôi cần bác sĩ đến khám hoặc có thể cho tôi lời tư_vấn
-__label__y_tế Tôi nghĩ phổi tôi có vấn_đề, dạo gần đây tôi rất hay bị hụt hơi hoặc hết hơi, bình_thường tôi thường hít 1 hơi thật sâu không có vấn_đề gì, nhưng mấy hôm_nay khi tôi hít vào thì có cảm_giác như tôi bị hụt hơi, rất khó chịu, tôi cần bác_sĩ đến nhà khám và tư_vấn
+__label__y_tế Tôi nghĩ phổi tôi có vấn_đề, dạo gần đây tôi rất hay bị hụt hơi hoặc hết hơi, bình_thường tôi thường hít một hơi thật sâu không có vấn_đề gì, nhưng mấy hôm_nay khi tôi hít vào thì có cảm_giác như tôi bị hụt hơi, rất khó chịu, tôi cần bác_sĩ đến nhà khám và tư_vấn
 __label__y_tế Tôi vừa bị một miếng sắt rỉ đâm vào da, tôi đã sát_trùng nhưng vẫn sợ bị uốn_ván, tôi cần bá_sĩ đến và sơ_cứu
 __label__y_tế Tôi vừa bị đinh đâm vào chân, tôi sợ mình sẽ bị uốn_ván, cần bác_sĩ đến chăm_sóc và sơ_cứu
 __label__y_tế Bố tôi vừa trải qua cơn phẫu_thuật, hiện tại đã được về nhà nhưng vẫn chưa hồi_phục hẵn, tôi cần y_tá đến chăm_sóc cho bố, tiền_bạc không thành vấn_đề
@@ -1896,7 +1921,7 @@ __label__y_tế Lưng tôi bỗng dưng nổi những vết sần_sùi giống n
 __label__y_tế Vì đặc_thù của công_việc, tôi phải thức đêm nên đã quen mắt, mỗi lúc một khuya hơn, thời lượng giấc ngủ cũng ngày càng ít đi, có hôm thức đến tận sáng vì không ngủ được, tôi cần bác sĩ cho lời_khuyên và đơn thuốc
 __label__y_tế Đầu óc của tôi càng ngày càng quên nhiều thứ, có phải tôi đã mắc bệnh Alzheimer, tôi cần bác sĩ tư_vấn về các triệu_chứng
 __label__y_tế Răng của tôi mấy hôm nay bỗng_dưng đau_nhức, tôi đã uống thuốc nhưng vẫn không hết, tôi cần bác_sĩ tư_vấn hoặc đến tận nhà để khám
-__label__y_tế Tai tôi có 1 vết trầy ở trong, mỗi lần tôi động vào rất đau và chảy máu, tôi cần bác_sĩ tư_vấn hoặc có thể thì đến tận nhà để khám
+__label__y_tế Tai tôi có một vết trầy ở trong, mỗi lần tôi động vào rất đau và chảy máu, tôi cần bác_sĩ tư_vấn hoặc có thể thì đến tận nhà để khám
 __label__y_tế Dạo gần đây tay tôi ra mồ hôi rất nhiều, xin bác_sĩ tư_vấn về cắt tuyến mồ hôi
 __label__y_tế Dạo gần đây tôi ho rất nhiều, có lần còn ho ra máu, tôi không có tiền sử bị ho nên rất lo_lắng, tôi cần bác_sĩ đến tận nhà khám
 __label__y_tế Dạo gần đây tôi ăn ngọt rất nhiều, khi tiểu còn có kiến bâu vào, tôi nghĩ mình bị tiểu đường, cần bác_sĩ đến tư_vấn và khám bệnh
@@ -2050,19 +2075,24 @@ __label__y_tế cơ_thể đang khỏe bỗng dung mệt mỏi không rõ nguyê
 __label__y_tế cơ_thể đang khỏe bỗng dung mệt không biết lý_do								
 __label__y_tế mắt đau nhức, không thể nhìn rõ, cần bác_sĩ có chuyên môn về mắt hỗ trợ								
 __label__y_tế da bỗng_dưng bị nổi vết đỏ, tôi nghĩ tôi bị dị ứng, cần bác_sĩ điểm kiểm_tra								
-__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại 1 vùng.								
+__label__y_tế cần bác_sĩ kiểm_tra sao da của tôi bỗng dung tím lại tại một vùng.								
 __label__y_tế Cơ_thể bỗng mệt mỏi, di chuyển không nổi, cần bác_sĩ đến trợ_giúp								
-__label__y_tế Mặt mày bỗng xanh xao, đứng dậy đầu óc quay cuồng, không thấy đường sau 5-10 giây mới ổn định, cần bác_sĩ đến nhà chẩn đoán và cho thuốc								
-__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau rát, sau 1 thời gian nhưng vẫn không hết								
+__label__y_tế Mặt mày bỗng xanh xao, đứng dậy đầu óc quay cuồng, không thấy đường sau 5-một0 giây mới ổn định, cần bác_sĩ đến nhà chẩn đoán và cho thuốc								
+__label__y_tế Mắt tôi sau khi ngủ dậy bỗng đỏ, đau rát, sau một thời gian nhưng vẫn không hết								
 __label__y_tế Da của tôi phát ban đỏ hình tròn, trên bề mặt nổi nhiều mụn nước và vảy tiết, cần bác_sĩ kiểm_tra								
 __label__y_tế Da của tôi nổi ban đỏ, ngứa ngáy liên_hồi								
 __label__y_tế Tai của tôi bị chảy mủ, đôi khi chảy máu khi ngoáy, cần bác_sĩ tư vấn điều_trị tại nhà								
-__label__y_tế Môi của tôi bị rát, lở loét 1 vài chỗ, cần bác_sĩ đến kiểm_tra								
+__label__y_tế Môi của tôi bị rát, lở loét một vài chỗ, cần bác_sĩ đến kiểm_tra								
 __label__y_tế Tôi bỗng dung bị hen suyễn khi thời thiết thay đổi, ho không ngừng, cần bác_sĩ đến điều_trị								
 __label__y_tế Tôi bị hắt_xì, mũi nghẹt, chảy mũi khi thời_tiết chuyển đổi, cần bác_sĩ đến chữa trị				
 __label__y_tế khi thời_tiết hay mỗi thay_đổi đau_đầu				
 __label__y_tế khi thời_tiết thay_đổi mỗi hay đau_đầu				
-__label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu				
+__label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu
+__label__y_tế tôi đang sửa máy bơm thì bị thương, cần giúp đỡ
+__label__y_tế Tôi đang sửa ống nước thì bị thương, cần trợ giúp
+__label__y_tế chóng_mặt khi đang sửa nước, cần bác_sĩ đến khám
+__label__y_tế trong lúc sửa máy bơm thì tôi động vào chỗ sắc nhọn, cần hỗ_trợ y_tế xem có bị uốn_ván hay không
+__label__y_tế cần trợ_giúp y_tế, bị thương khi hàn ống PPR				
 __label__y_tế khi thời_tiết thay_đổi hay mỗi đau_đầu				
 __label__y_tế khi thời_tiết thay_đổi hay đau_đầu mỗi				
 __label__y_tế mỗi thời_tiết thay_đổi hay đau_đầu khi				

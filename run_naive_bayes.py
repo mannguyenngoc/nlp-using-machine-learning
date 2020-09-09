@@ -24,7 +24,7 @@ if not os.path.exists(MODEL_PATH):
 text = []
 label = []
 
-for line in open('job_categories.prep', encoding="utf8"):
+for line in open('job1_categories.prep', encoding="utf8"):
     words = line.strip().split()
     label.append(words[0])
     text.append(' '.join(words[1:]))
@@ -66,6 +66,18 @@ bang_ky_tu_dau = ['', 'f', 's', 'r', 'x', 'j']
 
 nguyen_am_to_ids = {}
 
+people = [
+    {
+        'id': 'aa1',
+        'name': 'Nguyen Ngoc A',
+        'job': 'water'
+    },
+    {
+        'id': 'aa2',
+        'name': 'Nguyen Thi B',
+        'job': 'medical'
+    }
+]
 for i in range(len(bang_nguyen_am)):
     for j in range(len(bang_nguyen_am[i]) - 1):
         nguyen_am_to_ids[bang_nguyen_am[i][j]] = (i, j)
@@ -207,41 +219,58 @@ nb_model = pickle.load(open(os.path.join(MODEL_PATH,"naive_bayes.pkl"), 'rb'))
 
 #document = sys.argv[1].encode().decode('utf-8')
 #document = str(sys.argv[1], 'utf-8')
+def predict(document):
+    document = text_preprocess(document)
+    document = remove_stopwords(document)
 
+    label = nb_model.predict([document])
+
+    out_arr = np.array_str(label)
+    print(out_arr[1])
+    print(type(out_arr))
+    result = ''
+
+    if out_arr[1] == '3':
+        result = 'water'
+    if out_arr[1] == '2':
+        result = 'medical'
+    if out_arr[1] == '1':
+        result = 'electronic'
+    if out_arr[1] == '0':
+        result = 'electricity'
+    
+    copyArray = []
+    
+    for person in people:
+        if (person['job'] == result):
+            copyArray.append(person)
+
+    return copyArray
+"""    
 document = sys.argv[1]
 #print(type(document))
 document = text_preprocess(document)
 document = remove_stopwords(document)
 
 label = nb_model.predict([document])
-#print(type(label))
 
-ts = label.tostring()
-kq = np.fromstring(ts, dtype=int)
-
-
+out_arr = np.array_str(label)
+print(out_arr[1])
+print(type(out_arr))
 result = ''
 
-if kq[0] == 3:
+if out_arr[1] == '3':
     result = 'water'
-if kq[0] == 2:
+if out_arr[1] == '2':
     result = 'medical'
-if kq[0] == 1:
+if out_arr[1] == '1':
     result = 'electronic'
-if kq[0] == 0:
+if out_arr[1] == '0':
     result = 'electricity'
 
 print(result)
-sys.stdout.flush()
 """
-result = ""
-result = label_encoder.inverse_transform(label)
-
-if result != "":
-    print('Ok')
-else:
-    print('Not ok')
-
+"""
 
 result = json.dumps(label_encoder.inverse_transform(label).tolist())
 
